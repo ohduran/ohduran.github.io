@@ -14,7 +14,8 @@ b) If I have to refactor something, I would clearly understand what is going on 
 
 If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you.
 
-### Technology
+
+
 
 This site is powered by Jekyll. That's because:
 - I can write in Markdown.
