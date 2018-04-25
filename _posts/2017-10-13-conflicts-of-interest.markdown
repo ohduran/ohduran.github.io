@@ -4,11 +4,11 @@ title:  "Conflicts of Interest"
 date:   2017-10-13 15:00:00 +0100
 categories: news technology conflicts question answer
 ---
-# The question
+## The question
 
 It's hard to make sense of the news today.
 
-## Clickbaits
+# Clickbaits
 
 Think of it, from the ads agencies perspective: Do I really want someone to see my ad by all means? Seems like the common wisdom is "Yes". No matter what my mood is going to be after going through that piece of shit that you call "article", I'm going to be bombed with ads coming at me from all directions.
 
@@ -16,7 +16,7 @@ The real answer is "we don't really know". The problematic with ads is well-know
 
 Whatever. "They came to a blind date, and what happened next will left you speechless" will still have the appealing for viralisation, regardless of the actual waste of energy or time spent into something vague and at this point impossible to assess.
 
-## Native advertising
+# Native advertising
 
 This one is my all-time favorite: destroying the reputation of a brand and a newspaper in one go.
 
@@ -42,7 +42,7 @@ Enter the Internet, blogs like this one, and many others. The information is now
 
 It's obvious that media companies are still trying to figure out how to handle this breakthrough, but they've decided to fight that 15-year-old kid at his own game, by pretty much producing the same meaningless stuff. They did so because
 
-1. It's waaaaay cheaper than hiring a capable journalist, and ad companies couldn't care less.
+1. It's way cheaper than hiring a capable journalist, and ad companies couldn't care less.
 2. For reasons they don't really understand, people keep coming for more. Maybe that's why ad companies couldn't care less what is posted, as long as it is posted.
 3. We've reached a sub-optimal level in which we understand what 'clicks' and what doesn't, so things seem to be contained for now. As long as my paycheck is coming, everything is OK.
 4. I can reshuffle my newsroom so that I can fire those costly journalist and hire those overly naive interns to do that "Twitter stuff" for me. Any MBA would back me on that.
