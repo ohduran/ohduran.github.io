@@ -8,7 +8,7 @@ categories: news technology conflicts question answer
 
 It's hard to make sense of the news today.
 
-# Clickbaits
+### Clickbaits
 
 Think of it, from the ads agencies perspective: Do I really want someone to see my ad by all means? Seems like the common wisdom is "Yes". No matter what my mood is going to be after going through that piece of shit that you call "article", I'm going to be bombed with ads coming at me from all directions.
 
@@ -16,7 +16,7 @@ The real answer is "we don't really know". The problematic with ads is well-know
 
 Whatever. "They came to a blind date, and what happened next will left you speechless" will still have the appealing for viralisation, regardless of the actual waste of energy or time spent into something vague and at this point impossible to assess.
 
-# Native advertising
+### Native advertising
 
 This one is my all-time favorite: destroying the reputation of a brand and a newspaper in one go.
 
@@ -49,7 +49,7 @@ It's obvious that media companies are still trying to figure out how to handle t
 
 It's obvious that this situation is far from desirable, and the consequences are now known: if we lose touch with seeking the truth, the easier to access "fake news" spread faster, polarizing society in ways that are yet to assess.
 
-# The answer
+## The answer
 
 >"That you are here - that life exists, and identity; that the powerful play goes on, and you will contribute a verse."
 > Walt Whitman
