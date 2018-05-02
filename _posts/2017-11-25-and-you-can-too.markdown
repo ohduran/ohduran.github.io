@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The best thing about LinkedIn isn't technology"
+title:  "And you can, too. Rule #1"
 date:   2017-11-25 15:00:00 +0100
 categories: rules survivorship biases
 ---
