@@ -1,18 +1,18 @@
 ---
 layout: post
 title:  "The best thing about LinkedIn isn't technology"
-date:   2017-11-04 15:00:00 +0100
-categories: lean startup
+date:   2017-11-25 15:00:00 +0100
+categories: rules survivorship biases
 ---
 A couple of days ago, I bumped into a rant by an anonymous guy who bantered something like this:
 
-In 2015, I left my stable job and a six-figure salary, dropping down to less than a quarter of what I was on. I rented out my apartment, moved into a share-house and sold my BMW.
+>In 2015, I left my stable job and a six-figure salary, dropping down to less than a quarter of what I was on. I rented out my apartment, moved into a share-house and sold my BMW.
 
 >I worked 16-hour days, 7 days a week for over a year. This was to follow a burning passion and it was the best decision I’ve ever made. >[...] I followed my dream to start my own company [...] It has gone from strength to strength.
 >
 >If you feel a burning desire to create change, 100% I say take the risk. I did, and it’s been the best decision of my life.
->
->I guess you have run into that sort of posts too. You might even have had the feeling that you are missing out on something really >special, and the desire to quit your job is burning. Hell, he did succeed, and so can I!
+
+I guess you have run into that sort of posts too. You might even have had the feeling that you are missing out on something really special, and the desire to quit your job is burning. Hell, he did succeed, and so can I!
 
 But what if you bumped into a post like the following:
 
@@ -33,9 +33,11 @@ In both cases, the writer falls into what is called survivorship bias. Facing a
 
 Financial analyst do that too on their reporting. Here's how:
 
- Take information on companies from the S&P 500.
- Collect information about a certain topic (most are valid here, like how many of them raised cash dividends when their stock price goes up, something like that).
-Publish your report and... there, you did it. So easily, you fell into the trap. Have you considered all those companies that used to be on S&P, but aren't there anymore? Is that information not taking into account relevant (it is, mostly)?
+- Take information on companies from the S&P 500.
+- Collect information about a certain topic (most are valid here, like how many of them raised cash dividends when their stock price goes up, something like that).
+- Publish your report and... there, you did it.
+
+So easily, you fell into the trap. Have you considered all those companies that used to be on S&P, but aren't there anymore? Is that information not taking into account relevant? (hint: it is)
 
 So, yes: next time you think of your chances of success doing something, look around. Sometimes it's just pure luck what got some people to the top.[3] And even if you decide to go ahead, and in some cases it's fine, be aware of what you have for you, and what you have against.
 
