@@ -9,7 +9,7 @@ I'm in love with edge cases of capitalism. One thing I have always being told is
 
 It's interesting, because Wikipedia or open-source software such as GNU-Linux have proven that it isn't always the case. And that is because, consistently with societies that deal more frequently with intellectual property, its differences with owning material things become acute and significant.
 
-A couple of years ago, a guy named Steve Yegge wrote a post about architecture and management of IT that has resonated with me ever since, where he rants about Amazon doing everything wrong and Google doing everything right (leveraging the fact that he worked for both companies), except for a couple of things.
+A couple of years ago, a guy named Steve Yegge wrote a [post](https://plus.google.com/+RipRowan/posts/eVeouesvaVX) about architecture and management of IT that has resonated with me ever since, where he rants about Amazon doing everything wrong and Google doing everything right (leveraging the fact that he worked for both companies), except for a couple of things.
 
 >But there's one thing they do really well that pretty much makes up for ALL of their political, philosophical and technical screw ups. [...]. So one day Jeff Bezos issued a mandate, [which] went something along these lines:
 > 1. All teams will henceforth expose their data and functionality through service interfaces.
@@ -33,3 +33,7 @@ Dogfooding means that, if the organisation truly believes its own product to be 
 
 >Something that’s been fascinating to watch over the past few years is the aggressive march towards openness in technology companies. Open source software is a big deal as always, sure, but now startups are opening up their HR policies. They’re doing open product development planning. They’re even doing open salaries.
 > Companies that espouse this openness benefit from a variety of advantages, ranging from faster product development, quicker support cycles, and sometimes a decent marketing bump. When you’re talking about the organizational side of the company, though, I think there are three very important advantages: recruitment, ramp-up time, and guidance.
+
+Platforms like Facebook are successful because they built an entire constellation of products by allowing other people to do the work, says Yegge, and he is absolutely right. You won't try, iterate, and gamble in an endless array of features that may or may not attract your users, you just let anyone deal with that kind of risk, and take a bit of their success by means of the platform. It's franchising for intellectual property.
+
+From the Bill Gates, Steve Jobs, late XX century ideas about building something that people will love, the XXI century has shifted into Bezos and Zuckerberg: you don't need to provide everyone with the right products, but with interfaces and workflows that they like and felt at ease. That is what sets apart companies like AirBnB, Uber, and the likes, that came later: they are the clever middleman that brokerages the deal, incentivises the competition between suppliers and keeps the quality of the product provided to the customers brutally high at the lowest price possible.
