@@ -2,7 +2,7 @@
 layout: post
 title:  "Dogfooding"
 date:   2018-05-11 15:00:00 +0100
-categories: 
+categories:
 ---
 # Dogfooding
 I'm in love with edge cases of capitalism. One thing I have always being told is that property is at the core of our modern society, and economies thrive partly because individual agents have something (their "stuff") to care for, and they are unwilling to give away goods or services unless it is in exchange for money, or any other form of remuneration. What we usually reduce to "there is no such thing as a free lunch."
@@ -33,6 +33,7 @@ Dogfooding means that, if the organisation truly believes its own product to be 
 
 >Something that’s been fascinating to watch over the past few years is the aggressive march towards openness in technology companies. Open source software is a big deal as always, sure, but now startups are opening up their HR policies. They’re doing open product development planning. They’re even doing open salaries.
 > Companies that espouse this openness benefit from a variety of advantages, ranging from faster product development, quicker support cycles, and sometimes a decent marketing bump. When you’re talking about the organizational side of the company, though, I think there are three very important advantages: recruitment, ramp-up time, and guidance.
+
 
 Platforms like Facebook are successful because they built an entire constellation of products by allowing other people to do the work, says Yegge, and he is absolutely right. You won't try, iterate, and gamble in an endless array of features that may or may not attract your users, you just let anyone deal with that kind of risk, and take a bit of their success by means of the platform. It's franchising for intellectual property.
 
