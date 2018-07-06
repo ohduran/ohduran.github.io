@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "And you can, too. Rule #1"
+title:  "And you can, too."
 date:   2017-11-25 15:00:00 +0100
-categories: 
+categories:
 ---
 A couple of days ago, I bumped into a rant by an anonymous guy who bantered something like this:
 
