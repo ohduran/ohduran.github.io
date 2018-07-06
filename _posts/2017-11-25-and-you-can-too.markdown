@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "And you can, too."
+title:  "And you can, too"
 date:   2017-11-25 15:00:00 +0100
 categories:
 ---
