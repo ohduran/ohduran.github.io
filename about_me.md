@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /about/me/
 ---
 
 The first time I learnt about the "Efficient Market Hypothesis", I probably laughed out loud. Economists have an annoying tendency to wrap simple thoughts in complex jargon. It felt a lot like giving up on an interesting problem before even start. "Markets know better" sounds a lot like "We didn't try hard enough". Smarter people than me must have already come to the conclusion that, although everyone has access to the same information, it's  the importance that each agent places on each piece of insight what makes markets inefficient.
