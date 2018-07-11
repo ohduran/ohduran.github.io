@@ -12,7 +12,7 @@ My name is Alvaro Duran and I've been attracted by interesting problems since I 
 
 After passing my master's degree in International Finance, I started working as a Digital Consultant for several Financial Institutions, with a focus on how they interact with the end customer. This only strengthen my vision that there is so much left to do.
 
-Technology wise, I learnt MATLAB when I was an undergraduate, along with some common algorithms in C++ for differential equations. After that, I moved to Python and I have used it for pretty much everything I've done since: mostly Data Science (pandas, numpy, matplotlib), but also Web development (Lots of Flask, both as monolithic web applications and also as microservices).
+Technology wise, I learnt MATLAB when I was an undergraduate, along with some common algorithms in C++ for differential equations. After that, I moved to Python and I have used it for pretty much everything I've done since: mostly Data Science (pandas, numpy, matplotlib), but also Web development (Lots of Flask and Django, both as monolithic web applications and also as microservices).
 
 If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you.
 
