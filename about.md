@@ -15,14 +15,3 @@ After passing my master's degree in International Finance, I started working as 
 Technology wise, I learnt MATLAB when I was an undergraduate, along with some common algorithms in C++ for differential equations. After that, I moved to Python and I have used it for pretty much everything I've done since: mostly Data Science (pandas, numpy, matplotlib), but also Web development (Lots of Flask and Django, both as monolithic web applications and also as microservices).
 
 If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you.
-
-
-### Acknowledgments
-
-This site is powered by Jekyll. That's because:
-- I can write in Markdown.
-- I can pretty much forget about setting everything up.
-
-If you haven't heard of Jekyll before, you can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/), and find the source code for the Jekyll new theme at
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
