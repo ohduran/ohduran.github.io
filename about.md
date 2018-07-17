@@ -16,7 +16,7 @@ My name is Alvaro Duran-Barata. I am a problem solver, a curious mind, a lifelon
 - *2017*: After working as a Digital Consultant for Bradesco and HSBC, I join one of the biggest venture capital firms in the UK, called Octopus, as a Data Scientist.
 
 ### Where you can find me
-If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you.
+If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you. And if you are unsure about how to contact me, read [this]("/contact/").
 
 [GitHub](https://github.com/ohduran)
 
