@@ -1,15 +1,27 @@
 ---
 layout: page
-title: About
+title: About me - Alvaro Duran
 permalink: /about/
 ---
 
-The first time I learnt about the "Efficient Market Hypothesis", I probably laughed out loud. It felt a lot like giving up on an interesting problem before even start. "Markets know better" sounds a lot like "We didn't try hard enough".
+I am a problem solver, a curious mind, a lifelong learner, a challenge accepter.
 
-Smarter people than me must have already come to the conclusion that, although everyone has access to the same information, it's  the importance that each agent places on each piece of insight what makes markets inefficient.
+## A short story
+- *2006*: As a high school student, I discover Physics for the first time. It extends Mathematics to the everyday life, and aims to answer all those silly questions about the world we live in. I start working on those questions from a different, much more entrepreneurial perspective.
 
-My name is Alvaro Duran and I've been attracted by interesting problems since I was a kid, specially those that challenged the common wisdom. I graduated in Physics pursuing these challenges, and gravitated toward Finance and Economics when I realised that the "Standard Model" of the business world was, paraphrasing Bill Byrson, a mountain of theory built on a molehill of evidence.
+- *2009*: After disabuse myself from studying Philosophy, I get accepted as a Physics student, where I meet the smartest people I know. Will grow to hate the academic world, and everything in it. During my senior year, one professor discusses the potential uses of Lagrangian and Hamiltonian mechanics in predicting stock market fluctuations. That, and the investigation that followed, lead me into Finance.
 
-After finishing an MSc in Finance, I started working as a Digital Consultant for several financial institutions, with a focus on how they interact with the end customer. This only strengthen my vision that there is so much left to do.
+- *2015*: I complete my master's degree in Finance with an statistical analysis of the implications of Quantitative Easing. Move to London and accept an offer to join a management consultant firm called Capco, specialised in Financial Services.
 
+-*2017*: After working as a Digital Consultant for Bradesco and HSBC, I join one of the biggest venture capital firms in the UK, called Octopus, as a Data Scientist.
+
+## Where you can find me
 If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you.
+
+[GitHub](https://github.com/ohduran)
+
+[LinkedIn](https://www.linkedin.com/in/alvaroduranbarata/)
+
+[Email](alvaro.duranb@gmail.com)
+
+[Stack Overflow](https://stackoverflow.com/users/8033883/ohduran)
