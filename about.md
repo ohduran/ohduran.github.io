@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me - Alvaro Duran
+title: About me
 permalink: /about/
 ---
 
-I am a problem solver, a curious mind, a lifelong learner, a challenge accepter.
+My name is Alvaro Duran-Barata. I am a problem solver, a curious mind, a lifelong learner, a challenge accepter.
 
 ## A short story
 - *2006*: As a high school student, I discover Physics for the first time. It extends Mathematics to the everyday life, and aims to answer all those silly questions about the world we live in. I start working on those questions from a different, much more entrepreneurial perspective.
