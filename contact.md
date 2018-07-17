@@ -22,5 +22,13 @@ However, and I have said before, I want to talk to __you__. That's because I bel
 2. __Have a little patience__:I once read in [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) about ALOHAnet, and how it overcome interference by using what is called _Exponential Backoff_; that is, double the potential delay before trying to transmit again. If I did not respond in one week, try again, and then wait two weeks.
 3. __Don't use jargon with me__: I once worked at a financial services consultancy firm and the thing that I liked the least was probably the illusion of knowledge of the people around me. Help me understand, but also put your things together and avoid jargon at all costs.
 
-## Contact details
-Send me an email to alvaro.duranb@gmail.com
+### Where you can find me
+If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you.
+
+[GitHub](https://github.com/ohduran)
+
+[LinkedIn](https://www.linkedin.com/in/alvaroduranbarata/)
+
+[Email](alvaro.duranb@gmail.com)
+
+[Stack Overflow](https://stackoverflow.com/users/8033883/ohduran)
