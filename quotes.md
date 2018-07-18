@@ -17,7 +17,6 @@ permalink: /quotes/
 >
 > -- __David McCullough__
 
-
 > Overpaid artists don't work harder; they work less.
 >
 > -- __Ernesto Van der Sar__
