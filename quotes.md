@@ -16,3 +16,7 @@ permalink: /quotes/
 > However little television you watch, watch less.
 >
 > -- __David McCullough__
+
+> Overpaid artists don't work harder; they work less.
+>
+> -- __Ernesto Van der Sar__
