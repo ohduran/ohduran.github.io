@@ -7,7 +7,7 @@ I want to talk to you. Let me repeat it so that it is absolutely clear: I want t
 
 There are lots of reasons why I am not easily reachable, which are usually a linear combination of the following reasons:
 
-- Although I have a [twitter account](www.twitter.com/oh_duran), I almost always never use it anymore.
+- Although I have a [twitter account](www.twitter.com/oh_duran), I hardly use it.
 - I spend most of my leisure time offline.
 - I don't have any reason to have my phone buzzing with notifications, so I have none.
 

@@ -5,7 +5,7 @@ layout: default
 <div id="home">
 <h3><a href="/about/">Alvaro</a> here, maker of this journal. I write about technology, science and business.</h3>
 
-  <h1></h1>
+  <h1>Journal Entries</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
