@@ -15,4 +15,4 @@ The technology is basic, at most, but the usability and the value added is huge.
 
 We should stop thinking of ways to design the best application and find ways to get to market as soon as possible, so that feedback can be gathered on our proposal, and dismissed if that doesn't work.
 
-By the way, if you want to message me on LinkedIn, please do so!
+By the way, if you want to message me on [LinkedIn](https://www.linkedin.com/in/alvaroduranbarata/), please do so!
