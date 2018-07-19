@@ -23,7 +23,7 @@ However, and I have said before, I want to talk to __you__. That's because I bel
 
 1. __Make specific questions, not vague requests__: Pretend you are talking to a busy colleague, and introduce your problem before anything else. Then help me understand what you tried, and how can I help you. If this sounds like [how you should ask a question on Stack Overflow](https://stackoverflow.com/help/how-to-ask), it's because it is.
 
-2. __Have a little patience__:I once read in [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) about ALOHAnet, and how it overcome interference by using what is called _Exponential Backoff_: double the potential delay before trying to transmit again. If I did not respond in one week, try again, and then wait two weeks.
+2. __Have a little patience__: I once read in [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) about ALOHAnet, and how it overcome interference by using what is called _Exponential Backoff_: double the potential delay before trying to transmit again. If I did not respond in one week, try again, and then wait two weeks.
 
 3. __Don't use jargon with me__: I once worked at a financial services consultancy firm and the thing that I liked the least was probably the illusion of knowledge of the people around me. Help me understand, but also put your things together and avoid jargon at all costs.
 
