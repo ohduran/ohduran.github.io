@@ -5,7 +5,7 @@ layout: default
 <div id="home">
 <h3><a href="/about/">Alvaro</a> here, maker of this <a href="/journal.html">journal</a>. I write about technology, science and business.</h3>
 
-  <h1>Recent Entries</h1>
+  <h2>Recent Entries</h2>
   <ul class="posts">
     {% for post in site.posts limit:3 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
@@ -14,7 +14,7 @@ layout: default
   <h4>See more <a href="/journal.html">here</a>.</h4>
   </ul>
 
-<h1>Articles by Others</h1>
+<h2>Articles by Others</h2>
   <ul class="posts">
     <li><span>23 Jun 2018</span> &raquo; <a href="https://cse.buffalo.edu/~rapaport/howtostudy.html#intro" target="_blank">William Rapaport: How to Study: A Brief Guide</a></li>
     <li><span>06 Oct 2017</span> &raquo; <a href="https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZ4%2FDMoSvQ7iojmpb0f7Zgw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object" target="_blank">Rodney Brooks: The Seven Deadly Sins of AI Predictions</a></li>
