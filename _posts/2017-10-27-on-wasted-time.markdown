@@ -3,7 +3,7 @@ layout: post
 title:  "On wasted time"
 date:   2017-10-27 15:00:00 +0100
 categories:
-permalink: /2017/10/on-wated-time
+permalink: /2017/10/on-wasted-time
 ---
 You know what a PhD is? It literally means wasting 4 years of your life. And that's a good thing. Whilst the debate in our society is towards how to increase productivity, from our machines to the workforce, I encourage those managers who put so much pressure on deadlines to think twice.
 
