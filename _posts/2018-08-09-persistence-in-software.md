@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Persistence in software"
-date:   2018-08-10 15:00:00 +0100
+date:   2018-08-09 15:00:00 +0100
 categories:
 permalink: /2018/08/persistence-in software
 ---
