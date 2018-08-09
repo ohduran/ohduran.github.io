@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: /contact
+permalink: /contact/
 ---
 I want to talk to you. Let me repeat it so that it is absolutely clear: I want to talk to you.
 
