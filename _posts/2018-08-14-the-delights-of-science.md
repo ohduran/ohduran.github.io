@@ -7,7 +7,6 @@ permalink: /2018/08/the-delights-of-science
 ---
 '- Why are you always arguing about things?'
 
-
 It's August, and my girlfriend and I are always either in the beach or in the pool. We're spending the month here before we are definitely establishing in Barcelona, and my mind wanders all the time, mostly about why things are the way they are.
 
 '- That's the way my brain is wired. I enjoy arguing about things, with someone or on my own.'
