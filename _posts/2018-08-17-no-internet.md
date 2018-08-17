@@ -21,6 +21,10 @@ I'm following along the [TDD With Python and Selenium]() book, and I'm finding o
 
 As it's written, it expects some methods to behave in a way that do not work as expected anymore, and error messages that simply do not appear. Write this test, and write this code and you will see this error message. Well, apparently not. In my humble opinion, books like these are written with good intentions, but only confuse the hell out of people.
 
-This is not, in my defence, my first attempt with this book. In the past, I tried following along with the latest version of Django and hustle my way along the error messages. Believe me when I say: __DON'T__. It would be a waste of time. But, apparently, following along with the recommended Django version doesn't work anymore either, probably because the version I'm using of Python is 3.6, years ahead of what Django 1.11 version (the one in the book) was aiming for in Python.
+This is not, in my defence, my first attempt with this book. In the past, I tried following along with the latest version of Django and hustle my way along the error messages. Believe me when I say: __DON'T__. It would be a waste of time. But, apparently, following along with the recommended Django version doesn't work anymore either, probably because the version I'm using of Python is 3.6, years ahead of what Django 1.11 version (the one in the book) was aiming for in Python. "But someone on the Internet would have found a way around that, wouldn't he?" That's when Internet comes handy, and I don't have it.
 
-"But someone on the Internet would have found a way around that, wouldn't he?" That's when Internet comes handy, and I don't have it. Long story short, I'm screwed.
+Long story short, I'm screwed.
+
+If you recall on a previous post on [persistence](/2018/08/persistence-in software), persistence is the only trait that I believe is an indicator for success. That's what I'm building on here: the ability to focus for long periods of time on a certain problem and drill down on error messages, actually understand them, and debug them systematically.
+
+Sounds fun, huh?
