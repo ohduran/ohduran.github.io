@@ -25,6 +25,10 @@ This is not, in my defence, my first attempt with this book. In the past, I trie
 
 Long story short, I'm screwed.
 
-If you recall on a previous post on [persistence](/2018/08/persistence-in software), persistence is the only trait that I believe is an indicator for success. That's what I'm building on here: the ability to focus for long periods of time on a certain problem and drill down on error messages, actually understand them, and debug them systematically.
+If you recall on a previous post on [persistence](/2018/08/persistence-in software), persistence is the only trait that I believe is an indicator for success.
+
+>How would anyone keep a level of concentration on such mundane tasks, reviewing his own code, looking at error messages, trying to understand the underlying problem and, all in all, systematically hypothesising about expected and unexpected behaviour of the code on the compiler, if one does not have the skill to __not give up__?
+
+That's what I'm building on here: the ability to focus for long periods of time on a certain problem and drill down on error messages, actually understand them, and debug them systematically.
 
 Sounds fun, huh?
