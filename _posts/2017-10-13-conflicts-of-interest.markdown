@@ -2,7 +2,7 @@
 layout: post
 title:  "Conflicts of Interest"
 date:   2017-10-13 15:00:00 +0100
-categories:
+categories: blog
 permalink: /2017/10/conflicts-of-interest
 ---
 ## The question

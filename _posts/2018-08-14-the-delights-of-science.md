@@ -2,7 +2,7 @@
 layout: post
 title:  "The Delights of Science"
 date:   2018-08-14 15:00:00 +0100
-categories:
+categories: blog
 permalink: /2018/08/the-delights-of-science
 ---
 '- Why are you always arguing about things?'
