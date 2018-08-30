@@ -13,7 +13,7 @@ Nevertheless, companies focus on deadlines all the time. Why wouldn't they? The 
 
 What can we do, then? Is there even a case for wasting time in the workplace?
 
-I'm sure there is. We spend vast amounts of time commuting, for starters. I refer to another post where I rant about the benefits of working from home. We also spend a lot of time looking at our own mobile screens (around 23 days a year, according to an study), on TV... Feels like the whole construction of civilization is keen on you not to do your job. Nevertheless, we focus on allocate that lost time on keep working, instead of doing different things with the work we do.
+I'm sure there is. We spend vast amounts of time commuting, for starters. I refer to another post where I rant about the benefits of working from home. We also spend a lot of time looking at our own mobile screens (around 23 days a year, according to an study), on TV... Feels like the whole construction of civilisation is keen on you not to do your job. Nevertheless, we focus on allocate that lost time on keep working, instead of doing different things with the work we do.
 
 OK enough. We waste time, and I am just telling you that we should, not use it to work, but instead on doing something that would waste it too, but in a different way?
 
