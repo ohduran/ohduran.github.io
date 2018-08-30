@@ -12,7 +12,9 @@ Let me be clear: I want to talk to you. We can both benefit from talking to each
 
 Most nonfiction authors are easy to reach: on Twitter and via email, both included on heir websites along with an open invitation to send them any request that comes to mind, arguing that this would help with their "community building".
 
-In my case, I have reviewed a lot of people's CVs and code, and all in all have lots of meaningful conversations. On top of that, I had also wasted my time far too many times over an email conversation. If you have something worth telling me, please go ahead, I'll do my best to answer as soon as possible. Otherwise, think twice, regroup your thoughts, make time to compel a good case for why your email is worth reading and worth answering to. Or just don't send it: my default behaviour when receiving an email is to __not__ respond.
+In my case, I have reviewed a lot of people's CVs and code, and all in all have lots of meaningful conversations. On top of that, I had also wasted my time far too many times over an email conversation. If you have something worth telling me, please go ahead, I'll do my best to answer as soon as possible.
+
+Otherwise, think twice, regroup your thoughts, make time to compel a good case for why your email is worth reading and worth answering to. Or just don't send it: my default behaviour when receiving an email is to __not__ respond. When it comes to email, it's the sender responsibility to convince the receiver that  a reply is worthwhile.
 
 And don't take it personal: it's a sender filter. Like the one most big firms use in their applications, asking meaningless questions to their candidates so that, those who eventually apply are **really** committed to the job offer.
 
