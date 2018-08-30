@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Ubiquitous email access has become engrained in our professional habits. As John Freeman warns in his book [The Tyranny of Email](https://amazon.com), with the rise of technology **we are slowly eroding our ability to explain - in a careful, complex way- why it is so wrong for us to complaint, resist, or redesign our workdays so that they are manageable**.
+Ubiquitous email access has become engrained in our professional habits. As John Freeman warns in his book [The Tyranny of Email](https://www.amazon.com/Tyranny-mail-Four-Thousand-Year-Journey-Inbox/dp/1416576746), with the rise of technology **we are slowly eroding our ability to explain - in a careful, complex way- why it is so wrong for us to complaint, resist, or redesign our workdays so that they are manageable**.
 
 However, just because you cannot avoid email altogether doesn't mean I have to cede all authority over its role in my mental landscape.
 
