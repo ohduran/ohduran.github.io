@@ -2,7 +2,7 @@
 layout: post
 title:  "And you can, too"
 date:   2017-11-25 15:00:00 +0100
-categories: blog 
+categories: blog
 permalink: /2017/11/and-you-can-too
 ---
 A couple of days ago, I bumped into a rant by an anonymous guy who bantered something like this:
@@ -48,7 +48,7 @@ Rule #1: Don't be a fool.
 
 
 
-[1] No one posted a comment on this topic. The most common answers were about what the company was about (won't share to avoid any direct or indirect diffamation of the person who wrote this), or something like "Great post, life is too short to settle!".
+[1] No one posted a comment on this topic. The most common answers were about what the company was about (won't share to avoid any direct or indirect defamation of the person who wrote this), or something like "Great post, life is too short to settle!".
 
 [2] That's indeed what is so addictive about gambling: the unlikely reward, usually tied to a false sense of expertise or edge, like "dices are hot", and "I'm in the zone". Cities like Las Vegas have been built on top of those fools.
 

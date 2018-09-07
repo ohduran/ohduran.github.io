@@ -3,22 +3,20 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-I want to talk to you. Let me repeat it so that it is absolutely clear: I want to talk to you.
 
-There are lots of reasons why I am not easily reachable, which are usually a linear combination of the following reasons:
+Ubiquitous email access has become engrained in our professional habits. As John Freeman warns in his book [The Tyranny of Email](https://www.amazon.com/Tyranny-mail-Four-Thousand-Year-Journey-Inbox/dp/1416576746), with the rise of technology *we are slowly eroding our ability to explain - in a careful, complex way- why it is so wrong for us to complaint, resist, or redesign our workdays so that they are manageable*.
 
-- I spend most of my leisure time offline.
-- I don't have any reason to have my phone buzzing, so I've turned my notifications off.
+However, just because you cannot avoid email altogether doesn't mean I have to cede all authority over its role in my mental landscape.
 
-However, and I have said before, I want to talk to __you__. That's because I believe that everyone has an interesting story, and we can both benefit from talking to each other, pick each other's brains and learn from our experiences.
+Let me be clear: I want to talk to you. We can both benefit from talking to each other, pick each other's brains and learn from our experiences. Most nonfiction authors are easy to reach: on Twitter and via email, both included on their websites along with an open invitation to send them any request that comes to mind, arguing that this would help with their "community building". In my case, I have reviewed a lot of people's CVs and code, and all in all have had lots of meaningful conversations.
 
-- __I like getting email__: I have never regretted getting an email. I have reviewed a lot of people's CVs and code, and all in all I have had lots of meaningful conversations. There is absolutely nothing you can do which will make me look down on you. I don't have an *Inbox Zero* policy, but I do my best to respond any email I get as soon as possible.
+On the other hand, I have also wasted my time far too many times over an email conversation. If you have something worth telling me, please go ahead, I'll do my best to answer as soon as possible. Otherwise, think twice, regroup your thoughts, make time to compel a good case for why your email is worth reading and worth answering to. Or just don't send it: my default behaviour when receiving an email is to __not__ respond. When it comes to email, it's the sender responsibility to convince the receiver that  a reply is worthwhile.
 
-- __I like reading__: If there is one thing I like is reading. I'm usually short of things to read that interest me, so if you have something worth reading, please, __send it to me__. Again, the worst thing that can happen is that, for some reason, I don't get to see it immediately. I can't promise a fast response, but I can promise a thorough read.
+And don't take it personal: it's a sender filter. Like the one most big firms use in their job applications, asking meaningless questions to their candidates so that those who eventually apply are **really** interested in the job offer.
 
-- __I like going to Meetups__: If I am at a meetup of a conference, I aim at talking to people. I don't bite, ask me a question.
+If you can do that, I will deliver an email that will be, to the best of my ability, the most efficient process for bringing your request to a successful conclusion. I aim at "closing the loop", trying to bring the conversation to an end as soon as possible, with you having an answer promptly and with me without something "on my plate".
 
-## Generic Tips for Emailing Busy People
+### Generic Tips for Emailing Busy People
 
 1. __Make specific questions, not vague requests__: Pretend you are talking to a busy colleague, and introduce your problem before anything else. Then help me understand what you tried, and how can I help you. If this sounds like [how you should ask a question on Stack Overflow](https://stackoverflow.com/help/how-to-ask), it's because it is.
 
@@ -27,12 +25,5 @@ However, and I have said before, I want to talk to __you__. That's because I bel
 3. __Don't use jargon with me__: I once worked at a financial services consultancy firm and the thing that I liked the least was people _pretending they know_. Help me understand, but also put your things together and avoid jargon at all costs. Start from the beginning, then drill down.
 
 ### Where you can find me
-If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you.
 
-[GitHub](https://github.com/ohduran)
-
-[LinkedIn](https://www.linkedin.com/in/alvaroduranbarata/)
-
-[Email](alvaro.duranb@gmail.com)
-
-[Stack Overflow](https://stackoverflow.com/users/8033883/ohduran)
+[GitHub](https://github.com/ohduran)  [LinkedIn](https://www.linkedin.com/in/alvaroduranbarata/)  [Email](alvaro.duranb@gmail.com)
