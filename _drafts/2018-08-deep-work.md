@@ -47,16 +47,25 @@ Good Will Hunting is pronounced dead: Ericsson's line of research signals that t
 
 The first component is crucial: it emphasizes that progress cannot exist alongside distraction, but instead requires uninterrupted concentration. The author mentions the way Adam Grant, a successful at Wharton School of Business, is able to produce an absurdly high amount of articles being published in major journals: he batches the important intellectual work into long, uninterrupted stretches, by stacking his teaching in one semester, and turning his attention to research during the rest of the year.
 
-By consolidating his work into intense pulses, he leverages the intensity of focus, as opposed by the average Joe, who is prone to workaholism. The concept of attention residue, the idea that jumping from one task to another is not accompanied by completely focusing on the next task, but having some 'residue' left on the earlier one, helps explain __why intensity is much more important than time when it comes to productivity__. Deep work is the type of work that optimizes your performance.
+By consolidating his work into intense pulses, he leverages the intensity of focus, as opposed by the average Joe, who is prone to workaholism. The concept of attention residue, the idea that jumping from one task to another is not accompanied by completely focusing on the next task, but having some 'residue' left on the earlier one, helps explain __why intensity is much more important than time when it comes to productivity__.
 
-## Part 2
+Deep work is the type of work that optimises your performance.
 
-## Addendum - Open offices pervade every aspect of work
-
-Jack Dorsey is the reasonable exception to this book. He represents a bunch of people who thrive in building successful companies and do not have the luxury of long periods of uninterrupted thinking.
+Instead, organisations like Twitter or Facebook do not optimise for those who can thrive doing deep work. Jack Dorsey is the notable case. He represents a bunch of people who thrive in building successful companies and do not have the luxury of long periods of uninterrupted thinking.
 
 In fact, they help explain why deep work is so rare in our society: they are the decision makers and, although most of the value of technology companies is produced by those who perform some form of deep work, manager's work is scattered in meetings, small talks and catch ups over the water cooler. Their work is shallow, and they make decisions around that mindset.
 
-Let's disabuse ourselves from the idea that managers are evil people who go for open offices because they find a weird sense of amusement in our incapacity to focus: they choose open offices because those are the sort of offices that are optimal for them. Same goes for working from home and any other kind of innovation in terms of working environment: if it's not optimal for the decision makers, it's simply not going to happen.
+That's why Facebook unveiled in 2012 the plans for a new headquarters with "the largest open floor plan in the world", and why IBM's manager estimates that its employees send around 2.5 million instant messages each day.
 
-That is possibly the idea that is missing on the book: the __real__ reason why managers can't let their employees do deep work: because the lack of trust on the employees is still very much present in our society.
+Let's disabuse ourselves from the idea that managers are evil people who go for open offices because they find a weird sense of amusement in our incapacity to focus: they choose open offices because those are the sort of offices that are optimal for them. Same goes for working from home and any other kind of innovation in terms of working environment: if it's not optimal for the decision makers, it's simply not going to happen. The __real__ reason why managers can't let their employees do deep work: because the lack of trust on the employees is still very much present in our society.
+
+> "To do real good physics work, you do need absolute solid lengths of time... it needs a lot of concentration... if you have a job administrating anything, you don't have the time. So I have invented another myth for myself: that I'm irresponsible. I tell everyone I don't do anything. If anyone asks me to be on a committee for admissions, 'no', I tell them: 'I'm irresponsible".
+>
+> -- __Richard Feynman__
+
+The author ends this section talking about the work of Csikszentmihalyi (whom we have spoken about [before](/2018/08/the-delights-of-science)). His research helped validate the theory that *the best moments [in life] usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile*. Csikszentmihalyi calls this mental state __flow__, against the common assumption that relaxation is what makes people happy.
+
+Deep work is an activity well suited to generate a flow state.
+
+
+## Part 2: The Rules
