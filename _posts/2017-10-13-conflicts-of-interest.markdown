@@ -23,9 +23,8 @@ This one is my all-time favorite: destroying the reputation of a brand and a new
 
 Maybe you haven't run into the term before, but sure as hell you know what it is. A piece of news with the next headline:
 
-"This is what your kids need to have for breakfast to excel."
-
-Sponsored by *Dairy company*
+>"This is what your kids need to have for breakfast to excel."
+>Sponsored by *Dairy company*
 
 Spoiler: it's going to be milk. How can I trust a company who tries to subtly trick you into reading a completely misleading information in the form of a reputable piece of news?
 
