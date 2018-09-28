@@ -5,6 +5,7 @@ date:   2018-08-29 15:00:00 +0100
 categories: blog
 permalink: /2018/09/not-banking-on-banking
 ---
+
 Here is a paradox: banks are the least capitalistic thing ever. They're a monopolistic, non competitive, ripping off industry, and they are overwhelmed by the competition that its comming, which will oust them pretty soon.
 
 My first surprise came when, given that I recently came back to Spain, I needed to open a bank account. So, here I am, going to the branch, like in the 1970s, to talk to someone so that he can open my bank account. I was used to bank branches in the UK being opened until 5pm, so I was lucky to leave work a bit earlier and head for the bank branch.
