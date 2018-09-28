@@ -38,7 +38,7 @@ There is an obvious problem with the media's business model.
 
 Up until very recently, the reputation of media was its most valuable asset. It was put on the line everyday, by means of pieces of news being delivered by conventional channels (TV, radio, newspaper) to the world: this is the truth. It may be a bit biased (it's Journalism 101 saying that every journalist is biased in some way), but this bias was managed as much as it was possible.
 
-Enter the Internet, blogs like this one, and many others. The information is now bi-directional: A professional journalist, with experience in the field, some years in college and a passion for its job is fighting for attention against a 15-year-old kid posting photoshopped pictures of Trump captioned "LOL who did this?"[1]
+Enter the Internet, blogs like this one, and many others. The information is now bi-directional: A professional journalist, with experience in the field, some years in college and a passion for its job is fighting for attention against a 15-year-old kid posting photoshopped pictures of Trump captioned "LOL who did this?"
 
 It's obvious that media companies are still trying to figure out how to handle this breakthrough, but they've decided to fight that 15-year-old kid at his own game, by pretty much producing the same meaningless stuff. They did so because
 

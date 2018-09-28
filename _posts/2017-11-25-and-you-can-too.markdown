@@ -28,7 +28,7 @@ But what if you bumped into a post like the following:
 
 Pretty much the same rant, with the obvious change of "build my own company" to "gamble furiously". The idea that someone made a lot of money on the lottery doesn't get you any closer to buy into it and start playing cards. That's because you understand that making millions out of gambling is an anecdote, not a common outcome. In fact, it's quite rare - that's obviously the whole point.
 
-But why on Earth would you pay attention to the first post?[1]
+But why on Earth would you pay attention to the first post?[^1]
 
 In both cases, the writer falls into what is called survivorship bias. Facing an uncertain situation and falling on your feet doesn't make it less riskier. It's only your perception of risk that has changed. And that makes all the difference, because a risky path has been rewarded, and thus it's likely to be taken again, regardless of the actual chance of making it right again[2].
 
@@ -48,8 +48,8 @@ Rule #1: Don't be a fool.
 
 
 
-[1] No one posted a comment on this topic. The most common answers were about what the company was about (won't share to avoid any direct or indirect defamation of the person who wrote this), or something like "Great post, life is too short to settle!".
+[^1]: No one posted a comment on this topic. The most common answers were about what the company was about (won't share to avoid any direct or indirect defamation of the person who wrote this), or something like "Great post, life is too short to settle!".
 
-[2] That's indeed what is so addictive about gambling: the unlikely reward, usually tied to a false sense of expertise or edge, like "dices are hot", and "I'm in the zone". Cities like Las Vegas have been built on top of those fools.
+[^2]: That's indeed what is so addictive about gambling: the unlikely reward, usually tied to a false sense of expertise or edge, like "dices are hot", and "I'm in the zone". Cities like Las Vegas have been built on top of those fools.
 
-[3] On a personal note, I truly believe that everyone in the stock market has succeeded because of pure luck. They probably tell you other story.
+[^3]: On a personal note, I truly believe that everyone in the stock market has succeeded because of pure luck. They probably tell you other story.
