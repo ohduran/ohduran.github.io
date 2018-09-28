@@ -30,7 +30,7 @@ Pretty much the same rant, with the obvious change of "build my own company" to 
 
 But why on Earth would you pay attention to the first post?[^1]
 
-In both cases, the writer falls into what is called survivorship bias. Facing an uncertain situation and falling on your feet doesn't make it less riskier. It's only your perception of risk that has changed. And that makes all the difference, because a risky path has been rewarded, and thus it's likely to be taken again, regardless of the actual chance of making it right again[2].
+In both cases, the writer falls into what is called survivorship bias. Facing an uncertain situation and falling on your feet doesn't make it less riskier. It's only your perception of risk that has changed. And that makes all the difference, because a risky path has been rewarded, and thus it's likely to be taken again, regardless of the actual chance of making it right again [^2].
 
 Financial analyst do that too on their reporting. Here's how:
 
@@ -40,13 +40,11 @@ Financial analyst do that too on their reporting. Here's how:
 
 So easily, you fell into the trap. Have you considered all those companies that used to be on S&P, but aren't there anymore? Is that information not taking into account relevant? (hint: it is)
 
-So, yes: next time you think of your chances of success doing something, look around. Sometimes it's just pure luck what got some people to the top.[3] And even if you decide to go ahead, and in some cases it's fine, be aware of what you have for you, and what you have against.
+So, yes: next time you think of your chances of success doing something, look around. Sometimes it's just pure luck what got some people to the top.[^3] And even if you decide to go ahead, and in some cases it's fine, be aware of what you have for you, and what you have against.
 
-Rule #1: Don't be a fool.
+---
 
-
-
-
+Footnotes:
 
 [^1]: No one posted a comment on this topic. The most common answers were about what the company was about (won't share to avoid any direct or indirect defamation of the person who wrote this), or something like "Great post, life is too short to settle!".
 
