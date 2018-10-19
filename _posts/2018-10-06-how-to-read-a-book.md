@@ -20,7 +20,7 @@ We all know how to read; we've all learned in school, and are constantly bombard
 >
 > -- __How to Read a Book__
 
-Being literate, that means, being able to read, is an accomplishment that as a society we can be proud of: from a historical perspective, literacy levels for the world population have risen drastically in the last couple of centuries. From only 12% of the people in the world could read and write in 1820, then 42% in 1960 and to 86% in 2015[^1]. We can safely assume that people around us can read too, and so do assume Whatsapp, Facebook and Google.
+Being literate, that means, being able to read, is an accomplishment that as a society we can be proud of: from a historical perspective, literacy levels for the world population [have risen drastically in the last couple of centuries](https://www.oecd-ilibrary.org/economics/how-was-life_9789264214262-en). From only 12% of the people in the world could read and write in 1820, then 42% in 1960 and to 86% in 2015. We can safely assume that people around us can read too, and so do assume Whatsapp, Facebook and Google.
 
 The problem is definitely not that; in fact, speed reading courses are now widespread, which leads us to believe that a) people are engaged in their reading, b) people want to get through it as fast as they can. Reading is, as the previous quote noted, *not as necessary as it once was*. Unfortunately, this is something that Umberto Eco addressed at some point with the concept of the [antilibrary](https://www.brainpickings.org/2015/03/24/umberto-eco-antilibrary/)
 
@@ -303,12 +303,54 @@ In the natural course of events, a good student becomes a teacher, and so a good
 
 The fourth and highest level of reading is called Syntopical Reading. When reading synoptically, the reader reads many books, not just one, and places them in relation to one another and to a subject about which they all revolve.
 
+But there's an interesting paradox here: one can only ascertain whether a book is part of a relationship *after* reading it. It's a version of the [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit) in probability theory, where you don't know how good something is unless you have tried it.
 
+There's no easy solution to this problem, despite the fact that this book doesn't go into it with as much deep as I would like.
 
+> As so often happens in mathematics, though, the particular is the gateway to the universal. In the 1970s, the Unilever corporation asked a young mathematician named John Gittins to help them optimize some of their drug trials. Given several different chemical compounds, what is the quickest way to determine which compound is likely to be effective against a disease? It was, of course, another incarnation of the multi-armed bandit problem. Unlike previous researchers, Gittins approached the multi-armed bandit problem in economic terms. He conceived the goal as maximizing payoffs not for a fixed interval of time, but for a future that is endless yet discounted. Gittins, for his part, realized (albeit many years before the first episode of Deal or No Deal aired) that for every slot machine we know little or nothing about, there is some guaranteed payout rate which, if offered to us in lieu of that machine, will make us quite content never to pull its handle again.
+>
+> -- __Brian Christian__; [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
 
----
+Probability theory tells us, then, that we should __try__, that skimming at least is what we should do, and given that appetiser, decide whether to pursue the book at hand with analytical precision or leave it be for now, and go on to the next one. Choosing what to read trumps ‘having something to read’.
 
-Footnotes:
+### The five steps in Syntopical Reading
 
+__Step 1__: FINDING THE RELEVANT PASSAGES
 
-[^1] OECD Report [How was life?](https://www.oecd-ilibrary.org/economics/how-was-life_9789264214262-en)
+It is you and your concerns that are primarily to be served, not the books that you read. Your first task is to find out how the book can be useful to you in a connection that may be very far from the author’s own purpose in writing it. When you read syntopically, you must be the master of the situation.
+
+__Step 2__: BRING THE AUTHORS TO YOUR TERMS
+
+It is you who establishes the terms, so you must bring the authors to them rather than the other way around.
+
+__Step 3__: GET THE QUESTIONS CLEAR
+
+We are faced with the task of establishing a set of neutral propositions as well, a set of questions that shed light to the problem we want to solve as readers, in a way that all or most of the authors can be interpreted as giving answers to them. Restraint is necessary here; we cannot put thoughts into our authors minds.
+
+__Step 4__: DEFINE THE ISSUES
+
+If the questions are clear, and if we can be reasonably certain that authors answer it in different ways (pros and cons perhaps), then an issue has been defined.
+
+Usually, differences in answers must be ascribed to different conceptions of the question as often as different views on the subject.
+
+__Step 5__: ANALYSE THE DISCUSSION
+
+Truth is expected to be found in the conflict of opposing answers. In order to present the truth to our minds we have to do more than merely ask and answer the questions. We have to ask in a certain order, and be able to defend that order; we must show how the questions are answered differently and try to understand why; we must be able to point to the texts in the books examined that support our classification of answers.
+
+The syntopical reader tries to look at all sides and to take no sides. The reader must constantly refer back to the actual text of his authors.
+
+Books should never be read out of context. Believing that translation between books is possible, that books can “talk” to one another and that there is an objective, rational content of communication between human beings, we believe that syntopical reading is possible.
+
+### What books can do for us?
+
+I don't want to end these notes on How to Read a Book without reflecting on how important books have been in my life. I have always been a voracious reader, and that's because once you find that book that 'clicks', there's no turning back: you will be on the search for that same feeling in every other book for the rest of your life.
+
+The means that will serve you in the further improvement of your reading are the books you will read. As we have gone over again and again, you cannot read just anything that falls on your lap. You must be ruthlessly selective.You will not improve as a reader if all you read are books that are well within your capacity, in the same sense that deliberate practice states that the correct amount of stress is needed for us to improve: effortless activity cannot stretch our abilities.
+
+If that is so, then, which are the ten books that you would bring with you to a dessert island?
+
+> The imagined situation seems bizarre and unreal, but we are all to some extent persons marooned on a dessert island (Note: Our relationship with the outside world is like messages inside a bottle).
+>
+> -- __How to Read a Book__
+
+Reading actively, enjoy reading and what you read, is not only good in itself, but also a means to an end: advancement in your career for starters, but also advancement in your growth as a person and the growth of the mind, keeping it alive, healthy and alert. So read, read, and keep reading. And be guided by this practical book on how to read.
