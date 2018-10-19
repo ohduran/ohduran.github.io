@@ -40,6 +40,9 @@ This book caught my eye after reading [Deep Work](/2018/08/deep-work). One must 
 >
 > -- __How to Read a Book__
 
+My main takeaway from this book is that reading is some sort of a video-game. Like skiing, or playing chess, reading feels like a deliberate process where you gain expertise while doing it, but only if you are focused and dedicated to it. First is tough, and you feel helpless, an you keep going because you witness that you're gaining competence and powers as you go through it.
+
+
 ## Part 1: The dimensions of Reading
 
 The reader is more like the catcher in a game of baseball: ideas cannot be grasped passively, one must fight for them to be hold. Given the same thing to read, one would read it better by reading more actively while carefully executing each step more correctly.
@@ -62,6 +65,243 @@ You cannot learn passively: like the baseball catcher, you either play the game 
 
 ### The levels of reading
 
+The way the reader reads is determined by his goal, and the effectiveness is determined by, as we said, how actively he reads. There are four concentric levels of reading, that is, higher ones include lower ones.
+
+> “Some books are to be tasted, others to be swallowed, and some few to be chewed and digested”
+> -- __Francis Bacon__
+
+#### The first level of reading - Elementary Reading
+The first level of reading is called Elementary Reading. As one masters this level, one passes from nonliterary to at least beginning literacy. The child’s first encounter with reading is at this level. The question asked of the reader is “What does the sentence say?”.
+
+#### The second level of reading - Inspectional Reading
+
+The second level of reading is called Inspectional Reading. When reading at this level, the reader aims to get the most out of a book within a given time. Inspectional reading is the art of skimming systematically. The question typically asked at this level is “What is the book about?”.
+
+There are two types of inspectional reading.
+
+1. __Systematic Skimming or Pre-reading  :__
+
+What is the point of skimming of not to ascertain whether the book is worth it? To accomplish that, one should follow the next steps:
+
+- Look at the title page and, if the book has one, a preface  .
+- Study the table of contents.
+- Check the index.
+- Read the publisher’s blurb.
+- Look at the chapters that seem to be pivotal to the book’s argument  
+- Turn the pages, dipping in here and there  .
+- Read the Epilogue.
+
+If you've done this correctly, you have made your mind in a short period of time on whether it's a book worth reading. Think of yourself as a detective.
+
+2. __Superficial Reading:__
+
+Don't pay attention to your literature teachers: read. Read it at one sitting, without stopping to look up weird words, or ponder what you don't understand right away. You'll have a much better chance of understanding it when you're done.
+
+This of course goes against common sense: why reading it twice, when one is enough? The answer relies, again, in the type of book you're reading: good books deserve a much closer look that reading it once can provide, and average books can do with just one quick read.
+
+What you understand by reading the book through to the end will help you when you make the additional effort later to go back to the places you passed by on your first reading. And even if you never go back, understanding half of a really good book is better than not understanding it at all.
+
+If you had the high school literature experience that I had, your teacher may have spent days on end ranting and discussing and analysing pieces of writing by "The Classics", which would have dragged you down inevitably and might have even make you die of boredom. And unfortunately, that means that you have never read any of those works. By the time you reached to the end, you have already forgotten how they started.
+
+Instead, your teacher should have encouraged you to read the book at one sitting and discuss what you took away from it. In your effort to master the fine points, you generally will miss the big ones. You will miss the forest for the trees.
+
+#### On Reading speed
+Have you ever attended a speed reading course? At this point you may be thinking that skimming is just speed reading. Truth is, it isn't. Speed reading aims at gaining a complete understanding of the book in the least amount of time possible, which overlaps quite a lot with skimming, but is not necessarily the same thing: what do we mean by complete understanding when the book is insurmountable?
+
+A good speed reading course should enable you to vary your rate of reading in accordance with the nature and complexity of the material. The ideal is not merely to read faster, but to be able to read at different speeds, and to know when the different speeds are appropriate.
+
+#### Being a demanding reader
+
+Reading implies an effort, but in the form of an investment: you expect by that to be repaid. It means asking questions while you read, questions that you yourself must try to answer in the course of reading.
+
+> Question 1: __What is the book about as a whole?__
+>
+> Question 2: __What is being said in detail, and how?__
+>
+> Question 3: __Is the book true, in whole or part?__
+>
+> Question 4: __What of it?__
+
+That is why there is all the difference in the world between the demanding and the undemanding reader: the latter asks no questions, and gets no answers. And knowing the questions isn’t enough: you must remember to ask them as you read. The habit of doing that is the mark of a demanding reader. And there is no other way of forming the habit of reading than by reading.
+
+## Part 2: The third level of reading - Analytical Reading
+
+The third level of reading is called Analytical Reading. If inspectional reading is the best and most complete reading possible given a limited time, then analytical reading is the best and most complete reading that is possible given unlimited time. Reading a book analytically is chewing and digesting it.
+
+Analytical Reading consist of the following rules:
+
+__Rule 1__: YOU MUST KNOW WHAT KIND OF BOOK YOU ARE READING, AND YOU SHOULD KNOW THIS AS EARLY AS POSSIBLE, EVEN BEFORE YOU READ.
+
+__Rule 2__: STATE THE UNITY OF THE WHOLE BOOK IN A SINGLE SENTENCE, OR AT MOST A FEW SENTENCES.
+
+__Rule 3__: SET FORTH THE MAJOR PARTS OF THE BOOK, AND SHOW HOW THESE ARE ORGANISED INTO A WHOLE, BY BEING ORDERED TO ONE ANOTHER AND TO THE UNITY OF THE WHOLE.
+
+__Rule 4__: FIND OUT WHAT THE AUTHOR’S PROBLEMS WERE.
+
+These first four rules helps you answer __Question 1__: *What is the book about as a whole?*
+
+__Rule 5__: FIND THE IMPORTANT WORDS AND THROUGH THEM COME TO TERMS WITH THE AUTHOR.
+
+__Rule 6__: MARK THE MOST IMPORTANT SENTENCES IN A BOOK AND DISCOVER THE PROPOSITIONS THEY CONTAIN.
+
+__Rule 7__: LOCATE OR CONSTRUCT THE BASIC ARGUMENTS IN THE BOOK BY FINDING THEM IN THE CONNECTION OF SENTENCES.
+
+__Rule 8__: FIND OUT WHAT THE AUTHOR’S SOLUTIONS ARE.
+
+Applying Rules 5 through 8 helps answer __Question 2__: *What is being said in detail, and how?* Up to this point, you understand the book.
+
+__Rule 9__: YOU MUST BE ABLE TO SAY, WITH REASONABLY CERTAINTY, “I UNDERSTAND”, BEFORE YOU CAN SAY “I AGREE”, “I DISAGREE”, OR “I SUSPEND JUDGMENT”.
+
+__Rule 10__: WHEN YOU DISAGREE, DO SO REASONABLY, AND NOT DISPUTATIOUSLY OR CONTENTIOUSLY.
+
+__Rule 11__: RESPECT THE DIFFERENCE BETWEEN KNOWLEDGE AND MERE PERSONAL OPINION BY GIVING REASONS FOR ANY CRITICAL JUDGMENT YOU MAKE.
+
+After he has said “I understand, but I disagree”, the reader can make the following remarks to the author: "You are uninformed", "Your are misinformed", "You are illogical", or "Your analysis is incomplete (and must elaborate how)".
+
+The last three rules of analytical reading help you to answer __Question 3__ and __Question 4__: *Is it true?* and *What of it?*.
+
+You can skip into [Part 3](## Part 3) if you're already familiar with them. If not, read on:
+
+
+### X-raying a book
+
+Reading a whole book, and specially a long and difficult one, poses the severest problems any reader can face. Thus, one must go into the woods carefully, and always walk on solid ground, so you must first follow Rules 1 and 2. This will allow you to answer Question 1: *What is the book about?*.
+
+How do you follow those rules? Well, you must give the book an inspectional reading. Every book has a skeleton hidden between its covers. Your job as an analytical reader is to find it.
+
+In fact, you may have noticed that Rule 2 is what is commonly known as [The Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/), cleverly explained by James Gleick in his Feynman's biography [Genius: The Life and Science of Richard Feynman](https://www.amazon.com/gp/product/0679747044/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679747044&linkCode=as2&tag=stuhac-20&linkId=ZOWR5DAJUAZGTEBP).
+
+> [Feynman] opened a fresh notebook. On the title page he wrote: NOTEBOOK OF THINGS I DON'T KNOW ABOUT. For the first but not last time he reorganized his knowledge. He worked for weeks at disassembling each branch of physics, oiling the parts, and putting them back together, looking all the while for the raw edges and inconsistencies. He tried to find the essential kernels of each subject.
+>
+> -- __James Gleick__ (Genius: The Life and Science of Richard Feynman)
+
+Or, like Jason Zweig has said, *“how can you express something so that someone else would laugh at it?”*. In a proportion as it is good, as a book and as a work of art, it has a more nearly perfect, a more pervasive unity.
+
+> A book is like a single house, a mansion having many rooms, rooms on different levels, of different sizes and shapes, with different outlooks, different uses. They are connected by a “traffic pattern”. Because they are connected, the partial function that each performs contributes its share to the usefulness of the whole house. Otherwise, the house would not be liveable.
+>
+> -- __How to Read a Book__
+
+Sometimes the author tells you the unity of his plan in his preface. Be guided by the prospectus the author gives you, but always remember that the obligation of finding the unity belongs finally to you, as much as the obligation of having one belongs to the author.
+
+Writing and reading are reciprocal, as are teaching and being taught. The reader tries to uncover the skeleton that the book conceals, while the author starts with the skeleton and tries to cover it up.
+
+But if that is the case, then why not simply outline the subject. The reason is because an idea is sticky only in a very specific form, easily remember if carefully done, easily forgotten if not. We don't read our kids a 10-point list on how to be a better person; we tell them a story. That's why almost nobody can remember all of the Ten Commandments, but they are at least familiar with pretty much every story in the Bible.
+
+To find the skeleton on the book, we as readers must be asking questions constantly. Whether the author gives you the answers or not, and especially if he doesn’t, it is your task as a reader to formulate the questions as precisely as you can.
+
+### Coming to Terms with an author
+
+Did you notice that we are no longer talking about reading in the sense that you understood when you read the title? Perhaps, right after you read it, you thought to yourself "But I know already how to read!". What the author meant by "reading" and what you understood at first sight, although the same word, weren't the same __term__.
+
+Language is, then, an obstacle, rather than an aid, for communication. Coming to terms is exactly that: making the effort to grasp what the author means when he uses the important words (Rule 5). It is usually the last step in any successful business negotiation, for a term is the basic element of communicable knowledge.
+
+We can expect a good writer to do his best, but we must meet him halfway. The likelihood of a meeting of minds through language depends on the willingness of both reader and writer to work together. Just as teaching will not avail unless there is a reciprocal activity of being taught, so no author can achieve communication without a *reciprocal skill on the part of the reader*.
+
+What are the important words?
+
+> [Given that you’ve already analyse the structure of the book,] knowing what kind of book it is, what it is about as a whole, and what its major parts are, you are greatly aided in separating the technical vocabulary from the ordinary words.
+>
+> Unfortunately, there are many fields in which a technical vocabulary is not well established. Philosophers are notorious for having private vocabularies, and often find it necessary to coin new words, or to take some words from common speech and make it a technical word.
+>
+> In either case, the relative small set of words that express an author’s main ideas constitutes his special vocabulary, but these are the words that are important for him. They should be important for you as a reader also, but in addition any other word whose meaning is not clear is important for you. (Note: The teacher is absent, so you can only infer, not know, what the author thinks).
+>
+> -- __How to Read a Book__
+
+The trick here is that you have to discover the meaning of a word you do not understand from the context, the words that you understand that surround it. This is specially true when learning a language: you may get only 40% of the conversation at the beginning, but it's crucial that you get the important 40%, because the remaining is linked to that 40%. The fact that a book can give you new insights or enlighten you indicates that it probably contains words you may not readily understand.
+
+That's why superficial reading is so important when doing an inspectional reading: it gives you context.
+
+### Determine the Author's message
+
+Continuing with the business trade analogy, what a buyer or seller means by a proposition is some sort of offer. The person who makes a proposition in this sense is declaring his intention to act in a certain way. More than honesty is required for successful negotiations; the propositions should be clear and attractive.
+
+The author's message is encapsulated in the arguments of the book. We can safely assume that, unless they are supported by reasons, the author's propositions are mere opinions. We aim at knowing why the author thinks we should be persuaded by his arguments.
+
+>
+Perhaps you are beginning to see how essential a part of reading is *to be perplexed and know it*. Wonder is the beginning of wisdom in learning from books as well as from nature. If you never ask yourself any questions about the meaning of a passage, you cannot expect the book to give you any insight.
+>
+> -- __How to Read a Book__
+
+Rule 6 is all about understanding, and being able to state, in your own words again, the propositions contained in the book. If you cannot get away from the author’s words, it shows that only *words* have passed from him to you, not *knowledge*. So many times you’d think “well, that’s the best way there is to state that thought”. It might. Nevertheless, you must find your own words.
+
+The vice of “verbalism” can be defined as the bad habit of using words without regard for the thoughts they should convey and without awareness of the experiences to which they should refer.
+
+> Verbalism is the besetting of those who fail to read analytically. They posses what they read as a verbal memory that they can recite emptily.  The failure in reading of those who have not being trained in the arts of grammar and logic shows how lack of such discipline [liberal arts] results in slavery to words rather than mastery of them.
+>
+> -- __How to Read a Book__
+
+It's common in novel author to start a blog post just quoting someone (usually Einstein, or what they think Einstein said). This is helpful at the beginning, but it's a bad habit. If someone has already stated with clarity what you want to say, why saying it?
+
+Another common thing is hearing people stating complex ideas in too simplistic terms. Complex problems are not solved by simple statements, and whoever thinks that 140 characters are enough to make yourself understood doesn't understand that at all. Complexity arises as soon as the book is good enough, and that's why Rule 7 follows: you must build the arguments bottom up, from the simple statement to the argument itself, gathering ideas from the book like pieces of a jigsaw puzzle, like building blocks that allow you to bring an idea to fruition.
+
+Notice that the first part, summarised by Rules 1, 2, and 3, were all about top-down: read fast, get the idea, and express it in your own terms. That's why it's the first part: it's the easiest one. To complete your analysis, you must go bottom up, dismember the book and reassemble in your own terms.
+
+> Find if you can the paragraphs in a book that state its important arguments, or construct them by taking a sentence from here and there, until you have gathered together the sequence of sentences that state the propositions that compose the argument.
+>
+> -- __How to Read a Book__
+
+Another sign of a bad or loosely constructed book is the omission of steps in an argument, maybe even to mislead. __Propaganda is all about leaving certain things unsaid, things that are highly relevant to the argument, but that might be challenged if they were made explicit__.
+
+Once you have built the arguments, find the solutions as well, or what the author proposes as solutions to the problem that he's trying to solve. It's better if you are guided by the following steps:
+
+1. Every argument must involve a number of statements
+2. Discriminate between arguments that point to one or more facts as evidence for some generalisation (inductive), and those that offer a series of general statements to prove some further generalisations (deductive).
+3. Observe what things the author says he must assume, what it is to be proven, and what is self-evident. Every line of argument must start somewhere.
+
+Upon reaching this point, you can feel reasonably sure that you have managed to understand the book. Pat yourself in the back.
+
+### Criticise the book
+
+Once we understand, we can criticise. We are prohibited from doing so up until this point: that's what Rule 9 means. One needs apply considerable effort into not "judging a book by its covers", imagine how difficult it must be to not burst into criticism unless a careful process of understanding what the book is about in detail is over.
+
+Have you heard people not reading a book because of their opinions of its author? Or not watching a movie because they hate the star actor? That's exactly what we are avoiding here.
+
+>To agree without understanding is inane. To disagree without understanding is imprudent. But, like the golden rule, it elicits more lip service than intelligent obedience. When you find the rare person who shows that he understands what you are saying as well as you do, then you can delight in his agreement or be seriously disturbed by his dissent.
+>
+> -- __How to Read a Book__
+
+Usually, and unfortunately, people discuss all in words, like their reading. They don’t speak terms. Complete the task of understanding before rushing in.
+
+But being judgmental once one reads a book is pointless: you leverage what you understand of the book to state your agreements. And even disagreement must be done with chivalry. Most people think that winning the argument is what matters, not learning the truth. (Check out Twitter if you don’t think that’s true). The author is not there to defend himself, and you will only win if you gain knowledge: be prepared to agree as to disagree.
+
+The reader should admit a point when he sees it, but he also should not feel whipped by having to agree with an author, instead of dissenting: his problem is emotional rather than intellectual.
+
+That can only be done if we __regard disagreements as capable of being solved__. Disagreement is futile agitation unless it is undertaken with the hope that it may lead to the resolution of an issue. The reader should be as much prepared to have his own mind changed as seek to change the mind of another.
+
+The trouble is that many people regard disagreement as unrelated to this: you have your opinion, and I have mine. Conversation seems hardly better than a ping-pong game of opposed opinions. However, if truth is at stake, we can safely assume that there is only one kind of it, and it isn't a matter of opinion: we either didn't come to terms or its solution is behind facts and reason.
+
+Too many discussions nowadays are grounded on post-modernism: everyone deserves an opinion. What the book argues, however, is that truth is unique, and that's not up for discussion. There's solution to our problems, if we remove our ego from the equation, and try our best to come to terms.
+
+We pay respect to that idea by supporting our arguments with reasons, and being open to criticism so that truth is what we are really looking for. [What we know, we know subject to correction](https://en.wikipedia.org/wiki/Falsifiability).
+
+> Good tests kill flawed theories; we remain alive to guess again.
+>
+> -- __Karl Popper__
+
+This entails reaching to your own conclusions, instead of refuting others. The end result of agreeing or disagreeing with the author is mere coincidence if your analysis is independent.
+
+After he has said “I understand, but I disagree”, the reader can make the following remarks to the author:
+
+1. You are uninformed
+2. Your are misinformed
+3. You are illogical
+4. Your analysis is incomplete
+
+### Quality trumps quantity
+
+Inspectional reading is the gatekeeper of the arduous process of analytical reading. Not all books are worth it. The question then is *should we read those 'unworthy books' anyway?*
+
+The short answer is no. Focus on the quality rather than the quantity of your reading. How many times have we seen someone showing off his “reading a lot of books”? A person who has read widely but not [deeply] deserves to be pitied rather than praised. Rather, we should aim at wasting the least amount of time in low quality books, so that we can spend that time reading those that are worth reading. And I add, __not just books, but everything in general__. As we discussed in [Deep Work](/2018/08/deep-work), *quit social media*.
+
+> If I read as many books as most men do, I would be as dull-witted as they are.
+>
+> -- __Thomas Hobbes__
+
+In the natural course of events, a good student becomes a teacher, and so a good reader becomes an author.
+
+## Part 3: The fourth level of reading - Syntopical Reading
+
+The fourth and highest level of reading is called Syntopical Reading. When reading synoptically, the reader reads many books, not just one, and places them in relation to one another and to a subject about which they all revolve.
 
 
 
