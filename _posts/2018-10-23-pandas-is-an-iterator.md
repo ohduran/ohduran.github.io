@@ -49,11 +49,11 @@ But there isn't anything special about functions such as `open()`. We can create
 
 ```python
 class OpenFile:
-    def __init__(self, name):
-        self.name = name
+    def __init__(self, filename):
+        self.filename = filename
 
     def __enter__(self):
-        self.file = open(self.name, 'w')
+        self.file = open(self.filename, 'w')
         return self.file
 
     def __exit__(self, t, v, tb):
@@ -66,3 +66,21 @@ Once we have defined `OpenFile` like that, then we can use it like this:
 with OpenFile('example.txt') as f:
     f.write('hello, world!')
 ```
+
+Ah, but here comes something even more interesting: using the [`contextlib`](https://docs.python.org/3.5/library/contextlib.html#contextlib.contextmanager) library we can produce our own context managers in a complete different fashion:
+
+```python
+from contextlib import contextmanager
+
+@contextmanager
+def open_file(filename):
+    try:
+        f = open(filename, 'w')
+        yield f
+    finally:
+        f.close()
+```
+
+Now, instead of a class with two magic methods, it's a *generator* that opens the file, yields it, and afterwards leaves the function open so that the generator continues to execute. Any remaining clean-up steps can occur afterwards but before the resource gets released back to the system.
+
+The question that I'm determined to ask in this post is: __Is pandas.read_csv() a context manager under the hood?__
