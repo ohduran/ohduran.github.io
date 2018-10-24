@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Read me a Pandas tale"
+title:  "Read me a pandas tale"
 date:   2018-10-24 15:00:00 +0100
 categories: blog data-science
 permalink: /2018/10/read-me-a-pandas
