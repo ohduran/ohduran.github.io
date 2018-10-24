@@ -447,6 +447,4 @@ That was a lot to process! Some takeaways may be useful now:
 
 ### Wrap up
 
-We can all sleep peacefully now: pandas seems like a memory-efficient file reader that makes sense at the higher level (context manager) but with some nitty-gritty details that allow for us reckless scribblers who find a solution on SO and don't even bother in thinking what its consequences are.
-
-And I know that because that's what will be engraved in my tombstone.
+We can all sleep peacefully now: pandas seems like a memory-efficient file reader that makes sense at the higher level (context manager) but with some nitty-gritty details that allow for us, reckless scribblers who find a solution on SO and just copy-paste it, to load a big file and not suffer the consequences of our actions.
