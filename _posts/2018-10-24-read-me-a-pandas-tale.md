@@ -432,7 +432,7 @@ def _get_lines(self, rows=None):
     return lines
 ```
 
-`self.buf` gets filled each time we call the `PythonParser` to each line, as we were doing in `TextFileReader`. We control the number of lines using `size` and `chunksize` in `get_chunk()`, again in `TextFileReader`. For each chunk, we read the lines, and we add them to the buffer, which will populate data, which will eventually made up df, the end `DataFrame`, that `read_csv` is returning at the end of all this journey.
+`self.buf` gets filled each time we call the `PythonParser` to each line, as we were doing in `TextFileReader`. We control the number of lines using `size` and `chunksize` in `get_chunk()`, again in `TextFileReader`. For each chunk, we read the lines, and we add them to the buffer, which will populate data, which will eventually made up `df`, the end `DataFrame`, that `read_csv` is returning at the end of all this journey.
 
 That was a lot to process! Some takeaways may be useful now:
 
