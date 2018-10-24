@@ -20,7 +20,7 @@ Discussing this with my mentee, I found myself pronouncing a sentence that was s
 
 Are they?
 
-## <a name="context-manager"></a>Context Managers: the classic open file wrapper
+### <a name="context-manager"></a>Context Managers: the classic open file wrapper
 
 Well at first sight, you would say they definitely look like one, walk like one, and quack like one. A context manager simplifies resource management patterns by abstracting their functionality in the form of a `with` statement. It's an obscure feature of Python and the recruiter asked me about them in my last job interview, so they definitely signal some level of expertise in the language.
 
@@ -85,7 +85,7 @@ Now, instead of a class with two magic methods, it's a *generator* that opens th
 
 The question that I'm determined to ask in this post is: __Is pandas.read_csv() a context manager under the hood?__, and more broadly: __What the hell happens when we use it?__
 
-## TextFileReader
+### TextFileReader
 
 Unlike MATLAB, which I don't miss any chance to besmirch its reputation, pandas is an open source project publicly available on [GitHub](https://github.com/pandas-dev/pandas). The function `read_csv` can be found at pandas/io/parsers.py, which is simply the following [two lines](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L711):
 
@@ -269,7 +269,7 @@ Let's regroup for a moment: `read_csv` is sort of a context manager, but not ent
 
 That was enough, but we risk losing sleep for weeks because of not knowing what the PythonParser does. Let us relieve ourselves from that.
 
-## PythonParser
+### PythonParser
 
 Parsing is, in practice, turning a string into a data structure that I like. That is what I'm expecting to find in the definition of the [PythonParser class](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L2041) (non-default cases omitted for brevity):
 
