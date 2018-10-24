@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Read me a Pandas tale"
-date:   2018-10-23 15:00:00 +0100
+date:   2018-10-24 15:00:00 +0100
 categories: blog data-science
 permalink: /2018/10/read-me-a-pandas
 ---
@@ -230,9 +230,6 @@ class TextFileReader(BaseIterator):
     def read(self, nrows=None):
         nrows = _validate_integer('nrows', nrows)
 
-        if nrows is not None:
-            if self.options.get('skipfooter'):
-                raise ValueError('skipfooter not supported for iteration')
 
         # more or less like this:
         index, columns, col_dict = self._engine.read(nrows)
@@ -268,8 +265,185 @@ So, four main things here:
 
 4. `StopIteration` is raised here, so that means that it controls when the iteration stops at this abstraction level. To do so, it takes rows in chunks of size `self.chunksize`, and handles the end of the file by doing `min(size, self.nrows - self._currow)`, so that it doesn't *bite more than it can actually chew*.
 
-Let's regroup for a moment: `read_csv` is sort of a context manager, but not entirely, that calls a `TextFileReader` iterator to read the file. This `TextFileReader` iterates by calling the `PythonParser` again and again, and stops when the file has ended.
+Let's regroup for a moment: `read_csv` is sort of a context manager, but not entirely, that calls a `TextFileReader` iterator to read the file. This `TextFileReader` iterates by instantiating `PythonParser` again and again, and stops when the file has ended.
 
-That was enough, but we risk losing sleep for weeks because of not knowing what the PythonParser does. Let's relieve ourselves from that.
+That was enough, but we risk losing sleep for weeks because of not knowing what the PythonParser does. Let us relieve ourselves from that.
 
 ## PythonParser
+
+Parsing is, in practice, turning a string into a data structure that I like. That is what I'm expecting to find in the definition of the [PythonParser class](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L2041) (non-default cases omitted for brevity):
+
+```python
+class PythonParser(ParserBase):
+
+    def __init__(self, f, **kwds):
+        """
+        Workhorse function for processing nested list into DataFrame
+        Should be replaced by np.genfromtxt eventually?
+        """
+        ParserBase.__init__(self, kwds)
+
+        self.data = None
+        self.buf = []
+        self.pos = 0
+        self.line_pos = 0
+
+        # ...
+
+        # Set self.data to something that can read lines.
+        if hasattr(f, 'readline'):
+            self._make_reader(f)
+        else:
+            self.data = f
+
+        # ...
+
+    def _make_reader(self, f):
+        sep = self.delimiter
+
+        if sep is None or len(sep) == 1:
+
+            # ...
+
+            class MyDialect(csv.Dialect):
+                delimiter = self.delimiter
+                quotechar = self.quotechar
+                escapechar = self.escapechar
+                doublequote = self.doublequote
+                skipinitialspace = self.skipinitialspace
+                quoting = self.quoting
+                lineterminator = '\n'
+
+            dia = MyDialect
+
+            sniff_sep = True
+
+            if sep is not None:  # which isn't the default case
+
+                #...
+
+            # attempt to sniff the delimiter
+            if sniff_sep:
+                line = f.readline()
+
+                # ...
+
+                self.pos += 1
+                self.line_pos += 1
+
+                sniffed = csv.Sniffer().sniff(line)
+
+                dia.delimiter = sniffed.delimiter
+                if self.encoding is not None: # which isn't the default case
+                    # ...
+                else:
+                    self.buf.extend(list(csv.reader(StringIO(line),
+                                                    dialect=dia)))
+
+            if self.encoding is not None: # which isn't the default case
+                # ...
+            else:
+                reader = csv.reader(f, dialect=dia,
+                                    strict=True)
+
+        else:
+            # ...
+
+        self.data = reader
+```
+
+Initialising this was draining: we created a function called `self.data` that reads using the `csv.reader` functionality, among other things (`Sniffer`, `Dialect`, etc...).
+
+Given that PythonParser.read() is called in the iterator defined previously, let's look at that method:
+
+```python
+
+    def read(self, rows=None):
+        try:
+            content = self._get_lines(rows) # this reads everything in one go.
+        except StopIteration:
+            if self._first_chunk:
+                content = []
+            else:
+                raise
+
+        # done with first read, next time raise StopIteration
+        self._first_chunk = False
+
+        columns = list(self.orig_names)
+        if not len(content):
+            # DataFrame with the right metadata, even though it's length 0
+
+            # ...
+
+        # some logic that transforms content into index, columns, data
+
+        return index, columns, data
+```
+
+I'm a huge fan of those iterators that iterate only once. My little understanding of high level programme architecture tells me that this is for the function to be more efficient.
+
+But what does the `get_lines()` method does, exactly?
+
+```python
+
+def _get_lines(self, rows=None):
+    lines = self.buf  # the buffer
+    new_rows = None
+
+    # already fetched some number
+    if rows is not None:
+        # we already have the lines in the buffer unless we call the method
+        # for the first time
+        if len(self.buf) >= rows:
+            new_rows, self.buf = self.buf[:rows], self.buf[rows:]
+
+        # need some lines
+        else:
+            rows -= len(self.buf)
+
+    # now that we have defined new_rows either as the first "rows" of self.buf, or (if buf has less rows than the predefined rows) as None:
+
+    if new_rows is None:
+        if isinstance(self.data, list):
+
+            # control that we are not beyond the end of the file
+            if self.pos > len(self.data):
+                raise StopIteration
+            # controls the beginning of the file
+            if rows is None:
+                new_rows = self.data[self.pos:]
+                new_pos = len(self.data)
+            # anything inbetween
+            else:
+                new_rows = self.data[self.pos:self.pos + rows]
+                new_pos = self.pos + rows
+
+            # ...
+
+            lines.extend(new_rows)
+            self.pos = new_pos
+
+        # ...
+    # new_rows is not None
+    else:
+        lines = new_rows
+
+    # ...
+    # return sort of lines, with special checks
+    return lines
+```
+
+`self.buff` gets filled each time we call the `PythonParser` to each line, as we were doing in `TextFileReader`. We control the number of lines using `size` and `chunksize` in `get_chunk()`, again in `TextFileReader`. For each chunk, we read the lines, and we add them to the buffer, which will populate data, which will eventually made up df, the end DataFrame, that `read_csv` is returning at the end of all this journey.
+
+That was a lot to process! Some takeaways may be useful now:
+
+- `pandas.read_csv` is a form of context manager that encapsulates an iterator, in the same way that [the classic context manager example](#context-manager) of opening a file works.
+
+- Iterating through a file instead of using lists is the way panda uses to be much more memory-efficient, allowing for big pieces of data to be passed from csv through disk across the RAM bottleneck. If you’ve ever worked with *database cursors*, iterators will seem familiar: because there’s never more than one element in RAM, this approach is highly memory-efficient.
+
+- `pandas.read_csv` is a special case of the `pandas.read_` parsers, and makes use of the `csv` library for convenience. We haven't touched what happens when we step outside a csv file, and believe me, you don't want to do that.
+
+We can all sleep peacefully now: pandas seems like a memory-efficient file reader that makes sense at the higher level (context manager) but with some nitty-gritty details that allow for us reckless scribblers who find a solution on SO and don't even bother in thinking what its consequences are.
+
+And I know that because that's what will be engraved in my tombstone.
