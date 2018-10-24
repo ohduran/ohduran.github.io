@@ -268,8 +268,8 @@ So, four main things here:
 
 4. `StopIteration` is raised here, so that means that it controls when the iteration stops at this abstraction level. To do so, it takes rows in chunks of size `self.chunksize`, and handles the end of the file by doing `min(size, self.nrows - self._currow)`, so that it doesn't *bite more than it can actually chew*.
 
-Let's regroup for a moment: `read_csv` is sort of a context manager, but not entirely, that calls a `TextFileReader` iterator to read the file. This `TextFileReader` iterates by calling the `PythonParser` again and again, and stops
+Let's regroup for a moment: `read_csv` is sort of a context manager, but not entirely, that calls a `TextFileReader` iterator to read the file. This `TextFileReader` iterates by calling the `PythonParser` again and again, and stops when the file has ended.
 
-leaves it to decide when to stop (presumably by raising an `StopIteration` somewhere along the process).
+That was enough, but we risk losing sleep for weeks because of not knowing what the PythonParser does. Let's relieve ourselves from that.
 
 ## PythonParser
