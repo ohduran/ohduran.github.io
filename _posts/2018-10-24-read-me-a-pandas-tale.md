@@ -87,7 +87,7 @@ The question that I'm determined to ask in this post is: __Is pandas.read_csv() 
 
 ### TextFileReader
 
-Unlike MATLAB, which I don't miss any chance to besmirch its reputation, pandas is an open source project publicly available on [GitHub](https://github.com/pandas-dev/pandas). The function `read_csv` can be found at pandas/io/parsers.py, which is simply the following [two lines](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L711):
+Unlike MATLAB, whose reputation I don't miss any chance to besmirch, pandas is an open source project publicly available on [GitHub](https://github.com/pandas-dev/pandas). The function `read_csv` can be found at pandas/io/parsers.py, which is simply the following [two lines](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L711):
 
 ```python
 read_csv = _make_parser_function('read_csv', default_sep=',')
