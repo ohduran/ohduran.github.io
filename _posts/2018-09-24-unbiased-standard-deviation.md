@@ -24,7 +24,7 @@ What does those E mean? They mean that we are estimating the values. That's beca
 
 We are so far from what is _really_ going on behind the scenes, that we must treat everything we say about the data using this results with tremendous caution: we are prone to calculate something that isn't _real_.
 
-An estimator of the variance is, of course, sum every (x - m)^2, _m being the mean value of x_, then divide it by `n`, the number of cases in the sample, the number of people in our poll. It can be [proved](https://en.wikipedia.org/wiki/Variance#Sample_variance) that this doesn't lead to what you would expect. Averaging values and then averaging computations with that value doesn't add up in the end.
+An estimator of the variance is, of course, sum every `(x - m)^2`, _`m` being the mean value of x_, then divide it by `n`, the number of cases in the sample, the number of people in our poll. It can be [proved](https://en.wikipedia.org/wiki/Variance#Sample_variance) that this doesn't lead to what you would expect. Averaging values and then averaging computations with that value doesn't add up in the end.
 
 You're then __biased__: you are getting different results of the variance because you calculated the mean value first, instead of calculating the variance from the beginning. You must [correct that value](https://en.wikipedia.org/wiki/Bessel%27s_correction) and get the _unbiased_ result, just by dividing, instead by `n`, by `n-1`. Note that I didn't say real: that train departed a long time ago.
 
