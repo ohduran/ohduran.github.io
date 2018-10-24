@@ -16,7 +16,7 @@ I'm addressing this because understanding how things work in the background isn'
 
 Discussing this with my mentee, I found myself pronouncing a sentence that was sensible to me at the moment, but that left me with a bad taste in my mouth:
 
-"– Pandas' functions `read_csv`, `read_json`, ..., they're all context managers in the background."
+> Pandas' functions `read_csv`, `read_json`, ..., they're all context managers in the background.
 
 Are they?
 
