@@ -146,9 +146,9 @@ def _read(filepath_or_buffer, kwds):
     return data
 ```
 
-Ah! Sweet! try, finally, that's something that resembles the context manager definition we saw [earlier](#context-manager)! However, it's not 100% that, see? No yield, no `@contextmanager`... we need to see what's behind that [TextFileReader](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L739) curtain.
+Ah! Sweet! `try`, `finally`, that's something that resembles the context manager definition we saw [earlier](#context-manager)! However, it's not 100% that, see? No `yield`, no `@contextmanager`... we need to see what's behind that [TextFileReader](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L739) curtain.
 
-Going down the rabbit hole, Get away from all we know...
+Going down the rabbit hole, get away from all we know...
 
 ```python
 class TextFileReader(BaseIterator):
@@ -198,18 +198,17 @@ Oh, that was unexpected, wasn't it? An [iterator](https://stackoverflow.com/ques
 
 Or maybe not. Remember that we saw earlier that the context manager definition includes a `yield` within the `try` block? If that iterator only iterates once, that means that we might be in front of an actual context manager without knowing it.
 
-So this was a weird path that pandas is taking here, but not so much really: it iterates by calling `self.get_chunk()`, and it closes by calling `self._engine.close()`. Can we expect now that `self.get_chunk()` also calls `self._engine.__next__()` or something like that, so that it means that this iterator is simply a wapper of the so called "engine"?
+So this was a weird path that pandas is taking here, but not so much really: it iterates by calling `self.get_chunk()`, and it closes by calling `self._engine.close()`. Should we expect that `self.get_chunk()` also calls `self._engine.__next__()` or something like that, so that it means that this iterator is simply a wapper of `self.engine`?
 
 Let's find out in the second part of the class:
 
 ```python
 
 class TextFileReader(BaseIterator):
-    """
-    Passed dialect overrides any of the related parser options
-    """
 
-    # What we saw earlier...
+    # What we saw earlier is omitted...
+
+    # And the second part:
 
     def _make_engine(self, engine='c'):
         if engine == 'c':
@@ -258,19 +257,19 @@ So, four main things here:
 
 1. `_make_engine` instantiates a `PythonParser` object for the file `self.f` with which we have defined `read_csv` at the beginning, back in distant memory.
 
-2. `read` effectively calls `self._engine.read()`, and we witness for the first time the end result of read_csv, DataFrame.
+2. `read` effectively calls `self._engine.read()`, and we witness for the first time the end result of `read_csv`, `DataFrame`.
 
 3. `get_chunk` calls `self.read`, so we were (kinda) right: this `TextFileReader` wraps up the `PythonParser` needle with a lot of logic that is mostly hay.
 
 4. `StopIteration` is raised here, so that means that it controls when the iteration stops at this abstraction level. To do so, it takes rows in chunks of size `self.chunksize`, and handles the end of the file by doing `min(size, self.nrows - self._currow)`, so that it doesn't *bite more than it can actually chew*.
 
-Let's regroup for a moment: `read_csv` calls a `TextFileReader` iterator to yield the file. A handbook case of try, yield, finally that makes up a context manager. This `TextFileReader` makes use of a recurrent instantiation of `PythonParser`, and stops when the file has ended.
+Let's regroup for a moment: `read_csv` calls a `TextFileReader` iterator to yield the file. A handbook case of `try, yield, finally` that makes up a context manager. This `TextFileReader` makes use of a recurrent instantiation of `PythonParser`, and stops when the file has ended.
 
-That was enough, but we risk losing sleep for weeks because of not knowing what the PythonParser does. Let us relieve ourselves from that.
+That was enough, but we risk losing sleep for weeks because of not knowing what the `PythonParser` does. Let us relieve ourselves from that misery.
 
 ### PythonParser
 
-Parsing is, in practice, turning a string into a data structure that I like. That is what I'm expecting to find in the definition of the [PythonParser class](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L2041) (non-default cases omitted for brevity):
+Parsing is, in practice, turning a string into a data structure that I like. That is what I'm expecting to find in the definition of the [`PythonParser` class](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L2041) (non-default cases omitted for brevity):
 
 ```python
 class PythonParser(ParserBase):
@@ -355,7 +354,7 @@ Initialising this was draining to my eyes and brain: we created a function calle
 
 If you've ever worked with the built-in function `open()`, you know that calling `readline()` yields the next line in the file, which is literally the definition of an iterator.
 
-Given that PythonParser.read() is called in the iterator defined previously, let's look at that method:
+Given that `PythonParser.read()` is called in the iterator defined previously, let's look at that method:
 
 ```python
 
@@ -382,9 +381,7 @@ Given that PythonParser.read() is called in the iterator defined previously, let
         return index, columns, data
 ```
 
-I'm a huge fan of those iterators that iterate only once.
-
-But what does the `get_lines()` method does, exactly?
+But what does the `get_lines()` method does, exactly, to come up with the variable that we store as `content`?
 
 ```python
 
@@ -435,7 +432,7 @@ def _get_lines(self, rows=None):
     return lines
 ```
 
-`self.buff` gets filled each time we call the `PythonParser` to each line, as we were doing in `TextFileReader`. We control the number of lines using `size` and `chunksize` in `get_chunk()`, again in `TextFileReader`. For each chunk, we read the lines, and we add them to the buffer, which will populate data, which will eventually made up df, the end DataFrame, that `read_csv` is returning at the end of all this journey.
+`self.buf` gets filled each time we call the `PythonParser` to each line, as we were doing in `TextFileReader`. We control the number of lines using `size` and `chunksize` in `get_chunk()`, again in `TextFileReader`. For each chunk, we read the lines, and we add them to the buffer, which will populate data, which will eventually made up df, the end `DataFrame`, that `read_csv` is returning at the end of all this journey.
 
 That was a lot to process! Some takeaways may be useful now:
 
@@ -447,4 +444,4 @@ That was a lot to process! Some takeaways may be useful now:
 
 ### Wrap up
 
-We can all sleep peacefully now: pandas seems like a memory-efficient file reader that makes sense at the higher level (context manager) but with some nitty-gritty details that allow for us, reckless scribblers who find a solution on SO and just copy-paste it, to load a big file and not suffer the consequences of our actions.
+We can all sleep peacefully now: pandas seems like a memory-efficient file reader that makes sense at the higher level (context manager) with some nitty-gritty details that allow us, reckless scribblers who find a solution on SO and just copy-paste it, to load a big file and not suffer the consequences of our actions.
