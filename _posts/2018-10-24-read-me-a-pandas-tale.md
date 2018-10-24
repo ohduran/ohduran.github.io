@@ -12,11 +12,11 @@ As part of mentoring Data Science students, that question usually comes a lot. M
 
 In the real world, the end-to-end data mining process usually involves a third party website that could not be bothered with providing its information easily. If you read this and have worked at ICWATCH, you know [what I'm talking about](https://techcrunch.com/2016/08/15/linkedin-sues-scrapers/?guccounter=1). The truth is, in many cases, deal with csv files, which perfectly accommodate pandas DataFrame instances, is idealistic: raw data comes in the form of JSON, because that's the language the Internet speaks.
 
-I'm addressing this because understanding how things work in the background isn't just for engineers: [all abstractions are leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/), Spolsky dixit, and this abstraction in particular is 1987 Chevrolet Vega level of leakiness: it leaves you in the middle of the road right before even starting.
+I'm addressing this because understanding how things work in the background isn't just for engineers: [all abstractions are leaky](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/), Spolsky dixit, and this abstraction in particular is 1987 Chevrolet Vega level of leakiness: it leaves you in the middle of the road right after starting.
 
 Discussing this with my mentee, I found myself pronouncing a sentence that was sensible to me at the moment, but that left me with a bad taste in my mouth:
 
-"– Pandas `read_csv`, `read_json`, etc, they're all context managers in the background."
+"– Pandas' functions `read_csv`, `read_json`, ..., they're all context managers in the background."
 
 Are they?
 
