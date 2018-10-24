@@ -87,21 +87,20 @@ The question that I'm determined to ask in this post is: __Is pandas.read_csv() 
 
 ### TextFileReader
 
-Unlike MATLAB, whose reputation I don't miss any chance to besmirch, pandas is an open source project publicly available on [GitHub](https://github.com/pandas-dev/pandas). The function `read_csv` can be found at pandas/io/parsers.py, which is simply the following [two lines](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L711):
+Unlike MATLAB, whose reputation I don't miss any chance to besmirch, [pandas](https://github.com/pandas-dev/pandas) is an open source project publicly available. The function `read_csv` can be found at pandas/io/parsers.py, which is simply the following [two lines](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L711):
 
 ```python
 read_csv = _make_parser_function('read_csv', default_sep=',')
 read_csv = Appender(_read_csv_doc)(read_csv)
 ```
 
-Now this tells me two things: one, virtually nothing, and second, that it has the documentation defined a couple lines earlier. Not much, I know. To gather more insight, let's go find the [`_make_parser_function`](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L547), just above, to see that it follows more or less the following structure:
+Now this means two things: the first line, virtually nothing, and second one, that it has the documentation defined a couple lines earlier. Not much, I know. To gather more insight, let's go find the [`_make_parser_function`](https://github.com/pandas-dev/pandas/blob/master/pandas/io/parsers.py#L547), just above, to see that it follows more or less the following structure:
 
 ```python
 def _make_parser_function(name, default_sep=','):
 
-    # pretty much what follows
+    # pretty much what follows if you don't use anything deprecated
     sep = default_sep
-    # if you don't use anything deprecated
 
     def parser_f(kwargs):
 
@@ -197,9 +196,9 @@ class TextFileReader(BaseIterator):
 
 Oh, that was unexpected, wasn't it? An [iterator](https://stackoverflow.com/questions/9884132/what-exactly-are-iterator-iterable-and-iteration)!
 
-Or maybe not. If you've ever worked with the built-in function `open()`, you know that calling `readline()` yields the next line in the file, which is literally the definition of an iterator.
+Or maybe not. Remember that we saw earlier that the context manager definition includes a `yield` within the `try` block? If that iterator only iterates once, that means that we might be in front of an actual context manager without knowing it.
 
-So this was a weird path that pandas is taking here, but not so much really: it iterates by calling `self.get_chunk()`, and it closes by calling `self._engine.close()`. Can we expect now that `self.get_chunk()` also calls `self._engine.__next()` or something like that, so that it means that this iterator is simply a wapper of the so called "engine"?
+So this was a weird path that pandas is taking here, but not so much really: it iterates by calling `self.get_chunk()`, and it closes by calling `self._engine.close()`. Can we expect now that `self.get_chunk()` also calls `self._engine.__next__()` or something like that, so that it means that this iterator is simply a wapper of the so called "engine"?
 
 Let's find out in the second part of the class:
 
@@ -265,7 +264,7 @@ So, four main things here:
 
 4. `StopIteration` is raised here, so that means that it controls when the iteration stops at this abstraction level. To do so, it takes rows in chunks of size `self.chunksize`, and handles the end of the file by doing `min(size, self.nrows - self._currow)`, so that it doesn't *bite more than it can actually chew*.
 
-Let's regroup for a moment: `read_csv` is sort of a context manager, but not entirely, that calls a `TextFileReader` iterator to read the file. This `TextFileReader` iterates by instantiating `PythonParser` again and again, and stops when the file has ended.
+Let's regroup for a moment: `read_csv` calls a `TextFileReader` iterator to yield the file. A handbook case of try, yield, finally that makes up a context manager. This `TextFileReader` makes use of a recurrent instantiation of `PythonParser`, and stops when the file has ended.
 
 That was enough, but we risk losing sleep for weeks because of not knowing what the PythonParser does. Let us relieve ourselves from that.
 
@@ -352,7 +351,9 @@ class PythonParser(ParserBase):
         self.data = reader
 ```
 
-Initialising this was draining: we created a function called `self.data` that reads using the `csv.reader` functionality, among other things (`Sniffer`, `Dialect`, etc...).
+Initialising this was draining to my eyes and brain: we created a function called `self.data` that reads using the `csv.reader` functionality, among other things (`Sniffer`, `Dialect`, etc...).
+
+If you've ever worked with the built-in function `open()`, you know that calling `readline()` yields the next line in the file, which is literally the definition of an iterator.
 
 Given that PythonParser.read() is called in the iterator defined previously, let's look at that method:
 
@@ -381,7 +382,7 @@ Given that PythonParser.read() is called in the iterator defined previously, let
         return index, columns, data
 ```
 
-I'm a huge fan of those iterators that iterate only once. My little understanding of high level programme architecture tells me that this is for the function to be more efficient.
+I'm a huge fan of those iterators that iterate only once.
 
 But what does the `get_lines()` method does, exactly?
 
@@ -443,6 +444,8 @@ That was a lot to process! Some takeaways may be useful now:
 - Iterating through a file instead of using lists is the way panda uses to be much more memory-efficient, allowing for big pieces of data to be passed from csv through disk across the RAM bottleneck. If you’ve ever worked with *database cursors*, iterators will seem familiar: because there’s never more than one element in RAM, this approach is highly memory-efficient.
 
 - `pandas.read_csv` is a special case of the `pandas.read_` parsers, and makes use of the `csv` library for convenience. We haven't touched what happens when we step outside a csv file, and believe me, you don't want to do that.
+
+### Wrap up
 
 We can all sleep peacefully now: pandas seems like a memory-efficient file reader that makes sense at the higher level (context manager) but with some nitty-gritty details that allow for us reckless scribblers who find a solution on SO and don't even bother in thinking what its consequences are.
 
