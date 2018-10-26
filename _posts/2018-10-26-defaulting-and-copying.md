@@ -90,7 +90,7 @@ def calculate(a, b, last_value={}):
         value = last_value[a, b] # return already calculated value
     except KeyError:
         value = calculation(a, b)
-        last_value[a, b, c] = value # update the memo dictionary
+        last_value[a, b, c] = value # update the dictionary
     return value
 ```
 
