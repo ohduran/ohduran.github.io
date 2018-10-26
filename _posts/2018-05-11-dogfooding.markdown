@@ -2,10 +2,9 @@
 layout: post
 title:  "Dogfooding"
 date:   2018-05-11 15:00:00 +0100
-categories: blog
+categories: business
 permalink: /2018/05/dogfooding
 ---
-# Dogfooding
 I'm in love with edge cases of capitalism. One thing I have always being told is that property is at the core of our modern society, and economies thrive partly because individual agents have something (their "stuff") to care for, and they are unwilling to give away goods or services unless it is in exchange for money, or any other form of remuneration. What we usually reduce to "there is no such thing as a free lunch."
 
 It's interesting, because Wikipedia or open-source software such as GNU-Linux have proven that it isn't always the case. And that is because, consistently with societies that deal more frequently with intellectual property, its differences with owning material things become acute and significant.
