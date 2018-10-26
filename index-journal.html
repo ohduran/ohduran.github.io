@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div id="home">
+  <h3><p><a href="/about/">Alvaro</a> here, maker of this <a href="/index-journal.html">journal</a>.
+    I write about <a href="/index-data-science.html" target="_blank">Data Science</a>, <a href="/index-mathematics.html" target="_blank">Mathematics</a>
+     and <a href="/index-business.html">Business</a>, and I read books while <a href="/index-booknotes.html">taking notes</a> about them.
+  </h3>
+
+<h2>Journal Entries</h2>
+
+<ul>
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}" href="/index-{{ category | first }}.html">{{ category | first| capitalize }}</a>
+    <ul>
+    {% for post in category.last %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    <p id="spacing"> </p>
+    </ul>
+  </li>
+{% endfor %}
+</ul>

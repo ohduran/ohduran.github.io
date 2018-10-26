@@ -2,10 +2,9 @@
 layout: post
 title:  "What is an electron?"
 date:   2018-08-13 15:00:00 +0100
-categories: blog
+categories: mathematics
 permalink: /2018/08/what-is-an-electron
 ---
-
 How do we handle complex ideas in our head? How do we manage to use a brain that, in all its power, was designed to grasp concrete ideas to hunt, organise small groups of people and preserve itself, and put it to manipulate concepts that cannot be seen? At the peak of their era, Romans have conquered pretty much all the known world, and yet they were using a numerical system that could only count up to 10,000, and the concept of zero was yet to be mastered!
 
 We've always dealt with our Universe assuming that we as mere humans can understand what is going on, that everything is rational, and that our theories are fallible: we're getting less and less wrong one step at a time.
