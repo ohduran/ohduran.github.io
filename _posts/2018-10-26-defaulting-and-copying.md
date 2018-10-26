@@ -174,5 +174,3 @@ Wow, they __are shared__, provided that we change nested values! That's what we 
 >[Shallow and Deep Copy Operations, The Python Standard Library](https://docs.python.org/2/library/copy.html)
 
 Like in [defaulting](#defaulting), these copies are references, and thus can be accessed from the shallow copy as they were its own. Check out the documentation on the [copy library](https://docs.python.org/2/library/copy.html) if you want to learn more.
-
-##
