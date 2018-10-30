@@ -18,7 +18,9 @@ That's normal. In fact, that's what it's called: a normal distribution.
 
 But how normal is it? That's a weird question. What you can ask instead is how much people fall between the average plus and minus x amount of salary. Of course, the bigger the interval, you would expect the more people to fall within it, but exactly how much can only be determined by the variance: the average sum of the difference between the mean value and the value x, squared.
 
-`V = E( (X - E(X))^2 )`
+$$
+V = E[(X - E[X])^2]
+$$
 
 What does those E mean? They mean that we are estimating the values. That's because the real thing is _unobservable_: we cannot see the mean value, the __real__ mean value, we can only estimate it. RLS. So what we do first is: estimate the mean value, then for each of the values x of the sample X, get the difference between the mean and x, square them, and then estimate the mean of those values.
 
