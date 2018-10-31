@@ -12,7 +12,7 @@ permalink: /2018/10/how-to-read-a-book
 >
 > -- __How to Read a Book__
 
-We all know how to read; we've all learned in school, and are constantly bombarded by reading material: ads, headlines, emails, blogs, and yes, books. But we haven't really learned __how__ to do it: we just read. We go through life reading but our reading goes through us too. It's something we are [conscious](https://www.quora.com/Why-do-I-quickly-forget-what-I-read) [about](https://mind-globe.com/why-do-i-forget-what-i-read/) [it](https://www.newyorker.com/books/page-turner/the-curse-of-reading-and-forgetting). In most cases, the answer is just "it's OK to forget what you read", but that's paradoxical: if we forget what we read, __why doing it?__
+We all know how to read; we've all learned in school, and are constantly bombarded by reading material: ads, headlines, emails, blogs, and yes, books. But we haven't really learned __how__ to do it: we just read. We go through life reading but our reading goes through us too. It's something we are [conscious](https://www.newyorker.com/books/page-turner/the-curse-of-reading-and-forgetting) [about](https://mind-globe.com/why-do-i-forget-what-i-read/). In most cases, the answer is just "it's OK to forget what you read", but that's paradoxical: if we forget what we read, __why doing it?__
 
 > There is some feeling nowadays that reading is not as necessary as it once was. One of the reasons for this situation is that the very media are so designed as to make thinking seem unnecessary. The packaging of ideas is their production. The viewer of television, the listener to the radio, the reader of magazines, is presented with a whole complex of elements to make it easy for him to ‘make up his own mind’ with the minimum difficulty and effort.
 
@@ -358,3 +358,7 @@ If that is so, then, which are the ten books that you would bring with you to a 
 Our relationship with the outside world is like messages inside a bottle. Books are one way to communicate with our world in a timeless way, learn from an absent teacher.
 
 Reading actively, enjoy reading and what you read, is not only good in itself, but also a means to an end: advancement in your career for starters, but also advancement in your growth as a person and the growth of the mind, keeping it alive, healthy and alert. So read, read, and keep reading. And be guided by this practical book on how to read.
+
+If we were to reduce this book into one paragraph, it would be this: reading actively is all about caring about what you read. You must be selective in what you read, thus you are expected to choose what you read, and not be asked to read something. In my position, I demand from my next book to explain to me how to care about what I do. And thus, the book I'm reading next is Skin in the Game, by Nassim Taleb.
+
+See you next time!
