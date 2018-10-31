@@ -4,17 +4,19 @@ title: Contact
 permalink: /contact/
 ---
 
-Ubiquitous email access has become engrained in our professional habits. As John Freeman warns in his book [The Tyranny of Email](https://www.amazon.com/Tyranny-mail-Four-Thousand-Year-Journey-Inbox/dp/1416576746), with the rise of technology *we are slowly eroding our ability to explain - in a careful, complex way- why it is so wrong for us to complaint, resist, or redesign our workdays so that they are manageable*.
 
-However, just because you cannot avoid email altogether doesn't mean I have to cede all authority over its role in my mental landscape.
+*You can email me at __alvaro.duranb@gmail.com__. However, be aware that my default behaviour when receiving an email is to __not__ respond.*
 
-Let me be clear: I want to talk to you. We can both benefit from talking to each other, pick each other's brains and learn from our experiences. Most nonfiction authors are easy to reach: on Twitter and via email, both included on their websites along with an open invitation to send them any request that comes to mind, arguing that this would help with their "community building". In my case, I have reviewed a lot of people's CVs and code, and all in all have had lots of meaningful conversations.
 
-On the other hand, I have also wasted my time far too many times over an email conversation. If you have something worth telling me, please go ahead, I'll do my best to answer as soon as possible. Otherwise, think twice, regroup your thoughts, make time to compel a good case for why your email is worth reading and worth answering to. Or just don't send it: my default behaviour when receiving an email is to __not__ respond. When it comes to email, it's the sender responsibility to convince the receiver that a reply is worthwhile.
+When it comes to email, it's the sender responsibility to convince the receiver that a reply is worthwhile. Ubiquitous email access is engrained in our habits, and we have almost lost the ability to redesign our workdays so that we aren't reactive to notifications and emails.
 
-And don't take it personal: it's a sender filter. Like the one most big firms use in their job applications, asking meaningless questions to their candidates so that those who eventually apply are **really** interested in the job offer.
+However, I'm not going to give all authority over to my mobile to determine my mindset.
 
-If you can do that, I will deliver an email that will be, to the best of my ability, the most efficient process for bringing your request to a successful conclusion. I aim at "closing the loop", trying to bring the conversation to an end as soon as possible, with you having an answer promptly and with me without something "on my plate".
+Let me be clear, __I want to talk to you__. We can both benefit from talking to each other. But I'm not 'building a community' here, and the likelihood of poorly thought emails to waste our time is tremendous. [We can do better](/2018/08/deep-work).
+
+If you have something worth telling me, make time to compel a good case for why your case is worth considering and worth answering to, and __send it to me__. Or don't. This is actually a sender filter, like the one most big firms use in their job applications: ask meaningless questions to your candidates so that those who eventually apply are __really__ interested in the job offer.
+
+Provided that you can do that, I will deliver an email that will be, to the best of my ability, the most efficient process for bringing your request to a successful conclusion. I'm bringing the conversation to an end as soon as possible, hence avoiding the back-and-forth email chains that come from poorly thought emails and leaving actionable feedback "on your plate".
 
 ### Generic Tips for Emailing Busy People
 
@@ -23,7 +25,3 @@ If you can do that, I will deliver an email that will be, to the best of my abil
 2. __Have a little patience__: I once read in [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) about ALOHAnet, and how it overcome interference by using what is called _Exponential Backoff_: double the potential delay before trying to transmit again. If I did not respond in one week, try again, and then wait two weeks.
 
 3. __Don't use jargon with me__: I once worked at a financial services consultancy firm and the thing that I liked the least was people _pretending they know_. Help me understand, but also put your things together and avoid jargon at all costs. Start from the beginning, then drill down.
-
-### Where you can find me
-
-[GitHub](https://github.com/ohduran)  [LinkedIn](https://www.linkedin.com/in/alvaroduranbarata/)  [Email](alvaro.duranb@gmail.com)
