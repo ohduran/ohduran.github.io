@@ -8,6 +8,7 @@ permalink: /contact/
 *You can email me at __alvaro.duranb@gmail.com__. However, be aware that my default behaviour when receiving an email is to __not__ respond.*
 
 
+
 When it comes to email, it's the sender responsibility to convince the receiver that a reply is worthwhile. Ubiquitous email access is engrained in our habits, and we have almost lost the ability to redesign our workdays so that we aren't reactive to notifications and emails.
 
 However, I'm not going to give all authority over to my mobile to determine my mindset.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to read a book"
+title:  "Notes on 'How to read a book'"
 date:   2018-10-19 15:00:00 +0100
 categories: booknotes
 permalink: /2018/10/how-to-read-a-book
