@@ -9,7 +9,7 @@ Since I read [Deep Work](/2018/08/deep-work), I've been in a constant quest to r
 
 After having removed all my social media apps on my mobile, the screen looks... charmless. In fact, why having one of those killer smartphones when something a bit retro might do, for a tiny fraction of the price?
 
-That was the moment when I thought about my old BlackBerry. I found [an article](https://www.forbes.com/2009/08/17/rim-apple-sweeny-intelligent-technology-blackberry.html#2d53e8b8863e) on Forbes that, in hindsight, is comical. Being written in 2009, the author of one of those silly books in which society as a collective falls into the narrative fallacy explains the "future of the BlackBerry":
+That was the moment when I thought about my old BlackBerry. I found [an article](https://www.forbes.com/2009/08/17/rim-apple-sweeny-intelligent-technology-blackberry.html#2d53e8b8863e) on Forbes that, in hindsight, is comical. Being written in 2009, the author of one of those silly books, in which society as a whole falls into the narrative fallacy, explains the "future of the BlackBerry":
 
 >The idea of the telebrain is a brain in your pocket. Experts say the future will bring many radios on a single chip, mobile storage as big as the human brain, high-definition mobile video and wireless spectrum galore. Lazaridis [founder of RIM and creator of BlackBerry] has been funding an institute of quantum physics in Canada for years. One engineer I spoke to said Lazaridis is interested in marrying quantum physics with mobile devices. You could also call it techno-telepathy; technology that allows people to stay in such close touch, it's almost like telepathy.
 >
