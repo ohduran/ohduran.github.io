@@ -5,7 +5,6 @@ date:   2017-10-13 15:00:00 +0100
 categories: miscellaneous business
 permalink: /2017/10/conflicts-of-interest
 ---
-## The question
 
 It's hard to make sense of the news today.
 
