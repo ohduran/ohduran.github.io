@@ -12,6 +12,11 @@ layout: default
     <ul>
     {% for post in category.last %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
+      {% unless post.categories contains 'booknotes' %}
+      <h5>{{ post.excerpt }}</h5>
+      {% else %}
+      <br>
+      {% endunless %}
     {% endfor %}
     <p id="spacing"> </p>
     </ul>
