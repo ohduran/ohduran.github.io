@@ -6,7 +6,7 @@ categories: data-science
 permalink: /2018/10/defaulting-and-copying
 ---
 
-Most Data Scientists, at least the ones that I mentor, usually come from non-STEM backgrounds, and gravitate towards it driven by their own curiosity and, lest we don't say it, its employability prospects. The most common student is one coming from either Psychology or Business backgrounds. He or she (mostly a he, that's why I mentor, when possible, girls) has looked up for free tutorials on the internet on how to "do Data Science", Machine Learning, and Big Data. In most cases, the overwhelming amount of resources, rather than a positive things, becomes a burden: will I be a Data Scientist after this course or that course?
+Most Data Scientists, at least the ones that I mentor, usually come from non-STEM backgrounds, and gravitate towards it driven by their own curiosity, and has looked up for free tutorials on the internet on how to "do Data Science", Machine Learning, and Big Data. In most cases, the overwhelming amount of resources, rather than a positive things, becomes a burden: will I be a Data Scientist after this course or that course?
 
 That of course is the backdrop against many "we will turn you into a Data Scientist in 21 days" courses proliferate like the plague: Internet is a place with signal, but with a low signal to noise ratio.
 
