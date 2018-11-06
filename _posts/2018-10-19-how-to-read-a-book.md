@@ -101,7 +101,7 @@ This of course goes against common sense: why reading it twice, when one is enou
 
 What you understand by reading the book through to the end will help you when you make the additional effort later to go back to the places you passed by on your first reading. And even if you never go back, understanding half of a really good book is better than not understanding it at all.
 
-If you had the high school literature experience that I had, your teacher may have spent days on end ranting and discussing and analysing pieces of writing by "The Classics", which would have dragged you down inevitably and might have even make you die of boredom. And unfortunately, that means that you have never read any of those works. By the time you reached to the end, you have already forgotten how they started.
+If you had the high school literature experience that I had, your teacher may have spent days on end ranting and discussing and analysing pieces of writing by "The Classics", which would have dragged you down inevitably and might have even made you die of boredom. And unfortunately, that means that you have never read any of those works. By the time you reached to the end, you have already forgotten how they started.
 
 Instead, your teacher should have encouraged you to read the book at one sitting and discuss what you took away from it. In your effort to master the fine points, you generally will miss the big ones. You will miss the forest for the trees.
 
@@ -305,7 +305,7 @@ The fourth and highest level of reading is called Syntopical Reading. When readi
 
 But there's an interesting paradox here: one can only ascertain whether a book is part of a relationship *after* reading it. It's a version of the [multi-armed bandit problem](https://en.wikipedia.org/wiki/Multi-armed_bandit) in probability theory, where you don't know how good something is unless you have tried it.
 
-There's no easy solution to this problem, despite the fact that this book doesn't go into it with as much deep as I would like.
+There's no easy solution to this problem, despite the fact that this book doesn't go into it with as much depth as I would like.
 
 > In the 1970s, the Unilever corporation asked a young mathematician named John Gittins to help them optimize some of their drug trials. Given several different chemical compounds, what is the quickest way to determine which compound is likely to be effective against a disease? It was, of course, another incarnation of the multi-armed bandit problem.[...]
 
@@ -359,6 +359,15 @@ Our relationship with the outside world is like messages inside a bottle. Books 
 
 Reading actively, enjoy reading and what you read, is not only good in itself, but also a means to an end: advancement in your career for starters, but also advancement in your growth as a person and the growth of the mind, keeping it alive, healthy and alert. So read, read, and keep reading. And be guided by this practical book on how to read.
 
-If we were to reduce this book into one paragraph, it would be this: reading actively is all about caring about what you read. You must be selective in what you read, thus you are expected to choose what you read, and not be asked to read something. In my position, I demand from my next book to explain to me how to care about what I do. And thus, the book I'm reading next is Skin in the Game, by Nassim Taleb.
+If we were to reduce this book into one paragraph, it would be this: reading actively is all about caring about what you read. You must be selective in what you read, thus you are expected to choose what you read, and not be asked to read something. Being proactive also means making mistakes, but that comes with choosing, with trial and error. You are prone to fail, but so long that those failures are not critical, you can get up and get going. In such a way it is playing chess: the mere fact that there are as many different plays as there are atoms in the Universe evidences that even grand masters make mistakes.
+
+That's how you learn: by making mistakes, and keeping yourself accountable for it.
+
+>Skin in the game is necessary to understand the world. Do not understand it as 'incentives', as it is understood in finance. It is about symmetry, like having a share of the harm, paying a penalty if something goes wrong.
+>
+> -- __Skin in the Game__
+
+
+That leads me to the book I'm reading next: __Skin in the Game__, by Nassim Taleb.
 
 See you next time!
