@@ -6,7 +6,7 @@ categories: data-science
 permalink: /2018/10/read-me-a-pandas
 ---
 
-If you have ever worked with pandas and JSON files, you [know](https://stackoverflow.com/questions/21104592/json-to-pandas-dataframe) [the](https://stackoverflow.com/questions/48593007/pandas-read-json-fails-with-a-simple-json-string) [struggle](https://stackoverflow.com/questions/43803180/how-to-read-json-file-using-python-pandas): it's hard to get it right first time, in the same fashion that `read_csv()` works.
+If you have ever worked with pandas and JSON files, you know the struggle (and so do  [him](https://stackoverflow.com/questions/21104592/json-to-pandas-dataframe) and [him](https://stackoverflow.com/questions/48593007/pandas-read-json-fails-with-a-simple-json-string) and [him](https://stackoverflow.com/questions/43803180/how-to-read-json-file-using-python-pandas): it's hard to get it right first time, and it definitely doesn't work as seemlessly as reading csv files.
 
 As part of mentoring Data Science students, that question usually comes a lot. Most of the Data Science courses out there usually deal with information coming from [Kaggle](https://www.kaggle.com/) or [data.gov](https://www.data.gov), but the real world has nothing to do with that.
 
