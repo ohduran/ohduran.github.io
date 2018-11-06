@@ -10,10 +10,9 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+    <hr style="border-width: 0.01px;">
+    {% include postfooter.html %}
   </div>
-
-  {% include postfooter.html %}
-
   {% include related_posts.html %}
 
 </article>
