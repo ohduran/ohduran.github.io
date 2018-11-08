@@ -42,6 +42,12 @@ This book caught my eye after reading [Deep Work](/2018/08/deep-work). One must 
 
 My main takeaway from this book is that reading is some sort of a video-game. Like skiing, or playing chess, reading feels like a deliberate process where you gain expertise while doing it, but only if you are focused and dedicated to it. First is tough, and you feel helpless, an you keep going because you witness that you're gaining competence and powers as you go through it.
 
+But that's how you learn.
+
+> The road to mastery is only traveled by those who can tolerate being a beginner.
+>
+> -- __[@TheStoicEmperor](https://twitter.com/TheStoicEmperor/status/1033610495507365890__
+
 
 ## Part 1: The dimensions of Reading
 
