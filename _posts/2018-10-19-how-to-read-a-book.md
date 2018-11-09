@@ -31,7 +31,7 @@ The problem is definitely not that; in fact, speed reading courses are now wides
 
 The book I'm talking about today teaches us [How to Read a Book](https://www.amazon.com/How-Read-Book-Intelligent-Touchstone/dp/0671212095?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0671212095): *with nothing but the power of your own mind, you gradually lift yourself from a state of understanding less to one of understanding more*. Its authors are Mortimer Adler and Charles Van Doren. The book argues that, for one to read correctly, he has to go through it in four stages: understanding what is it about, making sense of the terms and propositions of the book, extracting the answers to the questions you want to get answered and contextualise those answers with other books.
 
-This book caught my eye after reading [Deep Work](/2018/08/deep-work). One must not read passively, casually, but rather, actively, engaged. The more you can get from a book, the better. In the shallowness of our lives, Deep Work speaks to a level of deepness in our work that can only be achieved if we extract information from our surroundings the way is described in How to Read a Book. But just being engaged in our reading and not distracted ourselves isn't enough, for there are more barriers to an ideal reading.
+This book caught my eye after reading [Deep Work](/2018/08/deep-work).  In the shallowness of our lives, Deep Work speaks to a level of deepness in our work that can only be achieved if we extract information from our surroundings the way is described in How to Read a Book. One must not read passively, casually, but rather, actively, engaged. The more you can get from a book, the better. But just being engaged in our reading and not distracted ourselves isn't enough, for there are more barriers to an ideal reading.
 
 > The great majority of the several million books being written in Western tradition will not make sufficient demand on you for you to become a better reader. For the bottom 99% of them, skimming will do.
 
@@ -42,6 +42,12 @@ This book caught my eye after reading [Deep Work](/2018/08/deep-work). One must 
 > -- __How to Read a Book__
 
 My main takeaway from this book is that reading is some sort of a video-game. Like skiing, or playing chess, reading feels like a deliberate process where you gain expertise while doing it, but only if you are focused and dedicated to it. First is tough, and you feel helpless, an you keep going because you witness that you're gaining competence and powers as you go through it.
+
+But that's how you learn.
+
+> The road to mastery is only traveled by those who can tolerate being a beginner.
+>
+> -- __[@TheStoicEmperor](https://twitter.com/TheStoicEmperor/status/1033610495507365890__
 
 
 ## Part 1: The dimensions of Reading
@@ -363,12 +369,5 @@ Reading actively, enjoy reading and what you read, is not only good in itself, b
 If we were to reduce this book into one paragraph, it would be this: reading actively is all about caring about what you read. You must be selective in what you read, thus you are expected to choose what you read, and not be asked to read something. Being proactive also means making mistakes, but that comes with choosing, with trial and error. You are prone to fail, but so long that those failures are not critical, you can get up and get going. In such a way it is playing chess: the mere fact that there are as many different plays as there are atoms in the Universe evidences that even grand masters make mistakes.
 
 That's how you learn: by making mistakes, and keeping yourself accountable for it.
-
->Skin in the game is necessary to understand the world. Do not understand it as 'incentives', as it is understood in finance. It is about symmetry, like having a share of the harm, paying a penalty if something goes wrong.
->
-> -- __Skin in the Game__
-
-
-That leads me to the book I'm reading next: __Skin in the Game__, by Nassim Taleb.
 
 See you next time!
