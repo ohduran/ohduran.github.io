@@ -10,7 +10,12 @@ layout: default
   <li id="clean">{{ tags | first | capitalize }}
   <ul>
     {% for post in site.categories.booknotes %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
+      {% for tag in post.tags %}
+        {% if tags contains tag %}
+          <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+
     {% endfor %}
   <!-- <li id="li-clean"><a name="{{ tag }}">{{ tag | capitalize }}</a>
     {% for post in site.categories.booknotes %}
