@@ -142,4 +142,112 @@ When Taleb wrote [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-R
 >
 > -- __Skin in the Game__
 
-The book [Other People's Money]()
+The book [Other People's Money](https://www.amazon.com/Other-Peoples-Money-Business-Finance/dp/1610397150) talks about this problem in more depth, and the concept of *clawback* bonuses, that is, taking it back, possibly with an added penalty, in the event that something that results of their actions ends up badly.
+
+This is the main consequence of bailouts: government interference in general tends to remove skin in the game. The same happened in financial markets: the risk taking business started moving toward small independent structures known as hedge funds, mostly because of the overbureaucratization of the system as paper shufflers overburdened the banks with [rules](https://en.wikipedia.org/wiki/Basel_III), but avoided considering skin in the game. In the decentralised hedge fund space, on the other hand, owner-operators have at least half of their net worth in the funds, making them relatively more exposed than any of their customers, and they personally go down with the ship. Bailing out banks have removed the last ounce of skin in the game that financial institutions had (if they had any), and, given [what happened to Banco Popular](https://www.nytimes.com/2017/06/23/business/lessons-from-the-collapse-of-banco-popular.html), something is rotten, forever, in banking, since the time they moved from partnerships to public companies, as told by Michael Lewis in [Liars' Poker](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X).
+
+### Systems learn by removing
+
+We saw that interventionistas don’t learn because they are not the victims of their mistakes. The same mechanism of transferring risk also impedes learning. And more practically, only reality can convince someone that is wrong, no argument can do that.
+
+*The curse of modernity is that we are increasingly populated by a class of people who are better at explaining than understanding*.
+
+It's the Bias-Variance trade-off: explaining overfits your forecast analysis, so the two are at odds with each other.
+
+> Learning isn’t quite what we teach inmates inside the high-security prisons called schools. Evolution can only happen if risk of extinction is present. There is no evolution without skin in the game.
+>
+> -- __Skin in the Game__
+
+We need evolution to learn, because it's easier for humans to see what is wrong than what is right. Once we've removed what is wrong, it's necessary that what is left has to be right. That's what we called *via negativa*.
+
+### A brief tour of symmetry
+
+1. Hammurabi
+
+Skin-in-the-game-style symmetry, until the recent intellectualisation of life, had been implicitly considered the principal rule for organised societies. Hammurabi’s law was posted around 3,800 years ago, and has one central theme: it establishes symmetries between people in transaction, so nobody can transfer hidden tail risk, or Bob Rubin-style risks: 'an eye for an eye'.
+
+For, as traders, the best place to hide risks is “in the corners”, in the small letter, in burying vulnerabilities to rare events that only the architect can detect; the idea being to be far away when blowups happen. “I’ll be gone, You’ll be gone”.
+
+2. Golden and Silver rule
+
+The Golden Rule wants you to *treat others the way you would like them to treat you*. The more robust Silver Rule says: *do not treat others the way you would not like them to treat you*.
+
+Why negating is more robust? First, it tells you to mind your own business and not decide what is “good” for others. Second, we know with much more clarity what is bad than what is good (via negativa).
+
+Also, the idea of 'others' works at all scales: humans, tribes, societies, groups of societies, countries, etc…
+
+> I go to other people’s funerals so they come to mine.
+>
+> -- __Yogi Berra__
+
+Most people miss the point in Matthew 12:21-31, where a servant who has his huge debt waived by a compassionate lender subsequently punishes another servant who owed him a much smaller amount, and they mistakenly think the true message is symmetry, not forgiveness.
+
+3. Kant
+
+Kant’s categorical imperative can be summarised as: *behave as if your action can be generalised to the behaviour of everyone in all places, under all conditions*: as a Universal Law.
+
+Universal behaviour is great on paper, disastrous in practice. We are local, practical animals, and we are sensitive to scale. We need practical rules; the general and the abstract tend to attract self-righteous psychopaths.
+
+The deep message of 'Skin in the Game' is the danger of universalism taken two or three steps too far, conflating the micro and the macro, in the same way that the main idea in [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X) was *platonification*, that is, mistaking the map for the territory.
+
+4. Fat Tony
+
+Fat Tony is our archetype: the exact opposite of those belonging to the interventionistas. He is the stereotype of a trader like those portrayed in Liars Poker.
+
+> [Fat Tony] became wealthy by helping people he generally calls “the suckers” separate from their funds (or as it is often the case, those of their clients, as these people often gamble with other people’s money.
+>
+> -- __Skin in the Game__
+
+There is always an element of fools of randomness (knowledge) and crooks of randomness (ethics) in matters of uncertainty: the fool takes risks he doesn’t understand, mistaking his own past luck for skills, and the crook transfers risks to others. Economists only talk about the second one.
+
+Reality always knows whether an action is foolish, and skin in the game is always about the real world. Similarly, there is a difference between a charlatan and a genuinely skilled member of society: the doer wins by doing, not convincing. Entire fields (most social sciences) become charlatanic because of the absence of skin in the game connecting them back to reality.
+
+What matters in life isn’t how frequently one is right, but how much one makes when one is right. Being wrong, when it isn’t costly, doesn’t count: you’re doing research.
+
+Exposures in real life are always too complicated to reduce to an ‘event’ easy to describe in words. It is harder for us to reverse-engineer than engineer; we see the result of evolutionary forces but cannot replicate them owing to their casual opacity, a problem that is at the core of Hume thesis: We can only run such processes forward.
+
+Without skin in the game, we fail to get that time removes the fragile and keeps the robust, and the life expectancy of the robust lengthens with time.
+
+What works cannot be irrational. If something stupid works (and makes money), it cannot be stupid.
+
+5. Modernism
+
+Intellectualism is the belief that one can separate an action from the results of such action, that one can separate theory from practice, and that one can always fix complex systems in a top-down manner. It has a sibling: scientism, a naive interpretation of science as complication rather than science as a process and a sceptical enterprise.
+
+Using mathematics when it’s not needed is not science but scientism.
+
+Science has been taken over by vendors using it to sell products and, ironically, the sceptical enterprise is being used to silence sceptics, as  described  in [Against the Professors](https://www.amazon.com/Sextus-Empiricus-Against-Professors-Classical/dp/0674994205).
+
+> As things get more technological, there is a growing separation between the maker and the user.
+>
+> -- __Skin in the Game__
+
+One of the side effects of the division of jobs proposed by Adam Smith in [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128/ref=sr_1_1?s=books&ie=UTF8&qid=1542738793&sr=1-1&keywords=the+wealth+of+nations) is separating labour from the fruits of labour, the concept of *alienation* described by Karl Marx's [Capital](https://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445684/ref=sr_1_1?s=books&ie=UTF8&qid=1542738874&sr=1-1&keywords=capital+marx).
+
+### Simplicity
+
+People who see complicated solutions do not have an incentive to implement simplified ones. They are, in fact, harder to come up with, statistically speaking: it's like [parking your car](http://philsci-archive.pitt.edu/794/1/falling-cats.pdf). Things designed by people without skin in the game tend to grow in complication: when you are rewarded for perception, not results, you need to show sophistication (it's one of the reasons why inexperienced people, in almost any branch of knowledge, go for the most complex solutions: they have been taught a lot of things in no time, everything is fresh and they were rewarded by perception on their tests).
+
+When there is fire, you run faster than in any competition, and similarly, poker is a much different game when the stakes are real.
+
+What you learn from the intensity and the focus you had when under the influence of risk stays with you. Many kids would learn to love mathematics if they had some investment in it. It's the same when learning a new language; you need to throw yourself into the wild.
+
+### Soul in the game
+
+> If you do not take risks for your opinion, you are nothing.
+>
+> -- __Skin in the Game__
+
+Success is leading an honourable life. Honour implies that there are some actions you would categorically never do, regardless of the material rewards; and it also implies that there are things you would do unconditionally, regardless of its consequences. As a Spartan mother tells her departing son: “With it or on it”.
+
+Contrast the above unconditional with modernistic accommodations: people who work for disgusting lobbies or knowingly play the usual unethical academic game, come to grips with their condition by saying things like “I have children to put through college”.
+
+People who are not morally independent tend to fit ethics to their profession rather than find a profession that fits their ethics. That's why, regardless of the extremly cruel conditions in which Khashoggi was tortured and executed, no major government has raised any concerns about the involvement of Saudi Arabia: they are the main buyers and 'job providers' for many industries in many of these countries, in the same fashion that Russia, Eastern Europe's main provider of gas and oil, has the EU hostage pretty much every single winter.
+
+### Entrepreneurs
+
+Entrepreneurs are heroes in our society: they fail for the rest of us.
+
+However, and owing to funding and VC mechanisms, many people mistaken for entrepreneurs fail to have true skin in the game in the sense that their aim is to either cash out by selling the company to Google, Facebook or the likes. The true value of the company and its long-term prospects is of small relevance. This form of entrepreneurship is the equivalent of bringing great-looking and marketable children into the world with the aim of selling them at age four.
+
+One of the reasons corporations have the mortality of cancer patients is the assignment of time-defined duties: once you change assignment, Bob Rubin emerges: “It’s not my problem anymore”.
