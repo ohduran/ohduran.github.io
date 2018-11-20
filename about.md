@@ -3,6 +3,15 @@ layout: page
 title: About me
 permalink: /about/
 ---
+This journal redraws the sense of a journal. Up until now, they have been written sequentially, and it's primarily time-driven: today I did this, and yesterday I did that, and tomorrow always comes after today. Once an entry has been written, we may read it over the course of the day it was written, but then we forget about it, and we never read it again, unless we are reminded. These are the basis in which most blog sites and even most social media apps are built: perishability pervades every pixel of it.
+
+That is not the case in this journal. This journal aims at including a small amount of essays with an aim to be timeless. Not in the Roman sense, though, not granitic, immutable, but robust in the Taleb's sense.
+
+> The fragility of the system’s components (provided they are renewable and replaceable) is required to ensure the solidity of the system as a whole. If humans were immortals, they would have gone extinct from an accident, or from a gradual buildup of mistiness. Shorter shelf life for humans allows genetic changes across generations to be in sync with the variability of the environment.
+>
+> -- __Nassim Taleb__, Skin in the Game
+
+Thus, these essays are constantly evolving, updating, upgrading themselves to be better, and to resist the test of time. You won't find clickbait here: that is as fragile as can be.
 
 My name is Alvaro Duran-Barata. I am a problem solver, a curious mind, a lifelong learner.
 
