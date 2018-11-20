@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dogfooding"
+title:  "Of Dogfooding"
 date:   2018-05-11 15:00:00 +0100
 categories: business
 permalink: /2018/05/dogfooding

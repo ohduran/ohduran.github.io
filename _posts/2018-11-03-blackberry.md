@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BlackBerry"
+title:  "Of the BlackBerry"
 date:   2018-11-03 15:00:00 +0100
 categories: business
 permalink: /2018/11/blackberry

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The best thing about LinkedIn isn't technology"
+title:  "Of the best thing about LinkedIn"
 date:   2017-11-04 15:00:00 +0100
 categories: business
 permalink: /2017/11/the-best-thing-about-linkedin

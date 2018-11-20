@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Delights of Science"
+title:  "Of the Delights of Science"
 date:   2018-08-14 15:00:00 +0100
 categories: miscellaneous
 permalink: /2018/08/the-delights-of-science
