@@ -1,24 +1,8 @@
 ---
 layout: default
 ---
-
-<h1>Hi, I'm Alvaro!</h1>
-<div class="about-me">
-  <p>I'm a physicist and MSc in Finance. I've worked as a Digital Consultant and as a Data Scientist, and I'm now a Software Engineer.</p>
+<div class="intro">
+  <h1>Hi, I'm Alvaro!</h1>
+  <p class="about-me">I'm a physicist and MSc in Finance. I've worked as a Digital Consultant and as a Data Scientist, and I'm now a Software Engineer.</p>
+  <p class="description">This is not just <a href="/index-miscellaneous">my blog</a>. I also post notes on <a href="index-booknotes">the books I read</a>, and articles on <a href="index-business">Business</a> and <a href="index-mathematics">Data Science</a>.</p>
 </div>
-<div style="padding-right: 100px">
-  <p>This isn't just <a href="/index-miscellaneous">my blog</a>. I post notes on <a href="index-booknotes">the books I read</a>, and articles on <a href="index-business">Business</a> and <a href="index-mathematics">Data Science</a>.</p>
-</div>
-  <h2>Recent Essays</h2>
-  <ul class="posts">
-    {% for post in site.posts limit:5 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
-      {% unless post.categories contains 'booknotes' %}
-      <h5>{{ post.excerpt }}</h5>
-      {% else %}
-      <br>
-      {% endunless %}
-    {% endfor %}
-    <p id="spacing"> </p>
-<h4>See <a href="/index-journal.html">more</a>.</h4>
-  </ul>
