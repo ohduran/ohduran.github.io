@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="home">
-<h2>Miscellaneous</h2>
+<h2>Articles</h2>
 <ul class="posts">
   {% for post in site.categories.miscellaneous %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
@@ -14,6 +14,6 @@ layout: default
     {% endunless %}
   {% endfor %}
   <p id="spacing"> </p>
-<h4>See <a href="/index-journal.html">more</a>.</h4>
+<h4>See all my essays <a href="/index-journal.html">by category</a>.</h4>
 </ul>
 </div>
