@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet the writer
+title: About me
 permalink: /meet-the-writer/
 ---
 
