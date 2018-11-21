@@ -4,9 +4,9 @@ layout: default
 
 <div id="home">
 
-<h2>Essays on Business</h2>
+<h2>Essays on Business Strategy</h2>
 <ul class="posts">
-  {% for post in site.categories.business %}
+  {% for post in site.categories.business-strategy %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
     {% unless post.categories contains 'booknotes' %}
     <h5>{{ post.excerpt }}</h5>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Of Dogfooding"
 date:   2018-05-11 15:00:00 +0100
-categories: business
+categories: business-strategy
 permalink: /2018/05/dogfooding
 ---
 I'm in love with edge cases of capitalism. One thing I have always being told is that property is at the core of our modern society, and economies thrive partly because individual agents have something (their "stuff") to care for, and they are unwilling to give away goods or services unless it is in exchange for money, or any other form of remuneration. What we usually reduce to "there is no such thing as a free lunch."
