@@ -7,9 +7,9 @@ layout: default
 <h2>Book Notes</h2>
 <ul class="posts">
   {% for post in site.categories.booknotes %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a   href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   <p id="spacing"> </p>
-<h4>See notes grouped by tag <a href="/index-tags.html">here</a>.</h4>
+<h4>See notes grouped by tag <a href="/index-tags.html">here</a>, or search through all my essays <a href="/index-journal.html">by category</a>.</h4>
 </ul>
 </div>

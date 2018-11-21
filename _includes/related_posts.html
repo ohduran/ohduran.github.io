@@ -7,7 +7,7 @@
   {% for category in post.categories %}
     {% if post.url != page.url %}
       {% if page.categories contains category %}
-        <h5><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></h5>
+        <h5><span>{{ post.date | date_to_string }}</span> &raquo; <a   href="{{ post.url }}">{{ post.title }}</a></h5>
         {% assign sameTagCount = sameTagCount | plus: 1 %}
       {% endif %}
     {% if sameTagCount >= 2 %}

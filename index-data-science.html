@@ -4,7 +4,7 @@ layout: datascience
 <h2>Essays on Data Science</h2>
 <ul class="posts">
   {% for post in site.categories.data-science %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a   href="{{ post.url }}">{{ post.title }}</a></li>
     {% unless post.categories contains 'booknotes' %}
     <h5>{{ post.excerpt }}</h5>
     {% else %}
@@ -12,17 +12,17 @@ layout: datascience
     {% endunless %}
   {% endfor %}
   <p id="spacing"> </p>
-<h4>See more posts <a href="/index-journal.html">here</a>.</h4>
+<h4>See all my essays <a href="/index-journal.html">by category</a>.</h4>
 </ul>
 
 <h3>Resources I recommend, by importance</h3>
   <ul class="posts">
-    <li><span>10 Aug 2018</span> &raquo; Erik Bern: <a href="https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html" target="_blank">The Hacker's guide to uncertainty estimates</a></li>
-    <li><span>23 Jun 2018</span> &raquo; William Rapaport: <a href="https://cse.buffalo.edu/~rapaport/howtostudy.html#intro" target="_blank">How to Study: A Brief Guide</a></li>
-    <li><span>22 Feb 2018</span> &raquo; CS50, Lessons <a href="https://www.youtube.com/watch?v=EApk15pCIEA" target="_blank">1</a> and <a href="https://www.youtube.com/watch?v=IJNPHorTqQs" target="_blank">2</a> on C programming, or <a href="https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu" target="_blank"> the whole course</a></li>
-    <li><span>06 Oct 2017</span> &raquo; Rodney Brooks: <a href="https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZ4%2FDMoSvQ7iojmpb0f7Zgw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object" target="_blank">The Seven Deadly Sins of AI Predictions</a></li>
-    <li><span>08 Jul 2017</span> &raquo; Tim Harford: <a href="http://timharford.com/2017/08/what-we-get-wrong-about-technology/" target="_blank">What we get wrong about technology</a></li>
-    <li><span>13 Jan 2016</span> &raquo; Zack Kanter: <a href="http://zackkanter.com/2016/01/13/you-are-not-behind/" target="_blank">You're not Behind</a></li>
-    <li><span>06 Jan 2002</span> &raquo; Everything by <a href="https://www.joelonsoftware.com/" target="_blank">Joel Spolsky</a>, specially <a href="https://www.joelonsoftware.com/2002/01/06/fire-and-motion/" target="_blank">Fire and Motion</a></li>
+    <li><span>10 Aug 2018</span> &raquo; Erik Bern: <a target="_blank" href="https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html">The Hacker's guide to uncertainty estimates</a></li>
+    <li><span>23 Jun 2018</span> &raquo; William Rapaport: <a target="_blank" href="https://cse.buffalo.edu/~rapaport/howtostudy.html#intro">How to Study: A Brief Guide</a></li>
+    <li><span>22 Feb 2018</span> &raquo; CS50, Lessons <a target="_blank" href="https://www.youtube.com/watch?v=EApk15pCIEA">1</a> and <a href="https://www.youtube.com/watch?v=IJNPHorTqQs"  >2</a> on C programming, or <a href="https://www.youtube.com/playlist?list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu"  > the whole course</a></li>
+    <li><span>06 Oct 2017</span> &raquo; Rodney Brooks: <a target="_blank" href="https://www.technologyreview.com/s/609048/the-seven-deadly-sins-of-ai-predictions/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BZ4%2FDMoSvQ7iojmpb0f7Zgw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-object"  >The Seven Deadly Sins of AI Predictions</a></li>
+    <li><span>08 Jul 2017</span> &raquo; Tim Harford: <a target="_blank" href="http://timharford.com/2017/08/what-we-get-wrong-about-technology/">What we get wrong about technology</a></li>
+    <li><span>13 Jan 2016</span> &raquo; Zack Kanter: <a target="_blank" href="http://zackkanter.com/2016/01/13/you-are-not-behind/">You're not Behind</a></li>
+    <li><span>06 Jan 2002</span> &raquo; Everything by <a target="_blank" href="https://www.joelonsoftware.com/">Joel Spolsky</a>, specially <a href="https://www.joelonsoftware.com/2002/01/06/fire-and-motion/"  >Fire and Motion</a></li>
   </ul>
 </div>
