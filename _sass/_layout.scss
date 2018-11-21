@@ -201,6 +201,8 @@
  * Posts
  */
 .post-header {
+    margin-left: 2 * $spacing-unit;
+    margin-right: 2 * $spacing-unit;
     margin-bottom: $spacing-unit;
 }
 
@@ -215,7 +217,10 @@
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 2 * $spacing-unit;
+    margin-left: 2 * $spacing-unit;
+    margin-right: 2 * $spacing-unit;
+    text-align: justify;
 
     h2 {
         font-size: 32px;
