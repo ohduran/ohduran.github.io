@@ -85,8 +85,14 @@ li {
 #li-clean {
   border-left: 0px;
   list-style-type: none;
-  margin: 0px;
+  margin-bottom: 50px;
   padding: 0px 0px;
+}
+
+.essay-topics {
+  margin:1.5 * $spacing-unit 0 1.5 * $spacing-unit 0;
+  display: inline;
+  list-style-type: none;
 }
 
 

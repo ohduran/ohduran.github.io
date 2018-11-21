@@ -4,16 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-
 *You can email me at __alvaro.duranb@gmail.com__. However, be aware that my default behaviour when receiving an email is to __not__ respond.*
-
-
 
 When it comes to email, it's the sender responsibility to convince the receiver that a reply is worthwhile. Ubiquitous email access is engrained in our habits, and we have almost lost the ability to redesign our workdays so that we aren't reactive to notifications and emails.
 
 However, I'm not going to give all authority over to my mobile to determine my mindset.
 
-Let me be clear, __I want to talk to you__. We can both benefit from talking to each other. But I'm not 'building a community' here, and the likelihood of poorly thought emails to waste our time is tremendous. [We can do better](/2018/08/deep-work).
+Let me be clear, __I want to talk to you__. We can both benefit from talking to each other. But the likelihood of poorly thought emails to waste our time is tremendous. [We can do better](/2018/08/deep-work).
 
 If you have something worth telling me, make time to compel a good case for why your email is worth considering and worth answering to, and __send it to me__. Or don't. This is actually a sender filter, like the one most big firms use in their job applications: design a process with enough friction so that those candidates who eventually apply are __really__ interested in the job offer.
 
