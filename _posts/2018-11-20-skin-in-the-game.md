@@ -98,7 +98,7 @@ Third, the book is about how much information one should practically share with 
 
 Fourth, it is about rationality and the test of time, as in acknowledging the complexity of our world not through models, but through trial and error.
 
-## Book 1 - Introduction
+# Book 1 - Introduction
 
 ### The interventionistas
 
@@ -248,6 +248,210 @@ People who are not morally independent tend to fit ethics to their profession ra
 
 Entrepreneurs are heroes in our society: they fail for the rest of us.
 
-However, and owing to funding and VC mechanisms, many people mistaken for entrepreneurs fail to have true skin in the game in the sense that their aim is to either cash out by selling the company to Google, Facebook or the likes. The true value of the company and its long-term prospects is of small relevance. This form of entrepreneurship is the equivalent of bringing great-looking and marketable children into the world with the aim of selling them at age four.
+However, many entrepreneurs fail to have true skin in the game, as VC mechanisms remove them from the possibility of long term profitability and channel their efforts towards selling their company to the big players. The true value of the company and its long-term prospects is of small relevance.
 
 One of the reasons corporations have the mortality of cancer patients is the assignment of time-defined duties: once you change assignment, Bob Rubin emerges: “It’s not my problem anymore”.
+
+### How the book is organised
+
+Skin in the Game is organised in sections, or books, with Book 1 being the introduction that we have gone through already.
+
+__Book 2__ is a deeper exposition of symmetry and agency in risk sharing, bridging commercial conflict of interest with general ethics.
+
+__Book 3__ is about the minority rule by which a small segment of the population inflicts its preferences on the general population.
+
+__Book 4__ deals with dependence and slavery in modern life: why employees exist because they have much more to lose than contractors.
+
+__Book 5__ shows how risk taking makes you look superficially less attractive, but vastly more convincing, the concept of “Intellectual Yet Idiot”, inequality, and the Lindy effect.
+
+__Book 6__ looks for consequential hidden asymmetries.
+
+__Book 7__ explains creeds in terms of skin in the game and revealed preferences, and the word ‘religion’.
+
+__Book 8__ has the two central chapters: ‘How to be Rational about Rationality’, which goes deep into what rationality really is; and ‘The Logic of Risk Taking’, which summarises the author’s tenets about risk and exposes the errors concerning small-probability events.
+
+# Book 2 - A first look at Agency
+
+## Chapter 1 - Why each one should eat his own turtles
+
+*Beware of the person who gives advice, telling you that a certain action on your part is ‘good for you’, while it is also good for him, while the harm to you doesn’t directly affect him*.
+
+> I worked once for an US investment bank. As with all such firms, an image of ethics and professionalism was cultivated. [...] But the job of the salespeople was to ‘unload’ inventory with which traders were ‘stuffed’, that is, securities they had in excess in their books and needed to get rid of to lower their risk profile. Selling to other dealers was out of the question as professional traders would smell excess inventory and cause the price to drop, so they needed to sell to some client.
+>
+> -- __Skin in the Game__
+
+As the Romans were fully aware, *plenius aqua Iaudat venal qui vault extruder merces*, “one lauds merrily the merchandise to get rid of it”.
+
+### The Price of Corn in Rhodes
+
+“Giving advice” as a sales pitch is fundamentally unethical, selling cannot be deemed advice. You can do one or the other, but the two need to be kept separate. As per banks and investment firms, there is the concept of Chinese Wall, in which sections within the bank dedicated to sell and advice cannot speak to each other. Just the fact that these two sections can cohabit the same building smells funny: the mechanism itself is likely to be more permeable than what they can concede.
+
+Assume that a man brought a large shipment of corn from Alexandria to Rhodes, at a time when corn was expensive in Rhodes because of shortage and famine. Suppose that he also knew that many boats had set sail from Alexandria to Rhodes with similar merchandise. *Does he have to inform the Rhodians*?
+
+Traders would jump quickly to 'stuff', so long as it is done to the anonymous market and the faceless non-readers, or those called “the Swiss”, some random suckers far away. There were people with whom we had a relational rapport, much like the case with domestic animals that cannot be harmed while rules on cruelty are lifted when it comes to cockroaches.
+
+The rule should go, then, as follows:
+
+>No person in a transaction should have certainty about the outcome while the other has uncertainty.
+>
+> -- __Skin in the Game__
+
+Let's explore some particular cases: insider trading would be banned, and arbitrage, but if there is a weak form of asymmetry, say just an edge instead of complete certainty about the future, this doesn’t cover it, as some forms of insider trading are like these. For instance, is Robert Foster Winans, a columnist who tipped stockbrokers on the content of his columns, going against this rule?
+
+The medieval rabbi Rashi relates the following story. Rav Safra was selling goods for sale. A buyer came as he was praying in silence, tried to purchase the merchandise at an initial price, and given that Rav did not reply, raised the price. But he had no intention of selling at a higher price than the initial offer, and felt that he had to honour the initial intention. *Is Rav Safra obligated to sell at the initial price, or should he take the improved one*?
+
+It may not be ethically required, but the most effective, shame-free policy is maximal transparency, even of intentions. But recall what Kant said: theory is too theoretical. The more confined our ethics, the better it works.
+
+> Sympathy for all would be tyranny for thee, my good neighbour
+>
+> -- __Nietzsche__
+
+"Moral is what brings advantage to my friends", I heard someone say. For the exclusion of 'the suckers' in this conversation is not trivial: a country isn't a big city, a city isn't a big family. Athenians, when talking about 'democracy', were applying it to a restricted set of 'citizens', not slaves or immigrants, and when Jewish talk about blood, they distinguish the 'thick' from the 'thin': *we are all brothers, but some are more brothers than others*.
+
+Free citizens, in ancient and post-classical societies, were traditionally part of clubs, and as club members know, the very purpose of it is exclusion and size limitation. What is the connotation of the President of the US being 'the leader of the free world' when freedomhouse.org estimates that only 39% of world population is effectively free?
+
+It is unfortunate, but the general kills the particular. For whenever the “we” becomes too large a club, things degrade, and each one starts fighting for his own interest. Dunbar's number refers to that cognitive limit to the number of people whom one can maintain stable social relationships. Being somewhat tribal is not a bad thing, and we have to work in a fractal way in the organised harmonious relations between tribes, rather than merge all tribes in one large soup, like it happened in Lebanon, a country that was known as ‘The Switzerland of the East” during the 60s, and eventually faced the horrors of war in 1975 due to demographic tensions. Blaming people for being ‘sectarian’ instead of making the best of such tendency is one of the stupidities of interventionistas.
+
+> You know instinctively that people get along better as neighbours than roommates.
+>
+> -- __Skin in the Game__
+
+Modernity put in our heads that there are two units, the individual and the universal collective, when in reality, my skin lies in a broader set of people, one that includes my family, a community, a tribe, a fraternity, but cannot possibly be universal.
+
+Once we've passed the limit of what we consider a 'we', communal behaviour cease to apply, and consequences described in the [Tragedy of the Commons](https://www.youtube.com/watch?v=Qr5Q3VvpI7w) begin to take place. “Me” is more likely to be a group than a single person.
+
+![smbc-comics.com/comics/20051204](/assets/smbc.gif)
+
+### Trying to remove skin in the game
+
+There are two types of “talking one’s book”. One consists of buying a stock because you like it, then commenting on it– the most reliable advocate for a product is its user. No amount of advertising will match the credibility of a genuine user. Another is buying a stock so you can advertise the qualities of the company, then selling it, benefiting from the trumpeting– this is called market manipulation, and it is certainly a conflict of interest.
+
+We removed the skin in the game of journalists in order to prevent market manipulation. The arguments in this book are that market manipulation and conflicts of interest are more benign than impunity for bad advice. In the abscence of skin in the game, journalists will imitate, to be safe, the opinion of other journalists, thus creating a monoculture and collective mirages.
+
+In general, skin in the game comes with conflict of interests; the former is just more important than the latter.
+
+Take doctors for instance; doctors don’t have that problem by themselves: medicine is fundamentally apprenticeship-based and grounded in experience.
+
+The problem resides in the reliance of metrics. Every metric is gameable. Attempts at putting skin in the game there have brought a certain class of adverse effects, in shifting uncertainty from the doctor to the patient.
+
+A doctor is pushed by the system to transfer risk from himself to you, and from the present into the future, or from the intermediate future into a more distant future.
+
+You need to remember that, when you visit a medical office (and probably everyone’s office) you will be facing someone who, in spite of his authoritative demeanour, is in a fragile situation. He has no direct emotional loss should your health experience a degradation. His objective is, naturally, to avoid a lawsuit.
+
+The doctor is pressured to treat you to protect himself. The pharmaceutical companies have managed to convince everyone that unseen consequences are harmless, when in reality the medical risks are hidden. Should you drop dead a few weeks after the visit, the doctor faces a lawsuit: thus, he is pressured to prescribe medicine to you, even if he knows deep down that it is harmful.
+
+That is no different from the Bob Rubin trade.
+
+The solution is for the patient to avoid treatment when he or she is mildly ill, but use medicine for rarely encountered severe conditions. The problem is that the mildly ill represents a much larger pool of people than the severely ill (and are expected to live longer and consume drugs for longer), hence pharmaceutical companies have an incentive to focus on them.
+
+# Book 3 - The Greatest Asymmetry
+
+## Chapter 2 - The most intolerant wins: the dominance of the stubborn minority
+
+The main idea behind complex systems is that the ensemble behaves in ways not predict by its components. This is called an “emergent” property of the whole, in which parts and whole differ because what matters are the interactions between such parts.
+
+When a group of people is gathered, and a decision has to be taken, a naive observer would be under the impression that the choices and preferences are those of the majority. What is really going on is that, usually, a stubborn minority, once it reaches a small proportion of the group, decides for the whole.
+
+*The minority rule*: __It suffices for an intransigent minority with significant skin in the game to reach a minutely small level for the entire population to have to submit to their preferences__.
+
+There are two main things to consider:
+
+- The geography of the terrain matters a bit: its makes a big difference whether the intransigents are in their own district or are mixed with the rest of the population.
+
+- The cost structure matters a bit: so long as the price doesn’t change much, the rule applies.
+
+Let’s call such minority an intransigent group, and the majority a flexible one. And their relationship rests on asymmetry in choices: the intransigent only chooses one option between two, whereas the flexible doesn’t care.
+
+1. A kosher (or halal) eater will never eat non kosher (or non halal) food, but a non kosher eater isn’t banned from eating kosher.
+
+2. A disabled person will not use the regular bathroom, but a non disabled person will use the bathroom for disabled people.
+
+3. Someone with a peanut (or gluten) allergy will not eat products that touch peanuts (or gluten), but a person without such allergy can eat items with peanut (or gluten) traces I them.
+
+4. Cars (and even food) are advertised as “made in [your country]”, because there is a minority of people who care deeply about “our” jobs.
+
+The method of analysis employed here is called a “renormalisation group”, the mathematical apparatus used in Physics that allows systematic investigation of the changes of a physical system as viewed at different scales, and it has been used due to the fact [that the laws of Physics that govern the atomic level are at odds with those that rule stars and galaxies](https://www.theguardian.com/news/2015/nov/04/relativity-quantum-mechanics-universe-physicists).
+
+![renormalisation](/assets/renormalisation.png)
+
+It opposes the mean-field approach, when one replaces all interactions to any one body with an average or effective interaction, sometimes called a molecular field. This reduces any multi-body problem into an effective one-body problem. The ease of solving MFT problems means that some insight into the behavior of the system can be obtained at a relatively low cost. If there is a way to make a clear distinction between Physics and Chemistry, is this: Chemistry is the result of applying MFT to Physics.
+
+### Veto
+
+The minority rule can also be applied to why some well known chains such as McDonald’s or Starbucks thrive: because they are not vetoed in a certain socio-economic group. They are a best worse-case divergence from expectations: if I travel to a foreign country I might risk it with some local food or play safe and take a Happy Meal. In parties, pizza and wine is the same story. Pizza is a commonly accepted food, and nobody would be blamed for ordering it in a get together. And once you have a small amount of women at a party, you cannot serve only beer. But most men will drink wine. So you only need a set of glasses if you serve only wine.
+
+> Nobody ever got fired for hiring IBM.
+>
+> -- Unknown
+
+### Languages
+
+If a meeting is taking place in Germany in a corporation that is sufficiently international, and one of the persons in the room doesn’t speak German, the entire meeting will be run, of course, in English. Because once it was settled that English was the lingua franca, native speakers lost the incentive to learn a new language, and everyone else had the incentive to learn English.
+
+It's the same in the Spanish region of Catalonia: so long as the impact and the cost of your labelling is low (milk bricks, local TV ads, generic station announcements, display window labelling), everything is in Catalan, not in Spanish.
+
+Language travels so much faster than genes: it shows us the recent mistake of building racial theories on language, dividing people into “Aryans” and “Semites”, based on linguistic considerations.
+
+### Religions
+
+The minority rules also applies, of course, to prohibitions.
+
+*Outcomes are paradoxically more stable under the minority rule: the variance of the results is lower and the rule is more likely to emerge independently across separate populations*.
+
+That is because you aren’t required numbers, but determination, and determination doesn’t go away easily.
+
+*What emerges from the minority rule is more likely to be black-and-white, binary rules. (Note: Self evident*
+
+That is Bayes Rule: conditional to the rule having been applied, it is far more likely that it came from those who imposed it, not those who compromised.
+
+The formation of moral values in society doesn’t come from the evolution of consensus, but from the most intolerant people’s imposing virtue on others precisely because of that intolerance. In the same manner, the spread of Islam in the Near East, where Christianity  was heavily entrenched can be attributed to two asymmetries.
+
+1. Under Islamic law, if a non-Muslim man marries a Muslim woman, he needs to convert to Islam, and if either parent of a child happens to be Muslim, the child will be Muslim.
+
+2. Becoming a Muslim is irreversible, as apostasy is the heaviest crime under the religion.
+
+All one needs is a small rate of interfaith marriages. Islam out-stubborned Christianity, which itself won thanks to its own stubbornness. For before Islam, the original spread of Christianity in the Roman Empire was largely due to the blinding intolerance of Christians.
+
+> I am the way and the truth and the life. No one comes to the Father except through me
+>
+> -- John 14:6
+
+Roman pagans were initially tolerant to Christians. But Christians weren’t tolerant of Roman paganism. The “persecution” of the Christians had vastly more to do with the intolerance of the Christians for the pantheon of local gods than the reverse, as described in [The Darkening Age](https://www.amazon.es/Darkening-Age-Christian-Destruction-Classical/dp/1509812326?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1509812326)
+
+Remember that what we read is written by the Christian side: the Constantinian shift is *fake news*.
+
+We know too little about the Roman perspective during the rise of Christianity, as biographies of saints have dominated the discourse. There are endless accounts of Christians martyrs and saints, but very little is known of pagan heroes. Even the early Christians have been expurgated from the record, in a fashion that led Dan Brown to reveal the world what most subject matter experts already knew: that there are codices being written about Jesus Christ outside the Bible, like the The Nag Hammadi Library, which may have been hidden after Saint Athanasius condemned the use of non-canonical books in his Festal Letter of 367 A.D. We are discovering that branches such as the Gnostics had a quite different record of the early religion, closed to outsiders and secret about their own records.
+
+This also happened much later: when Spaniards started colonising South America, they found the Incas, whose religion was mostly animistic and acknowledging gods like heavenly bodies to mountains and rivers, even ancestors. It was a religion that, being oral, was less prescriptive than those based upon books such as the Bible or the Quran.
+
+Confronted by such certainties, backed by coercive force, the more open-ended, absorbent oral religions of Africa or the Americas were simply overwhelmed.
+
+### Popper-Gödel paradox
+
+In 1931, Kurt Gödel published his incompleteness theorems in "On Formally Undecidable Propositions of "Principia Mathematica" and Related Systems”. The basic idea at the heart of the incompleteness theorem is rather simple: a system cannot prove its own consistency.
+
+*The next statement is false. The previous statement is true*.
+
+Self referencing is always problematic, and that is at the core of Gödel’s theorems.
+
+We've introduced this because the question is, __can democracy tolerate enemies?__ Would you agree to deny the freedom of speech to every political party that has in its charter the banning the freedom of speech? Can states allow independent parties when independence goes against the Constitution?
+
+Should a society that has elected to be tolerant be intolerant about intolerance?
+
+This is in fact [the incoherence that Gödel detected in the United States Constitution](https://drive.google.com/file/d/0B9_mR_M2zOc4Y2VhNzZkMDQtMDdlNC00YWQ0LWJlYzQtMzAxZjAxMGYxNzM5/view), while Karl Popper independently discovered the same inconsistency in democratic systems and published in [The Open Society and its Enemies](https://www.amazon.com/Open-Society-Its-Enemies-One/dp/0691158134).
+
+Thomas Shelling [showed](https://demonstrations.wolfram.com/SchellingsModelOfResidentialSegregation/) how a neighbourhood can be segregated without a single segregationist among its inhabitants. Yes, an intolerant minority can will eventually destroy democracy.
+
+### Markets and science
+
+Now consider markets. Price changes reflect the activities of the most motivated buyer and seller.
+
+All you need is a stubborn single seller to drive the price down 10%. The market is like a large movie theatre with a small door. Stampedes happen in cinemas (try shouting “fire!”) because those who want to be out do not want to be in: the same unconditionality that we see with kosher observance.
+
+Science acts similarly: Science isn’t a consensus, but a highly skewed procedure. Once you debunk something, it is now wrong. (The reality is a bit more complicated than that: we don’t teach Newton because it’s true, but because its a gateway towards understanding Einstein better).
+
+> The progress of science is strewn, like an ancient desert trail, with the bleached skeletons of discarded theories which once seemed to possess eternal life.
+>
+> -- __Arthur Koestler__, *The Ghost in the Machine*
+
+# Book 4 - Wolves among dogs
