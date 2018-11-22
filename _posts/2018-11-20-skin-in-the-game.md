@@ -455,3 +455,43 @@ Science acts similarly: Science isn’t a consensus, but a highly skewed procedu
 > -- __Arthur Koestler__, *The Ghost in the Machine*
 
 # Book 4 - Wolves among dogs
+
+## Chapter 3 - How to own another person
+
+__Complete freedom is the last thing you want if you have an organisation to run__.
+
+Every organisation wants a certain number of people associated with it and be deprived of a certain share of their freedom. How do you own them?
+
+1. Conditioning and psychological manipulation
+2. Tweaking them to have some skin in the game, to have something to lose if they disobey
+
+In the orders of the mafia, things are simple: made men can be whacked if the capo suspects a lack of allegiance. For other professions, skin in the game comes in a more subtle forms.
+
+### To own a pilot
+
+What a contractor pilot would do, selling himself to the highest bidder and leave you on your own without any shed of doubt, isn’t something that employees would. People who are employees for a living don’t behave so opportunistically. Contractors are exceedingly risk-free; they fear mostly the law. But employees have a reputation to protect, and can be fired.
+
+> “—Why did the school authorities veto the plan to have you give the talk that became "What You'll Wish You'd Known?"
+> "—They didn't have anything against me specifically, but because I wouldn't be coming from any organization, they wouldn't have any guarantee I wouldn't say dangerous things. Whereas if I came to speak from IBM or the State Department, and told the students they should all go out and try heroin, I'd be fired.”
+>
+> -- __Paul Graham__ (http://paulgraham.com/gfaq.html))
+
+Employees are reliable, but also expensive: you have to pay them even if you have nothing for them to do. Lovers of pay checks are lazy, but they would never let you down when a highest bidder appears for a one-time gig. They exist because they have a significant skin in the game, and from them you buy dependability.
+
+Dependability is a driver in many transactions: you have a car so that you want it to be available when you need it, and so is a house on the beach useful for.
+
+*Never buy when you can rent the three F’s: Float, Fly and Fuck*. Yet many people own boats and planes, and end up stuck in marriage.
+
+> Evidence of submission is displayed by the employee’s going through years depriving himself of his personal freedom for nine hours every day, ritualistic and punctual arrival at an office, his denying himself his own schedule, and his not having beaten up anyone on the way back home after a bad day. He is an obedient, housebroken dog.
+>
+> -- __Skin in the Game__
+
+### From the companies man to the companies person
+
+Have you ever been told to study something 'useful'? There are numerous [studies](https://bankrate.com/career/most-valuable-college-majors) on "the most valuable college majors", with the idea that *the only real path to earn a living is through being employed by someone else*. That's why Actuarial Science (aka Economics) does so well in these rankings: they are the most 'useful', whereas 'miscellaneous arts' is dead last. Someone wouldn't be surprised that the term 'miscellaneous arts' is something people who haven't majored in arts would do, whereas 'actuarial science' is a term that an economist would use to pegg their major to __real__ sciences like Computer Science or Engineer.
+
+> Being an actuary is the best job in America because you get paid like doctors and lawyers, but you don't have to work with blood or visit your clients in jail.
+>
+> -- __Krzysztof Ostaszewski__, director of the actuarial program at Illionis State University
+
+Yes, that doesn't sound like skin in the game at all.
