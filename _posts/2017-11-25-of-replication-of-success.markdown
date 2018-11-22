@@ -1,28 +1,20 @@
 ---
 layout: post
-title:  "Of replication of success"
+title:  "Of Replication of Success"
 date:   2017-11-25 15:00:00 +0100
 categories: miscellaneous
 permalink: /2017/11/and-you-can-too
 ---
 A couple of days ago, I bumped into a rant by an anonymous guy who bantered something like this:
 
->In 2015, I left my stable job and a six-figure salary, dropping down to less than a quarter of what I was on. I rented out my apartment, moved into a share-house and sold my BMW.
-
->I worked 16-hour days, 7 days a week for over a year. This was to follow a burning passion and it was the best decision I’ve ever made. >[...] I followed my dream to start my own company [...] It has gone from strength to strength.
->
+>In 2015, I left my stable job and a six-figure salary, dropping down to less than a quarter of what I was on. I rented out my apartment, moved into a share-house and sold my BMW. I worked 16-hour days, 7 days a week for over a year. This was to follow a burning passion and it was the best decision I’ve ever made. >[...] I followed my dream to start my own company [...] It has gone from strength to strength.
 >If you feel a burning desire to create change, 100% I say take the risk. I did, and it’s been the best decision of my life.
 
 I guess you have run into that sort of posts too. You might even have had the feeling that you are missing out on something really special, and the desire to quit your job is burning. Hell, he did succeed, and so can I!
 
 But what if you bumped into a post like the following:
 
->In 2015, I left my stable job and a six-figure salary, dropping down to less than a quarter of what I was on. 
->
->And I used all that money on gambling.
->
->I relentlessly completed lots and lots of lottery tickets. I played in a casino 16-hour days, 7 days a week for over a year. I followed my >guts and fell into my greatest addiction. And one day, I made $20'000'000!!
->
+>In 2015, I left my stable job and a six-figure salary, dropping down to less than a quarter of what I was on. And I used all that money on gambling. I relentlessly completed lots and lots of lottery tickets. I played in a casino 16-hour days, 7 days a week for over a year. I followed my >guts and fell into my greatest addiction. And one day, I made $20'000'000!!
 >If you feel a burning desire to gamble, 100% I say take the risk. I did, and it’s been the best decision of my life.
 
 

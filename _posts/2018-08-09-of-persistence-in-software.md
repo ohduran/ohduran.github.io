@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of Persistence in software"
+title:  "Of Persistence in Software"
 date:   2018-08-09 15:00:00 +0100
 categories: data-science miscellaneous
 permalink: /2018/08/persistence-in software

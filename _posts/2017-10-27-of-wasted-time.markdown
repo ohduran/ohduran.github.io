@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of wasted time"
+title:  "Of Wasted Time"
 date:   2017-10-27 15:00:00 +0100
 categories: miscellaneous
 permalink: /2017/10/on-wasted-time

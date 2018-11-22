@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of banking"
+title:  "Of Banking"
 date:   2018-09-28 15:00:00 +0100
 categories: business-strategy miscellaneous
 permalink: /2018/09/not-banking-on-banking

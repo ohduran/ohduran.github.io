@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of the best thing about LinkedIn"
+title:  "Of the Best Thing about LinkedIn"
 date:   2017-11-04 15:00:00 +0100
 categories: business-strategy
 permalink: /2017/11/the-best-thing-about-linkedin
