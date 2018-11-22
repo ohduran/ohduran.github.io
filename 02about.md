@@ -25,6 +25,5 @@ I will spend 3 years working in fintech companies, learning about the current tr
 - __2018__ I move back to Spain.
 
 I accept a position as a Software Engineer for a small SaaS company that deals with financial advisors.
-
-### Where you can find me
-If we think alike, I want to hear about you. If we don't, I absolutely want to hear about you. And if you are unsure about how to contact me, read [this](/../../contact).
+<br><br>
+You can find more in my [LinkedIn profile](https://www.linkedin.com/in/alvaroduranbarata).

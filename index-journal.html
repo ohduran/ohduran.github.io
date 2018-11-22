@@ -5,7 +5,7 @@ layout: default
 
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
       {% unless post.categories contains 'booknotes' %}
       <h5>{{ post.excerpt }}</h5>
       {% else %}
