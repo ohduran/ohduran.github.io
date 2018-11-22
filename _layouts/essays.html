@@ -2,6 +2,21 @@
 layout: default
 ---
 <h1>Essays</h1>
+
+<h2>Recent Entries</h2>
+  <ul class="posts">
+    {% for post in site.posts limit:3 %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
+      <!-- {% unless post.categories contains 'booknotes' %}
+      <h5>{{ post.excerpt }}</h5>
+      {% else %}
+      <br>
+      {% endunless %} -->
+    {% endfor %}
+    <p id="spacing"> </p>
+</ul>
+
+<ul style="margin-top: 30px">
 {% for category in site.categories %}
   {% unless category contains 'booknotes' %}
   <li id="li-clean"><a name="{{ category | first }}" href="/index-{{ category | first }}.html"><h2>{{ category | first| capitalize }}</h2></a>
