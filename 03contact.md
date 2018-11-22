@@ -5,7 +5,9 @@ permalink: /contact/
 ---
 
 ### Why?
-Ubiquitous email access is engrained in our habits, and we have almost lost the ability to redesign our workdays so that we aren't reactive to notifications and emails. However, I'm not going to give all authority over to my mobile to determine my mindset. When it comes to email, it's the sender responsibility to convince the receiver that a reply is worthwhile.
+Ubiquitous email access is engrained in our habits, and we have almost lost the ability to redesign our workdays so that we aren't reactive to notifications and emails. However, I'm not going to give all authority over to my mobile to determine my mindset.
+
+When it comes to email, it's the sender responsibility to convince the receiver that a reply is worthwhile.
 
 Let me be clear, __I want to talk to you__. We can both benefit from talking to each other. But the likelihood of poorly thought emails to waste our time is tremendous. [We can do better](/2018/08/deep-work).
 
