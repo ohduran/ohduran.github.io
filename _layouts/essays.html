@@ -6,7 +6,8 @@ layout: default
   {% unless category contains 'booknotes' %}
   <li id="li-clean"><a name="{{ category | first }}" href="/index-{{ category | first }}.html"><h2>{{ category | first| capitalize }}</h2></a>
   {% else %}
-  <li id="li-clean"><h2><a name="{{ category | first }}" href="/index-{{ category | first }}.html">{{ category | first| capitalize }}</a></h2><h4><a href="/index-tags.html">by topic</a></h4>
+  <li id="li-clean"><h2><a name="{{ category | first }}" href="/index-{{ category | first }}.html">{{ category | first| capitalize }}</a></h2>
+                    <h4 id="by-topic"><a href="/index-tags.html">by topic</a></h4>
   {% endunless %}
     <ul>
     {% for post in category.last %}
@@ -22,4 +23,3 @@ layout: default
   </li>
 {% endfor %}
 </ul>
-</div>
