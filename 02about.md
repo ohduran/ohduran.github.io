@@ -1,12 +1,11 @@
 ---
 layout: page
-title: About
+title: My story
 permalink: /meet-the-writer/
 ---
 
 My name is Alvaro Duran-Barata. I am a problem solver, a curious mind, a lifelong learner.
 
-### A brief history
 - __2006__ As a high school student, I discover Physics for the first time.
 
 It extends Mathematics to the everyday life, and aims to answer all those questions about the world we live in.

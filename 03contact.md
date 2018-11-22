@@ -26,3 +26,7 @@ __Make specific questions, not vague requests__ Pretend you are talking to a bus
 __Don't use jargon with me__ I once worked at a financial services consultancy firm and the thing that I liked the least was people _pretending they know_. Help me understand, but also put your things together and avoid jargon at all costs. Start from the beginning, then drill down.
 
 __Have a little patience__ I once read in [Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365) about ALOHAnet, and how it overcome interference by using what is called _Exponential Backoff_: double the potential delay before trying to transmit again. If I did not respond in one week, try again, and then wait two weeks.
+
+### Copyright
+
+I often post excerpts of books and articles I've read. If you, as a copyright holder, feel I have violated or infringed on your copyright, please let me know and I will take down the link or modify the post in question.
