@@ -29,4 +29,4 @@ __Have a little patience__ I once read in [Algorithms to Live By](https://www.am
 
 ### Copyright
 
-I often post excerpts of books and articles I've read. If you, as a copyright holder, feel I have violated or infringed on your copyright, please let me know and I will take down the link or modify the post in question.
+I often post excerpts of books and articles I've read. If you, as a copyright holder, feel I have infringed on your copyright, please let me know and I will take down the link or modify the post in question.
