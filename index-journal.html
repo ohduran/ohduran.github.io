@@ -1,17 +1,11 @@
 ---
 layout: default
 ---
+<h1>Essays in Chronological Order</h1>
 
-<div id="home">
-
-<h2>Essays</h2>
-
-<ul>
-{% for category in site.categories %}
-  <li id="li-clean"><a name="{{ category | first }}" href="/index-{{ category | first }}.html"><h3>{{ category | first| capitalize }}</h3></a>
-    <ul>
-    {% for post in category.last %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a   href="{{ post.url }}">{{ post.title }}</a></li>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a target="_blank" href="{{ post.url }}">{{ post.title }}</a></li>
       {% unless post.categories contains 'booknotes' %}
       <h5>{{ post.excerpt }}</h5>
       {% else %}
@@ -19,7 +13,4 @@ layout: default
       {% endunless %}
     {% endfor %}
     <p id="spacing"> </p>
-    </ul>
-  </li>
-{% endfor %}
 </ul>
