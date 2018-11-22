@@ -9,7 +9,7 @@ Ubiquitous email access is engrained in our habits, and we have almost lost the 
 
 Let me be clear, __I want to talk to you__. We can both benefit from talking to each other. But the likelihood of poorly thought emails to waste our time is tremendous. [We can do better](/2018/08/deep-work).
 
-### What do I do?
+### I have something important that you should know. What do I do?
 
 If you have something worth telling me, make time to compel a good case for why your email is worth considering and worth answering to, and __please, send it to me__. Or think twice whether you have to, and save yourself some time by not sending it.
 
