@@ -124,11 +124,17 @@ They can’t get the idea that, empirically, complex systems do not have obvious
 3. __They think in terms of actions, never interactions__:
 They can’t forecast the evolution of those one helps by attacking, or the magnification one gets from feedback.
 
-In that sense, they aren't that far from the 'populism' that they so vigorously criticise: its solutions resemble the mainstream handling of complex issues, and it's winning not because of a renewed approach to those issues, but because the angle, the narrative is completely brand new, removing any guilt from the people who relied on mainstream politics to solve these problems in the first place.
-
 > We end up populating what the call ‘the intelligentsia’ with people who are delusional, literally mentally deranged, simply because they never have to pay for the consequences of their actions, repeating modernist slogans stripped of all depth, like “democracy”, while encouraging headcutters.
 >
 > -- __Skin in the Game__
+
+In that sense, they aren't that far from the 'populism' that they so vigorously criticise: its solutions resemble the mainstream handling of complex issues, and it's winning not because of a renewed approach to those issues, but because the angle, the narrative is completely brand new, removing any guilt from the people who relied on mainstream politics to solve these problems in the first place.
+
+> __Farage__: "I know that none of you have done a proper job in your lives, or worked in business, or worked in trade, or indeed ever created a job, but listen, just listen".
+__Schulz__ [In German]: "Mr Farage, just a second. Ladies and gentlemen, I do understand that you're getting emotional, but you're acting like UKIP [Farage's political party] normally act, so please, don't imitate them. Mr Farage I would say something to you: the fact that you're claiming nobody's ever done a decent job in their life, you can't really say that."
+__Farage__: "You're quite right, Mr Schulz, UKIP used to protest against the establishment and now the establishment protests against UKIP, so something has happened here."
+>
+> -- [EU Parliament, in the first session since 'Brexit' in Brussels, 28 Jun 2016](https://www.youtube.com/watch?v=SJzRa7HWVqs&t=0s&list=PLBEF4C827963BDDD1&index=5)
 
 The principle should be *do not harm*, not talking about [actions that would be designed to be limited in duration and scope](https://www.theguardian.com/world/2013/aug/31/barack-obama-statement-us-intervention-syria). Those who don’t take risks should never be involved in making decisions, especially when we are now skilled enough to kill ourselves as a species.
 
@@ -488,10 +494,206 @@ Dependability is a driver in many transactions: you have a car so that you want 
 
 ### From the companies man to the companies person
 
-Have you ever been told to study something 'useful'? There are numerous [studies](https://bankrate.com/career/most-valuable-college-majors) on "the most valuable college majors", with the idea that *the only real path to earn a living is through being employed by someone else*. That's why Actuarial Science (aka Economics) does so well in these rankings: they are the most 'useful', whereas 'miscellaneous arts' is dead last. Someone wouldn't be surprised that the term 'miscellaneous arts' is something people who haven't majored in arts would do, whereas 'actuarial science' is a term that an economist would use to pegg their major to __real__ sciences like Computer Science or Engineer.
+Have you ever been told to study something 'useful'? There are numerous [studies](https://bankrate.com/career/most-valuable-college-majors) on "the most valuable college majors", with the idea that *the only real path to earn a living is through being employed by someone else*. That's why Actuarial Science (aka Economics) does so well in these rankings: they are the most 'useful', whereas 'miscellaneous arts' is dead last.
+
+Funny enough, even the wording is signaling something: the term 'miscellaneous arts' is how someone who has a degree that isn't related to liberal arts would refer to liberal arts (and you could argue that using 'miscellaneous' here is pejorative); 'actuarial science' is a term that an economist would use to peg their major to real STEM degrees like Computer Science or Engineer.
 
 > Being an actuary is the best job in America because you get paid like doctors and lawyers, but you don't have to work with blood or visit your clients in jail.
 >
 > -- __Krzysztof Ostaszewski__, director of the actuarial program at Illionis State University
 
-Yes, that doesn't sound like skin in the game at all.
+I never in my life have encounter a doctor defining himself as 'working with blood'. The usefulness of a degree trumps everything else.
+
+I bring this up because we are witnessing what Taleb referred to the shift between 'the companies man to the companies person'.
+
+> Throughout the twentieth century [firms stay in the S&P 500 for] more than 60 [years]. There was such a thing as a company man; people stayed with large firms for their entire lives.
+>
+> -- __Skin in the Game__
+
+The company man is best defined as someone whose identity is impregnated with the stamp his firm wants to give him. A company man is someone who feels that he has something huge to lose if he doesn’t behave as a company man– that is, he has skin in the game.
+
+In return, the firm is bound by a pact to keep the company man on the books as long as feasible, after which he would go play golf with a comfortable pension, with former coworkers as partners.
+
+> By the 1990s, however, the technological revolution that took place in Silicon Valley put traditional companies under financial threat. These company men realised that the low-risk profile that came with the big brands wasn’t so low risk. These people couldn’t find a job elsewhere; they were of no use to anyone outside the organisation they have been working for so long.
+>
+> -- __Skin in the Game__
+
+The huge layoffs that came as the aftermath of the financial crisis in 2008 serve as the definite proof that the implicit agreement between the company man and the company is no longer valid. And with it comes the realisation that studying a pragmatic degree, regardless of its value to society as a whole, is the new normal.
+
+> If the company man is sort of gone, he has been placed by the companies person. For people are no longer owned by a company, but by something worse: employability. The employable person is embedded in an industry, with fear of upsetting not just their employee, but other potential employees.
+>
+> -- __Skin in the Game__
+
+When conditions are dire, students turn to "occupation-specific majors", Jaison Abel, head of regional analysis at the New York Fed, [commented to the New York Times in 2016](https://www.nytimes.com/2016/04/10/education/edlife/a-brighter-job-market-for-some.html). That's how they are making sure that, wherever they go, they'll be employable. Who cares about what is your degree, so long as it gets you somewhere.
+
+> Outside the firm, price movements direct production, which is co-ordinated through a series of exchange transactions on the market. Within a firm, these market transactions are eliminated and in place of the complicated market structure with exchange transactions is substituted the entrepreneur-coordinator, who directs production. It is clear that these are alternative methods of coordinating production. Yet, having regard to the fact that, if production is regulated by price movements, production could be carried on without any organization at all might we ask, why is there any organization?
+>
+> -- __Ronald Coase__, [The Nature of the Firm](http://www3.nccu.edu.tw/~jsfeng/CPEC11.pdf)
+
+Ronald Coase was the first to shed light on why firms exist. For him, contracts can be too costly to negotiate due to transaction costs; the solution is to incorporate your business and hire employees; on the other side of the fence, a free market determine specialisation, and information travels via price point, which will cause the firm to aim for the optimal ratio of employees and outside contractors.
+
+Had Coase had any interest in the ancients, he would have discovered that Romans had a slave for treasurer, because you can inflict a much higher punishment on a slave, and you don’t need to rely on the mechanisms of law for that.
+
+> In a world in which products are increasingly made by subcontractors with increasing degrees of specialization, employees are even more necessary than before for some specific, delicate tasks, which explains why today things appear to run smoothly and efficiently, but errors are costlier and delays are considerably longer than in the past.
+>
+> -- __Skin in the Game__
+
+### A curious form of slave ownership
+
+> The best slave is someone you overpay and who knows it, terrified of losing his status.
+>
+> -- __Skin in the Game__
+
+In a famous tale by Ahiqar, later picked up by Aesop, the dog boasts to the wolf all the contraptions of comfort and luxury he has, almost prompting the wolf to enlist. Until the wolf asks the dog about his collar and is terrified when he understands its use.
+
+> “What is that on your neck?”, asked the Wolf. “Nothing at all,” replied the Dog. “What! nothing!”, “Oh, just a trifle!”. “But please tell me.” begged the Wolf.
+> “Perhaps you see the mark of the collar to which my chain is fastened.”
+> “What! A chain!” cried the Wolf. “Don’t you go wherever you please?”
+> “Not always! But what’s the difference?” replied the Dog.
+> “All the difference in the world! I don’t care a rap for your feasts and I wouldn’t take all the tender young lambs in the world at that price.” And away ran the Wolf to the woods.
+
+Another aspect of the dog vs wolf dilemma: a wolf is trained to survive. Employees abandoned by their employers cannot bounce back. That is why unemployment in countries such as Spain is dramatic: loads of people were laid off, loads of people who couldn’t help themselves.
+
+![security](/assets/security.JPG)
+
+There is a category of employees who aren’t slaves, but these represent a small proportion of the pool. One type was the salesperson whose resignation could cause a loss of business. The other type was the trader about whom only one thing mattered: profit and losses.
+
+Note also the linguistic dimension: those who use foul language on social networks are sending an expensive signal that they are free- and, ironically, competent (numerous examples of this, of which Donald Trump is the clearest). You don’t signal competence if you don’t take risks for it. So, cursing today is an status symbol, just as oligarchs in Moscow wear blue jeans at special events to signal their power.
+
+>  What matters isn’t what a person has or doesn’t have; it is what he or she is afraid of losing.
+>
+> -- __Skin in the Game__
+
+Take for instance the EU leaders, confronting Russia's current president Vladimir Putin. Clearly, except for Putin, all the others need to be elected, can come under fire by their party, and have to calibrate every single statement with how it could be misinterpreted the least by the press. In such a confrontation, Putin looks and acts like a free citizen confronting slaves.
+
+Likewise, it is much trustworthy to deal with the owner of a business than some employee who might be gone tomorrow. *People whose survival depends on qualitative ‘job assessments’ by someone of higher rank in an organisation cannot be trusted for critical decisions*.
+
+The employee has a very simple objective function: fulfil his tasks or satisfy some gameable metric.
+
+We see that with the West attitude towards Saudi Arabia. It has become clear that someone in that country is involved in the assasination of Khashoggi. However, no bureaucrat, fearful of the economic consequences made a move. You can see how, when there is no downside, governments like in the US are willing to sacrifice civilian lives to 'remove a dictator', but when there is skin in the game, they all freeze, or keep doing what they've been doing: business.
+
+The same thing happened with the banks in 2009: the Obama administration was complicit with the Bob Rubin trade. He remove any skin in the game for bankers, thus likely reinforcing the idea that profits accrue to bankers while loses are mutualised.
+
+Now compare these policies to ones in which decision makers have skin in the game as a substitute for their annual ‘job assessment’ and you will picture a different world.
+
+## Chapter 4 - The skin of others in your game
+
+Imagine working for a corporation that produces a (so far) hidden harm to the community, in concealing a property that kills thousands by an effect that is not (yet) fully visible.
+
+You could alert the public, but you would automatically lose your job, without the certainty that a public trial may leave you humiliated for years, which is what happened to [Gilles-Éric Séralini](https://en.wikipedia.org/wiki/S%C3%A9ralini_affair). Until he won his defamation suit against Monsanto, he lived in total disgrace. Oddly enough, both the [leaded gasoline]() and CFCs were both embarrasing cases in our science history invented by [Thomas Midgley](https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.), as brillantly explained in Bill Byrson's book [A short history of nearly everything](https://www.amazon.es/Short-History-Nearly-Everything-Bryson/dp/0552151742?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0552151742).
+
+In any case, as with whistleblowers, even if you end up vindicated, it may that time for the truth to emerge over the noise created by corporate shills. Meanwhile, you pay the price. You are severely conflicted between your obligation to the collective and to your progeny. You feel you are part of the crime, and unless you do something, you are an agent.
+
+### Being ethical comes at a huge costs to others
+
+[In the climax of 'Batman vs Superman'](https://www.youtube.com/watch?v=EDsVT7hXm54#t=1m16s), the cape crusader is about to kill Superman, whom he sees as the ultimate no-skin-in-the-game enemy, but something finally prevents him from doing it: the realisation that Superman has a mother, someone he cares for, someone for whom he would compromise his ethics.
+
+Society likes saints and moral heroes to be celibate so they do not have family pressures that may force them into the dilemma of needing to compromise their sense of ethics to feed their children: __To make ethical choices you cannot have dilemmas between the particular (friends, family) and the general__.
+
+That's the main driver for Venezuelan voters: [the widespread reliance on subsidies to buy groceries](https://www.nytimes.com/2018/05/18/world/americas/venezuela-election-president-maduro-food.html).
+
+Intellectual and ethical freedom requires the absence of skin of others into one’s game, which is why the free are so rare.
+
+### How to put skin in the game of suicide bombers
+
+Can someone punish a family for the crimes of an individual? The scriptures are self-contradictory:
+
+> The Lord passed by before him and proclaimed: “The Lord, the Lord, the compassionate and gracious God, slow to anger, and abounding in loyal love and faithfulness, 7 keeping loyal love for thousands, forgiving iniquity and transgression and sin. But he by no means leaves the guilty unpunished, responding to the transgression of fathers by dealing with children and children’s children, to the third and fourth generation.”
+>
+> __Exodus 34:6-7__
+
+> Fathers must not be put to death for what their children do, nor children for what their fathers do; each must be put to death for his own sin.
+>
+> __Deu 24:16__
+
+However, the answer is clear in the case of the terrorist who thinks he is immune to harm: *You killed my family with supposed impunity; I will make yours pay some indirect price for it*.
+
+This also applies [if you commit suicide by jumping in front of a train in Japan](https://www.economist.com/news/2009/02/06/home-again-home-again).
+
+> Indeed, the train companies have got the business of cleaning up the mess down to a fine art, sometimes in less than 15 minutes, while commuters are handed excuse-notes to show their employers. Meanwhile, the grief of the deceased's family is heightened by having to bring a perverse kind of blood money—up to ¥3m ($34,000) as compensation to the railway company.
+>
+> -- "The Economist - Home again, home again"
+
+Thinking of yourself as an individual, and not as a small community, has also consequences to how we behave.
+
+# Book 5 -  Being alive means taking certain risks
+
+## Chapter 5 - Life in the simulation machine
+
+Have you noticed how unusual it is that Christianity, among all religions, is the only one that believes in a God that is also a man? It's not like Ancient Greek gods: the conquests of Zeus among nymphs and the mythic mortal progenitors of Hellenic dynasties are famous; nor is it buddhism, which is more a collection of traditions, beliefs and spiritual practices based on teachings attributed to the Buddha than an actual religion.
+
+The Christian religion kept insisting on the dual nature of Jesus Christ: divine and humane. It would be theologically simpler if God were god and Jesus were man, just like any other prophet.
+
+> The Church founders really wanted Christ to have skin in the game; he did actually suffer on the cross, sacrifice himself, and experience death.
+>
+> -- __Skin in the Game__
+
+A god who didn’t really suffer on the cross would be like a magician who performed an illusion. The human nature of Christ is what makes the divine possible for all of us.
+
+It's the same when you play poker using fake money: you don't behave the same, you're more reckless, because there is no downside. Being in 'The Matrix' changes it all completely. It's like that movie called '[The Edge of Tomorrow](https://www.imdb.com/title/tt1631867/)': Tom Cruise cannot die, so he keeps on doing it again and again to experiment strategies to win the war.
+
+> Arguments that Trump was a failed entrepreneur, even if true, actually prop up this argument: you’d even rather have a failed real person than a successful one, as blemishes, scars and character flaws increase the distance between a human and a ghost.
+>
+> -- __Skin in the Game__
+
+## Chapter 6 - The Intellectual Yet Idiot
+
+These self-described members of the ‘intelligentsia’ aren’t intelligent enough to define intelligence, hence fall into circularities: __their main skill is a capacity to pass exams written by people like them, or to write papers read by people by them__.
+
+> With psychology studies [replicating less than 40% of the time](http://www.sciencemag.org/news/2016/03/about-40-economics-experiments-fail-replication-survey), dietary advice reversing after 30 years of dietary fat phobia, financial economics worse than astrology, the reappointment of Bernanke [as president of the Federal Reserve] who was less than clueless about financial risk, and pharmaceutical trials replicating at best only a third of the time, people are perfectly entitled to rely on their own ancestral instincts and to listen to their grandmothers, who have a better track record than these policymaking goons.
+>
+> -- __Skin in the Game__
+
+The IYI seems ubiquitous in our lives but is a small minority, rarely seen outside specialised outlets, think tanks, media, and university. He pathologises others for doing things he doesn’t understand without even realising it is his understanding that may be limited. He thinks people should act according to their best interests and he knows their interest, particularly if they are ‘rednecks’ or from the English non-crisp-vowel class who voted Brexit.
+
+When plebeians do something that doesn’t make sense to IYI, he uses the term ‘uneducated’. What we generally call participation in the political process, he makes the distinction between ‘populism’ when plebeians dare to vote in a way that contradicts IYI preferences, and ‘democracy’, when it fits the IYI.
+
+I was recently caught by surprise by [the demonstration in London that asked for a second referendum on Brexit](https://www.theguardian.com/uk-news/live/2018/oct/20/peoples-vote-march-london-second-referendum-brexit-live), and I couldn't help asking myself 'how a Brexiteer person will see this demonstration on TV? Would he change her mind, or would she disregard these people as ["in denial"](https://www.youtube.com/watch?v=SJzRa7HWVqs&t=0s&list=PLBEF4C827963BDDD1&index=5)'.
+
+> __Farage__: "Isn't it funny, you know? When I came here 17 years ago and I said that I wanted to lead a campaign to get Britain to leave the European Union you all laughed at me. Well I have to say, you're not laughing now, are you? And the reason you're so upset, the reason you're so angry has been perfectly clear from all the angry exchanges this morning. You, as a political project, are in denial."
+>
+> -- EU Parliament, in the first session since 'Brexit' in Brussels, 28 Jun 2016
+
+## Chapter 7: Inequality and Skin in the Game
+
+There is inequality and inequality.
+
+The first is the one people tolerate, such as one’s understanding compared to that of people deemed heroes, like Einstein. You may like to imitate them, but you don’t resent them.
+
+The second is the inequality people find intolerable because the subject appears to be just a person like you, except that he’s been playing the system, acquiring privileges that are not warranted. You don’t just envy them; you take umbrage at their fame, and the sight of their expensive or even semi-expensive car triggers some feeling of bitterness.
+
+[Joan C Williams](https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class) explains that the American working class is impressed by the rich, as role models. Michèle Lamont, in her book [The Dignity of Working Men](https://www.amazon.com/Dignity-Working-Men-Boundaries-Immigration/dp/0674009924?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0674009924), cited by Williams, did a systematic interview of blue-collar Americans and found resentment of high-paid professionals but, unexpectedly, not of the rich.
+
+In countries were wealth comes from rent-seeking, political patronage or regulatory capture, like mine, wealth is seen as a zero-sum game: someone getting rich is doing so at other people’s expense. It is safe to say that the people despises people who make a lot of money on a salary.
+
+What people resent is the person at the top who can't go down. True equality is equality in probability.
+
+### The static and the dynamic
+
+As part of the Scrum methodology, we have a fortnightly demo where we present what we did over the last two weeks to the rest of the company. It's common that some teams may present the number of bugs they have open, and how that number has evolved through time.
+
+While looking at one of those charts, it kept me wondering: "what does this tell me about the time that a bug takes on average to be resolved?" And I found myself realising that it tells nothing about it: one bug may have been there for ages and no one would notice.
+
+It certainly is funny to see that people like Piketty and other social economists don't understand this either. There is a well known economist in a well known newspaper that I read that keeps insisting that inequality has gone down, in the line drawn by Piketty and others. The real question is: __what are my prospects of a better future, or considering me as a family lineage, what are the odds of my offspring to keep on doing better?__ Those are questions that no mainstream economist is addressing.
+
+*Static inequality is a snapshot view of inequality; it does not reflect what will happen to you in the course of your life*.
+
+Dynamic (ergodic) inequality takes into account the entire future and past life.
+
+Ergodic means that the likelihood to be in any economic class is the same for everyone: is the ideal concept of the American dream: for those on the top, it's a matter of someone outsmarting or outworking them to replace them.
+
+Rawl’s veil, discussed in [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219), assumes that a fair society is the one which you would select if there were some type of a lottery.
+
+*What would be the economical system that you would choose, provided that you don’t know at which stage in the society are you going to fall beforehand*?
+
+The way to make society more equal is by forcing the rich to be subjected to the risk of exiting from the 1%. Or, more mathematically, dynamic equality assumes Markov chain with no absorbing states. Someone can always bounce back from ruin, and someone can always fall back from fuck you money.
+
+The exact opposite of perfect ergodicity is an absorbing state: a person gets rich by some process and then, having arrived, stays rich. And if someone enters the lower middle class, he will never have the chance to exit from it and become rich should he want to.
+
+A straightforward condition is that fencing off immigrants from first class citizenship is immoral, and reduces ergodicity, because those people are unable to climb their way to the top. Nobody thinks of himself as rich, but we are, very. And there is people justified to resent us. No downside for some means no upside for the rest.
+
+> We’ve made a big deal out of Piketty here because the widespread enthusiasm for [Capital in the 21st Century] was representative of the behavior of that class of people who love to theorise and engage in false solidarity with the oppressed, while consolidating their privileges.
+>
+> -- __Skin in the Game__
+
+Only an academic would think that the problem of ethics in Finance can be solved by [adding more weight to the chapter in Ethics in the CFA curriculum](https://www.cfainstitute.org/en/ethics/codes/codes-standards-periodic-review).
