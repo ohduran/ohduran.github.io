@@ -170,7 +170,6 @@
  */
 .page-content {
     padding: $spacing-unit 0;
-    text-align: justify;
 }
 
 .page-heading {
@@ -224,10 +223,12 @@
 }
 
 .post-content {
-    margin-bottom: 2 * $spacing-unit;
-    margin-left: 2 * $spacing-unit;
-    margin-right: 2 * $spacing-unit;
-    text-align: justify;
+    @include media-query($on-laptop) {
+      margin: 0 $spacing-unit $spacing-unit $spacing-unit;
+    }
+    @include media-query($on-palm) {
+      margin: 0 2*$spacing-unit 2*$spacing-unit 2*$spacing-unit;
+    }
 
     h2 {
         font-size: 32px;
