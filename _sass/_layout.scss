@@ -223,13 +223,13 @@
 }
 
 .post-content {
-    @include media-query($on-laptop) {
-      margin: 0 $spacing-unit $spacing-unit $spacing-unit;
-    }
-    @include media-query($on-palm) {
-      margin: 0 2*$spacing-unit 2*$spacing-unit 2*$spacing-unit;
-    }
-
+    // @include media-query($on-laptop) {
+    //   margin: 0 20*$spacing-unit 2*$spacing-unit 2*$spacing-unit;
+    // }
+    // @include media-query($on-palm) {
+    //   margin: 0 $spacing-unit $spacing-unit $spacing-unit;
+    // }
+    margin: 0 $spacing-unit $spacing-unit $spacing-unit;
     h2 {
         font-size: 32px;
 
@@ -239,7 +239,7 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 25px;
 
         @include media-query($on-laptop) {
             font-size: 22px;
