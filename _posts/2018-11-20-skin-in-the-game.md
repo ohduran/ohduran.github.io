@@ -697,3 +697,87 @@ A straightforward condition is that fencing off immigrants from first class citi
 > -- __Skin in the Game__
 
 Only an academic would think that the problem of ethics in Finance can be solved by [adding more weight to the chapter in Ethics in the CFA curriculum](https://www.cfainstitute.org/en/ethics/codes/codes-standards-periodic-review).
+
+### Cobbler envies cobbler
+
+Envy does not originate with the impoverished, concerned with the betterment of their condition, but with the clerical class. People who compare themselves to those richer want to actively dispossessed the rich. As with all communist movements, it is often the bourgeois or clerical classes who are the early adopters of revolutionary theories.
+
+>Envy originates from a New York or Washington, D.C., Ivy-League educated IYI with a sense of entitlement, upset some ‘less smart’ persons are much richer.
+>
+> -- __ Skin in the Game__
+
+People can frame questions and portray enrichment as theft, as was done before the French Revolution, in which case the blue-collar class would ask, once again, for heads to roll, like the case with [UK Parliament expenses](https://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal).
+
+In the more rural past, envy was rather controlled; wealthy people were not as exposed to other persons of their class. The wealthy stayed within their region, surrounded by people who depended on them, say a lord on his properties. It was in mercantile urban environments that socialising within social classes took place. Hence, they needed to keep up with each other, racing on a treadmill. This is the time where communism is born.
+
+For a rich person isolated from vertical socialising with the poor, the poor become something entirely theoretical, a textbook reference. That is why a politician would say 'Refugees Welcome' without thinking of the consequences of doing so: because immigrants are an abstract term to be resolved, but without my involvement.
+
+The intelligentsia therefore feels entitled to deal with the poor as a construct; one they created. Thus, they become convinced that they know what is best for them. The reaction to 'experts' in populism is a reaction to this.
+
+### Ethics of civil service
+
+When, on leaving office, Barack Obama accepted a sum of more than $40 million to write his memoirs, many people were outraged. I had a rough time explaining that having rich people in a public office is very different from having public people become rich. Again, it is the dynamics that matters.
+
+> Rich people in public office have shown some evidence of lack of total incompetence— success may come from randomness, but we at least have a hint of some skill in the real world.
+>
+> -- __Skin in the Game__
+
+You don’t become a Jesuit priest because it may help you get hired by Goldman Sachs later.
+
+Currently, most civil servants tend to stay in civil service— except for those in delicate areas that industry controls: the agro-alimentary segment, finance, aerospace. Regulators have an incentive to make rules as complex as possible so their expertise can later be hired at a higher price.
+
+So there is an implicit bribe in public service, what we call [revolving doors](https://en.wikipedia.org/wiki/Revolving_door_(politics)). Companies don’t do it out of a sense of honour: simply, it is necessary to keep the system going and encourage the next guy to play by these rules.
+
+> [Former Treasury Secretary Tim Geithner] helped bankers get bailouts, let them pay themselves from the largest bonus pool in history after the crisis using taxpayer money, and then got a multimillion-dollar job at a financial institution as his reward for good behaviour.
+>
+> -- __Skin in the Game__
+
+## Chapter 8 - An expert called Lindy
+
+[14 Things Ridiculously Successful People Do Every Day](https://www.entrepreneur.com/slideshow/299699), [What 12 Celebrities did to lose weight fast](http://www.nowloss.com/how-celebrities-lose-weight-fast-keep-it-off.htm), [10 of the Laziest Ways You Can Become Rich](https://www.therichest.com/rich-list/nation/10-of-the-laziest-ways-you-can-become-rich/). There are countless, clickbait-y ways to become rich, slim, and successful, and they are of course minimal changes in your life. The main idea is that "if you are not rich, slim and successful, *is because you don't want to*".
+
+There is an industry of domain-experts telling you what you have to do. Trends, rumours, what success people do... that is nonsense. You're missing the complexities of a given person. *Having close access to ultra-successful people* cannot, in fact, yield any information. What is really going on is you're forming a theory of what people you admire do and create a narrative around that theory by using biased information. Successful philosophers write complex, long and convoluted prhases, but that doesn't mean that for you to become a successful philosopher you would have to write like that.
+
+Who is the real expert, then? Time.
+
+The origin of the term ‘Lindy effect’ can be traced back to Albert Goldman and a 1964 article titled ‘[Lindy’s Law](https://www.dropbox.com/s/qripnmgbnvtyx16/1964-goldman.pdf)’, and was further developed by Benoit Mandelbrot in his book [The Fractal Geometry of Nature](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0716711869). Mandelbrot expressed mathematically that for certain things bounded by the life of the producer, like human promise, future life expectancy is proportional to the past. It is also worth credit J Richard Gott and his ‘Copernical principle for lifetime estimation. Gott came up with the idea in 1969 when stopping at the Berlin Wall and wondering how long it would stand. He postulated that the Copernican principle is applicable in cases where nothing is known; unless there was something special about his visit, this gave a 75% chance that he was seeing the wall after the first quarter of its life.
+
+In probability, time and volatility are the same thing; in the Black Scholes formula, time and volatility, along with the differential between current price and the exercise price, determine the price of the option. It's the main reason why, in software engineering, you [should never do The Great Refactor](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
+
+> Burn old dogs, drink old wine, read old books, keep old friends.
+>
+> -— __Alfonso X ‘The Wise’__
+
+Skin in the game is resisting the test of time. It's worth emphasising that the authors of the articles we mentioned before have, of course, no skin in the game. Change for the sake of change, as we see in architecture, food, or lifestyle, is frequently the oppose of progress. Too high a rate of mutation prevents locking in the benefits of previous changes.
+
+>  As an essayist, I am not judged by other writers […], but by readers. […] not today readers. Only those of tomorrow, and the day after tomorrow. So, my only real judge here being time, it is the stability and robustness of the readership that counts.
+>
+> -- __Skin in the Game__
+
+### Peer review
+
+And what is praised is suspicious: in 1983, the computer giant IBM made the front cover of BusinessWeek as the ultimate company. If anything, you should afterwards be shorting the company. Collective praise by journal is at the least, suspicious, and at best, a curse. Prizes are likely to hit you at your peak.
+
+But there is something worse than peer assessment: the bureaucratisation of the activity creates a class of new judges: university administrators, who have no clue what someone is doing except via external signals, yet become the actual arbiters.
+
+These arbiters failed to realise that ‘prestigious’ publications are not ‘Lindy compatible’. Academia has a tendency, when unchecked, to evolve into a ritualistic self-referential publishing game. It's the same in high school; it’s remarkable to see how the cool kids underperform everyone else afterwards.
+
+While academia has turned into an athletic contest, Wittgenstein, the author of [Tractatus Logico-Philosophicus](https://www.amazon.com/Tractatus-Logico-Philosophicus-Ludwig-Wittgenstein/dp/0486404455/ref=sr_1_1), held the exact opposite viewpoint: if anything, knowledge is the reverse of an athletic contest.
+
+>In philosophy, the winner of the race is the one who can run slowest. [Or without haste.] Or the one who arrives at the finish line last.
+>
+> -- __Wittgenstein__
+
+The most convincing statements are those in which one stands to lose, and the most unconvincing ones are those in which one patently tries to enhance one’s status without making a tangible contribution.
+
+Someone with a high public presence who is controversial, like [Jose Mourinho](https://en.wikipedia.org/wiki/Jos%C3%A9_Mourinho), and takes risks for his opinion is less likely to be a bullshit vendor.
+
+### Science is Lindy-compatible
+
+>It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.
+>
+> -- __Richard P Feynman__
+
+The reason science works isn’t because of the ‘scientific method’, but because an idea will fail if it isn’t useful, and can therefore be vulnerable to the falsification of time. For things to survive, they necessarily have to be good at not dying.
+
+This, as [Jordan Peterson](https://www.youtube.com/watch?v=07Ys4tQPRis) noted, also applies to superstitions that have crossed centuries because they led to some protective actions.
