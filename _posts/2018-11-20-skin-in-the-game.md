@@ -781,3 +781,50 @@ Someone with a high public presence who is controversial, like [Jose Mourinho](h
 The reason science works isn’t because of the ‘scientific method’, but because an idea will fail if it isn’t useful, and can therefore be vulnerable to the falsification of time. For things to survive, they necessarily have to be good at not dying.
 
 This, as [Jordan Peterson](https://www.youtube.com/watch?v=07Ys4tQPRis) noted, also applies to superstitions that have crossed centuries because they led to some protective actions.
+
+Whatever your grandpa or your grandma tells you, it's probably right. They rely on ancient knowledge that has survived for generations through the people that tell them. Idioms and expressions, like myths and superstitions, are the real memes.
+
+### A brief tour of your grandparents' wisdom
+
+__Cognitive dissonance__
+
+Aesop’s parable ‘The Fox and the Grapes’
+
+__Loss aversion__
+
+Livy’s ‘Annals: *Men feel the good less intensely than the bad*
+
+__Negative advice__
+
+Ennius, and then Cicero: *The good is not as good as the absence of bad*
+
+__Skin in the Game__
+
+Yiddish proverb: *You can’t chew with somebody else’s teeth*
+
+__Antifragility__
+
+Cicero: *When our souls are mollified, a bee can sting*
+
+__Time discounting__
+
+*A bird in the hand is better than ten on the tree* - with variations, a proverb in Spanish, Czech, German, English, and probably has Latin roots.
+
+__Madness of crowds__
+It's the main theme in ‘Julius Cesar’ by Shakespeare, and *Plato: Madness is rare in individuals, but in groups is the rule*
+
+__Less is more__
+
+Publilius Syrus: *Truth is lost with too much altercation*
+
+__Overconfidence__
+
+Theognis of Megara and Epicharmus of Kos: *Confident, I lost everything; defiant, I saved everything*
+
+__The paradox of progress__
+
+The New York banker vacationing in Greece
+
+# Book 6 - Deeper into Agency
+
+## Chapter 9 - Surgeons should not look like surgeons
