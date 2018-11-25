@@ -166,7 +166,7 @@ It's the Bias-Variance trade-off: explaining overfits your forecast analysis, so
 
 We need evolution to learn, because it's easier for humans to see what is wrong than what is right. Once we've removed what is wrong, it's necessary that what is left has to be right. That's what we called *via negativa*.
 
-### A brief tour of symmetry
+### <a name="tour-of-symmetry"></a>A brief tour of symmetry
 
 1. Hammurabi
 
@@ -278,7 +278,7 @@ __Book 8__ has the two central chapters: ‘How to be Rational about Rationality
 
 # Book 2 - A first look at Agency
 
-## Chapter 1 - Why each one should eat his own turtles
+## <a name="chapter1"></a>Chapter 1 - Why each one should eat his own turtles
 
 *Beware of the person who gives advice, telling you that a certain action on your part is ‘good for you’, while it is also good for him, while the harm to you doesn’t directly affect him*.
 
@@ -654,7 +654,7 @@ I was recently caught by surprise by [the demonstration in London that asked for
 >
 > -- EU Parliament, in the first session since 'Brexit' in Brussels, 28 Jun 2016
 
-## Chapter 7: Inequality and Skin in the Game
+## <a name="chapter7"></a>Chapter 7: Inequality and Skin in the Game
 
 There is inequality and inequality.
 
@@ -828,3 +828,143 @@ The New York banker vacationing in Greece
 # Book 6 - Deeper into Agency
 
 ## Chapter 9 - Surgeons should not look like surgeons
+
+When I was younger, I used to play in a football team as a goalkeeper. I was 1 foot taller than the other goalkeeper, so by watching us warming up you would have thought that I was starting, and he was the substitute goalie. It was, unexpectedly, the opposite.
+
+Say you had the choice between two surgeons of similar rank in the same department in some hospital. The first is highly refined in appearance; he is the person you would put in a movie if you need to impersonate a surgeon. The second one looks like a butcher; in a movie, you would expect him to impersonate a retired bodyguard for a junior congressman.
+
+Now, if I had to pick, I would take the butcher any minute. The one who doesn’t look the part, conditional on having made a successful career in his profession, had to have much to overcome in terms of perception.
+
+When results come from dealing directly with reality rather than through the agency of commentators, image matters less, even if it correlates with skills. Skilled thieves at large should not look like thieves. Those who do are more likely to be in jail.
+
+Consider the CEOs of corporations: they don’t just look the part, they even look the same. Executives are different from entrepreneurs and are supposed to look like actors. So it becomes no wonder that the job of CEO of the country was filled by a former actor, Ronald Reagan. Actually, the best actor is the one nobody realises is an actor: a closer look at Barack Obama shows that he was even more of an actor: a fancy Ivy League education combined with a liberal reputation is compelling as an image builder.
+
+> Don’t hire newscasters as CEOs. They seem confident, but they can only read the teleprompter.
+>
+> -- Paul Graham
+
+In any type of activity or business divorced from the direct filter of skin in the game, a great majority of people know the jargon, play the part, and are intimate with the cosmetic details, but are clueless about the subject.
+
+What one may need to know in the real world does not necessarily match what one can perceive through intellect.
+
+> What can be phrased and expressed in a clear narrative that convinces suckers will be a sucker trap.
+>
+> -- __Skin in the Game__
+
+The people you understand most easily were necessarily the bullshitters. I was once given the advice not to trust any technique that could be encapsulated in an acronym, like KISS, DRY, SOLID, and so on.
+
+The illusion prevails that business work via business plans and science via funding. This is strictly not true: a business plan is a useful narrative for those who want to convince a sucker. It works because firms in the entrepreneurship business make most of their money packaging companies and selling them; it is not easy to sell without some strong narrative. For real business, something that should survive on its own, business plans and funding work backward. There are countless cases in [IndieHackers](https://indiehackers.com) about successful business that thrive without or with very little VC funding, because their main focus is on monthly revenue, not in active users.
+
+Why is there so much complication then? It's mostly because of the reliance on experts to do the job, instead of growing the knowledge organically. If a financial firm needs, say, to 'digitise', they rely on consultants to do the job, as this is a temporal issue that needs to be dealt with experts. Thus, the decision makers hire experts, consultants, academics.
+
+> Never hire an academic unless his function is to partake of the rituals of writing papers and taking exams.
+>
+> -- __Skin in the Game__
+
+Likewise, you should not rely on an industry that is built on top of PowerPoint presentations (it was the core of my initial training when I joined a consultancy firm). They are likely to deal with you with unnecessary complications, as it is convey expertise.
+
+But there is a logic behind these rituals. History shows that there were societies in which the intellectual was at the top (brahmans, druids, scribes, scholars). You can notice a remarkable similarity to the way these intellectuals held power and separated themselves from the rest: through complex, extremely elaborate rituals, mysteries that stay within the caste, and an overriding focus on the cosmetics.
+
+No ‘successful’ academic could ever afford to follow [what Alexander the Great did with the Gordian knot](https://www.history.com/news/what-was-the-gordian-knot). It took medicine a long time to realise that when a patient shows up with a headache, it is much better to give him aspirin or recommend a good night’s sleep than do brain surgery, although the latter appears to be more ‘scientific’.
+
+> Richard Dawkins, for example, argues that “[A baseball catcher] behaves as if he had solved a set of differential equations in predicting the trajectory of the ball. At some subconscious level, 	something functionally equivalent to the mathematical calculations is going on”.
+> (…) Instead, experiments have shown that players rely on several heuristics. The gaze heuristic is the simplest one and works if the ball is already high up in the air: Fix your gaze on the ball, start running, and adjust your running speed so that the angle of gaze remains constant.
+>
+> -- __Gerd Gigerenzer and Henry Brigthon__, [Homo Heuristicus](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3629675/)
+
+Humans are assumed to be overly rational in their responses to all manner of natural phenomena, rather than accepting the role of a collection of mental heuristics used for specific purposes.
+
+Likewise, many problems in society come from the interventions of people who sell complicated solutions because that’s what their position and training invite them to do.
+
+> There has been a problem of malnutrition and nutrient deficiency in many developing countries, which (…) Yaneer Bar-Yam and Joe Norman attribute to a simple and very straightfoward transportation issue. Simply, we waste more than a third of our food supply, and the gains from simple improvement in distribution would far outweigh those from modification of supply. (…) Now the “techies” saw an angle of intervention. First, you show pictures of starving children to elicit sympathy and prevent further discussion— anyone who argues in the presence of dying children is a heartless a**hole. Second, you make it look like any critic of your method is arguing against saving the children. Third, you propose some scientific-looking technique that is lucrative to you and, should it cause a catastrophe or blight, insulates you from the long-term effects. Fourth, you enlist journalists and useful idiots (…). Fifth, you create a smear campaign to harm the reputations of researches who, not having f*** you money, are very vulnerable to the slightest blemish to their reputations.
+>
+> -- __Skin in the Game__
+
+The technique in question consists in genetically modifying rice to have the grains include vitamins. Check out Pamela Ronald's TED Talk (of course) '[The case for engineering our food](https://www.youtube.com/watch?v=wZ2TF8-PGQ4)', with a picture of kids holding hands at [4:17](https://www.youtube.com/watch?v=wZ2TF8-PGQ4#t=4m17s).
+
+> Why don’t we give these people rice and vitamins separately? After all, we don’t have genetically modified coffee that has milk with it.
+>
+> -- __Skin in the Game__
+
+The same happened with [Joseph Kony](https://www.youtube.com/watch?v=Y4MnpzG5Sqc). The video mostly goes like this: the Earth from the outside, people hugging each other (presumably family), lots of kids, people sharing videos on Youtube (because that's how you finish world hunger), the Earth again, the video's director's wife giving birth to their kid, accompanied with endless pictures and videos of him for over 4 minutes. And then, you're introduced to Jacob, another kid, but this time in Gulu, Uganda. There is an evil man called Joseph Kony who makes him suffer and terrorises the area.
+
+The same pattern that Taleb has displayed repeats in that video: *either you're for invading Uganda and removing the dictator Kony, or you're against the children*.
+
+## Chapter 10 - Only rich people are poisoned; the preferences of others
+
+If academics and consultants are incentivised to sell you complication, we are impressed by it.
+
+Take gyms: people are impressed by expensive equipment— fancy, complicated, multicoloured. Things appear maximally sophisticated and scientific– but remember that what looks scientific is usually scientism, not science. What people into strength training already know is that users of these machines gain no strength beyond an initial phase, and that the simple barbell is the only standard piece of equipment that gets you to recruit your entire body for exercises— and the simplest and cheapest to get.
+
+Lindy again: weightlifters have known the phenomenology for at least two and a half millennia.
+
+So long as society is getting richer, someone will try to sell you something until the point of degradation of your well-being, and a bit beyond that. You don't really __need__ the iPhone, we have spent most of our lives without it; it's an artificial need called network effect, that comes as a result of people in our environment using it.
+
+When people get rich, they lose control of their preferences, complicate their lives unnecessarily, trigger their own misery. And these constructed preferences are of course the preferences of those who want to sell them something. And given that they are rich, nobody would shout *victim*.
+
+Now in this part, Taleb refers to the concept of 'Michelin-star' restaurant. If you've ever been to one, the idea revolves not in leaving you full, but in making you experience tastes that you don't normally do. Taleb doesn't see it that way.
+
+> I once had a dinner in a Michelin-starred restaurant. [...] I left the place starving. [...] If I had a choice, I would have had some time-tested recipe. [...] But because the dinner partner could afford the expensive restaurant, we ended up victims of some complicated experiments by a chef judged by some Michelin bureaucrat. It would fail the Lindy effect: food does better through minute variations from Sicilian grandmother to Sicilian grandmother.
+>
+> -- __Skin in the Game__
+
+I can see the point: these restaurants are trying their best to earn the approval of that 'Michelin bureaucrat', instead of the customer; incentives are perverse. And indeed, given the importance of keeping up with a balanced diet, not with working out to offset the effects of a bad one, we cannot be surprise to learn that [for the first time in the history of the world more people will die from overeating than undereating this year](https://www.washingtonexaminer.com/fact-check-bloomberg-claims-more-people-die-of-obesity-than-hunger). There are conflicting studies for and against this claim, but it's worth notice the irony of people dying of eating too much, and people eating too litte at the same time in history.
+
+So why target rich people with overly complicated food that doesn't feed?
+
+As Thyestes shouts in Seneca’s tragedy, thieves do not enter impecunious homes. Poison is drunk in golden cups (*Venenum in auro bibitur*).
+
+It is easy to scam rich people by getting them into complications— the poor are spared that type of scamming. Further, the rich start using ‘experts’ and ‘consultants’.
+
+> An entire industry meant to swindle you will swindle you: financial consultants, diet advisors, exercise experts, lifestyle engineers, sleeping councillors, breathing specialists, etc.
+>
+> -- __Skin in the Game__
+
+Same with real state: when people have big bucks they end up pressured to move into outsized, impersonal, and silent mansions. Very few people understand their own choices, and end up being manipulated by those who want to sell them something.
+
+If wealth is giving you fewer options instead of more, you are doing it wrong.
+
+And closing the circle here, we talked in [Chapter 1](#chapter1) about
+how “Me” is more likely to be a group than a single person. This applies here again.
+
+> One can generalise and define a community as a space within which many rules of competition and hierarchy are lifted.
+>
+> -- __Skin in the Game__
+
+This is the reason behind [why we hate cheap things](https://www.theschooloflife.com/thebookoflife/why-we-hate-cheap-things/).
+
+## Chapter 11 - Facta non Verba (deeds before words)
+
+There are two totally distinct varieties of terrorists.
+
+The first group includes non soldiers who indiscriminately kill civilians for effect and don’t bother with military targets, as their aim is to make a statement: Al Qaeda, ISIS, and the ‘moderate’ rebels in Syria sponsored by the EU and by former US president Obama.
+
+The second group is about strategic political assassination: IRA, most Shiite organisations, Algerian independence fighters against France, French resistance fighters during the German occupation, etc.
+
+The latter are inspired by the order of the Assassins.
+
+### The Assasins
+
+The best enemy is one you own by putting skin in his game and letting him know the exact rules that come with it. You keep him alive, with the knowledge that he owes his life to your benevolence.
+
+The notion that an enemy you own is better than a dead one was perfected by the order of [the Assassins]
+(https://en.wikipedia.org/wiki/Assassins). Formally known as Nizari Ismailis, they were an eleventh- through fourteenth-century sect related to Shiite Islam, often associated with the Knights Templar as they fought frequently on the same side. The most interesting thing about The Assassins is that actual assassination was low in their agenda. They understood that the only enemy you cannot manipulate is a dead one.
+
+The ethical system of the Assassins held that political assassination helped prevent war. They supposedly aimed at sparing civilians and people who were not directly targeted. Their precision was meant to reduce what is now called ‘collateral damage’.
+
+In fact, what the paper by Taleb and Cirillo that we spoke of in [Chapter 7](#chapter7) also discovered was that *that the number of casualties and armies have been historically inflated by both sides*. Both the armies and their panicky victims had an incentive to exaggerate, which acted as a deterrent.
+
+When Pinker sees that violence has decreased throughout history, he can't see that war is more violent, but less frequent. And considering the inflated numbers in history, casualties may have even gone higher.
+
+> Why should we be content with only a relative decrease? By this logic, when we reach a world population of nine billion in 2050, Pinker [on ‘The Better Angels of our Nature] will conceivably be satisfied if a mere two million people are killed in war that year
+>
+> —- Robert Epstein, [on ‘The Better Angels of our Nature review](https://www.scientificamerican.com/article/bookreview-steven-pinker-the-better-angels-of-our-nature-why-violence-has-declined/)
+
+If the democratic system doesn’t fully deliver governance, we have known forever what does: an increased turnover at the top (
+Ingrained in the US Constitution as a result of the [Twenty-second amendment](https://en.wikipedia.org/wiki/22nd_Amendment)).
+
+> While today’s politicians have no skin in the game and do not have to worry so long as they play the game, they stay longer and longer on the job, thanks to the increased life expectancy of modern times.
+>
+> -- __Skin in the Game__
+
+François Mitterrand reigned for fourteen years, longer than many French kings. Even a US president, the modern kind of emperor tends to last at least four years, while Rome had [six emperors in a single year](http://www.crystalinks.com/YearoftheSixEmperors.html) (238 AD), [five emperors in another](https://www.amazon.com/Year-Five-Emperors-Robert-Eckert/dp/1543909914) (193 AD) and [four in another](https://www.amazon.com/69-D-Year-Four-Emperors/dp/0195315898) (69 AD).

@@ -47,8 +47,7 @@ But that's how you learn.
 
 > The road to mastery is only traveled by those who can tolerate being a beginner.
 >
-> -- __[@TheStoicEmperor](https://twitter.com/TheStoicEmperor/status/1033610495507365890__
-
+> -- __[@TheStoicEmperor](https://twitter.com/TheStoicEmperor/status/1033610495507365890)__
 
 ## Part 1: The dimensions of Reading
 
