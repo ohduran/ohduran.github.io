@@ -3,7 +3,7 @@ layout: post
 title:  "Notes on 'Skin in the Game'"
 date:   2018-11-24 15:00:00 +0100
 categories: booknotes
-tags: language performance
+tags: language finance 
 permalink: /2018/11/skin-in-the-game
 ---
 > No muscles without strength,
