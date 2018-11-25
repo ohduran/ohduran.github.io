@@ -223,18 +223,23 @@ pre {
 
 .intro {
   padding: 75px 50px 75px 25px;
-  > h1 {
-    font-weight: 1.25*$base-font-weight;
-    font-size: 3*$base-font-size;
-    margin-bottom: $spacing-unit;
+  > .intro-text {
+    > h1 {
+      font-weight: 1.25*$base-font-weight;
+      font-size: 3*$base-font-size;
+      margin-bottom: $spacing-unit;
+      }
+    > .about-me {
+      font-size: 1.25*$base-font-size;
+      margin-bottom: $spacing-unit;
+      }
+    > .description {
+      font-size: 1.25*$base-font-size;
     }
-  > .about-me {
-    font-size: 1.25*$base-font-size;
-    margin-bottom: $spacing-unit;
+    > .profile-pic {
+      float: right;
+      height: 200px;
+      width: 40%;
     }
-  > .description {
-    font-size: 1.25*$base-font-size;
   }
-
-
 }
