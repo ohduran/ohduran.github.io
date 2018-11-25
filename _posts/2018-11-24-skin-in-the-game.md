@@ -1,69 +1,69 @@
 ---
 layout: post
 title:  "Notes on 'Skin in the Game'"
-date:   2018-10-19 15:00:00 +0100
+date:   2018-11-24 15:00:00 +0100
 categories: booknotes
-tags: language finance performance war
+tags: language performance
 permalink: /2018/11/skin-in-the-game
 ---
 > No muscles without strength,
-
+>
 > friendship without trust,
-
+>
 > opinion without consequence,
-
+>
 > change without aesthetics,
-
+>
 > age without values,
-
+>
 > life without effort,
-
+>
 > water without thirst,
-
+>
 > food without nourishment,
-
+>
 > love without sacrifice,
-
+>
 > power without fairness,
-
+>
 > facts without rigor,
-
+>
 > statistics without logic,
-
+>
 > mathematics without proof,
-
+>
 > teaching without experience,
-
+>
 > politeness without warm,
-
+>
 > values without embodiment,
-
+>
 > degress without erudition,
-
+>
 > militarism without fortitude,
-
+>
 > progress without civilization,
-
+>
 > friendship without investment,
-
+>
 > virtue without risk,
-
+>
 > probability without ergodicity,
-
+>
 > wealth without exposure,
-
+>
 > complication without depth,
-
+>
 > fluency without content,
-
+>
 > decision without asymmetry,
-
+>
 > science without skepticism,
-
+>
 > religion without tolerance
-
+>
 > and, most of all:
-
+>
 > nothing without skin in the game.
 >
 > —- Nassim Taleb, __Skin in the Game__
@@ -98,7 +98,7 @@ Third, the book is about how much information one should practically share with 
 
 Fourth, it is about rationality and the test of time, as in acknowledging the complexity of our world not through models, but through trial and error.
 
-# Book 1 - Introduction
+## __Book 1 - Introduction__
 
 ### The interventionistas
 
@@ -276,7 +276,7 @@ __Book 7__ explains creeds in terms of skin in the game and revealed preferences
 
 __Book 8__ has the two central chapters: ‘How to be Rational about Rationality’, which goes deep into what rationality really is; and ‘The Logic of Risk Taking’, which summarises the author’s tenets about risk and exposes the errors concerning small-probability events.
 
-# Book 2 - A first look at Agency
+## __Book 2 - A first look at Agency__
 
 ## <a name="chapter1"></a>Chapter 1 - Why each one should eat his own turtles
 
@@ -350,7 +350,7 @@ That is no different from the Bob Rubin trade.
 
 The solution is for the patient to avoid treatment when he or she is mildly ill, but use medicine for rarely encountered severe conditions. The problem is that the mildly ill represents a much larger pool of people than the severely ill (and are expected to live longer and consume drugs for longer), hence pharmaceutical companies have an incentive to focus on them.
 
-# Book 3 - The Greatest Asymmetry
+## __Book 3 - The Greatest Asymmetry__
 
 ## Chapter 2 - The most intolerant wins: the dominance of the stubborn minority
 
@@ -460,7 +460,7 @@ Science acts similarly: Science isn’t a consensus, but a highly skewed procedu
 >
 > -- __Arthur Koestler__, *The Ghost in the Machine*
 
-# Book 4 - Wolves among dogs
+## __Book 4 - Wolves among Dogs__
 
 ## Chapter 3 - How to own another person
 
@@ -576,7 +576,7 @@ The same thing happened with the banks in 2009: the Obama administration was com
 
 Now compare these policies to ones in which decision makers have skin in the game as a substitute for their annual ‘job assessment’ and you will picture a different world.
 
-## Chapter 4 - The skin of others in your game
+## Chapter 4 - The skin of others in your game
 
 Imagine working for a corporation that produces a (so far) hidden harm to the community, in concealing a property that kills thousands by an effect that is not (yet) fully visible.
 
@@ -616,7 +616,7 @@ This also applies [if you commit suicide by jumping in front of a train in Japan
 
 Thinking of yourself as an individual, and not as a small community, has also consequences to how we behave.
 
-# Book 5 -  Being alive means taking certain risks
+## __Book 5 - Being alive means taking certain risks__
 
 ## Chapter 5 - Life in the simulation machine
 
@@ -636,7 +636,7 @@ It's the same when you play poker using fake money: you don't behave the same, y
 >
 > -- __Skin in the Game__
 
-## Chapter 6 - The Intellectual Yet Idiot
+## Chapter 6 - The Intellectual Yet Idiot
 
 These self-described members of the ‘intelligentsia’ aren’t intelligent enough to define intelligence, hence fall into circularities: __their main skill is a capacity to pass exams written by people like them, or to write papers read by people by them__.
 
@@ -654,7 +654,7 @@ I was recently caught by surprise by [the demonstration in London that asked for
 >
 > -- EU Parliament, in the first session since 'Brexit' in Brussels, 28 Jun 2016
 
-## <a name="chapter7"></a>Chapter 7: Inequality and Skin in the Game
+## <a name="chapter7"></a>Chapter 7: Inequality and Skin in the Game
 
 There is inequality and inequality.
 
@@ -668,7 +668,7 @@ In countries were wealth comes from rent-seeking, political patronage or regulat
 
 What people resent is the person at the top who can't go down. True equality is equality in probability.
 
-### The static and the dynamic
+### The static and the dynamic
 
 As part of the Scrum methodology, we have a fortnightly demo where we present what we did over the last two weeks to the rest of the company. It's common that some teams may present the number of bugs they have open, and how that number has evolved through time.
 
@@ -732,7 +732,7 @@ So there is an implicit bribe in public service, what we call [revolving doors](
 >
 > -- __Skin in the Game__
 
-## Chapter 8 - An expert called Lindy
+## Chapter 8 - An expert called Lindy
 
 [14 Things Ridiculously Successful People Do Every Day](https://www.entrepreneur.com/slideshow/299699), [What 12 Celebrities did to lose weight fast](http://www.nowloss.com/how-celebrities-lose-weight-fast-keep-it-off.htm), [10 of the Laziest Ways You Can Become Rich](https://www.therichest.com/rich-list/nation/10-of-the-laziest-ways-you-can-become-rich/). There are countless, clickbait-y ways to become rich, slim, and successful, and they are of course minimal changes in your life. The main idea is that "if you are not rich, slim and successful, *is because you don't want to*".
 
@@ -825,9 +825,9 @@ __The paradox of progress__
 
 The New York banker vacationing in Greece
 
-# Book 6 - Deeper into Agency
+## __Book 6 - Deeper into Agency__
 
-## Chapter 9 - Surgeons should not look like surgeons
+## Chapter 9 - Surgeons should not look like surgeons
 
 When I was younger, I used to play in a football team as a goalkeeper. I was 1 foot taller than the other goalkeeper, so by watching us warming up you would have thought that I was starting, and he was the substitute goalie. It was, unexpectedly, the opposite.
 
@@ -890,7 +890,7 @@ The same happened with [Joseph Kony](https://www.youtube.com/watch?v=Y4MnpzG5Sqc
 
 The same pattern that Taleb has displayed repeats in that video: *either you're for invading Uganda and removing the dictator Kony, or you're against the children*.
 
-## Chapter 10 - Only rich people are poisoned; the preferences of others
+## Chapter 10 - Only rich people are poisoned; the preferences of others
 
 If academics and consultants are incentivised to sell you complication, we are impressed by it.
 
@@ -958,7 +958,7 @@ When Pinker sees that violence has decreased throughout history, he can't see th
 
 > Why should we be content with only a relative decrease? By this logic, when we reach a world population of nine billion in 2050, Pinker [on ‘The Better Angels of our Nature] will conceivably be satisfied if a mere two million people are killed in war that year
 >
-> —- Robert Epstein, [on ‘The Better Angels of our Nature review](https://www.scientificamerican.com/article/bookreview-steven-pinker-the-better-angels-of-our-nature-why-violence-has-declined/)
+> —- __Robert Epstein__, [‘The Better Angels of our Nature' review](https://www.scientificamerican.com/article/bookreview-steven-pinker-the-better-angels-of-our-nature-why-violence-has-declined/)
 
 If the democratic system doesn’t fully deliver governance, we have known forever what does: an increased turnover at the top (
 Ingrained in the US Constitution as a result of the [Twenty-second amendment](https://en.wikipedia.org/wiki/22nd_Amendment)).
@@ -967,4 +967,332 @@ Ingrained in the US Constitution as a result of the [Twenty-second amendment](ht
 >
 > -- __Skin in the Game__
 
-François Mitterrand reigned for fourteen years, longer than many French kings. Even a US president, the modern kind of emperor tends to last at least four years, while Rome had [six emperors in a single year](http://www.crystalinks.com/YearoftheSixEmperors.html) (238 AD), [five emperors in another](https://www.amazon.com/Year-Five-Emperors-Robert-Eckert/dp/1543909914) (193 AD) and [four in another](https://www.amazon.com/69-D-Year-Four-Emperors/dp/0195315898) (69 AD).
+François Mitterrand reigned for fourteen years, longer than many French kings. Even a US president, the modern kind of emperor, tends to last at least four years, while Rome had [six emperors in a single year](http://www.crystalinks.com/YearoftheSixEmperors.html) (238 AD), [five emperors in another](https://www.amazon.com/Year-Five-Emperors-Robert-Eckert/dp/1543909914) (193 AD) and [four in another](https://www.amazon.com/69-D-Year-Four-Emperors/dp/0195315898) (69 AD).
+
+### The camera for skin in the game
+
+Thanks to the camera, you no longer need to put horses’ heads in boutique hotels. Today, [anonymity brings out the asshole in people](https://en.wikipedia.org/wiki/Online_disinhibition_effect).
+
+But just the act of taking their pictures is similar to holding their lives in your hands and controlling their future behaviour thanks to your silence. [That's why companies like Facebook and Google are so potentially dangerous to society](https://www.imdb.com/title/tt2084953/).
+
+Today, strangers, incapable of judging a person’s general character, have become self-appointed behaviour police. Web-shaming is much more powerful than past reputational blots, and more of a tail risk.
+
+That, again, isn't something we've just discovered. In Book 2 of Plato’s [Republic](https://www.amazon.com/Republic-AmazonClassics-Plato/dp/1542048664), there is a discussion between Socrates and Plato’s bother, Glaucon, about the ring of Gyges, which gives its holder the power to be invisible at will and watch others. This is the same story that H. G. Wells’ ‘The Invisible Man’ has as its basis, the ring that inspired the Alberich’s Ring in Richard Wagner’s ’The Ring of the Nibelung’, and, of course, the One Ring from J. R. R. Tolkien’s ‘The Hobbit’ and ‘The Lord of the Rings’.
+
+>__Glaucon__: "Suppose now that there were two such magic rings, and the just put on one of them and the unjust the other[...]. No man would keep his hands off what was not his own when he could safely take what he liked out of the market [...], in all respects be like a god among men.
+>
+>Then the actions of the just would be as the actions of the unjust; they would both come at last to the same point. And this we may truly affirm to be a great proof that a man is just, not willingly or because he thinks that justice is any good to him individually, but of necessity, for wherever any one thinks that he can safely be unjust, there he is unjust.
+> For all men believe in their hearts that injustice is far more profitable to the individual than justice, and he who argues as I have been supposing, will say that they are right. If you could imagine any one obtaining this power of becoming invisible, and never doing any wrong or touching what was another's, he would be thought by the lookers-on to be a most wretched idiot, although they would praise him to one another's faces, and keep up appearances with one another from a fear that they too might suffer injustice."
+>
+> -- __Plato__, Republic, 360b–d (Benjamin Jowett’s translation)
+
+Ah, but that's exactly the kind informal survey that, back in 2001, a young John Hodgman conducted and asked [in an episode of This American Life](https://www.thisamericanlife.org/178/superpowers/act-one-0).
+
+Socrates, by the way, disagreed with Glaucon. He argued that you should only do what's right—irrespective of matters of life or death. And he didn't just gave that as an advice: [he lost his life because of it](https://en.wikipedia.org/wiki/Socrates#Trial_and_death).
+
+## Chapter 12 - The Facts are True, the News is Fake
+
+> In the summer of 2009, I partook an hour-long public discussion with David Cameron, (Note: see here https://www.youtube.com/watch?v=QQAVDg4yqUU). It turned out that I presented my version of the precautionary principle during the conversation, where one does not need complex models as a justification to avoid a certain action. Models are error prone, and most risks only appear in analyses after harm is done, that’s why if we don’t understand something and it has a systemic effect, just avoid it. Like with climate change, the burden is on those who pollute to show a lack of tail risk.
+>
+> The London newspapers were actively misrepresenting something to their own public. The entire fifty-nine minutes were summarised by the press from a tangential comment, and they were portraying me as part of a dark anti-environment conspiracy.
+>
+> There is an agency problem: there is no difference between a journalist at The Guardian and the restaurant owner in Milan who, when you ask for a taxi, calls his cousin who does a tour of the city to inflate the meter before showing up.
+
+Journalism isn’t Lindy compatible. Historically, dissemination of news took place in pubs, funerals, marketplaces, when going to the barber shop, etc. Unreliable people carried less weight than reliable ones. You can’t fool people more than twice.
+
+As Dan Carlin noted in ['Hardcore History'](https://www.dancarlin.com/hardcore-history-56-kings-of-kings/), the Persian empire was built around the idea that lying was the worst crime.
+
+Briefly, from the middle of the twentieth century until the US election of 2016, we relied on one-sided accounts such as TV and newspapers. This ended effectively when Donald Trump was elected president, and probably earlier. At that point, social networks, allowing a two way information, returned the mechanisms of tides to its natural format: Lindy had to strike.
+
+Further, such an agency problem as that of the current press is systemic, as its interests will keep diverging from that of its public until the eventual blowup as with any Bob Rubin trade.
+
+This is the future of journalism: None. Like blockchain, social media has solved the problem with network reliability; confiding on a reduced number of trusted sources is problematic, as tunnelling information is prone to manipulation, in the same way that an accountant would have an incentive to crook the books when no one is watching.
+
+> You never cure structural defects; the system corrects itself by collapsing. One way journalism will self-destruct from its growing divergence from the public is illustrated by the Gawker story. Gawker was a voyeurism outfit that specialised in publicising people’s private lives in industrial proportions, like any given tabloid. Eventually Gawker, which bullied its financially weaker victims (often 21-year-olds in revenge porn scenes), got bullied by someone richer and went bankrupt. Journalism sided with Gawker on grounds of ‘freedom of information’, which serves as a reminder that journalism is the mother of all agency problems.
+>
+> -- __Skin in the Game__
+
+The divergence is obvious in that journey worry considerably more about the opinion of other journalists than the judgment of their readers. There are endless accounts of journalists who claim not to pay attention to comments on their articles, and second, their Twitter feeds consist mostly in interactions with other journalists.
+
+Economic insecurity worsens the condition. We can safely assume that no news agency in Spain is profitable; [CNN Spain closed in December 2010 and was immediately replaced with 24-hour coverage of the Spanish version of the reality show Big Brother].
+
+> Journalists are currently in the most insecure profession you can find: ostracism by their friends would be terminal. You say something unpopular in that profession about Brexit, GMOs, Putin, and you become history. This is the opposite of business, where conforming to the group is penalised.
+>
+> -- __Skin in the Game__
+
+### The ethics of disagreement
+
+
+As we discussed in [How to Read a Book](/2018/10/how-to-read-a-book), you can criticise either what a person said or what a person meant. The mark of a charlatan is to defend his position or attack a critic by focusing on the former, for focusing on the latter requires an extensive grasp of the proposed idea.
+
+It is impossible to write a perfectly rationally argued document without a tiny segment that can be decontextualised to appear totally absurd and lend itself to sensationalisation, so politicians, charlatans and, more disturbingly, journalists hunt for these segments. Most cartoonists make fun of Trump without realising that they are focusing on the words rather than what he means, which is what their supporters grasp.
+
+> Give me a few lines written by any man and I will find enough to get him hung.
+>
+> —- __Voltaire__
+
+> The facts are true, the news are fake.
+>
+> -— __Trump__
+
+Some types of lies in an open market cause others to treat the perpetrator as if he were invisible. It is not about the lie; purveyors of calumnies did not survive in ancient environments.
+
+The principle of charity, a version of which we saw in [How to Read a Book](/2018/10/how-to-read-a-book), stipulates that you try to understand a message as if you were yourself its author.
+
+> Those who indict a man with a word, who ensnare the mediator at the gate, and with empty charges deprive the righteous of justice.
+>
+> -— __Isaiah 29:21__
+
+## Chapter 13 - The Merchandising of Virtue
+
+Lycurgus, the Spartan lawmaker, responded to a suggestion to allow democracy there, saying ‘begin with your own family”.
+
+It is immoral to claim virtue without fully living with its direct consequences.
+
+Likewise, if you believe that you are ‘helping the poor’ by spending money on PowerPoint presentations and International meetings, the type of meetings that lead to more meetings, the poor become an abstract reified construct that you do not encounter in your real life.
+
+> Do you want to be like the real UN or do you want to just squabble and waste time?
+>
+> -— Skinner, banging a shoe on the desk [like Kruschev](https://en.wikipedia.org/wiki/Shoe-banging_incident). __[The Simpsons, "Das Bus", 9x04](https://www.youtube.com/watch?v=YGtPPkmvW_0#t=1m20s)__.
+
+Kids with rich parents talk about ‘class privilege’ at places such as Amherst. But in one instance, [one of them could not answer D’Souza simple and logical suggestion: ‘Why don’t you go to the registrar’s office and give your privileged spot to the minority student next in line?’](https://youtu.be/tN9bu6CP318).
+
+> If a car salesman tries to sell you a Detroit car while driving a Honda, he is singling that the wares he is touting may have a problem.
+>
+> -- __Skin in the Game__
+
+At some point in history, if you had money, you could part with some of it to exonerate your sins. Simony was a convenient way for the church to raise funds, and the same with indulgences: the buyer had an inexpensive option on paradise, the seller was selling something that costs nothing, what traders would call ‘free money’.
+
+Indulgences were not markedly different from the pagan practice of giving offerings to propitiate the gods. Offerings are placed in Indonesia at the entrance to homes, at family and main temples, before and on statues, even at corners of intersections to ward off accidents and aid in protection. The offerings are then left untouched and allowed to be destroyed by the elements and animal kingdom.
+
+Now consider publicly giving a million dollars to some ‘charity’. Part of that money will be spent to advertise that you are giving money. *Do you see any difference between this and indulgences?*
+
+From the scaling property, we can safely establish that __virtue is doing something for the collective, particularly when such an action conflicts with your narrowly defined interests__.
+
+Courage is the only virtue you cannot fake.
+
+>The perfect virtuous act [is] to take an uncomfortable position, one penalised by the common discourse.
+>
+> -- __Skin in the Game__
+
+1. Never engage in virtual signalling.
+2. Never engage in rent-seeking.
+3. You must start a business.
+
+The entire idea is to move the Homo sapiens away from the macro, away from abstract universal aims, away from the kind of social engineering that brings tail risks to society. Courage is the highest virtue. We need entrepreneurs.
+
+## Chapter 14 - Peace, neither Ink nor Blood
+
+One of the problems of the interventionist results in disrupting some of the peace making mechanisms that are inherent in human affairs.
+
+>I conjecture that when you leave people alone, they tend to settle for practical reasons. No peace proceeds from bureaucratic ink. If you want peace, make people trade, as they have done for millennia. They will eventually be forced to work something out.
+>
+> -- __Skin in the Game__
+
+If the “law of the jungle” means anything, it means collaboration for the most part, with a few exceptional distortions caused by our otherwise well-functioning risk-management intuitions: there are very, very, very few predators compared to what one call collaborative animals.
+
+> The history of any one part of the world is like the life of a soldier. It consists of long periods of boredom and short periods of terror.
+>
+> --__Derek Ager__
+
+History is largely peace punctuated by wars. The problem is that we humans are prone to the availability heuristic, by which the salient is mistaken for the statistical. For when you read histories of international affairs, you might fall under the illusion that history is mostly wars, and recent peace among European states is attributed to the rule of verbose bureaucrats devoid of ‘toxic masculinity’ rather than American and Soviet occupation.
+
+> Journalism is about ‘events’, not their absence, and historians are glorified journalists with high fact-checking standards who allow themselves to be a little boring in order to be taken seriously. [...] Reading a history book, without putting events in perspective, offers a similar bias to reading an account of life in New York seen from an emergency room at Bellevue Hospital.
+>
+> -- __Skin in the Game__
+
+We like TV series about politicians, policemen, and doctors, not undertakers. Historians and policy scholaristas are selected from a cohort of people who derive their knowledge from books, not real life and business.
+
+> I have myself lived through the worst part of the civil war in Lebanon. Except for areas near the Green Line, it didn’t feel like war. But those reading about it in history books will not understand my experience.
+>
+> -- __Skin in the Game__
+
+## __Book 7 - Religion, Belief and Skin in the Game__
+
+## Chapter 15 - They don’t know what they are talking about when they talk about religion
+
+> Men and women range themselves into three classes or orders of intelligence; you can tell the lowest class by their habit of always talking about persons; the next by the fact that their habit is always to converse about things; the highest by their preference for the discussion of ideas.
+>
+> -— __Charles Stewart__
+
+The main idea in [How to Read a Book](/2018/10/how-to-read-a-book) was that two people can be using the same word, meaning different things, yet continue the conversation. That's fine for coffee, but not when making decisions.
+
+Different people rarely mean the same thing when they say ‘religion’. For early Jews and Muslims, religion was *law*. For early Jews, it was *tribal*, whereas for early Muslims, it was *universal*; for the Romans, it was *social events, rituals, festivals* (counter to superstitio). Early Christianity stayed relatively away from the law (in Christian Aramaic it uses din for religion and nomous for law). Neither Islam nor Judaism have a marked separation between holy and profane, and that is why the state of Israel exists, and many Arab countries are ruled by Sharia Law.
+
+For most Jews today, religion has become *ethnocultural*. For Orthodox and Catholic Christians, religion is largely *aesthetics*. For Buddhists, Shintoists, and Hindus, religion is *practical and spiritual philosophy*, with a code of ethics (and even a cosmogony). In Serbia, Croatia and Lebanon, religion means one thing at times of peace, and something quite different at times of war.
+
+>I have no better expression than the term “religious” for this trust in the rational character of reality and in its being accessible, at least to some extent, to human reason.
+>
+> —- __Einstein__
+
+There is a crucial distinction between The Bible, which isn’t believed to be literally God speaking, but a product of divine inspiration; and the Quran, believed to have been verbally revealed by God to the final Prophet Muhammad through the archangel Gabriel. Even the musical comedy ‘[The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical))’ is driven by this problem, say, the functional belief of religion versus the literal interpretation of the story of Joseph Smith's founding of the Mormon community.
+
+"That is not what happened" is a crucial statement in religion. The world may have not been created in 7 days, but the stories about the Eden, Cain and Abel, Noah, etc... are the stories that encapsulate a way of behaving in the world that helped Judaism survive throughout centuries.
+
+Some beliefs are, hence, decorative, others are functional (they help with survival) and others are literal. Religions such as Christianity, Judaism, and to some extent Shiite Islam evolved precisely by moving away from the literal: it doesn’t leave any room for adaptation.
+
+> The various modes of worship, which prevailed in the Roman world, were all considered by the people, as equally true; by the philosopher, as equally false; and by the magistrate, as equally useful. And thus toleration produced not only mutual indulgence, but even religious concord.
+>
+> -— __Edward Gibbon__, ‘[The Decline and Fall of the Roman Empire](https://www.amazon.com/Decline-Empire-Wordsworth-Classics-Literature/dp/1853264997?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1853264997)'.
+
+## Chapter 16 - No worship without skin in the game
+
+It is when you break a fast that you understand religion. The main theological flaw in Pascal’s wager, which stipulates that believing in the creator has a positive payoff in case he truly exists, and no downside in case he doesn’t, is that belief cannot be a free option. It entails a symmetry between what you pay and what you receive.
+
+The altar in [Saint Sergius](https://www.saintsergius.org/) has a drain for blood. It had been recycled from an earlier pre-Christian practice: early Christians were sort of pagans, and in practice were not too differentiated from other Semitic cult followers, and shared places of worship with one another.
+
+The presence of saints in Christianity comes from that mechanism of recycling, as explained in detail in [Pagan Christianity](https://www.amazon.com/Pagan-Christianity-Exploring-Church-Practices/dp/1414364555). Christianity ended up removing the idea that such sacrifices under the notion that Christ sacrifice himself for others. However, if you happen to go to mass on Sunday, you’ll see wine representing blood, closely resembling the altar in Saint Sergius. Sacrifice was ended by making it metaphorical.
+
+> The strength of a creed did not rest on ‘evidence’ of the powers of its gods, but evidence of the skin in the game on the part of its worshippers.
+>
+> -- __Skin in the Game__
+
+## Chapter 17 - Is the Pope Atheist?
+
+After Pope John Paul II was shot in 1981, he was rushed to the emergency room. At no point during the emergency period did the drivers of the ambulance consider taking the pope to a chapel for a prayer.
+
+This is not to say that bishops, cardinals, priests, and mere laypeople didn’t pray; but it remains that nobody in the Vatican seems to ever take chances by going first to the Lord, and nobody seems to see a conflict with such inversion of the logical sequence.
+
+Now try to imagine a powerful head of an ‘atheist’ sect equivalent to the Pope, suffering a similar health exigency. His actions would have been identical. Clearly, there are lots of differences between the Pope and an atheist of equivalent rank, but these concerns matter that are not life-threatening.
+
+There was a period, the Albigensian crusade, during which Catholics engaged in the mass killing of heretics. Some slaughtered indiscriminately, heretics and non heretics, as a time saver and since “Lord would be able to tell them apart”.
+
+Those times are long gone: nowadays, most Christians, when it comes to central medical, ethical, and decision-making situations, do not act differently than atheists.
+
+So we define atheism or secularism in deeds, by the distance between one’s actions and those of a nonathestic person for an equivalent situation, not his beliefs and other decorative and symbolic matters, which do not count.
+
+## __Book 8 - Rationality and Risk Taking__
+
+## Chapter 18 - How to be rational about rationality
+
+When we look at religion, we should consider what purpose they serve, rather than focusing on the notion of ‘belief’. In real life, belief is an instrument to do things, not the end product.
+
+This is similar to vision: the purpose of your eyes is to orient you in the best possible way, not sensors designed just to capture the electromagnetic spectrum. Their job description is not to produce accurate scientific representations, but rather the most useful ones.
+
+The same applies to distortion of beliefs.
+
+Survival comes first; truth, understanding, and science latter.
+
+> To make money, you must first survive
+>
+> --__Warren Buffet__
+
+Those who take risks have their priorities firmer than vague textbook pseudo-rationalism.
+
+### From Simon to Gigerenzer
+
+Herb Simon formulated the notion of bounded rationality: __we cannot possibly measure and assess everything as if we were a computer__; we therefore have, under evolutionary pressures, some shortcuts and distortions to avoid getting into unanticipated trouble.
+
+A fertile research program on ecological rationality, led by Gerd Gigerenzer, mapped how many things that do that appear, on the surface, illogical, but have deeper reasons.
+
+### Revelation of preferences
+
+Ken Binmore showed that the concept casually dubbed ‘rational’ is ill-defined. Everything lies in the notion of ‘revealed prefences’: __you will only have an idea about what people really think by looking at what they pay for goods, not by asking them__. This is a reformulation of skin in the game.
+
+> It doesn’t matter who we are, but what we do, that defines us.
+>
+> --__Batman__, '[Batman Begins](https://www.imdb.com/title/tt0372784/)'
+
+Beliefs are cheap talk. I have shown in Antifragile that making some types of errors is the most rational thing to do, when the errors are of little cost, as they lead to discoveries.
+
+Without those mistakes, we wouldn't have penicillin, no chemotherapy, and almost no drugs, as explained in '[Happy Accidents](https://www.amazon.com/Happy-Accidents-Serendipity-Breakthroughs-Twentieth-ebook/dp/B005M26J06?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005M26J06)'.
+
+### What is religion about?
+
+> It is therefore my opinion that religion exists to enforce tail risk management across generations, as its binary and unconditional rules are easy to teach and enforce.
+>
+> -- __Skin in the Game__
+
+Superstitions can be vectors for risk-management rules. We have as potent information that people who have them have survived. Much of what we call ‘belief’ is some kind of background furniture for the human mind that, according to Jung, is ingrained in our psyche as part of adapting ourselves as an species to coexisting with ourselves.
+
+How much you truly ‘believe’ in something can be manifested only through what you are willing to risk for it.
+
+The classical sophrosyne means precaution, self-control, and temperance all in one. ‘Rationality’ was forged during the Enlightenment era, at a time when we thought that understanding the world was around the corner.
+
+__What is rational is that which allows for survival__. Anything that hinders one’s survival is irrational, at an individual, collective, tribal, or general level.
+
+When you consider beliefs in evolutionary terms, do not look at how they compete with each other, but consider the survival of the populations who have them.
+
+Think, for instance, the reverence for cows in India. You would've thought that it is irrational to have such respect for what's just an animal, but the reality is hidden in plain sight: in rural India, cows are the main power source to plow the fields, it weeds them out, and it fertilises them. Eating the cow's meat may be OK in the short-term, but those who did so couldn't survive longer. Thus, what remains is that [Article 48 of the Constitution of India](https://indiankanoon.org/doc/1452355/) prescribes the state to prohibit the slaughter of cows and calves and other milch and draught cattle.
+
+> Not everything that happens happens for a reason, but everything that survives survives for a reason.
+>
+> -- __Skin in the Game__
+
+## Chapter 19 - The logic of risk taking
+
+Consider the following thought experiment.
+
+First case, one hundred people go to a casino to gamble a certain set of amount each over a period of time. Some may lose, some may win, and we can infer when the time’s up what the ‘edge’ is by counting the money left in the wallets of the people who return. Now assume gambler number 28 goes bust. Does that affect gambler 29? Of course not.
+
+Second case, one person, your cousin Theodorus Ibn Warqa, goes to the casino a hundred days in a row, starting with a set amount. On day 28, cousin Theodorus Ibn Warqa goes bust. Will there be a day 29? Of course not.
+
+You can safely assume that he has a 100% chance of eventually going bust.
+
+The probabilities of success from a collection of people do not apply to cousin Theodorus. The first is what we call ensemble probability, and the second one time probability.
+
+> When you read material by finance professors based on the long-term returns of the market, beware: No individual can get the same returns as the market unless he has infinite pockets and no uncle points. This is conflating ensemble with time probability.
+>
+> -- __Skin in the Game__
+
+Sequence matters: the presence of ruin disqualifies cost-benefit analyses.
+
+Out of nowhere came [a paper by Ole Peters and Murray Gell-Mann](https://aip.scitation.org/doi/full/10.1063/1.4940236) where they presented a version of the difference between ensemble and time probabilities and showed that just about everything in social sincere having to do with probability is deeply flawed.
+
+How come nobody for 250 years quite got it? Lack of skin in the game, obviously.
+
+Let’s call these situations that prevents people with skin in the game from emerging from it *ruin*, as there is no reversibility away from that condition. __If there is a possibility of ruin, no matter how small, cost-benefit analyses are no longer possible__.
+
+> Consider a more extreme example: let’s play Russian roulette. A collection of people may play it for a million dollars once, making money about 5 in 6 of them. If someone uses a standard cost-benefit analysis, he would have claimed that one has an average return per shot of $833,333. But if it’s just you playing again and again, your expected return is... not computable.
+>
+> -- __Skin in the Game__
+
+Let’s see why statistical testing and scientific are highly insufficient in the presence of ruin and repetition of exposures. If one claims that there is a statistical evidence that a plane is safe with a 98% confidence level, it pretty much means that you’re unlikely to reach your 100th flight, which at 10 or 15 flights per week means you’re done in a couple of months: practically no experienced pilot would be alive today.
+
+Psychologists like Kahnemann and Tversky determine our ‘paranoia’ or ‘risk aversion’ by subjecting a person to a single experiment— then declare that humans are rationally challenged as there is an innate tendency to ‘overestimate’ small probabilities.
+
+Let's put that idea to a test: smoking a single cigarette is extremely benign, so a cost-benefit analysis would deem it irrational to give up so much pleasure for so little risk. Of course, it’s the act of smoking that kills, at a certain number of packs per year, in other words, __repeated exposure__.
+
+In real life, every single bit of risk you take adds up to reduce your life expectancy, although no single action will have a meaningful effect. It’s like multiplying your 100% ideal case by 99.99% again and again, meaning exposing yourself once to an event of ruin with chances 1,000:1 in your favour. 10 times, 100 times, even 1,000 subsequent attempts aren’t distinguishable from being safe; it’s when you get to the 10,000 times (you’re down to 90%) and 100,000 (down to 37%) that you can see clearly the trouble you’re in. This idea of repetition makes paranoia about some low-probability events, even that deemed pathological, perfectly rational.
+
+Further, there is a twist. If medicine is progressively improving your life expectancy, you need to be even more paranoid. Confusion arises because it may seem that if the ‘one-off’ risk is reasonable, then an additional one is also reasonable. This can be quantified by recognising that the probability of ruin approaches 1 as the number of exposures to individually small risks increases.
+
+>The flaw in psychology papers is to believe that the subject doesn’t take any other tail risks anywhere outside the experiment and, crucially, will never again take any risk at all.
+>
+> -- __Skin in the Game__
+
+Ruin is indivisible and invariant to the source of randomness that may cause it.
+
+Another common error in the psychology literature concerns what is called ‘mental accounting’, the tendency of people to mentally put their funds in separate insulated accounts, focusing on the source of the money. For an investment strategy to be ergodic and eventually capture the return of the market, agents increase their risks as they are winning, but contract after losses, a technique called ‘*playing with the house money*’. This method is practiced by probably every single trader that has ever survived.
+
+Now it happens that this dynamic strategy is deemed out of line by behavioural financers like Thaler, who call this a mistake.
+
+> I believe that risk aversion does not exist: what we observe is, simply, a residual of ergodicity. People are trying to avoid financial suicide and take a certain attitude to tail risks.
+>
+> -- __Skin in the Game__
+
+### Who is ‘you’?
+
+One of the defects modern education introduces is the illusion that each one of us is a single unit.
+
+Unless you are perfectly narcissist and psychopathic, your worst case scenario is never limited to the loss of only your life. Thus, individual ruin is not as big a deal as collective ruin.
+
+> The fragility of the system’s components (provided they are renewable and replaceable) is required to ensure the solidity of the system as a whole. If humans were immortals, they would have gone extinct from an accident, or from a gradual buildup of mistiness. Shorter shelf life for humans allows genetic changes across generations to be in sync with the variability of the environment.
+>
+> -- __Skin in the Game__
+
+The virtue is, then, courage, understood as sacrificing your own well-being for the sake of the survival of a layer higher than yours. A foolish gambler is not committing an act of courage, especially if he is risking other people’s funds or has a family to feed.
+
+If superstition is what’s needed to satisfy ergodicity, so be it. Warren Buffett did not make his billions by cost-benefit analysis; rather, he established a high filter, then picked opportunities that pass such a threshold.  Likewise, our wiring might be adapted to ‘say no’ to tail risk. It doesn’t cost me much to go with my ‘refined paranoia’, even if wrong. For all it takes is for my paranoia to be right once, and it saves my life.
+
+However, scale is everything: jumping from a bench would be good for you and your bones, while failing from the twenty-second floor will never be so. Fearmonering about some classes of events is fear mongering, about others is not.
+
+All risks are not equal. We often hear that ‘ebola is causing fewer deaths than people drowning in their bathtubs’.
+
+> Mediocristan risks are always subjected to the Chernoff bound.
+>
+> -- __Skin in the Game__
+
+That is, the probability that the number of people who drown in their bathtubs in the US doubles next year is virtually zero. This cannot be said about the doubling of the number of people being killed by terrrorists over the same period.
+
+In a strategy that entails ruin, benefits never offset risks of ruin. Rationality is avoidance of systemic ruin.
