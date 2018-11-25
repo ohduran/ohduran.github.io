@@ -36,3 +36,11 @@ __Have a little patience__
 ### Copyright
 
 I often post excerpts of books and articles I've read. If you, as a copyright holder, feel I have infringed on your copyright, please let me know and I will take down the link or modify the post in question.
+
+### Words versus Terms
+
+As a consequence of talking about other people's books, my approach is to write those book notes as I were the one writing the book I'm discussing. That is, I believe, a good way to grasp completely what the author means, rather than just the words that are written.
+
+A consequence of that approach is that all the opinions expressed here, then, come as a result of my interpretation of what the author means by his words. It doesn't mean that the author indeed said what I interpret, but neither does it mean that I agree with what I interpret that the author is saying.
+
+If you believe or have grounds to believe that I could be liable for a lawsuit, do let me know via email.
