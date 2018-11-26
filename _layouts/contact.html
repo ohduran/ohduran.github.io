@@ -2,6 +2,13 @@
 layout: default
 ---
 <h1>Contact</h1>
-<h3 class="contact-subtitle">You can email me at <strong>alvaro.duranb@gmail.com</strong>. However, be aware that my default behaviour when receiving an email is to <strong>not</strong> respond.</h3>
-
-{{ content }}
+<div class="contact-subtitle">
+  <h3>If you are a potential client and want to inquire about development work, please <a href="mailto:{{ site.email }}">email me</a> right away. The more details you can tell me about your project, the faster I'll get back to you.</h3>
+  <h5>However, while I read all of the emails I get, I don't have the capacity to respond to every inquiry. Thus, my default behaviour when receiving an email is to <strong>not</strong> respond.</h5>
+</div>
+<div id="clean">
+  {{ content }}
+</div>
+<div class="">
+  {% include contact-footer.html %}
+</div>

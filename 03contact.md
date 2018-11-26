@@ -4,14 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-### Why is it so hard to contact you?
-Ubiquitous email access is engrained in our habits, and we have almost lost the ability to redesign our workdays so that we aren't reactive to notifications and emails. However, I'm not going to give all authority over to my mobile to determine my mindset.
-
-When it comes to email, it's the sender responsibility to convince the receiver that a reply is worthwhile.
-
-Let me be clear, __I want to talk to you__. We can both benefit from talking to each other. But the likelihood of poorly thought emails to waste our time is tremendous. [We can do better](/2018/08/deep-work).
-
-### I have something important that you should know. What do I do?
+### I have something important you should know. What do I do?
 
 If you have something worth telling me, make time to compel a good case for why your email is worth considering and worth answering to, and __please, send it to me__. Or think twice whether you have to, and save yourself some time by not sending it.
 
@@ -32,13 +25,3 @@ I once worked at a financial services consultancy firm and the thing that I like
 __Have a little patience__
 
 [ALOHAnet](https://en.wikipedia.org/wiki/ALOHAnet) pioneered how to overcome interference by using what is called _Exponential Backoff_: double the potential delay before trying to transmit again. Apply the same principle: if I haven't responded in one week, try again, and then wait two weeks, then try again and wait four, and so on.
-
-### Copyright
-
-I often post excerpts of books and articles I've read. If you, as a copyright holder, feel I have infringed on your copyright, please let me know and I will take down the link or modify the post in question.
-
-### Words versus Terms
-
-As a consequence of talking about other people's books, my approach is to write those book notes as I were the one writing the book I'm discussing. That is, I believe, a good way to grasp completely what the author means, rather than just the words that are written.
-
-A consequence of that approach is that all the opinions expressed here, then, come as a result of my interpretation of what the author means by his words. It doesn't mean that the author indeed said what I interpret, but neither does it mean that I agree with what I interpret that the author is saying.

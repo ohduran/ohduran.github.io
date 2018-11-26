@@ -174,53 +174,53 @@ We need evolution to learn, because it's easier for humans to see what is wrong 
 
 1. Hammurabi
 
-Skin-in-the-game-style symmetry, until the recent intellectualisation of life, had been implicitly considered the principal rule for organised societies. Hammurabi’s law was posted around 3,800 years ago, and has one central theme: it establishes symmetries between people in transaction, so nobody can transfer hidden tail risk, or Bob Rubin-style risks: 'an eye for an eye'.
+    Skin-in-the-game-style symmetry, until the recent intellectualisation of life, had been implicitly considered the principal rule for organised societies. Hammurabi’s law was posted around 3,800 years ago, and has one central theme: it establishes symmetries between people in transaction, so nobody can transfer hidden tail risk, or Bob Rubin-style risks: 'an eye for an eye'.
 
-For, as traders, the best place to hide risks is “in the corners”, in the small letter, in burying vulnerabilities to rare events that only the architect can detect, and being far away when blowups happen.
+    For, as traders, the best place to hide risks is “in the corners”, in the small letter, in burying vulnerabilities to rare events that only the architect can detect, and being far away when blowups happen.
 
 2. Golden and Silver rule
 
-The Golden Rule wants you to *treat others the way you would like them to treat you*. The more robust Silver Rule says: *do not treat others the way you would not like them to treat you*.
+    The Golden Rule wants you to *treat others the way you would like them to treat you*. The more robust Silver Rule says: *do not treat others the way you would not like them to treat you*.
 
-Negating is more robust because, first, it tells you to mind your own business and not decide what is “good” for others; and second, we know with much more clarity what is bad than what is good.
+    Negating is more robust because, first, it tells you to mind your own business and not decide what is “good” for others; and second, we know with much more clarity what is bad than what is good.
 
-> I go to other people’s funerals so they come to mine.
->
-> -- __Yogi Berra__
+    > I go to other people’s funerals so they come to mine.
+    >
+    > -- __Yogi Berra__
 
 3. Kant
 
-Kant’s categorical imperative can be summarised as: *behave as if your action can be generalised to the behaviour of everyone in all places, under all conditions*.
+    Kant’s categorical imperative can be summarised as: *behave as if your action can be generalised to the behaviour of everyone in all places, under all conditions*.
 
-Universal behaviour is great on paper, disastrous in practice. We are local, practical animals, and we are sensitive to scale. We need practical rules; the general and the abstract tend to attract self-righteous psychopaths.
+    Universal behaviour is great on paper, disastrous in practice. We are local, practical animals, and we are sensitive to scale. We need practical rules; the general and the abstract tend to attract self-righteous psychopaths.
 
-Universalism is dangerous taken two or three steps too far, conflating the micro and the macro, in the same way *platonification* was, that is, mistaking the map for the territory.
+    Universalism is dangerous taken two or three steps too far, conflating the micro and the macro, in the same way *platonification* was, that is, mistaking the map for the territory.
 
 4. Fat Tony
 
-Fat Tony is our archetype: the exact opposite of those belonging to the interventionistas. He is the stereotype of a trader like those portrayed in Liars Poker.
+    Fat Tony is our archetype: the exact opposite of those belonging to the interventionistas. He is the stereotype of a trader like those portrayed in Liars Poker.
 
-> [Fat Tony] became wealthy by helping people he generally calls “the suckers” separate from their funds (or as it is often the case, those of their clients, as these people often gamble with other people’s money.
->
-> -- __Skin in the Game__
+    > [Fat Tony] became wealthy by helping people he generally calls “the suckers” separate from their funds (or as it is often the case, those of their clients, as these people often gamble with other people’s money.
+    >
+    > -- __Skin in the Game__
 
-There is always an element of fools of randomness (knowledge) and crooks of randomness (ethics) in matters of uncertainty: the fool takes risks he doesn’t understand, mistaking his own past luck for skills, and the crook transfers risks to others. Economists only talk about the second one.
+    There is always an element of fools of randomness (knowledge) and crooks of randomness (ethics) in matters of uncertainty: the fool takes risks he doesn’t understand, mistaking his own past luck for skills, and the crook transfers risks to others. Economists only talk about the second one.
 
-What matters in life isn’t how frequently one is right, but how much one makes when one is right. Being wrong, when it isn’t costly, doesn’t count: you’re doing research.
+    What matters in life isn’t how frequently one is right, but how much one makes when one is right. Being wrong, when it isn’t costly, doesn’t count: you’re doing research.
 
-Exposures in real life are always too complicated to reduce to an ‘event’ easy to describe in words. Without skin in the game, we fail to get that time removes the fragile and keeps the robust, and the life expectancy of the robust lengthens with time. What works cannot be irrational. If something stupid works (and makes money), it cannot be stupid.
+    Exposures in real life are always too complicated to reduce to an ‘event’ easy to describe in words. Without skin in the game, we fail to get that time removes the fragile and keeps the robust, and the life expectancy of the robust lengthens with time. What works cannot be irrational. If something stupid works (and makes money), it cannot be stupid.
 
 5. Modernism
 
-Intellectualism is the belief that one can separate an action from the results of such action, that one can separate theory from practice, and that one can always fix complex systems in a top-down manner. It has a sibling: scientism, a naive interpretation of science as complication rather than science as a process and a sceptical enterprise.
+    Intellectualism is the belief that one can separate an action from the results of such action, that one can separate theory from practice, and that one can always fix complex systems in a top-down manner. It has a sibling: scientism, a naive interpretation of science as complication rather than science as a process and a sceptical enterprise.
 
-It's the opposite of what Annie Duke describes in [Thinking in Bets](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216371?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0735216371). She claimed that resultism is bad, and the thinking process trumps the outcome. Taleb is saying here '*your thinking means dick. Show me the money*'.
+    It's the opposite of what Annie Duke describes in [Thinking in Bets](https://www.amazon.com/Thinking-Bets-Making-Smarter-Decisions/dp/0735216371?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0735216371). She claimed that resultism is bad, and the thinking process trumps the outcome. Taleb is saying here '*your thinking means dick. Show me the money*'.
 
-> As things get more technological, there is a growing separation between the maker and the user.
->
-> -- __Skin in the Game__
+    > As things get more technological, there is a growing separation between the maker and the user.
+    >
+    > -- __Skin in the Game__
 
-One of the side effects of the division of jobs proposed by Adam Smith in [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128/ref=sr_1_1?s=books&ie=UTF8&qid=1542738793&sr=1-1&keywords=the+wealth+of+nations) is separating labour from the fruits of labour, the concept of *alienation* described by Karl Marx's [Capital](https://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445684/ref=sr_1_1?s=books&ie=UTF8&qid=1542738874&sr=1-1&keywords=capital+marx).
+    One of the side effects of the division of jobs proposed by Adam Smith in [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128/ref=sr_1_1?s=books&ie=UTF8&qid=1542738793&sr=1-1&keywords=the+wealth+of+nations) is separating labour from the fruits of labour, the concept of *alienation* described by Karl Marx's [Capital](https://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445684/ref=sr_1_1?s=books&ie=UTF8&qid=1542738874&sr=1-1&keywords=capital+marx).
 
 ### Simplicity
 
@@ -697,7 +697,7 @@ Envy does not originate with the impoverished, concerned with the betterment of 
 
 > Envy originates from a New York or Washington, D.C., Ivy-League educated IYI with a sense of entitlement, upset some ‘less smart’ persons are much richer.
 >
-> -- __ Skin in the Game__
+> -- __Skin in the Game__
 
 People can frame questions and portray enrichment as theft, as was done before the French Revolution, in which case the blue-collar class would ask, once again, for heads to roll, like the [UK Parliament expenses](https://en.wikipedia.org/wiki/United_Kingdom_parliamentary_expenses_scandal).
 

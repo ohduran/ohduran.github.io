@@ -12,7 +12,7 @@ It extends Mathematics to the everyday life, and aims to answer all those questi
 
 - __2009__ After disabusing myself from studying Philosophy, I get accepted as a Physics student.
 
-It's the toughest challenge I have ever faced; leaning on my intellect is not going to cut. That's where I meet the smartest people I know.
+It's the toughest challenge I have ever faced; leaning on my intellect is not going to cut it. That's where I meet the smartest people I know.
 
 - __2014__ During my senior year, one professor discusses the potential uses of mathematical tools for predicting stock prices.
 
