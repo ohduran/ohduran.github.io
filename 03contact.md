@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-### Why all the fuzz with avoiding contact?
+### Why is it so hard to contact you?
 Ubiquitous email access is engrained in our habits, and we have almost lost the ability to redesign our workdays so that we aren't reactive to notifications and emails. However, I'm not going to give all authority over to my mobile to determine my mindset.
 
 When it comes to email, it's the sender responsibility to convince the receiver that a reply is worthwhile.
@@ -42,5 +42,3 @@ I often post excerpts of books and articles I've read. If you, as a copyright ho
 As a consequence of talking about other people's books, my approach is to write those book notes as I were the one writing the book I'm discussing. That is, I believe, a good way to grasp completely what the author means, rather than just the words that are written.
 
 A consequence of that approach is that all the opinions expressed here, then, come as a result of my interpretation of what the author means by his words. It doesn't mean that the author indeed said what I interpret, but neither does it mean that I agree with what I interpret that the author is saying.
-
-If you believe or have grounds to believe that I could be liable for a lawsuit, do let me know via email.
