@@ -981,7 +981,7 @@ Socrates, by the way, disagreed with Glaucon. He argued that you should only do 
 
 ## Chapter 12 - The Facts are True, the News is Fake
 
-> In the summer of 2009, I partook an hour-long public discussion with David Cameron, (Note: see here https://www.youtube.com/watch?v=QQAVDg4yqUU). It turned out that I presented my version of the precautionary principle during the conversation, where one does not need complex models as a justification to avoid a certain action. Models are error prone, and most risks only appear in analyses after harm is done, that’s why if we don’t understand something and it has a systemic effect, just avoid it. Like with climate change, the burden is on those who pollute to show a lack of tail risk.
+> In the summer of 2009, I partook [an hour-long public discussion with David Cameron](https://www.youtube.com/watch?v=QQAVDg4yqUU). It turned out that I presented my version of the precautionary principle during the conversation, where one does not need complex models as a justification to avoid a certain action. Models are error prone, and most risks only appear in analyses after harm is done, that’s why if we don’t understand something and it has a systemic effect, just avoid it. Like with climate change, the burden is on those who pollute to show a lack of tail risk.
 >
 > The London newspapers were actively misrepresenting something to their own public. The entire fifty-nine minutes were summarised by the press from a tangential comment, and they were portraying me as part of a dark anti-environment conspiracy.
 >
@@ -1001,7 +1001,7 @@ This is the future of journalism: None. Like blockchain is doing with transactio
 
 The divergence is obvious in that journey worry considerably more about the opinion of other journalists than the judgment of their readers. There are endless accounts of journalists who claim not to pay attention to comments on their articles, and second, their Twitter feeds consist mostly in interactions with other journalists.
 
-Economic insecurity worsens the condition. We can safely assume that no news agency is profitable; [CNN Spain closed in December 2010 and was immediately replaced with 24-hour coverage of the Spanish version of the reality show Big Brother].
+Economic insecurity worsens the condition. We can safely assume that no news agency is profitable; [CNN Spain closed in December 2010 and was immediately replaced with 24-hour coverage of the Spanish version of the reality show Big Brother](https://en.wikipedia.org/wiki/CNN%2B).
 
 > Journalists are currently in the most insecure profession you can find: ostracism by their friends would be terminal. You say something unpopular in that profession about Brexit, GMOs, Putin, and you become history. This is the opposite of business, where conforming to the group is penalised.
 >
@@ -1043,7 +1043,7 @@ Likewise, if you believe that you are ‘helping the poor’ by spending money o
 
 Kids with rich parents talk about ‘class privilege’ at places such as Amherst. But in one instance, [one of them could not answer D’Souza simple and logical suggestion: ‘Why don’t you go to the registrar’s office and give your privileged spot to the minority student next in line?’](https://youtu.be/tN9bu6CP318).
 
-> If a car salesman tries to sell you a Detroit car while driving a Honda, he is singling that the wares he is touting may have a problem.
+> If a car salesman tries to sell you a Detroit car while driving a Honda, he is signalling that the wares he is touting may have a problem.
 >
 > -- __Skin in the Game__
 
@@ -1079,7 +1079,7 @@ If the “law of the jungle” means anything, it means collaboration for the mo
 
 > The history of any one part of the world is like the life of a soldier. It consists of long periods of boredom and short periods of terror.
 >
-> --__Derek Ager__
+> -- __Derek Ager__
 
 History is largely peace punctuated by wars. The problem is that we humans are prone to the availability heuristic, by which the salient is mistaken for the statistical.
 
@@ -1159,7 +1159,7 @@ Survival comes first; truth, understanding, and science latter.
 
 > To make money, you must first survive
 >
-> --__Warren Buffet__
+> -- __Warren Buffet__
 
 Those who take risks have their priorities firmer than vague textbook pseudo-rationalism.
 
@@ -1175,7 +1175,7 @@ Ken Binmore showed that the concept casually dubbed ‘rational’ is ill-define
 
 > It doesn’t matter who we are, but what we do, that defines us.
 >
-> --__Batman__, '[Batman Begins](https://www.imdb.com/title/tt0372784/)'
+> -- __Batman__, '[Batman Begins](https://www.imdb.com/title/tt0372784/)'
 
 Beliefs are cheap talk. I have shown in Antifragile that making some types of errors is the most rational thing to do, when the errors are of little cost, as they lead to discoveries.
 
