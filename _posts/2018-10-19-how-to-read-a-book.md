@@ -85,21 +85,21 @@ The second level of reading is called Inspectional Reading. When reading at this
 
 There are two types of inspectional reading.
 
-1. __Systematic Skimming or Pre-reading  :__
+1 __Systematic Skimming or Pre-reading  :__
 
-What is the point of skimming if not to ascertain whether the book is worth it? To accomplish that, one should follow the next steps:
+  What is the point of skimming if not to ascertain whether the book is worth it? To accomplish that, one should follow the next steps:
 
-- Look at the title page and, if the book has one, a preface  .
-- Study the table of contents.
-- Check the index.
-- Read the publisher’s blurb.
-- Look at the chapters that seem to be pivotal to the book’s argument  
-- Turn the pages, dipping in here and there  .
-- Read the Epilogue.
+  - Look at the title page and, if the book has one, a preface  .
+  - Study the table of contents.
+  - Check the index.
+  - Read the publisher’s blurb.
+  - Look at the chapters that seem to be pivotal to the book’s argument  
+  - Turn the pages, dipping in here and there  .
+  - Read the Epilogue.
 
-If you've done this correctly, you have made your mind in a short period of time on whether it's a book worth reading. Think of yourself as a detective.
+  If you've done this correctly, you have made your mind in a short period of time on whether it's a book worth reading. Think of yourself as a detective.
 
-2. __Superficial Reading:__
+2 __Superficial Reading:__
 
 Don't pay attention to your literature teachers: read. Read it at one sitting, without stopping to look up weird words, or ponder what you don't understand right away. You'll have a much better chance of understanding it when you're done.
 

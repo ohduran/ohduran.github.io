@@ -229,7 +229,17 @@
     // @include media-query($on-palm) {
     //   margin: 0 $spacing-unit $spacing-unit $spacing-unit;
     // }
+    a {
+      text-decoration: underline dotted;
+    }
     margin: 0 $spacing-unit $spacing-unit $spacing-unit;
+    h1 {
+      font-size: 40px;
+
+      @include media-query($on-laptop) {
+          font-size: 36px;
+      }
+    }
     h2 {
         font-size: 32px;
 
@@ -255,10 +265,10 @@
     }
     > ol{
 
-    > li {
-      list-style-type: lower-greek;
-      border-left: none;
-    }
+      > li {
+        list-style-type: lower-greek;
+        border-left: none;
+      }
     }
 }
 
