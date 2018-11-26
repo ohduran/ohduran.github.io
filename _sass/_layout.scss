@@ -253,6 +253,13 @@
             font-size: 18px;
         }
     }
+    > ol{
+
+    > li {
+      list-style-type: lower-greek;
+      border-left: none;
+    }
+    }
 }
 
 .post-footer{
