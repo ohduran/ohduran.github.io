@@ -220,7 +220,7 @@ pre {
         &:not(:last-child) {
             margin-right: 0;
         }
-        margin-left: 20px;
+        margin-left: 15px;
 
 
         path {
@@ -230,6 +230,8 @@ pre {
 }
 #icon-kaggle {
   > svg {
+    width: 50px;
+    height: 50px;
   }
 
 }
