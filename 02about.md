@@ -3,27 +3,10 @@ layout: page
 title: My story
 permalink: /meet-the-writer/
 ---
+I'm a software engineer based in Barcelona. I write mostly Python, either in Django or using its Data Science stack. I like TensorFlow, and haven't used Keras.
 
-My name is Alvaro Duran-Barata. I am a problem solver, a curious mind, a lifelong learner.
+I work for a small startup that's working on automating bookkeeping for financial advisors. I've previously worked in London at a [Capco](https://capco.com/) and [Octopus Labs](https://octopuslabs.com/).
 
-- __2006__ As a high school student, I discover Physics for the first time.
-
-It extends Mathematics to the everyday life, and aims to answer all those questions about the world we live in.
-
-- __2009__ After disabusing myself from studying Philosophy, I get accepted as a Physics student.
-
-It's the toughest challenge I have ever faced; leaning on my intellect is not going to cut it. That's where I meet the smartest people I know.
-
-- __2014__ During my senior year, one professor discusses the potential uses of mathematical tools for predicting stock prices.
-
-That piqued my interest: so many questions unanswered, and a focus on "whatever works" regardless of the principles behind. So much work to do.
-
-- __2015__ I accept a job offer in London after completing my master's degree in International Finance.
-
-I will spend 3 years working in fintech companies, learning about the current trend in technologies and specialising in Data Science.
-
-- __2018__ I move back to Spain.
-
-I accept a position as a Software Engineer for a small SaaS company that deals with financial advisors.
+Before that, I studied Physics. I did a research project on [neutrinos](https://icecube.wisc.edu/info/neutrinos), a tiny subatomic particle that not so long ago was, although mistakenly, [observed to be faster than light](https://www.nature.com/news/2011/110927/full/477520a.html). After that, I earned my master's degree in International Finance.
 <br><br>
 You can find more in my [LinkedIn profile](https://www.linkedin.com/in/alvaroduranbarata).
