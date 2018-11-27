@@ -13,6 +13,7 @@ description: Art is a thousand well-thought decisions
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  ohduran
+kaggle_username: ohduran
 
 # Build settings
 markdown: kramdown

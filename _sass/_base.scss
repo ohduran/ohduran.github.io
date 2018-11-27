@@ -214,14 +214,24 @@ pre {
 
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
         vertical-align: middle;
+        width: 30px;
+        height: 30px;
+        &:not(:last-child) {
+            margin-right: 0;
+        }
+        margin-left: 20px;
+
 
         path {
             fill: $grey-color;
         }
     }
+}
+#icon-kaggle {
+  > svg {
+  }
+
 }
 
 .intro {

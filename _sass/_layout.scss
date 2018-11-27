@@ -89,6 +89,10 @@
                 margin-right: 0;
             }
             margin-left: 20px;
+            &:hover {
+                color: $text-color;
+                text-decoration: none;
+            }
         }
     }
 }
