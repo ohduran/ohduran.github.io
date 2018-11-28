@@ -2,7 +2,7 @@
 layout: post
 title:  "No Internet"
 date:   2018-08-17 15:00:00 +0100
-categories:  articles
+categories: articles
 permalink: /2018/08/no-internet
 ---
 If you are reading this, I gained connection to the Internet again. However, this was written in the absolute isolation of a place that has no wifi available, and no access to signal whatsoever. I'm, in modern terms, stranded away from civilisation.

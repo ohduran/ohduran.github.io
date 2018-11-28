@@ -479,9 +479,9 @@ Employees are reliable, but also expensive: you have to pay them even if you hav
 
 ### From the companies man to the companies person
 
-Have you ever been told to study something 'useful'? There are numerous [studies](https://bankrate.com/career/most-valuable-college-majors) on "the most valuable college majors", with the assumption that *the only real path to earn a living is through being employed by someone else*. That's why Actuarial Science (aka Economics) does so well in these rankings: they are the most 'useful', whereas ' articles arts' is dead last.
+Have you ever been told to study something 'useful'? There are numerous [studies](https://bankrate.com/career/most-valuable-college-majors) on "the most valuable college majors", with the assumption that *the only real path to earn a living is through being employed by someone else*. That's why Actuarial Science (aka Economics) does so well in these rankings: they are the most 'useful', whereas 'miscellaneous arts' is dead last.
 
-Funny enough, even the wording is signalling something: the term ' articles arts' is how someone who has a degree that isn't related to liberal arts would refer to liberal arts (and you could argue that using ' articles' here is pejorative); 'actuarial science' is a term that an economist would use to peg their major to real STEM degrees like Computer Science or Engineer.
+Funny enough, even the wording is signalling something: the term 'miscellaneous arts' is how someone who has a degree that isn't related to liberal arts would refer to liberal arts (and you could argue that using 'miscellaneous' here is pejorative); 'actuarial science' is a term that an economist would use to peg their major to real STEM degrees like Computer Science or Engineer.
 
 > Being an actuary is the best job in America because you get paid like doctors and lawyers, but you don't have to work with blood or visit your clients in jail.
 >
