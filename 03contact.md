@@ -4,13 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-### I have something important you should know. What do I do?
+Make time to compel a good case for why your email is worth our time, and __please, send it to me__. Consider this a spam filter, but more like the process most big firms use in their job applications: with enough friction so that those candidates who eventually apply are *really* interested, and they aren't just [spraying and praying](https://en.wikipedia.org/wiki/Spray_and_pray).
 
-If you have something worth telling me, make time to compel a good case for why your email is worth considering and worth answering to, and __please, send it to me__. Or think twice whether you have to, and save yourself some time by not sending it.
-
-Consider this a spam filter, but more like the process most big firms use in their job applications: design a process with enough friction so that those candidates who eventually apply are *really* interested in the job offer.
-
-Provided that you can do that, I promise I'll deliver an email that will be, to the best of my ability, the most efficient for bringing your request to a successful conclusion, avoiding further back-and-forth emails and leaving actionable feedback "on your plate".
+Such an investment in time comes with a promise: that I'll deliver a response that will be, to the best of my ability, the most efficient for bringing your request to a successful conclusion, avoiding further back-and-forth emails and leaving actionable feedback "on your plate".
 
 ### How do I send an email that prompts a response?
 

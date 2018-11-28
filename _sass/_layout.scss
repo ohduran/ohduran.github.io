@@ -203,6 +203,10 @@
  */
 .contact-subtitle {
   margin-bottom: $spacing-unit;
+  text-align: justify;
+}
+.contact-content {
+  text-align: justify;
 }
 
 
@@ -291,4 +295,12 @@
 
   }
 
+}
+
+.disclaimer{
+      font-size: 13px;
+
+      @include media-query($on-laptop) {
+          font-size: 9px;
+      }
 }
