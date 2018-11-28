@@ -6,9 +6,9 @@ categories: data-science
 permalink: /2018/10/defaulting-and-copying
 ---
 
-Most Data Scientists, at least the ones that I mentor, usually come from non-STEM backgrounds, and gravitate towards it driven by their own curiosity, and has looked up for free tutorials on the internet on how to "do Data Science", Machine Learning, and Big Data. In most cases, the overwhelming amount of resources, rather than a positive things, becomes a burden: will I be a Data Scientist after this course or that course?
+Most Data Scientists, at least the ones that I mentor, usually come from non-STEM backgrounds, gravitate towards it driven by their own curiosity, and have looked up for free tutorials on the internet on how to "do Data Science", Machine Learning, and Big Data. In most cases, the overwhelming amount of resources, rather than a positive things, becomes a burden: will I be a Data Scientist after this course or that course?
 
-That of course is the backdrop against many "we will turn you into a Data Scientist in 21 days" courses proliferate like the plague: Internet is a place with signal, but with a low signal to noise ratio.
+That is the backdrop against many "we will turn you into a Data Scientist in 21 days" courses proliferate like the plague: Internet is a place with signal, but with a low signal to noise ratio.
 
 And that "21 days" mindset is misguiding. First, because Data Science is hard, and cannot be learned in 21 days (I'm still learning, and I'm positive that so is everyone else). And second, because up until very recently, there was no such thing as Data Science: it has been created over the rise of Facebook, Google, Amazon and the likes, to operate in a scale of data not known before.
 
