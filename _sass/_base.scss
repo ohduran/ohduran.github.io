@@ -218,10 +218,10 @@ pre {
         vertical-align: middle;
         width: $icon-size;
         height: $icon-size;
-        &(:last-child) {
+        &:last-child {
             margin-right: 10px;
         }
-        margin-left: 15px;
+        margin-left: 5px;
 
 
         path {
