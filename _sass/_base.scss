@@ -218,8 +218,8 @@ pre {
         vertical-align: middle;
         width: $icon-size;
         height: $icon-size;
-        &:not(:last-child) {
-            margin-right: 0;
+        &(:last-child) {
+            margin-right: 10px;
         }
         margin-left: 15px;
 
