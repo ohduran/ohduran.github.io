@@ -212,12 +212,12 @@ pre {
  * Icons
  */
 .icon {
-
     > svg {
         display: inline-block;
         vertical-align: middle;
         width: $icon-size;
         height: $icon-size;
+
         &:last-child {
             margin-right: 10px;
         }
@@ -225,10 +225,11 @@ pre {
 
 
         path {
-            fill: $grey-color;
+            fill: $background-color;
         }
     }
 }
+
 #icon-kaggle {
   > svg {
     width: 1.5*$icon-size;

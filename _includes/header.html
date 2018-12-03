@@ -19,13 +19,13 @@
           {% endif %}
         {% endfor %}
         {% if site.github_username %}
-        {% include icon-github.html username=site.github_username %}
+        <a href="https://github.com/{{ include.username }}"><span class="icon page-link">{% include icon-github.svg %}</span></a>
         {% endif %}
         {% if site.kaggle_username %}
-        {% include icon-kaggle.html username=site.kaggle_username %}
+        <a href="https://kaggle.com/{{ include.username }}"><span id="icon-kaggle" class="icon page-link">{% include icon-kaggle.svg %}</span></a>
         {% endif %}
         {% if site.twitter_username %}
-        {% include icon-twitter.html username=site.twitter_username %}
+        <a href="https://twitter.com/{{ include.username }}"><span class="icon page-link">{% include icon-twitter.svg %}</span></a>
         {% endif %}
       </div>
     </nav>
