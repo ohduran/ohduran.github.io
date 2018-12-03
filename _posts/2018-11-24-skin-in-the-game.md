@@ -4,7 +4,7 @@ title:  "Notes on 'Skin in the Game'"
 date:   2018-11-24 15:00:00 +0100
 categories: booknotes
 tags: language finance
-permalink: /2018/11/skin-in-the-game
+permalink: /skin-in-the-game
 ---
 > No muscles without strength,
 >
@@ -1009,7 +1009,7 @@ Economic insecurity worsens the condition. We can safely assume that no news age
 
 ### The ethics of disagreement
 
-As we discussed in [How to Read a Book](/2018/10/how-to-read-a-book), you can criticise either what a person said or what a person meant. The mark of a charlatan is to defend his position or attack a critic by focusing on the former, for focusing on the latter requires an extensive grasp of the proposed idea.
+As we discussed in [How to Read a Book](/how-to-read-a-book), you can criticise either what a person said or what a person meant. The mark of a charlatan is to defend his position or attack a critic by focusing on the former, for focusing on the latter requires an extensive grasp of the proposed idea.
 
 It is impossible to write a perfectly rationally argued document without a tiny segment that can be decontextualised to appear totally absurd and lend itself to sensationalisation, so politicians, charlatans and, more disturbingly, journalists hunt for these segments. Most cartoonists make fun of Trump without realising that they are focusing on the words rather than what he means, which is what their supporters grasp.
 
@@ -1023,7 +1023,7 @@ It is impossible to write a perfectly rationally argued document without a tiny 
 
 Some types of lies in an open market cause others to treat the perpetrator as if he were invisible. It is not about the lie; purveyors of calumnies did not survive in ancient environments.
 
-The principle of charity, a version of which we saw in [How to Read a Book](/2018/10/how-to-read-a-book), stipulates that you try to understand a message as if you were yourself its author.
+The principle of charity, a version of which we saw in [How to Read a Book](/how-to-read-a-book), stipulates that you try to understand a message as if you were yourself its author.
 
 > Those who indict a man with a word, who ensnare the mediator at the gate, and with empty charges deprive the righteous of justice.
 >
@@ -1101,7 +1101,7 @@ We like TV series about politicians, policemen, and doctors, not undertakers. Hi
 >
 > -— __Charles Stewart__
 
-The main idea in [How to Read a Book](/2018/10/how-to-read-a-book) was that two people can be using the same word, meaning different things, yet continue the conversation. That's fine for coffee, but not when making decisions.
+The main idea in [How to Read a Book](/how-to-read-a-book) was that two people can be using the same word, meaning different things, yet continue the conversation. That's fine for coffee, but not when making decisions.
 
 Different people rarely mean the same thing when they say ‘religion’. For early Jews and Muslims, religion was *law*. For early Jews, it was *tribal*, whereas for early Muslims, it was *universal*; for the Romans, it was *social events, rituals, festivals* (counter to superstitio). Early Christianity stayed relatively away from the law (in Christian Aramaic it uses din for religion and nomous for law). Neither Islam nor Judaism have a marked separation between holy and profane, and that is why the state of Israel exists, and many Arab countries are ruled by Sharia Law.
 

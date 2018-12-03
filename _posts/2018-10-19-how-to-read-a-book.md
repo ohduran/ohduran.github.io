@@ -4,7 +4,7 @@ title:  "Notes on 'How to read a book'"
 date:   2018-10-19 15:00:00 +0100
 categories: booknotes
 tags: language performance
-permalink: /2018/10/how-to-read-a-book
+permalink: /how-to-read-a-book
 ---
 
 > Television, radio, and all the sources of amusement and information that surround us in our daily lives are artificial props. They can give us the impression that our minds are active, because we are required to react to stimuli from outside. But the power of those external stimuli to keep us going is limited. They are like drugs. We grow used to them, and we continuously need more and more of them. Eventually, they have little to no effect. Then, if we lack the resources within ourselves, we cease to grow intellectually, morally, and spiritually. And when we cease to grow, we begin to die.
@@ -31,7 +31,7 @@ The problem is definitely not that; in fact, speed reading courses are now wides
 
 The book I'm talking about today teaches us [How to Read a Book](https://www.amazon.com/How-Read-Book-Intelligent-Touchstone/dp/0671212095?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0671212095): *with nothing but the power of your own mind, you gradually lift yourself from a state of understanding less to one of understanding more*. Its authors are Mortimer Adler and Charles Van Doren. The book argues that, for one to read correctly, he has to go through it in four stages: understanding what is it about, making sense of the terms and propositions of the book, extracting the answers to the questions you want to get answered and contextualise those answers with other books.
 
-This book caught my eye after reading [Deep Work](/2018/08/deep-work).  In the shallowness of our lives, Deep Work speaks to a level of deepness in our work that can only be achieved if we extract information from our surroundings the way is described in How to Read a Book. One must not read passively, casually, but rather, actively, engaged. The more you can get from a book, the better. But just being engaged in our reading and not distracted ourselves isn't enough, for there are more barriers to an ideal reading.
+This book caught my eye after reading [Deep Work](/deep-work).  In the shallowness of our lives, Deep Work speaks to a level of deepness in our work that can only be achieved if we extract information from our surroundings the way is described in How to Read a Book. One must not read passively, casually, but rather, actively, engaged. The more you can get from a book, the better. But just being engaged in our reading and not distracted ourselves isn't enough, for there are more barriers to an ideal reading.
 
 > The great majority of the several million books being written in Western tradition will not make sufficient demand on you for you to become a better reader. For the bottom 99% of them, skimming will do.
 
@@ -297,7 +297,7 @@ After he has said “I understand, but I disagree”, the reader can make the fo
 
 Inspectional reading is the gatekeeper of the arduous process of analytical reading. Not all books are worth it. The question then is *should we read those 'unworthy books' anyway?*
 
-The short answer is no. Focus on the quality rather than the quantity of your reading. How many times have we seen someone showing off his “reading a lot of books”? A person who has read widely but not [deeply] deserves to be pitied rather than praised. Rather, we should aim at wasting the least amount of time in low quality books, so that we can spend that time reading those that are worth reading. And I add, __not just books, but everything in general__. As we discussed in [Deep Work](/2018/08/deep-work), *quit social media*.
+The short answer is no. Focus on the quality rather than the quantity of your reading. How many times have we seen someone showing off his “reading a lot of books”? A person who has read widely but not [deeply] deserves to be pitied rather than praised. Rather, we should aim at wasting the least amount of time in low quality books, so that we can spend that time reading those that are worth reading. And I add, __not just books, but everything in general__. As we discussed in [Deep Work](/deep-work), *quit social media*.
 
 > If I read as many books as most men do, I would be as dull-witted as they are.
 >

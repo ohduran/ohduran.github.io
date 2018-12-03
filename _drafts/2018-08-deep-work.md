@@ -3,7 +3,7 @@ layout: post
 title:  "Deep Work - part 1 of 2"
 date:   2018-08-31 15:00:00 +0100
 categories: book-review
-permalink: /2018/08/deep-work-1
+permalink: /deep-work-1
 ---
 > In his book [The Innovators](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703), Walter Isaacson summarised Bill Gate's unique tendency toward depth as follows: _The one trait that differentiated [Gates from Allen] was focus. Allen's mind would flit between many ideas and passions, but Gates was a serial obsessor_.
 
