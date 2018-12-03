@@ -41,6 +41,9 @@
         &:not(:last-child) {
             margin-right: 30px;
         }
+        @include media-query($on-palm) {
+          color: $text-color;
+        }
     }
 
     @include media-query($on-palm) {
