@@ -16,6 +16,7 @@ dl, dd, ol, ul, figure {
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
+    background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
     -moz-font-feature-settings: "kern" 1;
@@ -41,6 +42,16 @@ hr {
   margin-bottom: $spacing-unit / 2;
 }
 
+
+h1 {
+  font-family: "Bitter", $base-font-family;
+}
+h2 {
+  font-family: "Lato", sans-serif;
+}
+p, i {
+  font-family: "Lora", $base-font-family;
+}
 
 /**
  * Images
@@ -136,10 +147,13 @@ blockquote {
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
+    line-height: 44.4px;
+    overflow-wrap: break-word;
 
     > :last-child {
         margin-bottom: 0;
     }
+    font-family: "Playfair Display", serif;
 }
 
 
@@ -152,7 +166,7 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background: rgba(0,0,0,.05);
 }
 
 code {
@@ -170,6 +184,9 @@ pre {
     }
 }
 
+.highlighted {
+  background: $brand-color;
+}
 
 
 /**
@@ -225,7 +242,7 @@ pre {
 
 
         path {
-            fill: $background-color;
+            fill: $brand-color;
         }
     }
 }
