@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes on 'Tractatus Logico-Philosophicus'"
-date:   2018-12-04 15:00:00 +0100
+date:   2018-12-02 15:00:00 +0100
 categories: booknotes
 tags: language
 permalink: /tractatus-logico-philosophicus
@@ -24,4 +24,8 @@ Two features make the Tractatus challenging. First, the format; [see it for your
 >
 > -- __Tractatus__
 
-Essentially, the book has, all at once, the resemblance of a mathematical proof and the language of a parable, with the added characteristic that the author aimed at confusion the hell out of the reader.
+Essentially, the book has, all at once, the resemblance of a mathematical proof and the language of a parable, with the added feature that the author aimed at confusion the hell out of the reader.
+
+The book is obscure and fascinating. There is something intriguing about it that reminded me when I was attending a lecture on Calculus at university, and we were learning about the concept of limit for the first time:
+
+For every ${\epsilon > 0}$, there exists a $\delta > 0$ such that for every $x$, the expression $0 < |x -c|< \delta$ will imply $|f(x) - L|< \epsilon$
