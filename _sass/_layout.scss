@@ -34,7 +34,7 @@
     }
 
     .page-link {
-        color: $background-color;
+        color: $brand-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -69,7 +69,7 @@
                 height: 15px;
 
                 path {
-                    fill: $grey-color-dark;
+                    fill: $brand-color;
                 }
             }
         }
@@ -85,7 +85,7 @@
         }
 
         .page-link {
-            color: $background-color;
+            color: $brand-color;
             display: block;
             padding: 5px 10px;
 
