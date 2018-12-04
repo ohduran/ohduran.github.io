@@ -26,6 +26,6 @@ Two features make the Tractatus challenging. First, the format; [see it for your
 
 Essentially, the book has, all at once, the resemblance of a mathematical proof and the language of a parable, with the added feature that the author aimed at confusion the hell out of the reader.
 
-The book is obscure and fascinating. There is something intriguing about it that reminded me when I was attending a lecture on Calculus at university, and we were learning about the concept of limit for the first time:
+The book is obscure and fascinating. There is something intriguing about it that reminded me when I was attending a lecture on Calculus at university, and we were learning about the [Cauchy's concept of limit](https://en.wikipedia.org/wiki/(%CE%B5,_%CE%B4)-definition_of_limit) for the first time:
 
-For every ${\epsilon > 0}$, there exists a $\delta > 0$ such that for every $x$, the expression $0 < |x -c|< \delta$ will imply $|f(x) - L|< \epsilon$
+> $${\displaystyle \lim _{x\to c}f(x)=L\iff (\forall \varepsilon >0,\,\exists \ \delta >0,\,\forall x\in D,\,0<|x-c|<\delta \ \Rightarrow \ |f(x)-L|<\varepsilon )}$$
