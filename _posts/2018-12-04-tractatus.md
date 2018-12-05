@@ -18,13 +18,13 @@ The book is cryptic. That's not just me; even the author himself, in a letter to
 >
 > Wittgenstein, in a letter to Russell, March 1919
 
-Two features make the Tractatus challenging. First, the format; [see it for yourself](http://www.tractatuslogico-philosophicus.com/): 7 propositions that are explained by nested clauses that link back to the parent like a bushy tree. The second difficulty for the reader is an apparent dissonance within the book itself; after appearing to put forward logical, linguistic and meta-philosophical theories in the body of the text, the author writes:
+Two features make the Tractatus challenging. First, [its format](http://www.tractatuslogico-philosophicus.com/): 7 propositions that are explained by nested clauses that link back to the parent like a bushy tree. The second difficulty for the reader is an apparent dissonance within the book itself; after appearing to put forward logical, linguistic and meta-philosophical theories in the body of the text, the author writes:
 
 > My propositions are elucidatory in this way: he who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.) He must transcend these propositions, and then he will see the world aright.
 >
 > -- __Tractatus__
 
-Essentially, the book has, all at once, the resemblance of a mathematical proof and the language of a parable, with the added feature that the author aimed at confusion the hell out of the reader.
+Essentially, the book has, all at once, the resemblance of a mathematical proof and the language of a parable, with the added feature that the author aimed at confusing the hell out of the reader.
 
 The book is obscure and fascinating. There is something intriguing about it that reminded me when I was attending a lecture on Calculus at university, and we were learning about the [Cauchy's concept of limit](https://en.wikipedia.org/wiki/(%CE%B5,_%CE%B4)-definition_of_limit) for the first time:
 
