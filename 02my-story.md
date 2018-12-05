@@ -12,6 +12,6 @@ My background is in theoretical Physics. I also hold a master's degree in Intern
 I love teaching.
 <div class="contact-footer">
   <br>
-  <hr>
+  {% include hr.html %}
   <p>You can find more in my <a href="https://www.linkedin.com/in/alvaroduranbarata">LinkedIn profile</a>.</p>
 </div>
