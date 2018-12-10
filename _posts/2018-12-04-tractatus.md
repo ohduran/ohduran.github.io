@@ -309,3 +309,51 @@ A tautology’s truth is certain, a proposition’s possible, a contradiction’
 The general propositional form is a variable.
 
 ## 5 - A proposition is a truth-function of elementary propositions.
+
+### 5.1 - Truth functions can be arranged in series. That is the foundation of probability theory.
+
+If what makes a certain number of axioms makes a proposition *p* true, and also makes another proposition *q* true, then we can say that the truth of *q* follows from *p*.
+
+If *p* follows *q*, the sense of *p* is contained in the sense of *q*: If God creates a world in which certain propositions are true, then by that very act he also creates a world in which all the propositions that follow from them come true. A proposition affirms every proposition that follows from it; and every proposition that contradicts another negates it; just proving that a certain proposition is contradictory in a logical framework, it can be ruled out as true *if we assume that the framework we are dealing with is true*.
+
+All deductions are made a priori: there is no possible way of making an inference from the existence of one situation to the existence of another; there is no casual nexus to justify such an inference.
+
+We cannot infer the events of the future from those of the present.
+
+> Superstition is nothing but belief in the casual nexus.
+>
+> -- __Tractatus__
+
+The freedom of the will consists in the impossibility of knowing actions that still lie in the future. If one proposition follows from another, then the latter says more than the former, and the former less than the latter.
+
+> Suppose that an urn contains black and white balls in equal number (and none of any other kind). I draw one ball after another, putting them back into the urn. By this experiment, I can establish that the number of black balls drawn and the number of white balls drawn approximate to one another as the draw continues.
+So this is not a mathematical truth.
+Now if I say, ‘The probability of my drawing a white ball is equal to the probability of my drawing a black one’, this means that all the circumstances that I know of (including the laws of nature assumed as hypotheses) give no more probability to the occurrence of the one event than to that of the other. […] What I confirm by the experiment is that the occurrence of the two events is independent of the circumstances of which I have not more detailed knowledge.
+>
+> -- __Tractatus__
+
+What we mean that knowledge, or deduction, is made a priori is this: even the slightest deviation in our data can disprove our model of reality. It just takes an improbable [Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X) to disprove our previous assumption that all swans are white.
+
+It is in this way that __probability is a generalisation__. We use probability only in default of certainty— if our knowledge of a fact is not indeed complete, but we do know something about its form, like the shape of the dice.
+
+### 5.2 - The structures of propositions stand in internal relations to one another.
+
+We can represent a proposition as the result of an operation, a function $$f(p)$$, that produces it out of other propositions, an operation being the expression of a relation between the structures of its result and of its bases.
+
+An operation manifests itself in a variable; it shows how we can get from one form of proposition to another. It gives expression to the difference between the forms. Indeed, no statement is made by an operation, but only by its result.
+
+### 5.3 - All propositions are results of truth-operations on elementary propositions.
+
+A truth-operation is the way in which a truth-function is produced out of elementary propositions. All truth functions are the results of successive applications to elementary propositions of a finite number of truth-operations.
+
+### 5.4 - There are no ‘logical objects’ or ‘logical constants’ (in Frege’s and Russell’s sense)
+
+If logic has primitive ideas, they must be independent of one another. The introduction of any new device into the symbolism of logic is a momentous event; if it has proved necessary at a certain point, we must immediately ask ourselves, ‘at what points is the employment of this new device now unavoidable?’.
+
+In logic, there can be no distinction between the general and the specific (Note: Taleb doesn’t agree). The solutions of the problems in logic must be simple, since they set the standard of simplicity: *Simplex sigillum veri*.
+
+Constructing logic and building software are analogous here: the introduction of a new variable or class is an important decision: isn't the default behaviour of the system not the desired one? Can we do without introducing this new class? We aim at producing software that is as general as it can be, and as simple as it can be, for the sake of debugging, readability and testing. *Simplex sigillum veri*.
+
+That means that whatever we can say in advance about the form of all propositions, we must be able to say it all at once. Logic must look after itself.
+
+There are no logical, self-evident constants, because self-evident is dispensable as language itself prevents every logical mistake. Occam's maxim is that unnecessary units in a sign-language mean nothing. Any possible proposition is legitimately constructed and, if it has no sense, that can only be because we have failed to give meaning to some of its constituents.
