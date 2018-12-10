@@ -299,15 +299,24 @@ pre {
   padding: 75px 50px 75px 25px;
   > .intro-text {
     > h1 {
+      > a {
+        text-decoration: underline dotted;
+      }
       font-weight: 1.25*$base-font-weight;
       font-size: 3*$base-font-size;
       margin-bottom: $spacing-unit;
       }
     > .about-me {
+      > a {
+        text-decoration: underline dotted;
+      }
       font-size: 1.25*$base-font-size;
       margin-bottom: $spacing-unit;
       }
     > .description {
+      > a {
+        text-decoration: underline dotted;
+      }
       font-size: 1.25*$base-font-size;
     }
     > .profile-pic {
