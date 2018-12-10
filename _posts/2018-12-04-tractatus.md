@@ -169,7 +169,11 @@ Objects can only be named, signs are their representatives: I can only speak abo
 >
 > -- __The blind men and the elephant__, a parable
 
-This is like the countless ways [God is named across cultures](https://en.wikipedia.org/wiki/Names_of_God): each one projects qualities of the concept, but not all of them.
+This is like the countless ways [God is named across cultures](https://en.wikipedia.org/wiki/Names_of_God): each one projects qualities of the concept, but not all of them. And why [Banksy's identity is still a mystery](https://www.telegraph.co.uk/art/what-to-see/who-is-banksy-and-what-is-his-real-name-the-man-behind-the-myths/): his work and him are one and the same. Even Batman plays with this concept: [he hides his identity for others to do what they can against crime](https://www.youtube.com/watch?v=-kql4tda9TQ), to set an example and to collectivise his achievements.
+
+> The idea was to be a symbol. Batman could be anybody. That was the point.
+>
+> -- __The Dark Knight Rises__
 
 On more physical concepts, we use definitions to encapsulate a broad and complex sense into a simple word; that’s why dictionaries are so useful. On the other side, a name cannot be dissected any further by means of a definition: it’s a primitive sign. A definition only clarifies, points the way. And what signs fail to express, their application shows. The meanings of primitive signs can be explained by means of examples.
 
