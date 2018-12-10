@@ -22,7 +22,7 @@ Pretty much the same rant, with the obvious change of "build my own company" to 
 
 But why on Earth would you pay attention to the first post?
 
-In both cases, the writer falls into what is called survivorship bias. Facing an uncertain situation and falling on your feet doesn't make it less riskier. It's only your perception of risk that has changed. And that makes all the difference, because a risky path has been rewarded, and thus it's likely to be taken again, regardless of the actual chance of making it right again. That's indeed what is so addictive about gambling: the unlikely reward, usually tied to a false sense of expertise or edge, like "dices are hot", and "I'm in the zone". Cities like Las Vegas have been built on top of those fools.
+Facing an uncertain situation and falling on your feet doesn't make it less riskier. It's only your perception of risk that has changed. And that makes all the difference, because a risky path has been rewarded, and thus it's likely to be taken again, regardless of the actual chance of making it right again. That's indeed what is so addictive about gambling: the unlikely reward, usually tied to a false sense of expertise or edge, like "dices are hot", and "I'm in the zone". Cities like Las Vegas have been built on top of those fools.
 
 But here's more: most people don't even see it. It's called [the narrative fallacy](https://fs.blog/2016/04/narrative-fallacy/): our minds build cause-and-effect links that simply aren't there, in order to give life continuity and order.
 
