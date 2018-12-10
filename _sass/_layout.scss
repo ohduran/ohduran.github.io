@@ -36,6 +36,7 @@
     .page-link {
         color: $brand-color;
         line-height: $base-line-height;
+        text-decoration: none;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -43,6 +44,10 @@
         }
         @include media-query($on-palm) {
           color: $text-color;
+        }
+        &:hover {
+            color: $text-color;
+            text-decoration: underline;
         }
     }
 
@@ -67,6 +72,7 @@
             > svg {
                 width: 18px;
                 height: 15px;
+
 
                 path {
                     fill: $brand-color;
@@ -95,7 +101,7 @@
             margin-left: 20px;
             &:hover {
                 color: $text-color;
-                text-decoration: none;
+                text-decoration: underline;
             }
         }
     }
@@ -228,6 +234,7 @@
     letter-spacing: -1px;
     line-height: 1;
 
+
     @include media-query($on-laptop) {
         font-size: 28px;
     }
@@ -307,4 +314,15 @@
       @include media-query($on-laptop) {
           font-size: 9px;
       }
+}
+
+.contact-footer {
+  text-align: justify;
+}
+
+#no-text-decoration {
+  > a {
+    text-decoration: none;
+  }
+  text-decoration: none;
 }

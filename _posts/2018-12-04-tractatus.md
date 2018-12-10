@@ -169,9 +169,13 @@ Objects can only be named, signs are their representatives: I can only speak abo
 >
 > -- __The blind men and the elephant__, a parable
 
-This is like the countless ways [God is named across cultures](https://en.wikipedia.org/wiki/Names_of_God): each one projects qualities of the concept, but not all of them.
+This is like the countless ways [God is named across cultures](https://en.wikipedia.org/wiki/Names_of_God): each one projects qualities of the concept, but not all of them. And why [Banksy's identity is still a mystery](https://www.telegraph.co.uk/art/what-to-see/who-is-banksy-and-what-is-his-real-name-the-man-behind-the-myths/): his work and him are one and the same. Even Batman plays with this concept: [he hides his identity for others to do what they can against crime](https://www.youtube.com/watch?v=-kql4tda9TQ), to set an example and to collectivise his achievements.
 
-On more physical concepts, we use definitions to encapsulate a broad and complex sense into a simple word; that’s why dictionaries are so useful. On the other side, a name cannot be dissected any further by means of a definition: it’s a primitive sign. A definition only clarifies, points the way. And what signs fail to express, their application shows. The meanings of primitive signs can be explained by means of examples.
+> The idea was to be a symbol. Batman could be anybody. That was the point.
+>
+> -- __The Dark Knight Rises__
+
+We use definitions to encapsulate a broad and complex sense into a simple word; that’s why dictionaries are so useful. On the other side, a name cannot be dissected any further by means of a definition: it’s a primitive sign. A definition only clarifies, points the way. And what signs fail to express, their application shows. The meanings of primitive signs can be explained by means of examples.
 
 Again, names are points, and propositions are arrows.
 
@@ -193,7 +197,7 @@ A sign is what can be perceived of a symbol. So one and the same sign can be com
 
 In everyday language, it very frequently happens that the same word has different modes of signification (polysemic) or that two words that have different modes of signification are employed in propositions in what is superficially the same way (synonyms). In this way the most fundamental confusions are easily produced.
 
-In order to avoid such errors we must make use of a sign-language that excludes them by not using the same sign for different symbols and by not using in a superficially similar way signs that have different modes of signification. Wittgenstein is thinking of a logically perfect language, but that has been sought of unsuccessfully: language evolves as an extension of groups of humans that communicate with each other (be it emojis, or highly eloquent poetry), and its being constantly evolving makes them prone to be [Lindy compatible](https://en.wikipedia.org/wiki/Lindy_effect): they carry on so long as they are useful, not because they are more or less to the logically ideal language. Thus, in my own experience, a logically perfect language is the one I use to communicate with myself; the one I agree I'm using with perfect consistency, the one were speaker and receiver have come to terms. Rewriting a text in your own words is, indeed, one of the requirements for reading a book correctly. It's the only way all definitions are laid down and the map can be adjust over and over to be as close as the territory as possible.
+In order to avoid such errors we must make use of a sign-language that excludes them by not using the same sign for different symbols and by not using in a superficially similar way signs that have different modes of signification. Wittgenstein is thinking of a logically perfect language, but that has been looked for unsuccessfully: language evolves as an extension of groups of humans that communicate with each other (be it emojis, or highly eloquent poetry), and its being constantly evolving makes them prone to be [Lindy compatible](https://en.wikipedia.org/wiki/Lindy_effect): they carry on so long as they are useful, not because they are more or less to the logically ideal language. Thus, in my own experience, a logically perfect language is the one I use to communicate with myself; the one I agree I'm using with perfect consistency, the one were speaker and receiver have come to terms. Rewriting a text in your own words is, indeed, one of the requirements for reading a book correctly. It's the only way all definitions are laid down and the map can be adjust over and over to be as close as the territory as possible.
 
 In order to recognise a symbol by its signs, we must observe how it is used with a sense. A sign does not determine a logical form unless it is taken together with its logic-syntactical employment.
 
@@ -264,7 +268,7 @@ The totality of true propositions is the whole of natural sciences, and philosop
 >
 > -- __Tractatus__
 
-Darwin’s theory has no more to do with philosophy than any other hypothesis in natural science: Philosphy must set limits to what can be thought, and it will signify what cannot be said, by presenting clearly what can be said.
+Darwin’s theory has no more to do with philosophy than any other hypothesis in natural science: Philosophy must set limits to what can be thought, and it will signify what cannot be said, by presenting clearly what can be said.
 
 > Everything that can be thought at all can be thought clearly. Everything that can be put into words can be put clearly.
 >
@@ -290,7 +294,7 @@ This isn't always true. [Chaos theory](https://en.wikipedia.org/wiki/Chaos_theor
 
 An elementary proposition consists of names: it is a nexus of them ("this and this is that"). Even if the world is infinitely complex, there would still have to be objects and states of affairs. If an elementary proposition is true, then the state of affairs exists.
 
-Wittgenstein thought that if all true elementary propositions are given, the result is a complete description of the world. However, he published Tractatus in 1918, and [Heisenberg's uncertainty principle](https://en.wikipedia.org/wiki/Uncertainty_principle) was introduced in 1927. However, the theory can accommodate that too, in the sense that we can agree about certain facts, up to a level of confidence.
+Wittgenstein thought that if all true elementary propositions are given, the result is a complete description of the world. However, he published Tractatus in 1918, and [Heisenberg's uncertainty principle](https://en.wikipedia.org/wiki/Uncertainty_principle) was introduced in 1927. Nevertheless, the theory can accommodate that too, in the sense that we can agree about certain facts, up to a level of confidence.
 
 ### 4.3 - Truth-possibilities of elementary propositions mean possibilities of existence and non-existence of states of affairs.
 

@@ -20,26 +20,14 @@ But what if you bumped into a post like the following:
 
 Pretty much the same rant, with the obvious change of "build my own company" to "gamble furiously". The idea that someone made a lot of money on the lottery doesn't get you any closer to buy into it and start playing cards. That's because you understand that making millions out of gambling is an anecdote, not a common outcome. In fact, it's quite rare - that's obviously the whole point.
 
-But why on Earth would you pay attention to the first post?[^1]
+But why on Earth would you pay attention to the first post?
 
-In both cases, the writer falls into what is called survivorship bias. Facing an uncertain situation and falling on your feet doesn't make it less riskier. It's only your perception of risk that has changed. And that makes all the difference, because a risky path has been rewarded, and thus it's likely to be taken again, regardless of the actual chance of making it right again [^2].
+Facing an uncertain situation and falling on your feet doesn't make it less riskier. It's only your perception of risk that has changed. And that makes all the difference, because a risky path has been rewarded, and thus it's likely to be taken again, regardless of the actual chance of making it right again. That's indeed what is so addictive about gambling: the unlikely reward, usually tied to a false sense of expertise or edge, like "dices are hot", and "I'm in the zone". Cities like Las Vegas have been built on top of those fools.
 
-Financial analyst do that too on their reporting. Here's how:
+But here's more: most people don't even see it. It's called [the narrative fallacy](https://fs.blog/2016/04/narrative-fallacy/): our minds build cause-and-effect links that simply aren't there, in order to give life continuity and order.
 
-- Take information on companies from the S&P 500.
-- Collect information about a certain topic (most are valid here, like how many of them raised cash dividends when their stock price goes up, something like that).
-- Publish your report and... there, you did it.
+> History is the fiction we invent to persuade ourselves that events are knowable and that life has order and direction. That's why events are always reinterpreted when values change. We need new versions of history to allow for our current prejudices.
+>
+> -- __Bil Watterson__, 'Calvin and Hobbes'
 
-So easily, you fell into the trap. Have you considered all those companies that used to be on S&P, but aren't there anymore? Is that information not taking into account relevant? (hint: it is)
-
-So, yes: next time you think of your chances of success doing something, look around. Sometimes it's just pure luck what got some people to the top.[^3] And even if you decide to go ahead, and in some cases it's fine, be aware of what you have for you, and what you have against.
-
----
-
-Footnotes:
-
-[^1]: No one posted a comment on this topic. The most common answers were about what the company was about (won't share to avoid any direct or indirect defamation of the person who wrote this), or something like "Great post, life is too short to settle!".
-
-[^2]: That's indeed what is so addictive about gambling: the unlikely reward, usually tied to a false sense of expertise or edge, like "dices are hot", and "I'm in the zone". Cities like Las Vegas have been built on top of those fools.
-
-[^3]: On a personal note, I truly believe that everyone in the stock market has succeeded because of pure luck. They probably tell you other story.
+Life is risky, but it gets worse: knowledge is always deduced *a priori*. That's the core idea behind Nassim Taleb's work, which we covered in [Skin in the Game](/skin-in-the-game): there are hidden risks that we need to be prudent about.

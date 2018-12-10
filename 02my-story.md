@@ -10,8 +10,4 @@ I work for a small startup that's working on automating invoicing for financial 
 My background is in theoretical Physics. I also hold a master's degree in International Finance.
 
 I love teaching.
-<div class="contact-footer">
-  <br>
-  {% include hr.html %}
-  <p>You can find more in my <a href="https://www.linkedin.com/in/alvaroduranbarata">LinkedIn profile</a>.</p>
-</div>
+{% include hr.html %}
