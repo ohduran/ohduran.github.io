@@ -2,7 +2,7 @@
 layout: post
 title:  "Take care of the environment"
 date:   2018-11-30 15:00:00 +0100
-categories: data-science
+categories: science
 permalink: /2018/11/take-care-of-the-environment
 ---
 Here's a question from one of my Data Science students at [Thinkful](https://thinkful.com):

@@ -45,10 +45,6 @@
         @include media-query($on-palm) {
           color: $text-color;
         }
-        &:hover {
-            color: $text-color;
-            text-decoration: underline;
-        }
     }
 
     @include media-query($on-palm) {
@@ -112,7 +108,6 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background-color: $background-footer;
 }
@@ -142,18 +137,18 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+    width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(66% - (#{$spacing-unit} / 2));
+    width:         calc(66% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
-    width:         calc(60% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -325,4 +320,12 @@
     text-decoration: none;
   }
   text-decoration: none;
+}
+
+#centered {
+  text-align: center;
+}
+
+#right-aligned {
+  text-align: right;
 }

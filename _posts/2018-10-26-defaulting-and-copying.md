@@ -2,7 +2,7 @@
 layout: post
 title:  "Defaulting and Copying"
 date:   2018-10-26 15:00:00 +0100
-categories: data-science
+categories: science
 permalink: /2018/10/defaulting-and-copying
 ---
 
