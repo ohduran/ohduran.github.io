@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<h2 class="post-title">Recent</h2>
+<h2 class="post-title" id="brand-colored">Recent</h2>
 <ul class="posts">
     {% for post in site.posts limit:3 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
