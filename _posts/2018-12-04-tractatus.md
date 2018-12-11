@@ -354,10 +354,74 @@ A truth-operation is the way in which a truth-function is produced out of elemen
 
 If logic has primitive ideas, they must be independent of one another. The introduction of any new device into the symbolism of logic is a momentous event; if it has proved necessary at a certain point, we must immediately ask ourselves, ‘at what points is the employment of this new device now unavoidable?’.
 
-In logic, there can be no distinction between the general and the specific (Note: Taleb doesn’t agree). The solutions of the problems in logic must be simple, since they set the standard of simplicity: *Simplex sigillum veri*.
+In logic, there can be no distinction between the general and the specific. The solutions of the problems in logic must be simple, since they set the standard of simplicity: *Simplex sigillum veri*.
 
-Constructing logic and building software are analogous here: the introduction of a new variable or class is an important decision: isn't the default behaviour of the system not the desired one? Can we do without introducing this new class? We aim at producing software that is as general as it can be, and as simple as it can be, for the sake of debugging, readability and testing. *Simplex sigillum veri*.
+Constructing logic and building software are analogous here: the introduction of a new variable or class is an important decision: isn't the default behaviour of the system not the desired one? Can we do without introducing this new class? We aim at producing software that is as general as it can be, and as simple as it can be, for the sake of debugging, readability and testing. *Truth follows from simplicity*.
 
 That means that whatever we can say in advance about the form of all propositions, we must be able to say it all at once. Logic must look after itself.
 
 There are no logical, self-evident constants, because self-evident is dispensable as language itself prevents every logical mistake. Occam's maxim is that unnecessary units in a sign-language mean nothing. Any possible proposition is legitimately constructed and, if it has no sense, that can only be because we have failed to give meaning to some of its constituents.
+
+### <a name="5.5"></a>5.5 - Every truth-function is a result of successive applications to elementary propositions of the operation '(——T)(E,...)'. This operation negates all the propositions in the right-hand pair of brackets, and I call it the negation of those propositions.
+
+We can describe the world completely by means of fully generalised propositions, without first correlating any name with a particular object. Then, in order to arrive at the customary mode of expression, we simply need to add, after an expression like ’there is one and only one x such as…’ the words ‘and that x is a’. We restrict the world by logic, and then we fill it with the meaning of the axioms that are self-evident in the world.
+
+The experience that we need in order to understand logic is not that something or other is the state of things, but that something is: that, however, is not an experience. Logic is prior to every experience, prior to the question ‘How?’, but not prior to the question ‘Why?’. We can infer laws of physics by experiment, and we can ascertain how first principles (i.e., protons, electrons, etc...) are involved in explaining how some natural processes (i.e., Chemistry) happen, but we can never go back to *why* they happen. In logic, there is always an axiom at the beginning that connect the logic corpus with the world, with the states of affairs.
+
+And if this is so, how could we apply logic? If there would be a logic even if there were no world, how then could there be a logic given that there is a world?
+
+Can we set up a form of sign without knowing whether anything can correspond to it? When there is a system by which we can create symbols, the system is what is important for logic, and not the individual symbols.
+
+In fact, all the propositions of our everyday language are in perfect logical order. Our problems are not abstract, but perhaps the most concrete that there are. The application of logic decides what elementary propositions there are.
+
+### 5.6 - The limits of my language mean the limits of my world.
+
+> We cannot think what we cannot think; so what we cannot think we cannot say either. [...] The world is my world: this is manifest in the fact that the limits of my language, the one I alone can understand, mean the limits of my world.
+>
+> -- __Tractatus__
+
+Again, the world is subjective to us; it is what we see, not what there is. No wonder why psychologists like Kahnemann and Tversky have coined the phrase "[What we see is all there is]" to laugh about our 'irrational' behaviour. It is indeed a mark of our evolution as species that we treat only what we see firsthand as real. *Seeing is believing*.
+
+The subject does not belong to the world. Rather, it is a limit of the world. No part of our experience is at the same time a priori, it's accidental. It just happens to be that way, but by now means it *had* to be that way. It could be something else entirely. There is no a priori order of things.
+
+The self of solipsism shrinks to a point without extension, and there remains the reality coordinated with it. What brings the self into philosophy is the fact that ‘the world is my world’: *cogito ergo sum*.
+
+## 6 - The general form of a truth-function is $$[\bar p,\bar\xi, N(\bar\xi)]$$.
+
+What this says is just that every proposition is a result of successive applications to elementary propositions of the operation $$N(E)$$, the negation that we saw in [5.5](#5.5), that any logical sentence can be derived from a series of [NOR](https://en.wikipedia.org/wiki/Logical_NOR) operations on the totality of atomic propositions: Integers can be obtained by the number 0, and successive applications of the operation $$N(\bar\xi) = \bar\xi + 1$$.
+
+### 6.1 - The propositions of logic are tautologies
+
+And like all tautologies, they say nothing: theories that make a proposition of logic appear to have content are false.
+
+> It is the peculiar mark of logical propositions that one can recognise that they are true from the symbol alone, and this in fact contains in itself the whole philosophy of logic.
+>
+> -- __Tractatus__
+
+The fact that a tautology is yielded by this particular way of connecting its constituents characterises their logic: they must have certain structural properties.
+
+This throws some light on the question of why logical propositions cannot be confirmed by experience any more than they can be refuted by it. No only must a proposition of logic be irrefutable by any experience, what Karl Popper would say is *not falsifiable*, but it must also be *unconfirmable* by any possible experience, because it must be true a priori.
+
+> The mark of a logical proposition is not general validity; to be general means no more than to be accidentally valid for all things.
+>
+> -- __Tractatus__
+
+The propositions of logic describe the scaffolding of the world, or rather they represent it. They presuppose that names have meaning and elementary propositions sense; and that is their connexion with the world.
+
+> There can never be surprises in logic.
+>
+> -- __Tractatus__
+
+One can calculate whether a proposition is logical; this is what we do when we ‘prove’ a logical proposition: we construct the logical proposition out of others using only rules that deal with signs. We produce them out of other logical propositions by successively applying certain operations that always generate further tautologies out of the initial ones.
+
+In logic, process and result are equivalent.
+
+> Proof in logic is merely a mechanical expedient to facilitate the recognition of tautologies in complicated cases.
+>
+> -- __Tractatus__
+
+A proposition that has sense states something, which is shown by its proof to be so. Every proposition of logic is a *modus ponens* represented in signs: it is always possible to build logic in such a way that every proposition is its own proof.
+
+Logic is not a body of doctrine, but a mirror-image of the world. Logic is trascendental.
+
+### 6.2 - Mathematics is a logical method
