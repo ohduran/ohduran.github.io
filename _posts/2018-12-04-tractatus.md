@@ -185,7 +185,7 @@ Any part of a proposition that characterises its sense is an expression. An expr
 
 An expression is thus presented by means of a variable whose values are propositions that contain the expression. An expression has meaning only in a proposition; it's like a template.
 
-The value a proposition may take is only an agreement. After all, words written are just ink on paper, and spoken words are just air flowing through our throats. Both the grammar and what those words mean is partially an agreement between the speaker and the receiver of the speech: the only thing essential to that agreement is that is is merely a description of symbols. It states nothing about what it signifies. __Language is an agreement__.
+The value a proposition may take is only an agreement. After all, words written are just ink on paper, and spoken words are just air flowing through our throats. Both the grammar and what those words mean is partially an agreement between the speaker and the receiver of the speech: the only thing essential to that agreement is that is is merely a description of symbols. It states nothing about what it signifies. __[Language is an agreement](https://aeon.co/essays/why-language-might-be-the-optimal-self-regulating-system)__.
 
 > The tacit conventions on which the understanding of everyday language depends are enormously complicated.
 >
@@ -362,7 +362,7 @@ That means that whatever we can say in advance about the form of all proposition
 
 There are no logical, self-evident constants, because self-evident is dispensable as language itself prevents every logical mistake. Occam's maxim is that unnecessary units in a sign-language mean nothing. Any possible proposition is legitimately constructed and, if it has no sense, that can only be because we have failed to give meaning to some of its constituents.
 
-### <a name="5.5"></a>5.5 - Every truth-function is a result of successive applications to elementary propositions of the operation '(——T)(E,...)'. This operation negates all the propositions in the right-hand pair of brackets, and I call it the negation of those propositions.
+### <a name="5.5"></a>5.5 - Every truth-function is a result of successive applications to elementary propositions of the operation $$N(E) = (——T)(E,...)$$. This operation negates all the propositions in the right-hand pair of brackets, and I call it the negation of those propositions.
 
 We can describe the world completely by means of fully generalised propositions, without first correlating any name with a particular object. Then, in order to arrive at the customary mode of expression, we simply need to add, after an expression like ’there is one and only one x such as…’ the words ‘and that x is a’. We restrict the world by logic, and then we fill it with the meaning of the axioms that are self-evident in the world.
 
@@ -380,7 +380,7 @@ In fact, all the propositions of our everyday language are in perfect logical or
 >
 > -- __Tractatus__
 
-Again, the world is subjective to us; it is what we see, not what there is. No wonder why psychologists like Kahnemann and Tversky have coined the phrase "[What we see is all there is]" to laugh about our 'irrational' behaviour. It is indeed a mark of our evolution as species that we treat only what we see firsthand as real. *Seeing is believing*.
+Again, the world is subjective to us; it is what we see, not what there is. No wonder why psychologists like Kahnemann and Tversky have coined the phrase "[What we see is all there is](https://www.inc.com/daniel-kahneman/idea-lab-what-you-see-not-all-there-is.html)" to laugh about our 'irrational' behaviour. It is indeed a mark of our evolution as species that we treat only what we see firsthand as real. *Seeing is believing*.
 
 The subject does not belong to the world. Rather, it is a limit of the world. No part of our experience is at the same time a priori, it's accidental. It just happens to be that way, but by now means it *had* to be that way. It could be something else entirely. There is no a priori order of things.
 
@@ -425,3 +425,113 @@ A proposition that has sense states something, which is shown by its proof to be
 Logic is not a body of doctrine, but a mirror-image of the world. Logic is trascendental.
 
 ### 6.2 - Mathematics is a logical method
+
+> A proposition of mathematics does not express a thought.
+>
+> -- __Tractatus__
+
+Mathematics is a branch separated from reality. If anything, what connects mathematics with reality is physics, in the sense that we can imagine worlds that exist in the mathematical domain (or even, postulate the existence of a number $$i$$ so that $$i = \sqrt{-1}$$).
+
+In philosophy the question ‘What do we actually use this word or proposition for?’ leads to valuable insights.
+
+![will-we-ever-use-any-algebra](/assets/will-we-ever-use-any-algebra.png)
+
+The logic of the world is shown in equations by mathematics.
+
+> The essential point about an equation is that it’s not necessary in order to show that the two expressions connected by the sign of equality have the same meaning, since this can be seen from the two expressions themselves. And the possibility of proving the propositions of mathematics means simply that their correctness can be perceived without it being necessary that what they express should itself be compared with the facts in order to determine its corrects.
+>
+> -- __Tractatus__
+
+What an equation is essentially doing is clarifying our thoughts. At first sight, the equation $$e^{i\pi }+1=0$$ might look cryptic, but once explained, it [makes a lot of sense](https://betterexplained.com/articles/intuitive-understanding-of-eulers-formula/).
+
+In mathematics, we aim for consistency; in physics, we aim both for consistency and correctness, because the world is both *what it is* (state of affairs) and *logic*.
+
+> An equation merely marks the point of view from which I consider the two expressions: it marks their equivalence in meaning.
+>
+> -- __Tractatus__
+
+### 6.3. - The exploration of logic means the exploration of everything that is subject to law. And outside logic, everything is accidental.
+
+Both mathematics and law must be consistent. But to look for logic in the world is always a lost battle. We do not have a priori belief in the law of conservation but rather a priori knowledge of the possibility of a logic form.
+
+> The possibility of describing a picture by means of covering the surface with a sufficiently fine square mesh tell us nothing about the picture. But what does characterise the picture is that it can be described completely by a particular net with a particular size of mesh.
+>
+> Similarly, the possibility of describing the world by means of Newtonian mechanics tells us nothing about the world: but what does tell us something about it is the precise way in which it is possible to describe it by these means. We are also told something about the world by the fact that it can be described more simply with one system of mechanics than with another.
+>
+> -- __Tractatus__
+
+
+
+Mechanics is an attempt to construct in simple terms as many propositions as we can about the world we are surrounded by. It's the ultimate sophistication, which is why in science there is a collective enterprise to reduce our knowledge to its [simplest form](https://en.wikipedia.org/wiki/Theory_of_everything).
+
+The laws of physics, with all their logical apparatus, still speak, however indirectly, about the objects of the world.
+
+> All science is either Physics or stamp collection.
+>
+> -- __Ernst Rutherford__
+
+However, laws are about the net and not about what the net describes. (Map isn't the territory, remember?)
+
+Same thing happens with events in sync, and our perception of time, which was shattered not so long ago by Einstein.
+
+> We cannot compare a process with ‘the passage of time’ (there is no such thing), but only with another process. Hence we can describe the lapse of time only by relying on some other process. Something exactly analogous applies to space.
+>
+> -- __Tractatus__
+
+That something is, of course, [the tick of the watch](http://www.fourmilab.ch/etexts/einstein/specrel/www/#SECTION10).
+
+What, then, if we cannot 'see' the logic that surround us? We make hypothesis, and infer new laws by induction, that is, __accepting as true the simplest law that can be reconciled with our experience__. And, on top of it, build your own logic framework. God does not reveal himself in the world: facts contribute only to setting the problem, not to its solution.
+
+It is a hypothesis that the sun will rise tomorrow. A good one, though.
+
+> Laplace’s Law offers us the first simple rule of thumb for confronting small data in the real world. [...] Count the number of times it has happened in the past plus one, then divide by the number of opportunities plus two. And the beauty of Laplace’s Law is that it works equally well whether we have a single data point or millions of them. Little Annie’s faith that the sun will rise tomorrow is justified, it tells us: with an Earth that’s seen the sun rise for about 1.6 trillion days in a row, the chance of another sunrise on the next “attempt” is all but indistinguishable from 100%.
+>
+> -- __[Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)__
+
+The whole modern conception of the world is founded on the illusion that the so-called laws of nature are the explanations of natural phenomena.
+
+The old paradigm is clearer if we understand that they didn't take religion literally; it's us, modernists, who try to make science so that everything around us can be explained with precision.
+
+### 6.4 - All propositions are of equal value
+
+The sense of the world must lie outside the world. So too it is impossible for there to be propositions of ethics. For Wittgenstein, it's clear that ethics has nothing to do with punishment and reward, but with the action itself. That comes from Kant, but we already saw in [Skin in the Game](/skin-in-the-game) that placing ourselves as the example for the whole world doesn't make sense, because laws cannot be universal.
+
+>The world of the happy man is a different one from that of the unhappy man.
+>
+> -- __Tractatus__
+
+Is he insinuating that Heaven and Hell are just mindsets?
+
+> Death is not an event in life: we do not live to experience it. If we take eternity to mean not infinite temporal duration but timelessness, then eternal life belongs to those who live in the present.
+>
+> -- __Tractatus__
+
+Our life has no end; we just stop living. Life is an [infinite game](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1476731713).
+
+> Not only there is no guarantee of the temporal immortality of the human soul, […] this assumption completely fails to accomplish the purpose for which it has always been intended. Or is some riddle solved by my surviving for ever? Is not this eternal life itself as much of a riddle as our present life? The solution of the riddle of life in space and time lies outside space and time.
+>
+> -- __Tractatus__
+
+Jordan Peterson has a good take about this on [Maps of Meaning](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h).
+
+> It is not how things are in the world that is mystical, but that it exists.
+>
+> -- __Tractatus__
+
+### 6.5 - When the answer cannot be put into words, neither can the question be put into words.
+
+The riddle does not exist. If a question can be framed at all, it is also possible to answer it. The question 'Does God exist?' must be answered with 'what do you mean by God?'; trying to answer the question leads to the first one being either self-evident (tautology) or absurd (contradiction).
+
+> We feel that even when all possible scientific questions have been answered, the problems of life remain completely untouched. Of course, there are no questions left, and this itself is the answer.
+>
+> -- __Tractatus__
+
+The solution to the problem of life is seen [in the vanishing of the problem](https://www.youtube.com/watch?v=uAXtO5dMqEI). Buddhism is not about finding answers, but dropping the questions. Some things simply manifest in the world. That's what makes the world interesting.
+
+> The correct method in philosophy would really be the following: to say nothing exept what can be said, […] and then, whenever someone else wanted to say something metaphysical, to demonstrate to him that he had failed to give a meaning to certain signs in his propositions. Although it would not be satisfying to the other person, […] this method would be the only strictly correct one.
+>
+> -- __Tractatus__
+
+## 7 - What we cannot speak about we must pass over in silence.
+
+That is the only conclusion possible. We can speak about the world, but trying to speak about metaphysics leads us to the absurd, because we are trying to apply the set of rules of logic to a corpus that goes beyond the corpus of logic (the world itself), and Gödel has proved that leads to inconsistencies.
