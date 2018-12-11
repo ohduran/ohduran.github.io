@@ -3,7 +3,7 @@ layout: datascience
 ---
 <h2>Essays on Data Science</h2>
 <ul class="posts">
-  {% for post in site.categories.data-science %}
+  {% for post in site.categories.science %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a   href="{{ post.url }}">{{ post.title }}</a></li>
     {% unless post.categories contains 'booknotes' %}
     <h5>{{ post.excerpt }}</h5>
