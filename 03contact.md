@@ -4,11 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-Make time to compel a good case, and please [email me](mailto:{{ site.email }}) right away. I'll reply back only if I think that you are genuinely interested in having a conversation with me.
+Make time to compel a good case, and please [email me](mailto:{{ site.email }}) right away. I'll reply back only if I'm convinced that you are genuinely interested in having a conversation with me.
 
 Consider this a spam filter: there's enough friction so that those who eventually send an email have spent some time thinking about what to say, and they aren't just [spraying and praying](https://en.wikipedia.org/wiki/Spray_and_pray) for my attention.
 
-Such an investment in time comes with a promise: that I'll deliver a response that will be, to the best of my ability, the most efficient for bringing your request to a successful conclusion.
+Such an investment in time comes with a promise: that I'll deliver a response that will be, to the best of my ability, the most efficient for bringing your request to a successful conclusion. If I think that your question may be helpful to others, I may write a post with the answer (with your permission).
 
 To send an email that prompts a response,
 

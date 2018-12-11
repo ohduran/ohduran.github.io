@@ -19,13 +19,16 @@
           {% endif %}
         {% endfor %}
         {% if site.github_username %}
-        <a href="https://github.com/{{ include.username }}"><span class="icon page-link">{% include icon-github.svg %}</span></a>
+        <a id="no-text-decoration" href="https://github.com/{{ include.username }}"><span class="icon page-link">{% include icon-github.svg %}</span></a>
         {% endif %}
         {% if site.kaggle_username %}
-        <a href="https://kaggle.com/{{ include.username }}"><span id="icon-kaggle" class="icon page-link">{% include icon-kaggle.svg %}</span></a>
+        <a id="no-text-decoration" href="https://kaggle.com/{{ include.username }}"><span id="icon-kaggle" class="icon page-link">{% include icon-kaggle.svg %}</span></a>
         {% endif %}
         {% if site.twitter_username %}
-        <a href="https://twitter.com/{{ include.username }}"><span class="icon page-link">{% include icon-twitter.svg %}</span></a>
+        <a id="no-text-decoration" href="https://twitter.com/{{ include.username }}"><span class="icon page-link">{% include icon-twitter.svg %}</span></a>
+        {% endif %}
+        {% if site.linkedin_username %}
+        <a href="https://linkedin.com/{{ include.username }}"><span class="icon page-link">{% include icon-linkedin.svg %}</span></a>
         {% endif %}
       </div>
     </nav>

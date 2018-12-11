@@ -27,15 +27,16 @@
 .site-nav {
     // float: right;
     line-height: 56px;
-    text-align: center;
+    text-align: right;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $background-color;
+        color: $brand-color;
         line-height: $base-line-height;
+        text-decoration: none;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
@@ -68,8 +69,9 @@
                 width: 18px;
                 height: 15px;
 
+
                 path {
-                    fill: $grey-color-dark;
+                    fill: $brand-color;
                 }
             }
         }
@@ -85,7 +87,7 @@
         }
 
         .page-link {
-            color: $background-color;
+            color: $brand-color;
             display: block;
             padding: 5px 10px;
 
@@ -95,7 +97,7 @@
             margin-left: 20px;
             &:hover {
                 color: $text-color;
-                text-decoration: none;
+                text-decoration: underline;
             }
         }
     }
@@ -106,7 +108,6 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
     background-color: $background-footer;
 }
@@ -136,18 +137,18 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+    width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(66% - (#{$spacing-unit} / 2));
+    width:         calc(66% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-3 {
-    width: -webkit-calc(60% - (#{$spacing-unit} / 2));
-    width:         calc(60% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -228,6 +229,7 @@
     letter-spacing: -1px;
     line-height: 1;
 
+
     @include media-query($on-laptop) {
         font-size: 28px;
     }
@@ -307,4 +309,23 @@
       @include media-query($on-laptop) {
           font-size: 9px;
       }
+}
+
+.contact-footer {
+  text-align: justify;
+}
+
+#no-text-decoration {
+  > a {
+    text-decoration: none;
+  }
+  text-decoration: none;
+}
+
+#centered {
+  text-align: center;
+}
+
+#right-aligned {
+  text-align: right;
 }

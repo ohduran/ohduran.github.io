@@ -2,7 +2,7 @@
 layout: post
 title:  "Unbiased, Standard Deviations"
 date:   2018-09-24 15:00:00 +0100
-categories: data-science
+categories: science articles
 permalink: /2018/08/unbiased-standard-deviation
 ---
 
