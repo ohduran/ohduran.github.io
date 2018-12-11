@@ -183,12 +183,12 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 2px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
-    line-height: 44.4px;
+    line-height: 30px;
     overflow-wrap: break-word;
 
     > :last-child {
@@ -207,7 +207,6 @@ code {
     font-size: 15px;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background: rgba(0,0,0,.05);
 }
 
 code {
