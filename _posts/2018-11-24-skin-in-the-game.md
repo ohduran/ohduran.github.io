@@ -691,7 +691,7 @@ But there is something worse than peer assessment: the bureaucratisation of the 
 
 These arbiters failed to realise that ‘prestigious’ publications are not ‘Lindy compatible’. Academia has a tendency, when unchecked, to evolve into a ritualistic self-referential publishing game.
 
-While academia has turned into an athletic contest, Wittgenstein, the author of [Tractatus Logico-Philosophicus](https://www.amazon.com/Tractatus-Logico-Philosophicus-Ludwig-Wittgenstein/dp/0486404455/ref=sr_1_1), held the exact opposite viewpoint: if anything, knowledge is the reverse of an athletic contest.
+While academia has turned into an athletic contest, Wittgenstein, the author of [Tractatus Logico-Philosophicus](/tractatus-logico-philosophicus), held the exact opposite viewpoint: if anything, knowledge is the reverse of an athletic contest.
 
 > In philosophy, the winner of the race is the one who can run slowest. [Or without haste.] Or the one who arrives at the finish line last.
 >
