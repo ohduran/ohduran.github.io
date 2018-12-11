@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes on 'Tractatus Logico-Philosophicus'"
-date:   2018-12-02 15:00:00 +0100
+date:   2018-12-11 15:00:00 +0100
 categories: booknotes
 tags: language
 permalink: /tractatus-logico-philosophicus
