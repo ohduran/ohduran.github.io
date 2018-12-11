@@ -45,10 +45,6 @@
         @include media-query($on-palm) {
           color: $text-color;
         }
-        &:hover {
-            color: $text-color;
-            text-decoration: underline;
-        }
     }
 
     @include media-query($on-palm) {
