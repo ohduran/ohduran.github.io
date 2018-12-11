@@ -9,5 +9,5 @@ I work for a small startup that's working on automating invoicing for financial 
 
 My background is in theoretical Physics. I also hold a master's degree in International Finance.
 
-I love teaching. And reading. That's why most of what you can read in this site is about what I've learnt while reading and working both with software engineers, digital consultants, data scientists and students.
+I love teaching. And reading. That's why most of what you can read in this site is about what I've learnt while reading and working with software engineers, digital consultants, data scientists and my students.
 {% include hr.html %}
