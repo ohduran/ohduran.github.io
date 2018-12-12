@@ -3,7 +3,7 @@ layout: post
 title:  "Notes on 'Skin in the Game'"
 date:   2018-11-24 15:00:00 +0100
 categories: booknotes
-tags: language finance politics decision-making beliefs war power
+tags: language finance
 permalink: /skin-in-the-game
 ---
 Knowledge can mean different things to different people. For taxi drivers in London, ['The Knowledge'](https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london) is the exam that candidates must pass before sitting behind the wheel of one of the famous black cabs and drive quickly through London's complicated road network. It typically takes three to four years, and those who pass it have an encyclopedic knowledge of the streets and places of interest.
