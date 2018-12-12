@@ -11,5 +11,5 @@ My background is in theoretical Physics. I also hold a master's degree in Intern
 
 I love teaching. And reading. That's why most of what you can read in this site is about what I've learnt reading and while working with software engineers, digital consultants, data scientists and students.
 
-From time to time, I write light-reading posts that I include in [my journal](/index-journal.html). They may help you get to know me a little bit more, and you are welcome to look around. However, most of my writing is focused on long form, slow burn essays.
+From time to time, I write light-reading posts that I include in [my journal](/index-journal.html). They may help you get to know me a little bit more, and you are welcome to start [from the beginning](/2017/05/pilot). However, most of my writing is focused on long form, slow burn [essays](/essays).
 {% include hr.html %}
