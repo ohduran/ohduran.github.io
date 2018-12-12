@@ -6,10 +6,6 @@ categories: articles technology
 permalink: /2017/10/conflicts-of-interest
 ---
 
-It's hard to make sense of the news today.
-
-### Clickbaits
-
 Think of it, from the ads agencies perspective: Do I really want someone to see my ad by all means? Seems like the common wisdom is "Yes". No matter what my mood is going to be after going through that piece of shit that you call "article", I'm going to be bombed with ads coming at me from all directions.
 
 The real answer is "we don't really know". The problematic with ads is well-known: no matter how big my billboards are, I cannot make a direct relationship between my marketing budget and my eventual sale. I can infer, correlate, imply and deduce, but in the end it all comes to the same thing: I can only guess.
@@ -18,20 +14,20 @@ Whatever. "They came to a blind date, and what happened next will left you speec
 
 ### Native advertising
 
-This one is my all-time favorite: destroying the reputation of a brand and a newspaper in one go.
+This one is my all-time favourite: destroying the reputation of a brand and a newspaper in one go.
 
-Maybe you haven't run into the term before, but sure as hell you know what it is. A piece of news with the next headline:
+Maybe you haven't run into the term 'native advertising' before, but sure as hell you know what it is. A piece of news with the next headline:
 
 >"This is what your kids need to have for breakfast to excel."
 >Sponsored by *Dairy company*
 
-Spoiler: it's going to be milk. How can I trust a company who tries to subtly trick you into reading a completely misleading information in the form of a reputable piece of news?
+How can I trust a company who tries to subtly trick you into reading a completely misleading information in the form of a reputable piece of news?
 
 It's worse than that. How many real stories are out there, not covered by the media, because those who would be damaged by its disclosure are the ones paying the bills?
 
 Moreover, the reputation of the newspaper is now in the downward trend. How can I trust a newspaper that blatantly lies to their readers for a wage?
 
-This needs to change
+This needs to change.
 
 There is an obvious problem with the media's business model.
 
@@ -46,7 +42,7 @@ It's obvious that media companies are still trying to figure out how to handle t
 3. We've reached a sub-optimal level in which we understand what 'clicks' and what doesn't, so things seem to be contained for now. As long as my paycheck is coming, everything is OK.
 4. I can reshuffle my newsroom so that I can fire those costly journalist and hire those overly naive interns to do that "Twitter stuff" for me. Any MBA would back me on that.
 
-It's obvious that this situation is far from desirable, and the consequences are now known: if we lose touch with seeking the truth, the easier to access "fake news" spread faster, polarizing society in ways that are yet to assess.
+It's obvious that this situation is far from desirable, and the consequences are now known: if we lose touch with seeking the truth, the easier to access "fake news" spread faster, polarising society in ways that are yet to assess.
 
 ## The answer
 

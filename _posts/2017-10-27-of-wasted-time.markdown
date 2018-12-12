@@ -25,4 +25,6 @@ But even if we give humans the adequate tools, and we accommodate their salaries
 
 Do we really understand the importance of individuals in a world where manual labor is relentlessly assigned to machines? Do we understand that experiments are becoming crucial in the long term prospects of any company in the world?
 
-From my point of view, companies are lagging. Elephants that move slowly onto the future, and rely too much on "how it's been done so far". They are willing to waste years trying to catching up so that they won't waste a couple of days of their daily routines. Until the moment when their routines no longer matter.
+From my point of view, companies are lagging. Elephants that move slowly onto the future, and rely too much on "how it's been done so far". They are willing to waste years trying to catching up so that they won't waste a couple of days of their daily routines.
+
+Until the moment when their routines no longer matter.

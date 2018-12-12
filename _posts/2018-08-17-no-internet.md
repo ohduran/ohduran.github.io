@@ -13,7 +13,7 @@ Oh, my, how untrained I am for the Internetless life.
 
 I still consider myself an amateur, and that's because I'm always learning something new, and am exposed to the obvious fact that __I know nothing__. If you have ever had the feeling that I always know better, this is the part when you are going to be disabused from that notion.
 
-So I am learning Django for real this summer. After doing lots of Data Science and Machine Learning at my previous employer, I am now a Software Engineer. That sounds awesome, but also means that I am at that point where I know that I am underqualified for my next job. And no, that's no impostor syndrome: I have some experience in Web Development, but this is a whole new level.
+So I am learning Django for real this summer. After doing lots of Data Science and Machine Learning at my previous employer, I am now a Software Engineer. That sounds awesome, but also means that I am at that point where I know that I am under-qualified for my next job. And no, that's no impostor syndrome: I have some experience in Web Development, but this is a whole new level.
 
 Good news, I'm not the smartest person in the room, which means I'm in the right room. However, I'm probably going to need to step up if I want to make a living out of this. That's why coming to a remote place where the 21st century hasn't arrived yet sounded like the perfect distraction-free plan. I wasn't counting on the part that Internet is actually a useful thing to rely on if you're stuck.
 
