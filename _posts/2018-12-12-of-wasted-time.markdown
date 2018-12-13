@@ -2,7 +2,7 @@
 layout: post
 title:  "Of Wasted Time"
 date:   2018-12-12 15:00:00 +0100
-categories: articles science
+categories: journal
 permalink: /2017/12/on-wasted-time
 ---
 A PhD, the pinnacle of our current educational system, is ill-defined. There is an array of variables involved that uniquely separate one PhD programme from the next; the topic of the thesis, the size of the grant, the involvement of the professor. But they all have something in common:
