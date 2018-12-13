@@ -5,11 +5,11 @@ date:   2018-12-12 15:00:00 +0100
 categories: journal
 permalink: /2017/12/on-wasted-time
 ---
-A PhD, the pinnacle of our current educational system, is ill-defined. There is an array of variables involved that uniquely separate one PhD programme from the next; the topic of the thesis, the size of the grant, the involvement of the professor. But they all have something in common:
+A PhD, the pinnacle of our current educational system, is ill-defined. There is an array of variables involved that uniquely separate one PhD programme from the next; the topic of the thesis, the size of the grant, the involvement of the professor. But they all have something in common: A PhD implies wasting 4 years of your life.
 
-A PhD implies wasting 4 years of your life.
+My first thought when writing this goes to some of my colleagues at university, who are in most cases writing their thesis or even have presented them already. However, in pure economical terms, they spend most of their time either thinking, attending conferences, doing research or writing. Which is a wonderful way to spend your time, but we can all agree that their short term output to society is virtually zero. And that's because, from the point of view of a businessman, they should be doing something else. They should be doing something else.
 
-We were presented during primary school the concept of What We Have To Do: a list of tasks that we must complete not because we like or because they have a point, but because it is our duty to complete them, because an authoritative figure is counting on us to do them. In exchange, we'll have our allowance.
+We were presented during primary school the concept of *What We Have To Do*: a list of tasks that we must complete not because we like or because they have a point, but because it is our duty to complete them, because an authoritative figure is counting on us to do them. In exchange, we'll have our allowance.
 
 We haven't wasted our time since. Wasting time is for kids and beggars on the streets. It's no wonder that by the time we complete our education, we can't conceive asking ourselves what we might *really* want to do with our lives. We have all the future ahead of us, and instead of looking at the white canvas with determination, we stare at it, depressed.
 
@@ -20,6 +20,8 @@ Truth is, that isn't true. What We Have To Do has backfired: there is simply too
 > Don't shoot for the stars, because we know what's already there. Shoot for the space in between.
 
 But dedication and imagination do not come all the time, in all conditions. True pleasure must be present for us to be creative, purpose must be present for us to endure the difficulties. And both are things that we lacked while we were under the protection of What We Have To Do.
+
+Moreover, there is already that sense of guilt that we cannot get rid of once there is an endless backlog of tasks that We Have To Do. With it, we are exposed to pieces of news where 26 year old kids have built multi billion dollar companies from their bedrooms, Chess Grand Masters aged 8, and we see ourselves racing against certain benchmarks in our lives that our personal heroes have set (mine was 26 years, 3 months and 16 days, how old was Albert Einstein when his paper 'On the Electrodynamics of Moving Bodies' was received by *Annalen der Physic*, the science journal that eventually published it. At the time of writing, I'm older than that; the 22 years and 7 months that Newton was when he started developing his theories on calculus, optics, and the law of gravitation at his home in Woolsthorpe are also long gone).
 
 We are already so guilty about What We Have To Do, that what we call laziness is, in reality, a symptom of anxiety. We need to relax and let go.
 
