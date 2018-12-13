@@ -6,6 +6,10 @@ categories: booknotes
 tags: language
 permalink: /skin-in-the-game
 ---
+> It's one thing to study war and another to live the warrior's life.
+>
+> -- __Telamon of Arcadia__, mercenary of the fifth century B.C.
+
 Knowledge can mean different things to different people. For taxi drivers in London, ['The Knowledge'](https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london) is the exam that candidates must pass before sitting behind the wheel of one of the famous black cabs and drive quickly through London's complicated road network. It typically takes three to four years, and those who pass it have an encyclopedic knowledge of the streets and places of interest.
 
 Then, in 2005, Google Maps was invented. The question is: 'Is still worth it to pass The Knowledge?'
