@@ -11,7 +11,7 @@ layout: page
 <ul style="margin-top: 30px">
 {% assign sorted_categories = (site.categories | sort) %}
 {% for category in sorted_categories %}
-  {% if category contains 'journal' or category contains 'booknotes' %}
+  {% if category contains 'journal' %}
     {% continue %}
   {% endif %}
 
