@@ -37,6 +37,10 @@ Best ideas usually come to me when I'm not productive, but when I'm present inst
 
 That's why agility trumps velocity; it isn't speed what gets you where you want, it's the ability to change direction.
 
+> Procrastination is the soul rebelling against entrapment.
+>
+> -- __Nassim Taleb__
+
 A PhD, or any meaningful piece of intellectual work, is built on unproductive moments. Our workplace, on the other side, is filled with people rushing from crisis to crisis, in the constant need of 'catching up' with an ideal version of themselves, usually called *the competition abroad*; much faster, much better, and much cheaper. In that sort of environment, there is no time for 'training': you learn on the job. They don't see how paradoxical this mindset becomes when taking to the extreme: if we were to start working by the time that we learn how to walk, civilisation would consist of clueless kids running around the office with assignments that they aren't qualified to fulfil. The resemblance of some organisations to that dystopia should be a signal for people to start polishing their CVs and run away.
 
 And yet, 'experience' is the key to being 'employable'. Every job advertisement asking for experience builds on the idea that there is no learning outside of working. Your job as a student is to work hard *so that someone may think you're worth a chance*, and then keep working so that, eventually, you achieve the dream of *employability*. It only takes submitting yourself to do What We Have To Do. It also builds on the assumption that 1 year experience doing a certain task is the sane *everywhere*. That might have been true when we worked at the assembly line, but for the majority of us, what we learn and how intense is that learning makes all the difference.
