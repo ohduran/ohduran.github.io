@@ -3,8 +3,7 @@ layout: default
 ---
 
 <div id="home">
-
-<h2>Book Notes</h2>
+<h2>Reading</h2>
 <ul class="posts">
   {% for tags in site.tags %}
   <li id="clean">{{ tags | first | capitalize }}
@@ -17,10 +16,6 @@ layout: default
       {% endfor %}
 
     {% endfor %}
-  <!-- <li id="li-clean"><a name="{{ tag }}">{{ tag | capitalize }}</a>
-    {% for post in site.categories.booknotes %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a   href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %} -->
   </ul>
   </li>
   {% endfor %}
