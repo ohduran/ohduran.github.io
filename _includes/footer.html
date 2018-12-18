@@ -5,6 +5,18 @@
     <div class="footer-col-wrapper">
 
       <div class="footer-col footer-col-1">
+        <h2 class="footer-heading" id="no-text-decoration"><a href="{{ site.baseurl }}/essays">Essays</a></h2>
+        <ul>
+        {% assign sorted_categories = (site.categories | sort) %}
+        {% for category in sorted_categories %}
+        {% unless category contains 'journal' or category contains 'booknotes' %}
+          <li><a id="no-text-decoration" name="{{ category | first }}" href="/index-{{ category | first }}.html"><h4>{{ category | first| capitalize }}</h4></a>
+        {% endunless %}
+        {% endfor %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-1">
         <h2 class="footer-heading" id="no-text-decoration"><a href="{{ site.baseurl }}/index-tags">Reading</a></h2>
         {% capture counts_with_tags_string %}{% for tag in site.tags %}{{ tag[1] | size | prepend:"000000" | slice:-6,6 }}:{{ tag[0] }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
         {% assign counts_with_tags = counts_with_tags_string | split:"," | sort | reverse %}
@@ -14,18 +26,6 @@
             {% assign count = site.tags[tag] | size %}
           <li><a id="no-text-decoration" href="{{ site.baseurl }}/index-tags"><h4>{{ tag | capitalize  }}</h4></a>
           {% endfor %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-1">
-        <h2 class="footer-heading" id="no-text-decoration"><a href="{{ site.baseurl }}/essays">Essays</a></h2>
-        <ul>
-        {% assign sorted_categories = (site.categories | sort) %}
-        {% for category in sorted_categories %}
-        {% unless category contains 'journal' or category contains 'booknotes' %}
-          <li><a id="no-text-decoration" name="{{ category | first }}" href="/index-{{ category | first }}.html"><h4>{{ category | first| capitalize }}</h4></a>
-        {% endunless %}
-        {% endfor %}
         </ul>
       </div>
 

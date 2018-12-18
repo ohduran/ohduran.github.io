@@ -1,13 +1,12 @@
 ---
-layout: default
+layout: page
 ---
 
 <div id="home">
-<h2>Reading</h2>
 <ul class="posts">
   {% for tags in site.tags %}
-  <li id="clean">{{ tags | first | capitalize }}
-  <ul>
+  <h2 class="post-title" id="brand-colored clean">{{ tags | first | capitalize }}</h2>
+  <ul class="posts" id="spaced">
     {% for post in site.categories.booknotes %}
       {% for tag in post.tags %}
         {% if tags contains tag %}
@@ -17,7 +16,6 @@ layout: default
 
     {% endfor %}
   </ul>
-  </li>
   {% endfor %}
   <p id="spacing"> </p>
 <h4>You can also search my notes <a href="/index-booknotes.html">in chronological order</a>.</h4>
