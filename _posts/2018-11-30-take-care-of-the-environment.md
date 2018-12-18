@@ -5,27 +5,26 @@ date:   2018-11-30 15:00:00 +0100
 categories: science
 permalink: /2018/11/take-care-of-the-environment
 ---
-Here's a question from one of my Data Science students at [Thinkful](https://thinkful.com):
 
-~~~
-I've been using Anaconda to install libraries on my computer. Today, I tried to install the `geopandas` library using the terminal command.
+One of the things to look out when using third-party libraries, and specially in Python, is versioning and dependencies. Here's a question from one of my Data Science students at [Thinkful](https://thinkful.com):
 
-```bash
-conda install -c conda-forge geopandas
-```
-
-This is what I got back and I'm not sure what to make of it.
-
-```bash
->> Solving environment: failed
-
-UnsatisfiableError: The following specifications were found to be in conflict:
-
-  - geopandas
-
-Use "conda info <package>" to see the dependencies for each package.
-
-~~~
+> I've been using Anaconda to install libraries on my computer. Today, I tried to install the `geopandas` library using the terminal command.
+>
+> ```bash
+> conda install -c conda-forge geopandas
+> ```
+>
+> This is what I got back and I'm not sure what to make of it.
+>
+> ```bash
+> >> Solving environment: failed
+>
+> UnsatisfiableError: The following specifications were found to be in conflict:
+>
+>  - geopandas
+>
+> Use "conda info <package>" to see the dependencies for each package.
+> ```
 
 The student found that `geopandas` depends on using python 3.7 instead of the version she's using, 3.6.5. She is concerned about upgrading to the latest version as she isn't aware of all the other libraries' dependencies.
 
