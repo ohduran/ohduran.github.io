@@ -1,7 +1,10 @@
 ---
 layout: page
 ---
-
+<div class="post-content" itemprop="articleBody">
+  {{ content }}
+  {% include hr.html %}
+</div>
 <div id="home">
 <ul class="posts">
   {% for tags in site.tags %}
