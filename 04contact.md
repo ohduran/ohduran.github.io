@@ -15,6 +15,17 @@ From time to time, I write light-reading posts that I include in [my journal](/i
 
 {% include hr.html %}
 
+
+
+<header class="post-header">
+  <h1 class="post-title">Contact</h1>
+</header>
+
+
+> I consider it a good rule for letter-writing to leave unmentioned what the recipient already knows, and instead tell him something new.
+>
+> __Sigmund Freud__
+
 To contact me, make time to compel a good case, and please [email me](mailto:{{ site.email }}) right away. I'll reply back only if I'm convinced that you are genuinely interested in having a conversation with me.
 
 Consider this a spam filter: there's enough friction so that those who eventually send an email have spent some time thinking about what to say, and they aren't just [spraying and praying](https://en.wikipedia.org/wiki/Spray_and_pray) for my attention.
