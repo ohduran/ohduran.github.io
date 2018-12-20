@@ -28,3 +28,7 @@ defaults:
       path: ""
     values:
       author: "oh_duran"
+
+collections:
+  subjects:
+    output: true

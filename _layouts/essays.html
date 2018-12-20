@@ -9,16 +9,16 @@ layout: page
 </ul>
 
 <ul style="margin-top: 30px">
-{% assign sorted_categories = (site.categories | sort) %}
+{% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
   {% if category contains 'journal' %}
     {% continue %}
   {% endif %}
 
   {% unless category contains 'booknotes' %}
-  <li id="li-clean"><a id="no-text-decoration" name="{{ category | first }}" href="/index-{{ category | first }}.html"><h2 class="post-title">{{ category | first| capitalize }}</h2></a>
+  <li id="li-clean"><a id="no-text-decoration" name="{{ category | first }}" href="/subjects/{{ category | first }}"><h2 class="post-title">{{ category | first| capitalize }}</h2></a>
   {% else %}
-  <li id="li-clean"><h2 class="post-title"><a id="no-text-decoration" name="{{ category | first }}" href="/index-{{ category | first }}.html">{{ category | first| capitalize }}</a></h2>
+  <li id="li-clean"><h2 class="post-title"><a id="no-text-decoration" name="{{ category | first }}" href="/subjects/{{ category | first }}">{{ category | first| capitalize }}</a></h2>
                     <h4 id="by-topic"><a id="no-text-decoration" href="/index-tags.html">by topic</a></h4>
   {% endunless %}
     <ul>

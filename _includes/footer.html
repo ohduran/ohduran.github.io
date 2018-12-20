@@ -10,7 +10,7 @@
         {% assign sorted_categories = (site.categories | sort) %}
         {% for category in sorted_categories %}
         {% unless category contains 'journal' or category contains 'booknotes' %}
-          <li><a id="no-text-decoration" name="{{ category | first }}" href="/index-{{ category | first }}.html"><h4>{{ category | first| capitalize }}</h4></a>
+          <li><a id="no-text-decoration" name="{{ category | first }}" href="/subjects/{{ category | first }}"><h4>{{ category | first| capitalize }}</h4></a>
         {% endunless %}
         {% endfor %}
         </ul>

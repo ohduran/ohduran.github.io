@@ -7,9 +7,7 @@ tags: language performance
 permalink: /how-to-read-a-book
 ---
 
-> Television, radio, and all the sources of amusement and information that surround us in our daily lives are artificial props. They can give us the impression that our minds are active, because we are required to react to stimuli from outside. But the power of those external stimuli to keep us going is limited. They are like drugs. We grow used to them, and we continuously need more and more of them. Eventually, they have little to no effect. Then, if we lack the resources within ourselves, we cease to grow intellectually, morally, and spiritually. And when we cease to grow, we begin to die.
->
-> Reading well, which means reading actively, is thus not only a good in itself, nor it is merely a means to advancement in our work or career. It also serves to keep our minds alive and growing.
+> Reading well, which means reading actively, is not only a good in itself, nor it is merely a means to advancement in our work or career. It also serves to keep our minds alive and growing.
 >
 > -- __How to Read a Book__
 
@@ -30,6 +28,10 @@ The problem is definitely not that; in fact, speed reading courses are now wides
 > -- __Nassim Taleb__
 
 The book I'm talking about today teaches us [How to Read a Book](https://www.amazon.com/How-Read-Book-Intelligent-Touchstone/dp/0671212095?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0671212095): *with nothing but the power of your own mind, you gradually lift yourself from a state of understanding less to one of understanding more*. Its authors are Mortimer Adler and Charles Van Doren. The book argues that, for one to read correctly, he has to go through it in four stages: understanding what is it about, making sense of the terms and propositions of the book, extracting the answers to the questions you want to get answered and contextualise those answers with other books.
+
+> Television, radio, and all the sources of amusement and information that surround us in our daily lives are artificial props. They can give us the impression that our minds are active, because we are required to react to stimuli from outside. But the power of those external stimuli to keep us going is limited. They are like drugs. We grow used to them, and we continuously need more and more of them. Eventually, they have little to no effect. Then, if we lack the resources within ourselves, we cease to grow intellectually, morally, and spiritually. And when we cease to grow, we begin to die.
+>
+> -- __How to Read a Book__
 
 This book caught my eye after reading [Deep Work](/deep-work).  In the shallowness of our lives, Deep Work speaks to a level of deepness in our work that can only be achieved if we extract information from our surroundings the way is described in How to Read a Book. One must not read passively, casually, but rather, actively, engaged. The more you can get from a book, the better. But just being engaged in our reading and not distracted ourselves isn't enough, for there are more barriers to an ideal reading.
 
