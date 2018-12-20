@@ -1,8 +1,9 @@
 ---
 layout: contact
-title: My Story
+title: About
 permalink: /contact/
 ---
+
 I'm a software engineer based in Barcelona, Spain. I write mostly Python, either in Django or using its Data Science stack.
 
 I work for a small startup that's working on automating invoicing for financial advisors. In the evening, I mentor Data Science students at [Thinkful](https://www.thinkful.com/).
@@ -14,11 +15,14 @@ My background is in theoretical Physics. I also hold a master's degree in Intern
 I love teaching. And reading.
 
 {% include hr.html %}
+<br>
+### Get in touch
 
 > I consider it a good rule for letter-writing to leave unmentioned what the recipient already knows, and instead tell him something new.
 >
 > __Sigmund Freud__
 
+<br>
 
 To get in touch, make time to compel a good case, and please [email me](mailto:{{ site.email }}) right away. I'll reply back only if I'm convinced that you are genuinely interested in having a conversation with me.
 
@@ -28,7 +32,7 @@ Such an investment in time comes with a promise: that I'll deliver a response th
 
 To send an email that prompts a response,
 
-1. __Make specific questions, not vague requests, like in [Stack Overflow](https://stackoverflow.com/help/how-to-ask)__
+1. __Ask specific questions, not vague requests, like in [Stack Overflow](https://stackoverflow.com/help/how-to-ask)__
 
 2. __Don't use jargon with me, [use the Feynman Technique](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/) instead__
 
