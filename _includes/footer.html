@@ -10,7 +10,7 @@
         {% assign sorted_categories = (site.categories | sort) %}
         {% for category in sorted_categories %}
         {% unless category contains 'journal' or category contains 'booknotes' %}
-          <li><a id="no-text-decoration" name="{{ category | first }}" href="/subjects/{{ category | first }}"><h4>{{ category | first| capitalize }}</h4></a>
+          <li><a id="no-text-decoration" name="{{ category | first }}" href="/subjects/{{ category | first }}"><h4 id="left-aligned">{{ category | first| capitalize }}</h4></a>
         {% endunless %}
         {% endfor %}
         </ul>
@@ -24,7 +24,7 @@
           {% for count_with_tag in counts_with_tags %}
             {% assign tag = count_with_tag | split:":" | last %}
             {% assign count = site.tags[tag] | size %}
-          <li><a id="no-text-decoration" href="{{ site.baseurl }}/reading"><h4>{{ tag | capitalize  }}</h4></a>
+          <li><a id="no-text-decoration" href="{{ site.baseurl }}/reading"><h4  id="left-aligned">{{ tag | capitalize  }}</h4></a>
           {% endfor %}
         </ul>
       </div>
@@ -32,8 +32,8 @@
       <div class="footer-col footer-col-1">
         <h2 class="footer-heading" id="no-text-decoration"><a href="{{ site.baseurl }}/index-tags">About</a></h2>
         <ul>
-          <li><a id="no-text-decoration" href="/contact"><h4>My Story</h4></a>
-          <li><a id="no-text-decoration" href="/index-journal.html"><h4>Journal</h4></a>
+          <li><a id="no-text-decoration" href="/contact"><h4  id="left-aligned">My Story</h4></a>
+          <li><a id="no-text-decoration" href="/index-journal.html"><h4  id="left-aligned">Journal</h4></a>
         </ul>
       </div>
     </div>
