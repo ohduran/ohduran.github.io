@@ -11,11 +11,13 @@ Why an anti-list?
 
 First, because recommending books is easy. I’ve read something, most people recommend books with a complete disregard for what could be best for you, or what you could like, but what is best for them, and what they like. That’s completely backwards, and I prefer to go in the opposite direction: with you in my mind.
 
-Second, most lists are pervaded by today’s herd mentality: the best sellers are those that most people find good enough, and you’re probably looking for something that makes you ecstatic, regardless of what everyone made of it. A strange loop of people reading only New York Times bestsellers recommend those books to people who are only prepared to read those books, isolating yourself from the actually good ones. For quality has lost the battle for attention in the age of vitalisation.
+Second, most lists are pervaded by today’s herd mentality: the best sellers are those that most people find good enough, and you’re probably looking for something that makes you ecstatic, regardless of what everyone made of it. A strange loop of people reading only New York Times bestsellers recommend those books to people who are only prepared to read those books, isolating yourself from the actually good ones. For quality has lost the battle for attention in the age of viralisation.
 
 Third, because some people recommend some books as virtue signalling: I'm smart, and I read what I think smart people read, even if I despise them. That's why you hated book assignments in high school; you didn't choose them, but had to read them anyway.
 
 And fourth, because some are simply trying to sell you the books on those lists. What? Publishers are willing to pay Forbes magazine to have their books included in their click-bait reading lists? [You might very well think that, I couldn't possibly comment](https://www.youtube.com/watch?v=b_7e1jNBaSI).
+
+Long story short: they don't have [Skin in the game](/skin-in-the-game).
 
 'Wait, but, don't you like reading?' Yes, indeed. After reading [How to Read a Book](/how-to-read-a-book), I realise that there is no time to waste on poor quality books from which you can't learn anything. If you ever find a bad one, put it away. It may be you, it may be it, but don't bother in carrying on if, once skimmed, you have no reason to go on.
 
@@ -41,7 +43,7 @@ Don’t buy the book; watch [his TED talk](https://www.ted.com/talks/simon_sinek
 
 ### 7 - [Don’t pay for your MBA](https://www.amazon.com/Dont-Pay-Your-MBA-Education/dp/0814438482?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0814438482), by Laurie Pickard
 
-Unspecific, all things considered: he could have built an entire case against education, but instead went for “I did this and it went well, so I’m broadcasting my cognitive dissonance to the entire universe”. The author goes into suggestions such as “you need to plan your MBA yourself” and “you can learn on your own pace”, which to be fair is true, but not mind-blowing.
+Unspecific, all things considered: he could have built an entire case against education, but instead went for “I did this and it went well, so I’m broadcasting my cognitive dissonance to the entire universe”. The author makes deep suggestions such as “you need to plan your MBA yourself” and “you can learn at your own pace”, which to be fair are true, but not mind-blowing.
 
 ### 6 - [The 10x Rule](https://www.amazon.com/gp/product/B004X75OES/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=earmorboo-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B004X75OES&linkId=6e61287572a7070c61adff064d1dba67), by Grant Cardone
 You’ve heard of it, I heard of it: we’re in a race for increasingly scarce jobs. Automation, globalisation, gentrification, the world beneath our feet is moving. This book is all about addressing that anxiety: how to perform better.
@@ -54,14 +56,15 @@ Silicon Valley is a modern utopia where anyone can change the world. Unless you'
 
 > It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.
 >
-> Mark 10:25
+> -- __Mark 10:25__
 
-I simply don’t buy it. Like most journalists, he addresses what people say, not what people mean. If a Sequoia partner says that [they’re not lowering their standards](https://money.cnn.com/2015/12/03/technology/michael-moritz-sequoia-vc-women/index.html), that’s sexist. But looking closely, that sentence only means that he is not willing to include women on their workforce just because they are women, which is a respectable, I think, position.
+I simply don’t buy it. Like most journalists, he addresses what people say, not what people mean. If a Sequoia partner says that [they’re not lowering their standards to hire women](https://money.cnn.com/2015/12/03/technology/michael-moritz-sequoia-vc-women/index.html), that’s sexist. But looking closely, that sentence only means that he is not willing to include women on their workforce just because they are women, which is a respectable, I think, position.
 
 The feminism movement is filled with these kind of arguments that help very little to move our society forward. [How most people addressed the Google manifesto scandal](http://dioknoed.blogspot.com/2017/08/google-manifesto-women-struggle-for.html) without reading the manifesto never ceased to amaze me. For some, it’s only a matter of “men equals women, so men and women must be equally present in x”, for any x that they would admire to be in. That [more men are working low paying, ‘women’ jobs](http://time.com/money/4698243/men-womens-jobs-changes-income-status/) is hardly taken into account.
 
 > Full disclosure: I am the father of two daughters, who are smart, strong, compassionate and independent women, so any biases that might appear in this post are purely intentional.
-> Ed Diokno, on Views from the Edge
+>
+> -- __Ed Diokno__, on Views from the Edge
 
 ### 4 - [The Startup Hero](https://www.amazon.com/How-Startup-Hero-Textbook-Entrepreneurs/dp/1973585340?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1973585340), by Tim Draper.
 This book was [free for 24 hours](https://news.ycombinator.com/item?id=16827315), and became the top HN story of that day, 8 months ago. A huge hit, provided that the whole point of giving away a book is exposure to an audience of early adopters that would recommend it to their mainstream friends.
@@ -76,16 +79,16 @@ Well, it backfired:
 
 > If you want to read stories of an age gone by, where he is the star of the story for being in the right place and the right time, with lots of privilege (including family money to start a venture fund, and a HBS degree), then this is the book.
 
-> Also, if you want to read poetry that he has written and included at the end of each chapter, this is also the book you are looking for. I just can't imagine that he didn't know someone who had the courage to take him aside and say, "Tim, this is a dreadful idea. Don't put poetry in your book." But having money means you get to do stupid things and people won't stop you.
+> I just can't imagine that he didn't know someone who had the courage to take him aside and say, "Tim, this is a dreadful idea. Don't put poetry in your book." But having money means you get to do stupid things and people won't stop you.
 
 I love Hacker News because of [the comments](https://blog.ycombinator.com/hacker-news-highlights-august-to-november-2018/).
 
 ### 3 - [Scrum](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/1847941109?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1847941109), by Jeff Sutherland
-An outdated topic and a study on megalomania combined. Hardly anything interesting. [Scrum](https://www.scrum.org/) is now mainstream in tech environments and has proven that the focus in software shouldn't be being fast, meaning doing more things, but being __agile__, meaning *being able to change direction*. I have no time for someone who calls everyone who doesn't agree with him stupid, and the best ideas are sometimes being praised by their worst preachers.
+An outdated topic and a study on megalomania combined. Hardly anything interesting. [Scrum](https://www.scrum.org/) is now mainstream in tech environments and has proven that the focus in software shouldn't be being fast, meaning doing more things, but being __agile__, meaning *being able to change direction*. I have no time for someone who calls everyone who doesn't agree with him stupid, and the best ideas are sometimes being communicated by their worst preachers.
 
 ### 2 - [48 Rules of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197), by Robert Greene
 
-I listened to [an interview](https://fs.blog/robert-greene/) with the author and rushed to buy the book. Maybe it’s the story teller in me, but there is no structure; 48 stories served to you in the most pretentious manner, with no argument. Just some stories about people in history in most cases I’ve never heard of, with an attempt to work the mystique of The Art of War in the author’s advantage (lots of stories about Chinese rulers no one has heard of) and the sense that he could be possibly making everything up, as almost no roots to real, modern life are given, not even research studies.
+I listened to [an interview](https://fs.blog/robert-greene/) with the author and rushed to buy the book. Maybe it’s the story teller in me, but there is no structure; 48 stories served to you in the most pretentious manner, with no argument. Just some stories about people in history in most cases I’ve never heard of, with an attempt to work the mystique of [The Art of War](https://www.amazon.com/Art-War-Sun-Tzu/dp/1453689117?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1453689117) in the author’s advantage (lots of stories about Chinese rulers no one has heard of) and the sense that he could be possibly making everything up, as almost no roots to real, modern life are given, not even research studies.
 
 Avoid these book, and if 20 years on there’s still people talking about it, pick it up again. My bet is you won’t.
 
@@ -95,6 +98,6 @@ The climax of our list, the apogee of the atrocious, the crest of the dreadful. 
 
 > Thorp seems to take great pleasure in describing what a special snowflake he is. His self-aggrandising way of reflecting the past makes him come across as a braggart, which makes for a rather painful read.
 >
-> __Amazon Reviewer__
+> -- __Amazon Reviewer__
 
 A bad joke compared to [Surely you're joking, Mr Feynman](https://www.amazon.com/Surely-Youre-Joking-Mr-Feynman/dp/0393355624), the book that obviously this one tries to replicate. I'm not in a habit of lending books, and I lent this one with the hope that the one who borrowed it never gave it back.
