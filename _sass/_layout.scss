@@ -327,7 +327,9 @@
 }
 
 #no-text-decoration {
+  text-align: center;
   > a {
+    text-align: center;
     text-decoration: none;
   }
   text-decoration: none;

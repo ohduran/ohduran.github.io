@@ -1,26 +1,21 @@
 ---
 layout: page
 ---
-<h2 class="post-title" id="brand-colored">Recent</h2>
+<a id="no-text-decoration" name="{{ category | first }}" href="/essays"><h2 class="post-title">Recent</h2></a>
 <ul class="posts">
     {% for post in site.posts limit:3 %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 
-<ul style="margin-top: 30px">
+<ul style="margin-top: 50px">
 {% assign sorted_categories = site.categories | sort %}
 {% for category in sorted_categories %}
   {% if category contains 'journal' %}
     {% continue %}
   {% endif %}
-
-  {% unless category contains 'booknotes' %}
   <li id="li-clean"><a id="no-text-decoration" name="{{ category | first }}" href="/subjects/{{ category | first }}"><h2 class="post-title">{{ category | first| capitalize }}</h2></a>
-  {% else %}
-  <li id="li-clean"><h2 class="post-title"><a id="no-text-decoration" name="{{ category | first }}" href="/subjects/{{ category | first }}">{{ category | first| capitalize }}</a></h2>
-                    <h4 id="by-topic"><a id="no-text-decoration" href="/index-tags.html">by topic</a></h4>
-  {% endunless %}
+  <br>
     <ul>
     {% for post in category.last %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
