@@ -32,7 +32,7 @@ Such an investment in time comes with a promise: that I'll deliver a response th
 
 To send an email that prompts a response,
 
-1. __Ask specific questions, not vague requests, like in [Stack Overflow](https://stackoverflow.com/help/how-to-ask)__
+1. __Ask specific questions, not vague requests, [the John Skeet way](https://codeblog.jonskeet.uk/2010/08/29/writing-the-perfect-question/)__
 
 2. __Don't use jargon with me, [use the Feynman Technique](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/) instead__
 
