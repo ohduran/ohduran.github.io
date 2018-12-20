@@ -3,7 +3,7 @@ layout: post
 title:  "The Books I Did Not Read in 2018"
 date:   2018-12-20 15:00:00 +0100
 categories: articles
-permalink: /2017/12/did-not-read
+permalink: /2018/12/did-not-read
 ---
 We’re bombarded with reading lists lately, as year comes to an end. The [best books](https://www.bloomberg.com/features/2018-best-books/), the [best sellers](https://www.amazon.com/gp/bestsellers/2018/books), even the [most anticipated books for next year](https://www.goodreads.com/book/popular_by_date/2019)!
 
