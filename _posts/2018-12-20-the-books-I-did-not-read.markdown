@@ -9,7 +9,9 @@ We’re bombarded with reading lists lately, as year comes to an end. The [best 
 
 Certainly there is a lot to gain from these list suggestions. Lots of *via positiva*. Instead, this post is focusing on *via negativa*: this is the list of books I advice you __not__ to read in 2018.
 
-Why an anti-list? First, because recommending books is easy. I’ve read something, and with a complete disregard for what could be best for you, or what could you like about it, most people recommend books based on precisely *what they liked*, not what *you* could potentially enjoy. That’s completely backwards, and I prefer to go in the opposite direction: with you in my mind.
+Why an anti-list?
+
+First, because recommending books is easy. I’ve read something, most people recommend books with a complete disregard for what could be best for you, or what you could like, but what is best for them, and what they like. That’s completely backwards, and I prefer to go in the opposite direction: with you in my mind.
 
 Second, most lists are pervaded by today’s herd mentality: the best sellers are those that most people find good enough, and you’re probably looking for something that makes you ecstatic, regardless of what everyone made of it. A strange loop of people reading only New York Times bestsellers recommend those books to people who are only prepared to read those books, isolating yourself from the actually good ones. For quality has lost the battle for attention in the age of vitalisation.
 
