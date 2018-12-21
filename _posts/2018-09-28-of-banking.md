@@ -3,7 +3,7 @@ layout: post
 title:  "Of Banking"
 date:   2018-09-28 15:00:00 +0100
 categories: technology articles
-permalink: /2018/09/not-banking-on-banking
+permalink: /not-banking-on-banking
 ---
 
 Here is a paradox: banks are the least capitalistic thing ever. They're a monopolistic, non competitive, ripping off industry, and they are overwhelmed by the competition that its coming, which will oust them pretty soon.

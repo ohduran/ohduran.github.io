@@ -3,7 +3,7 @@ layout: post
 title:  "Of the Delights of Science"
 date:   2018-08-14 15:00:00 +0100
 categories: journal
-permalink: /2018/08/the-delights-of-science
+permalink: /the-delights-of-science
 ---
 '- Why are you always arguing about things?'
 

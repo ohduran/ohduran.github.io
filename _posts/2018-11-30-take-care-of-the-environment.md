@@ -3,7 +3,7 @@ layout: post
 title:  "Take care of the environment"
 date:   2018-11-30 15:00:00 +0100
 categories: science
-permalink: /2018/11/take-care-of-the-environment
+permalink: /take-care-of-the-environment
 ---
 
 One of the things to look out when using third-party libraries, and specially in Python, is versioning and dependencies. Here's a question from one of my Data Science students at [Thinkful](https://thinkful.com):

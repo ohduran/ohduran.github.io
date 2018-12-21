@@ -3,7 +3,7 @@ layout: post
 title:  "Of Conflicts of Interest"
 date:   2017-10-13 15:00:00 +0100
 categories: articles technology
-permalink: /2017/10/conflicts-of-interest
+permalink: /conflicts-of-interest
 ---
 
 Think of it, from the ads agencies perspective: Do I really want someone to see my ad by all means? Seems like the common wisdom is "Yes". No matter what my mood is going to be after going through that piece of shit that you call "article", I'm going to be bombed with ads coming at me from all directions.

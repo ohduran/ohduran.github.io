@@ -3,7 +3,7 @@ layout: post
 title:  "Of Replication of Success"
 date:   2017-11-25 15:00:00 +0100
 categories: journal
-permalink: /2017/11/and-you-can-too
+permalink: /replication-of-success
 ---
 A couple of days ago, I bumped into a rant by an anonymous guy who bantered something like this:
 
