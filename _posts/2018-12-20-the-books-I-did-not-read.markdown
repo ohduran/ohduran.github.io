@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Books I Did Not Read in 2018"
-date:   2018-12-21 15:00:00 +0100
+date:   2018-12-21 00:00:01 +0100
 categories: articles
 permalink: /2018/12/did-not-read
 ---
