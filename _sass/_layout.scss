@@ -257,7 +257,7 @@
     // @include media-query($on-palm) {
     //   margin: 0 $spacing-unit $spacing-unit $spacing-unit;
     // }
-    padding: $spacing-unit;
+    padding: 0 $spacing-unit 0 $spacing-unit;
     a {
       text-decoration: underline dotted;
     }
