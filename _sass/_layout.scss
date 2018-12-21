@@ -180,8 +180,7 @@
  * Page content
  */
 .page-content {
-      // margin-top: 2*$spacing-unit;
-    padding: 3*$spacing-unit;
+      padding-top: 2*$spacing-unit;
 }
 
 .page-heading {
@@ -254,6 +253,7 @@
     // @include media-query($on-palm) {
     //   margin: 0 $spacing-unit $spacing-unit $spacing-unit;
     // }
+    padding: $spacing-unit;
     a {
       text-decoration: underline dotted;
     }
