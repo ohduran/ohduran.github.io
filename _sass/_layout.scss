@@ -27,6 +27,21 @@
     }
 }
 
+.site-logo{
+  line-height: 56px;
+  text-align: right;
+  background-color: $background-color;
+  font-family: "Bitter", $base-font-family;
+  float:left;
+  .name {
+    font-size: 20px;
+  }
+  .description{
+    margin: -40px;
+    font-size: 12px;
+  }
+}
+
 .site-nav {
     // float: right;
     line-height: 56px;
