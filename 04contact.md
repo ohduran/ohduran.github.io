@@ -14,17 +14,19 @@ My background is in theoretical Physics. I also hold a master's degree in Intern
 
 I love teaching. And reading.
 
-{% include hr.html %}
-<br>
+### Why do you blog?
+
+It's a selfish thing, mostly: I keep track of my thinking process. I read things, then think about what they're about, and finally document my research with a public post, all ready for you to tear it down and criticise the way you want to.
+
+I wrote with the hope that other people may find it helpful or interesting or relevant in any way.
+
 ### Get in touch
 
 > I consider it a good rule for letter-writing to leave unmentioned what the recipient already knows, and instead tell him something new.
 >
 > __Sigmund Freud__
 
-<br>
-
-To get in touch, make time to compel a good case, and please [email me](mailto:{{ site.email }}) right away. I'll reply back only if I'm convinced that you are genuinely interested in having a conversation with me. Otherwise, [I may not be able to reply](/email).
+Blogs are a two way conversation, so I welcome email and comments, as long as they're on topic, more or less. To get in touch, make time to compel a good case, and please [email me](mailto:{{ site.email }}) right away. I'll reply back only if I'm convinced that you are genuinely interested in having a conversation with me. Otherwise, [I may not be able to reply](/email).
 
 Consider this a spam filter: there's enough friction so that those who eventually send an email have spent some time thinking about what to say, and they aren't just [spraying and praying](https://en.wikipedia.org/wiki/Spray_and_pray) for my attention.
 
