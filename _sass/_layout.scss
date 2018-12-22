@@ -28,9 +28,6 @@
 }
 
 .site-logo{
-  line-height: 56px;
-  text-align: right;
-  background-color: $background-color;
   font-family: "Bitter", $base-font-family;
   float:left;
   .name {
@@ -44,7 +41,7 @@
 
 .site-nav {
     // float: right;
-    line-height: 56px;
+    line-height: 58px;
     text-align: right;
     background-color: $background-color;
 
