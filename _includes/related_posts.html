@@ -1,5 +1,5 @@
 <div class="relatedPosts">
-{% unless page.categories contains 'journal' or page.categories contains 'articles' or page.categories = '' %}
+{% unless page.categories contains 'journal' or page.categories contains 'articles' or page.categories == '' %}
 <h4>You may also enjoy</h4>
 
 {% for post in site.posts %}
