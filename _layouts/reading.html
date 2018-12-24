@@ -6,7 +6,14 @@ layout: page
 <div id="home">
 <ul class="posts">
   {% for tags in site.tags %}
-  <h2 class="post-title" id="brand-colored clean">{{ tags | first | capitalize }}</h2>
+  {% assign tag_name = tags | first | capitalize %}
+  <h2 class="post-title" id="brand-colored clean">{{ tag_name }}</h2>
+  {% if tag_name == 'Yule-book-flood'%}
+  <div class="excerpt">
+    {% capture yule_book_flood %}{% include yule-book-flood.md %}{% endcapture %}
+    {{ yule_book_flood | markdownify }}
+  </div>
+  {% endif %}
   <ul class="posts" id="spaced">
     {% for post in site.categories.booknotes %}
       {% for tag in post.tags %}
