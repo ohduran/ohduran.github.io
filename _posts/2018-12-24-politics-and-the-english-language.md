@@ -99,9 +99,11 @@ When there is a gap between one’s real and one’s declared views, one relies 
 
 But if thought corrupts language, language can also corrupt thought; you need to be on guard constantly: every phrase can anaesthetise a portion of one’s brain.
 
-Silly words and expressions have often disappeared, not through any evolutionary process but owing to the conscious action of a minority (Lindy compliance + minority rule)
+Silly words and expressions have often disappeared, not through any evolutionary process but owing to the conscious action of a minority, as we discussed *the minority rule* in [Skin in the Game](/skin-in-the-game)
 
-There is a long list of fly-blown metaphors which could similarly be got rid of if enough people would interest themselves in the job; […] to make pretentiousness unfashionable.
+>There is a long list of fly-blown metaphors which could similarly be got rid of if enough people would interest themselves in the job; […] to make pretentiousness unfashionable.
+>
+> -- __Politics and the English Language__
 
 The defence of the English language implies more than this, and perhaps it is best to start by saying what it does not imply:
 
