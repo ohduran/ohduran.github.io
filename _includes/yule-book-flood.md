@@ -1,1 +1,3 @@
-Due to import and currency restrictions, it was difficult to Icelanders during that time to procure a wide variety of items. Books, however, were easily obtainable, as restrictions on imported paper were more lenient than the restrictions on other products. This, combined with Iceland’s extraordinarily high literacy rate, led to the Icelandic tradition of gifting books on Christmas Eve, followed by reading your present into the evening.
+In Iceland, books are exchanged on Christmas Eve, and you spend the rest of the night reading, even bringing their books to bed along with some chocolate. It's called __jólabókaflóð__, Yule Book Flood, a tradition dating back to World War II.
+
+These notes are condensed summaries of short essays and other stories that encapsulate the outcome of reading on Christmas Eve.
