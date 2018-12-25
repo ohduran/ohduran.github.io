@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Notes on 'Politics and the English language'"
-date:   2018-12-24 00:00:01 +0100
+date:   2018-12-24 15:00:00 +0100
 categories: booknotes
 tags: language yule-book-flood
 permalink: /politics-and-the-english-language
