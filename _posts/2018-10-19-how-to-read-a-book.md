@@ -65,7 +65,7 @@ This is where one abandons the idea that he can read already: executing all the 
 
 The Ancient Greeks understood that there is a difference between a sophist and a philosopher: one is only half-way between absolute ignorance and the true knowledge of a philosopher: *[I Know that I Know Nothing](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing)*. They had a name for such a person with only a small amount of knowledge and a huge amount of ego: *sophomores*.
 
->To be informed is to know simply that something is the case. To be enlightened is to know, in addition, what it is all about: why it is the case, what its connections are with other facts, in what respects it is the same, in what respects it is different, and so forth.
+> To be informed is to know simply that something is the case. To be enlightened is to know, in addition, what it is all about: why it is the case, what its connections are with other facts, in what respects it is the same, in what respects it is different, and so forth.
 >
 > -- __How to Read a Book__
 
