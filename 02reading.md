@@ -10,6 +10,6 @@ Like Groucho, I find television very educating: every time somebody turns on the
 >
 > -- __The Catcher in the Rye__
 
-I read, then I write. It's the only way I have found to call the author up on the phone to ask him inquisitively. This notes aren't sneak peeks at what the book is all about, but what came of my experience with it, without any time constraints.
+I read, then I write. This notes aren't sneak peeks at what the book is all about, but what came of my experience with it, without any time constraints. You can [read more about my reading process](/of-reading).
 
 I really hope that you enjoy it, and that you feel part of the conversation.
