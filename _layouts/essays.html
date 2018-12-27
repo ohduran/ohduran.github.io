@@ -2,7 +2,7 @@
 layout: page
 ---
 <a id="no-text-decoration" name="{{ category | first }}" href="/essays"><h2 class="post-title">Recent</h2></a>
-<ul class="posts">
+<ul class="posts" style="margin-top: 50px">
     {% for post in site.posts limit:5 %}
       {% unless post.miscellaneous %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
