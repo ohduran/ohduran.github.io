@@ -12,4 +12,4 @@ Like Groucho, I find television very educating: every time somebody turns on the
 
 I read, then I write. This notes aren't sneak peeks at what the book is all about, but what came of my experience with it, without any time constraints. You can [read more about my reading process](/of-reading).
 
-I really hope that you enjoy it, and that you feel part of the conversation.
+I really hope that you enjoy these notes, and that you feel part of the conversation.
