@@ -1,3 +1,3 @@
-In Iceland, books are exchanged on Christmas Eve, and you spend the rest of the night reading, even bringing their books to bed along with some chocolate. It's called __jólabókaflóð__, Yule Book Flood, a tradition dating back to World War II.
+In Iceland, the Yule Book Flood consists of exchanging books on Christmas Eve, and spending the rest of the night reading it, even bringing it to bed along with some chocolate.
 
-These notes are condensed summaries of short essays and other stories that encapsulate the outcome of reading on Christmas Eve.
+It's important to me to allocate some time during Christmas Eve to read one short essay or book, something that could take me around half an hour, and put together a condensed summary. These are the resulting notes.
