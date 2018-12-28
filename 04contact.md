@@ -1,7 +1,7 @@
 ---
 layout: contact
 title: About
-permalink: /contact/
+permalink: /about/
 ---
 
 I'm a software engineer based in Barcelona, Spain. I write mostly Python, either in Django or using its Data Science stack.
@@ -16,9 +16,9 @@ I love teaching. And reading.
 
 ### Why do you blog?
 
-It's a selfish thing, mostly: I keep track of my thinking process. I read things, then think about what they're about, and finally document my research with a public post, all ready for you to tear it down and criticise the way you want to.
+To keep track of my thinking process. I read things, then think about them, and finally document my research with a public post.
 
-I wrote with the hope that other people may find it helpful or interesting or relevant in any way.
+I wrote with the hope that other people may find it helpful in any way.
 
 ### Get in touch
 
