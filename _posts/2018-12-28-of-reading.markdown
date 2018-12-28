@@ -5,9 +5,7 @@ date:   2018-12-28 00:01:00 +0100
 categories: articles
 permalink: /of-reading
 ---
-Being able to read is an accomplishment that society as a whole can be very proud of. The Middle Ages came to an end probably not because Cristopher Columbus discovered a new continent, but because Gutenberg found a way to make books cheaper by introducing the printing press.
-
-This was crucial in the development of the Renaissance, of course, but it became something that the society took from granted ever since, [as with any revolution](/revolutions). Luther became famous for posting his [Ninety-five Theses](https://en.wikipedia.org/wiki/Ninety-five_Theses), but his true achievement was paving the way for alternative interpretations of the Bible: read it yourself, and then think about it.
+The Middle Ages came to an end probably not because Cristopher Columbus discovered a new continent, but because Gutenberg found a way to make books cheaper by introducing the printing press. This was crucial in the development of the Renaissance, of course, but it became something that the society took from granted ever since, [as with any revolution](/revolutions). Luther became famous for posting his [Ninety-five Theses](https://en.wikipedia.org/wiki/Ninety-five_Theses), but his true achievement was paving the way for alternative interpretations of the Bible: read it yourself, and then think about it.
 
 That can happen only if books are available to people outside a monastery. Reading allowed our society to spread learning much faster than the old apprenticeship system: talent became scalable.
 
