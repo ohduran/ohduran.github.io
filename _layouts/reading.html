@@ -9,7 +9,7 @@ layout: page
   {% for tags in site.tags %}
   {% assign tag_name = tags | first | capitalize %}
   <h2 class="post-title" id="brand-colored clean">{{ tag_name }}</h2>
-  {% if tag_name == 'Yule-book-flood'%}
+  {% if tag_name == 'Yule book flood'%}
   <div class="excerpt">
     {% capture yule_book_flood %}{% include yule-book-flood.md %}{% endcapture %}
     {{ yule_book_flood | markdownify }}
