@@ -25,7 +25,7 @@ section {
 }
 
 header {
-	color: #fff;
+	color: $brand-color;
 	padding: 15px 0;
 	position: fixed;
 	width: 100%;
@@ -44,7 +44,6 @@ header {
 		text-shadow: none;
 
 		a {
-			color: #333;
 			@media #{$mid-point} {
 				&:hover {
 					border-bottom-color: rgba(80, 80, 80,.3);
@@ -63,7 +62,6 @@ header {
 	}
 
 	a {
-		color: #fff;
 		text-decoration: none;
 		z-index: 1;
 		position: relative;
@@ -176,8 +174,7 @@ blockquote:before {
 
 	a {
 		text-decoration: none;
-		color: #fff;
-		opacity: .9;
+		color: black;
 
 		&:hover {
 			opacity: 1;
