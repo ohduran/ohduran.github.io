@@ -89,13 +89,13 @@ defaults:
         resize_style: cover
 
 # -----------
-# CloudCannon
 
 social_icons:
   - Facebook
   - Google Plus
   - Instagram
   - LinkedIn
+  - GitHub
   - Pinterest
   - Tumblr
   - Twitter
