@@ -13,9 +13,6 @@ right_links:
     social_icon: GitHub
     new_window: true
   - name:
-    link: https://plus.google.com/
-    social_icon: Google Plus
+    link: https://www.linkedin.com/in/alvaroduranbarata
+    social_icon: LinkedIn
     new_window: true
-  - name:
-    link: /feed.xml
-    social_icon: RSS
