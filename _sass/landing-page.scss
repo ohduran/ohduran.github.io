@@ -1,9 +1,9 @@
 .hero {
-	// color: #ffffff;
+	color: $brand-color;
 	text-align: center;
 	height: 100vh;
 	min-height: 550px;
-	// background-color: #333;
+	background-color: $background-color;
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center;
@@ -19,7 +19,7 @@
 }
 
 	p {
-		// color: #fff;
+		color: $brand-color;
 	}
 
 	.inner-hero {
@@ -33,7 +33,7 @@
 		text-align: left;
 
 		h1, h2, p, .button {
-			text-shadow: 1px 1px 1px rgba(0,0,0,.8);
+			// text-shadow: 1px 1px 1px rgba(0,0,0,.8);
 		}
 	}
 
