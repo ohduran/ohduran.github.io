@@ -1,6 +1,10 @@
 left_links:
   - name: Essays
     link: /essays/
+  - name: Reading
+    link: /reading/
+  - name: Archive
+    link: /archive/
   - name: Contact
     link: /contact/
 right_links:

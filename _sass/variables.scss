@@ -5,6 +5,13 @@ $brand-color-4: #00a4ca;
 $brand-color-5: #ffa74d;
 $background-color: #FFFFF0;
 
+// Greys
+$grey-color: #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$spacing-unit: 35px;
+
 
 // Breakpoints
 $tablet: "(min-width: 450px)";
