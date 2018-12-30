@@ -2,7 +2,9 @@
 title: Home
 description: The latest app to help you find new friends with common interests.
 image: images/london-light.JPG
-image_about: images/sandiego.JPG
+image_about: images/profile_pic.JPG
+image_reading: images/sandiego.JPG
+image_contact: images/capco_conference.png
 bottom_image: https://unsplash.it/2000/1322?a=.png
 ---
 
@@ -19,6 +21,7 @@ bottom_image: https://unsplash.it/2000/1322?a=.png
 </section>
 
 <div class="content">
+
 	<section class="info" id="learn-more">
 		<div class="container flex">
 			<div class="text">
@@ -34,11 +37,11 @@ bottom_image: https://unsplash.it/2000/1322?a=.png
 	<section class="info">
 		<div class="container flex">
 			<div class="text">
-				<h2 class="editable">Pick your interests</h2>
-				<p class="editable">The more you tell Frisco the better it gets to know you. Frisco matches you with people who share similar interests with you.</p>
+				<h2 class="editable">Reading</h2>
+				<p class="editable">{% capture reading %}{% include index-03-reading.md %}{% endcapture %}{{ reading | markdownify }}</p>
 			</div>
 			<div class="image">
-				<img class="editable" src="{% include relative-src.html src=page.image_about %}" alt="Screenshot" />
+				<img class="editable" src="{% include relative-src.html src=page.image_reading %}" alt="Screenshot" />
 			</div>
 		</div>
 	</section>
@@ -46,16 +49,16 @@ bottom_image: https://unsplash.it/2000/1322?a=.png
 	<section class="info">
 		<div class="container flex">
 			<div class="text">
-				<h2 class="editable">Swipe and go</h2>
-				<p class="editable">Frisco shows you cards with people who might be a good match for friendship. Swipe left to move to the next card or right to start talking.</p>
+				<h2 class="editable">Contact</h2>
+				<p class="editable">{% capture contact %}{% include index-04-contact.md %}{% endcapture %}{{ contact | markdownify }}</p>
 			</div>
 			<div class="image">
-				<img class="editable" src="http://placehold.it/650x1300" alt="Screenshot" />
+				<img class="editable" src="{% include relative-src.html src=page.image_contact %}" alt="Screenshot" />
 			</div>
 		</div>
 	</section>
 
-	<section class="hero" style="background-image: url({% include relative-src.html src=page.bottom_image %})">
+	<!-- <section class="hero" style="background-image: url({% include relative-src.html src=page.bottom_image %})">
 		<div class="inner-hero text-container">
 			<div class="hero-text-container">
 				<h2 class="editable">Find your buddy today</h2>
@@ -63,5 +66,5 @@ bottom_image: https://unsplash.it/2000/1322?a=.png
 				<div class="cta button alt"><a href="#">Join Now</a></div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </div>
