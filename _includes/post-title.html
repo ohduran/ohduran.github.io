@@ -4,5 +4,6 @@
 			{{ category | capitalize }}
 		</span>
 	{% endfor %}
+	{% include reading-time.html %}
 	<span class="post-date">{{ include.post.date | date: "%B %d, %Y" }}</span>
 </p>

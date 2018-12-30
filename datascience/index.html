@@ -1,6 +1,6 @@
 ---
-title: Essays
-description: Being succinct is a weakness
+title: Data Science
+description: All models are wrong; some are useful
 ---
 
 <section class="hero">
@@ -16,7 +16,7 @@ description: Being succinct is a weakness
 	<div class="text-container">
 		<!-- <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p> -->
 		<ul class="blog-posts">
-			{% for post in site.categories.articles %}
+			{% for post in site.categories.science %}
 				<li class="blog-post">
 					<h2><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h2>
 					{% include post-title.html post=post %}

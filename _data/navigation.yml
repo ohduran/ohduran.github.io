@@ -4,5 +4,8 @@
 - name: Reading
   link: /reading/
 
+- name: Data Science
+  link: /datascience/
+
 - name: Contact
   link: /contact/
