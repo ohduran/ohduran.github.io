@@ -1,6 +1,5 @@
-- name: Blog
-  link: /blog/
-- name: About
-  link: /about/
+- name: Essays
+  link: /essays/
+
 - name: Contact
   link: /contact/

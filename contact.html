@@ -1,23 +1,24 @@
 ---
 title: Contact
 description: Send us a message to find out more!
-map:
-  latitude: -45.8787605
-  longitude: 170.5027976
-  address: "1 George Street, Dunedin, New Zealand"
-  zoom: 13
-image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
+
+image: images/santorini.JPG
 ---
 
 <section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
-			<h1 class="editable">Get in touch today</h1>
-			<p class="subtext editable">If you have any questions or queries send us a message and we'll get back to you as soon as we can.</p>
+			<h1 class="editable">Contact</h1>
 		</div>
 	</div>
 </section>
+<section class="info" style="padding-top:10px;">
+  <div class="inner-hero text-container">
+    <p class="editable">{% capture contact %}{% include contact.md %}{% endcapture %}{{ contact | markdownify }}</p>
+  </div>
+</section>
 
+<!--
 <section class="pad">
 	<div class="text-container contact-box">
 		<form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
@@ -36,6 +37,7 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 			<input type="submit" value="Send Message">
 		</form>
 
+
 		<div class="contact-details">
 			<h3>Address</h3>
 			<address><a target="_blank" href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{{ page.map.address | replace: ", ", ", <br>" }}</a></address>
@@ -45,8 +47,9 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 		</div>
 	</div>
 </section>
+-->
 
-<div class="map" id="map"></div>
+<!--<div class="map" id="map"></div>
 
 <script>
 	window.mapData = {{ page.map | jsonify }};
@@ -78,3 +81,4 @@ image: https://source.unsplash.com/WNAO036c6FM/2000x1322?a=.png
 	}
 </script>
 <script async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google_maps_javascript_api_key }}&amp;callback=initMap"></script>
+-->
