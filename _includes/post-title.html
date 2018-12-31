@@ -1,10 +1,4 @@
 <p class="post-details">
 	{% include reading-time.html %}
-	- 
-	{% for category in include.post.categories %}
-		<span class="blog-filter">
-			{{ category | capitalize }}
-		</span>
-	{% endfor %}
 	<span class="post-date">{{ include.post.date | date: "%B %d, %Y" }}</span>
 </p>
