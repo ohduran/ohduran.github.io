@@ -12,7 +12,7 @@ body {
 }
 
 a {
-	color: #00a4ca;
+	color: $brand-color-4;
 	text-decoration: none;
 }
 
@@ -25,12 +25,14 @@ img {
 }
 
 h1 {
+	color: $brand-color;
 	font-weight: 300;
 	font-size: 3.8em;
 	margin: 0;
 }
 
 h2 {
+	color: $brand-color;
 	font-weight: 300;
 	font-size: 3em;
 	margin: 0 0 30px 0;
@@ -38,18 +40,20 @@ h2 {
 }
 
 h3 {
+	color: $brand-color;
 	margin: 20px 0 10px 0;
 }
 
 h2 a {
-	color: #000;
+	color: $brand-color;
 
 	&:hover {
-		text-decoration: none;
+		text-decoration: underline;
 	}
 }
 
 p, address, ul {
+	color: $text-color;
 	font-size: 1.38em;
 	margin-bottom: 20px;
 	font-weight: 300;
