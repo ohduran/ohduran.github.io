@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: images/logo/favicon.ico
-description: My blog.
+description: Alvaro Duran - Essays, Book Notes, and More.
 author:
   name: Alvaro
   email: alvaro.duranb@gmail.com
@@ -18,7 +18,7 @@ author:
 social:
   name: Álvaro Durán
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://github.com/ohduran
 
 # -----
 # Build
