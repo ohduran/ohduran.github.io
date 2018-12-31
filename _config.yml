@@ -2,21 +2,21 @@
 # Site
 
 title: Alvaro
-url: "https://brave-submarine.cloudvent.net"
+url:
 baseurl:
-google_analytics_key:
+google_analytics_key: UA-131540516-1
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: images/logo/favicon.ico
-description: App marketing template for Jekyll.
+description: My blog.
 author:
   name: Alvaro
   email: alvaro.duranb@gmail.com
   twitter: oh_duran # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: Álvaro Durán
   links:
     - https://github.com/CloudCannon/frisco-jekyll-template
 
@@ -104,5 +104,5 @@ social_icons:
   - RSS
 
 _comments:
-  description: Text shown when sharing on social media
-  blurb: Short bio or description of this person
+  description: Share!
+  blurb:
