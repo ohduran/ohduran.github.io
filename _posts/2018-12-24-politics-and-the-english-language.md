@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes on 'Politics and the English language'"
+title:  "'Politics and the English language' by George Orwell"
 date:   2018-12-24 15:00:00 +0100
 categories: booknotes
 tags: [language, yule book flood]

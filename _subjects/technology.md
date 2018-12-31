@@ -1,4 +1,0 @@
----
-layout: category
-subject: technology
----

@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Notes on 'How to read a book'"
+title:  "'How to read a book' by Mortimer Adler and Charles Van Doren"
 date:   2018-10-19 15:00:00 +0100
 categories: booknotes
 tags: language performance
 permalink: /how-to-read-a-book
+abstract: 'Reading is not what you really think it is.'
 ---
 
 > Reading well, which means reading actively, is not only a good in itself, nor it is merely a means to advancement in our work or career. It also serves to keep our minds alive and growing.

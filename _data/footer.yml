@@ -1,0 +1,24 @@
+left_links:
+  - name: Essays
+    link: /essays/
+  - name: Reading
+    link: /reading/
+  - name: Data Science
+    link: /datascience/
+  - name: Contact
+    link: /contact/
+right_links:
+  - name: Archive
+    link: /archive/
+  - name:
+    link: https://twitter.com/oh_duran
+    social_icon: Twitter
+    new_window: true
+  - name:
+    link: https://github.com/ohduran
+    social_icon: GitHub
+    new_window: true
+  - name:
+    link: https://www.linkedin.com/in/alvaroduranbarata
+    social_icon: LinkedIn
+    new_window: true

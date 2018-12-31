@@ -1,0 +1,70 @@
+---
+title: Home
+description: The latest app to help you find new friends with common interests.
+image: images/london-light.JPG
+image_about: images/profile_pic.JPG
+image_reading: images/sandiego.JPG
+image_contact: images/capco_conference.png
+bottom_image: https://unsplash.it/2000/1322?a=.png
+---
+
+<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1 class="editable">Hi, I'm Álvaro!</h1>
+			<p class="subtext editable">{% capture subtext %}{% include index-01-subtext.md %}{% endcapture %}{{ subtext | markdownify }}</p>
+			<div class=""><a href="#learn-more">Learn more <span class="arrow">&#x25BC;</span></a></div>
+			<!--<div class="cta button alt"><a href="#">Join Now</a></div>-->
+		</div>
+	</div>
+
+</section>
+
+<div class="content">
+
+	<section class="info" id="learn-more">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable">Data Scientist, Software Engineer and Mentor</h2>
+				<p class="editable">{% capture about %}{% include index-02-about.md %}{% endcapture %}{{ about | markdownify }}</p>
+			</div>
+			<div class="image">
+				<img class="editable" src="{% include relative-src.html src=page.image_about %}" alt="Screenshot" />
+			</div>
+		</div>
+	</section>
+
+	<section class="info">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable"><a href="/reading">Reading</a></h2>
+				<p class="editable">{% capture reading %}{% include index-03-reading.md %}{% endcapture %}{{ reading | markdownify }}</p>
+			</div>
+			<div class="image">
+				<img class="editable" src="{% include relative-src.html src=page.image_reading %}" alt="Screenshot" />
+			</div>
+		</div>
+	</section>
+
+	<section class="info">
+		<div class="container flex">
+			<div class="text">
+				<h2 class="editable"><a href="/contact">Contact</a></h2>
+				<p class="editable">{% capture contact %}{% include index-04-contact.md %}{% endcapture %}{{ contact | markdownify }}</p>
+			</div>
+			<div class="image">
+				<img class="editable" src="{% include relative-src.html src=page.image_contact %}" alt="Screenshot" />
+			</div>
+		</div>
+	</section>
+
+	<!-- <section class="hero" style="background-image: url({% include relative-src.html src=page.bottom_image %})">
+		<div class="inner-hero text-container">
+			<div class="hero-text-container">
+				<h2 class="editable">Find your buddy today</h2>
+				<p class="subtext editable">It's free, fun and an exciting way to meet new people.</p>
+				<div class="cta button alt"><a href="#">Join Now</a></div>
+			</div>
+		</div>
+	</section> -->
+</div>

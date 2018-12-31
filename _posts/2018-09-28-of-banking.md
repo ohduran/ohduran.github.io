@@ -2,7 +2,7 @@
 layout: post
 title:  "Of Banking"
 date:   2018-09-28 15:00:00 +0100
-categories: technology articles
+categories: articles technology
 permalink: /not-banking-on-banking
 ---
 

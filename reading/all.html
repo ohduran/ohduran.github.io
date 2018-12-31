@@ -1,0 +1,28 @@
+---
+title: Reading archive
+image:
+---
+{% assign counter = 0 %}
+{% for post in site.categories.booknotes %}
+{% assign counter = counter | plus: 1 %}
+{% endfor %}
+<section class="hero">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1 class="editable">{{page.title}}</h1>
+			<p class="subtext editable">All {{ counter }} book notes</p>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="text-container" style="padding-bottom: 30px;">
+		<!-- <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p> -->
+		<ul class="blog-posts">
+			{% for post in site.categories.booknotes %}
+			<li class="blog-post">
+				<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
+			</li>
+			{% endfor %}
+		</ul>
+</section>

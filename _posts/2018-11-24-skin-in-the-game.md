@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes on 'Skin in the Game'"
+title:  "'Skin in the Game' by Nassim Taleb"
 date:   2018-11-24 15:00:00 +0100
 categories: booknotes
 tags: language

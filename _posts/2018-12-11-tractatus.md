@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes on 'Tractatus Logico-Philosophicus'"
+title:  "'Tractatus Logico-Philosophicus' by Ludwig Wittgenstein"
 date:   2018-12-11 15:00:00 +0100
 categories: booknotes
 tags: language

@@ -1,0 +1,31 @@
+---
+title: Essays
+description: Being succinct is a weakness
+---
+
+<section class="hero">
+	<div class="inner-hero text-container">
+		<div class="hero-text-container">
+			<h1 class="editable">{{page.title}}</h1>
+			<p class="subtext editable">{{page.description}}</p>
+		</div>
+	</div>
+</section>
+
+<section>
+	<div class="text-container">
+		<!-- <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p> -->
+		<ul class="blog-posts">
+			{% for post in site.categories.articles %}
+				<li class="blog-post">
+					<h2><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h2>
+					{% include post-title.html post=post %}
+					<div class="post-content">
+						{{ post.excerpt }}
+						<a href="{% include relative-src.html src=post.url %}">Read More</a>
+					</div>
+				</li>
+			{% endfor %}
+		</ul>
+		<p class="">You can read all essays in the <a class="blog-post" href="/archive">Archive</a></p>
+</section>
