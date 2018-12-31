@@ -38,8 +38,9 @@ image:
     		{% for post in site.categories.booknotes %}
       		{% for tag in post.tags %}
         		{% if tags contains tag %}
-							<li class="blog-post">
-								<h4><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h4>
+							<li class="blog-post" style="list-style-type: none;">
+								<h4 style="margin-bottom: -10px;"><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h4>
+								{% include post-title.html post=post %}
 								<div class="post-content">
 									{{ post.excerpt }}
 								</div>
@@ -49,6 +50,7 @@ image:
     	{% endfor %}
   	</ul>
   	{% endfor %}
+		<p class="" id="bottom-spaced">You can read all book notes in the <a class="blog-post" href="/reading/all">Reading Archive</a></p>
 	</ul>
-	<p class="">You can read all book notes in the <a class="blog-post" href="/reading/all">Reading Archive</a></p>
+
 </section>
