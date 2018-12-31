@@ -5,11 +5,11 @@ left_links:
     link: /reading/
   - name: Data Science
     link: /datascience/
-  - name: Archive
-    link: /archive/
   - name: Contact
     link: /contact/
 right_links:
+  - name: Archive
+    link: /archive/
   - name:
     link: https://twitter.com/oh_duran
     social_icon: Twitter
