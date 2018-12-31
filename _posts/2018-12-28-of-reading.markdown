@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Of Reading"
+title:  "My Reading"
 date:   2018-12-28 00:01:00 +0100
 categories: articles
-permalink: /of-reading
+permalink: /my-reading
+description: My reading process, based on How to Read a Book by Mortimer Adler and Charles Van Doren. Reading is about quality rather than quantity.
 ---
 The Middle Ages came to an end probably not because Cristopher Columbus discovered a new continent, but because Gutenberg found a way to make books cheaper by introducing the printing press. This was crucial in the development of the Renaissance, of course, but it became something that the society took from granted ever since, [as with any revolution](/revolutions). Luther became famous for posting his [Ninety-five Theses](https://en.wikipedia.org/wiki/Ninety-five_Theses), but his true achievement was paving the way for alternative interpretations of the Bible: read it yourself, and then think about it.
 

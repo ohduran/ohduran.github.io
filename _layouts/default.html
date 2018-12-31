@@ -4,9 +4,18 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
 
 		{% seo %}
 		{% feed_meta %}
+
+		<title>
+		 {%if page.title %}
+				 {{ page.title }}
+		 {% else %}
+				 {{ site.title }}
+		 {% endif %}
+		</title>
 
 		<link rel="apple-touch-icon" href="{{ site.baseurl }}/images/logo/favicon.ico"">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo/favicon.ico"" sizes="192x192">
