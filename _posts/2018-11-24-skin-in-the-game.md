@@ -817,7 +817,7 @@ Humans are assumed to be overly rational in their responses to all manner of nat
 >
 > -- __Skin in the Game__
 
-The technique in question consists in genetically modifying rice to have the grains include vitamins. Check out Pamela Ronald's TED Talk (of course) '[The case for engineering our food](https://www.youtube.com/watch?v=wZ2TF8-PGQ4)', with a picture of kids holding hands at [4:17](https://www.youtube.com/watch?v=wZ2TF8-PGQ4#t=4m17s).
+The technique in question consists in genetically modifying rice to have the grains include vitamins. Check out Pamela Ronald's TED Talk (of course) [The case for engineering our food](https://www.youtube.com/watch?v=wZ2TF8-PGQ4), with a picture of kids holding hands at [4:17](https://www.youtube.com/watch?v=wZ2TF8-PGQ4#t=4m17s).
 
 > Why don’t we give these people rice and vitamins separately? After all, we don’t have genetically modified coffee that has milk with it.
 >
