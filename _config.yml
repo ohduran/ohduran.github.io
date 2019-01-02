@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Alvaro
+title: Alvaro Duran
 url:
 baseurl:
 google_analytics_key: UA-131540516-1
@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: images/logo/favicon.ico
-description: Alvaro Duran - Essays, Book Notes, Data Science!
+description: Essays, Book Notes, Data Science!
 author:
   name: Alvaro
   email: alvaro.duranb@gmail.com
