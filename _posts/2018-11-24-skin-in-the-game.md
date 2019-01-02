@@ -344,7 +344,7 @@ The minority rules also applies, of course, to prohibitions.
 
 That is because you aren’t required numbers, but determination, and determination doesn’t go away easily.
 
-*What emerges from the minority rule is more likely to be black-and-white, binary rules. (Note: Self evident*
+*What emerges from the minority rule is more likely to be black-and-white, binary rules.*
 
 That is Bayes Rule: conditional to the rule having been applied, it is far more likely that it came from those who imposed it, not those who compromised.
 
@@ -813,7 +813,7 @@ No ‘successful’ academic could ever afford to follow [what Alexander the Gre
 
 Humans are assumed to be overly rational in their responses to all manner of natural phenomena, rather than accepting the role of a collection of mental heuristics used for specific purposes. Likewise, many problems in society come from the interventions of people who sell complicated solutions because that’s what their position and training invite them to do.
 
-> There has been a problem of malnutrition and nutrient deficiency in many developing countries(…). Simply, we waste more than a third of our food supply, and the gains from simple improvement in distribution would far outweigh those from modification of supply. (…) Now the “techies” saw an angle of intervention. First, you show pictures of starving children to elicit sympathy and prevent further discussion— anyone who argues in the presence of dying children is a heartless a**hole. Second, you make it look like any critic of your method is arguing against saving the children. Third, you propose some scientific-looking technique that is lucrative to you and, should it cause a catastrophe or blight, insulates you from the long-term effects. Fourth, you enlist journalists and useful idiots (…). Fifth, you create a smear campaign to harm the reputations of researches who, not having f*** you money, are very vulnerable to the slightest blemish to their reputations.
+> There has been a problem of malnutrition and nutrient deficiency in many developing countries[...]. Simply, we waste more than a third of our food supply, and the gains from simple improvement in distribution would far outweigh those from modification of supply. [...] Now the “techies” saw an angle of intervention. First, you show pictures of starving children to elicit sympathy and prevent further discussion— anyone who argues in the presence of dying children is a heartless a**hole. Second, you make it look like any critic of your method is arguing against saving the children. Third, you propose some scientific-looking technique that is lucrative to you and, should it cause a catastrophe or blight, insulates you from the long-term effects. Fourth, you enlist journalists and useful idiots [...]. Fifth, you create a smear campaign to harm the reputations of researches who, not having f* you money, are very vulnerable to the slightest blemish to their reputations.
 >
 > -- __Skin in the Game__
 
@@ -881,8 +881,7 @@ The latter are inspired by the order of the Assassins.
 
 The best enemy is one you own by putting skin in his game and letting him know the exact rules that come with it. You keep him alive, with the knowledge that he owes his life to your benevolence.
 
-The notion that an enemy you own is better than a dead one was perfected by the order of [the Assassins]
-(https://en.wikipedia.org/wiki/Assassins). Formally known as Nizari Ismailis, they were an eleventh- through fourteenth-century sect related to Shiite Islam, often associated with the Knights Templar as they fought frequently on the same side. The most interesting thing about The Assassins is that actual assassination was low in their agenda. They understood that the only enemy you cannot manipulate is a dead one. They supposedly aimed at sparing civilians and people who were not directly targeted. Their precision was meant to reduce what is now called ‘collateral damage’.
+The notion that an enemy you own is better than a dead one was perfected by the order of [the Assassins](https://en.wikipedia.org/wiki/Assassins). Formally known as Nizari Ismailis, they were an eleventh- through fourteenth-century sect related to Shiite Islam, often associated with the Knights Templar as they fought frequently on the same side. The most interesting thing about The Assassins is that actual assassination was low in their agenda. They understood that the only enemy you cannot manipulate is a dead one. They supposedly aimed at sparing civilians and people who were not directly targeted. Their precision was meant to reduce what is now called ‘collateral damage’.
 
 In fact, *the number of casualties and armies have been historically inflated by both sides*. Both the armies and their panicky victims had an incentive to exaggerate, which acted as a deterrent.
 
