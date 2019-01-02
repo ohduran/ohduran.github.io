@@ -1,20 +1,22 @@
+
 footer {
 	font-size: .6em;
 	position: relative;
-	background: #2b2b40;
+	background-color: #2b2b40;
 	color: #fff;
 
 	&,
 	a {
-		color: #999;
+		color: $brand-color;
 	}
 
 	a {
 		text-decoration: none;
 		padding: 0 10px;
+		color: $brand-color;
 
 		&:hover {
-			color: #fff;
+			color: $brand-color-3;
 		}
 	}
 
