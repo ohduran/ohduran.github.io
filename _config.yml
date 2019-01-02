@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: images/logo/favicon.ico
-description: Alvaro Duran - Essays, Book Notes, and More.
+description: Alvaro Duran - Essays, Book Notes, Data Science!
 author:
   name: Alvaro
   email: alvaro.duranb@gmail.com
@@ -38,11 +38,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENCE
-
-collections:
-  staff_members:
-    _hide_content: true
+  - LICENSE
 
 paginate: 10
 paginate_path: "/blog/:num/"
