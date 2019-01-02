@@ -65,10 +65,15 @@ Using decorations without content may save mental effort, but it will be at the 
 A scrupulous writer, in every sentence that he writes, will ask himself at least six questions:
 
 1. What am I trying to say?
+
 2. What words will express it?
+
 3. What image or idiom will make it clearer?
+
 4. Is this image fresh enough to have an effect?
+
 5. Could I put it more shortly?
+
 6. Have I said anything that is avoidably ugly?
 
 Thing is, you are not obliged to go al this trouble. Save yourself the trouble at your own risk.

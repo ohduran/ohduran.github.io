@@ -254,7 +254,9 @@ Another sign of a bad or loosely constructed book is the omission of steps in an
 Once you have built the arguments, find the solutions as well, or what the author proposes as solutions to the problem that he's trying to solve. It's better if you are guided by the following steps:
 
 1. Every argument must involve a number of statements
+
 2. Discriminate between arguments that point to one or more facts as evidence for some generalisation (inductive), and those that offer a series of general statements to prove some further generalisations (deductive).
+
 3. Observe what things the author says he must assume, what it is to be proven, and what is self-evident. Every line of argument must start somewhere.
 
 Upon reaching this point, you can feel reasonably sure that you have managed to understand the book. Pat yourself in the back.
@@ -292,8 +294,11 @@ This entails reaching to your own conclusions, instead of refuting others. The e
 After he has said “I understand, but I disagree”, the reader can make the following remarks to the author:
 
 1. You are uninformed
+
 2. Your are misinformed
+
 3. You are illogical
+
 4. Your analysis is incomplete
 
 ### Quality trumps quantity

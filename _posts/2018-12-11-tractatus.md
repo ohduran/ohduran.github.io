@@ -45,7 +45,9 @@ Let's go over the introduction to see how much can we get out of the book before
 In practice, language is always more or less vague; what we assert is never quite precise. Thus, logic has two problems.
 
 1. The conditions for sense rather than nonsense when combining symbols.
+
 2. The conditions for uniqueness of meaning or reference in symbols or their combination.
+
 
 > Two people can be using the same word, meaning different things, yet continue the conversation. That's fine for coffee, but not when making decisions.
 >
