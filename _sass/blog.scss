@@ -147,5 +147,11 @@
 }
 
 .pagination {
-	padding: 30px
+	padding: 30px;
+}
+
+.post-excerpt {
+	> blockquote {
+	font-size: 0.8em;
+}
 }
