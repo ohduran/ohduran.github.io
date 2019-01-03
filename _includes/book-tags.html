@@ -1,0 +1,20 @@
+{% for tag in post.tags %}
+  {% if post.tags.size > 1 %}
+    {% unless tag == post.tags.last or tag == post.tags.first %}
+    {{ tag | capitalize }},
+    {% else %}
+      {% if tag == post.tags.first %}
+        {% if post.tags.size == 2 %}
+          {{ tag | capitalize }}
+        {% else %}
+        {{ tag | capitalize }},
+        {% endif %}
+      {% elsif tag == post.tags.last %}
+      and {{ tag | capitalize }}
+      {% endif %}
+    {% endunless %}
+  {% else %}
+    {{ tag | capitalize }}
+  {% endif %}
+
+{% endfor %}

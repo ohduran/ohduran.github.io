@@ -22,6 +22,8 @@ image:
 			{% for post in site.categories.booknotes %}
 				<li class="blog-post" id="bottom-spaced">
 					<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
+					<h4>{% include book-tags.html post=post %}</h4>
+
 				</li>
 			{% endfor %}
 		</ul>
