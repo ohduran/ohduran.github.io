@@ -6,4 +6,4 @@ I spent 3 years in London working as a Digital Consultant at [Capco](https://cap
 
 My background is in theoretical Physics. I also hold a master's degree in International Finance.
 
-I love teaching. And reading.
+I love teaching. And [reading](/reading).
