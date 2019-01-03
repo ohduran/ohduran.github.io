@@ -93,13 +93,12 @@ p, address, ul {
     content: attr(data-content);
     position: relative;
     display: inline-block;
-    color: black;
+    color: $brand-color;
 
     padding: 0 .5em;
     line-height: 1.5em;
     // this is really the only tricky part, you need to specify the background color of the container element...
-    color: #818078;
-    background-color: #fcfcfa;
+    background-color: $background-color;
   }
 }
 
