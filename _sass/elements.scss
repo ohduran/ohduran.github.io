@@ -82,7 +82,7 @@ p, address, ul {
     content: '';
     // use the linear-gradient for the fading effect
     // use a solid background color for a solid bar
-    background: linear-gradient(to right, transparent, #818078, transparent);
+    background: linear-gradient(to right, transparent, $grey-color, transparent);
     position: absolute;
     left: 0;
     top: 50%;
