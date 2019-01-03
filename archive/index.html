@@ -20,7 +20,7 @@ image:
 		<!-- <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p> -->
 		<ul class="blog-posts">
 			{% for post in site.posts %}
-				<li class="blog-post">
+				<li class="blog-post" id="bottom-spaced">
 					<h3><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
 				</li>
 			{% endfor %}
