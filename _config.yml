@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Alvaro Duran
+title: Álvaro Durán
 url:
 baseurl:
 google_analytics_key: UA-131540516-1
@@ -12,7 +12,7 @@ disqus_shortname:
 logo: images/logo/favicon.ico
 description: Essays, Book Notes, Data Science!
 author:
-  name: Alvaro
+  name: Álvaro Durán
   email: alvaro.duranb@gmail.com
   twitter: oh_duran # twitter username without the @ symbol
 social:
