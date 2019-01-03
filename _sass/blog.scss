@@ -4,15 +4,11 @@
 	margin: 0;
 	font-size: 1em;
 
-	li {
-		padding: 50px 0;
-	}
 
 	.blog-post {
-		padding: 10px 0;
 
-		&:first-child {
-			padding-top: 50px;
+		&:last-child {
+			padding-bottom: $spacing-unit;
 		}
 
 		.post-details {
