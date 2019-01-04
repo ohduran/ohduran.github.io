@@ -4,7 +4,7 @@
 
 - name: Language
   link: /language/
-  lowercase: performance
+  lowercase: language
 
 - name: Yule Book Flood
   link:

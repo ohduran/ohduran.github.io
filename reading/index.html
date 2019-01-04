@@ -27,7 +27,7 @@ image:
 			{% for link in site.data.reading %}
 				<h2 class="post-title" id="brand-colored clean">{% if link.link %}<a href="{% include relative-src.html src=link.link %}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>{% else %}{{ link.name }}{% endif %}</h2>
 				{% if link.name == 'Yule Book Flood'%}
-  				<div class="excerpt">
+  				<div class="post-content">
     			{% capture yule_book_flood %}{% include yule-book-flood.md %}{% endcapture %}
     			{{ yule_book_flood | markdownify }}
   				</div>
@@ -39,7 +39,7 @@ image:
 								<li class="blog-post" style="list-style-type: none;">
 									<h4 style="margin-bottom: -10px;"><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h4>
 									{% include post-title.html post=post %}
-									<div class="post-content">
+									<div class="post-excerpt">
 										{{ post.excerpt }}
 									</div>
 								</li>
