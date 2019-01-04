@@ -60,16 +60,13 @@
 
 		{{ content }}
 
-		<footer id="footer-color">
+		<footer>
 			<div class="container">
+				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
 				<ul class="footer-left-links">
 					{% for link in site.data.footer.left_links %}
 						<li>
-							{% assign class = "" %}
-							{% if link.link == page.url %}
-								{% assign class = class | append: " active" %}
-							{% endif %}
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" class="{{ class }} {% if link.social_icon %}{{ link.social_icon | slugify }}-icon{% endif %}">
+							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
 								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
 								{{ link.name }}
 							</a>
@@ -87,7 +84,7 @@
 					{% endfor %}
 				</ul>
 			</div>
-		</footer>
+</footer>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 		<script src="{{ site.baseurl }}/js/main.js"></script>
