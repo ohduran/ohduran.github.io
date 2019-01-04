@@ -65,7 +65,11 @@
 				<ul class="footer-left-links">
 					{% for link in site.data.footer.left_links %}
 						<li>
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
+							{% assign class = "" %}
+							{% if link.link == page.url %}
+								{% assign class = class | append: " active" %}
+							{% endif %}
+							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" class="{{ class }} {% if link.social_icon %}{{ link.social_icon | slugify }}-icon{% endif %}">
 								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
 								{{ link.name }}
 							</a>

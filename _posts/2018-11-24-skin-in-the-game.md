@@ -3,7 +3,7 @@ layout: post
 title:  "'Skin in the Game' by Nassim Taleb"
 date:   2018-11-24 15:00:00 +0100
 categories: booknotes
-tags: language
+tags: [language, power, war, politics, decision making, beliefs]
 permalink: /skin-in-the-game
 ---
 > It's one thing to study war and another to live the warrior's life.
