@@ -20,6 +20,10 @@ footer {
 		}
 	}
 
+	a.active {
+		border-bottom: 1px solid $brand-color-5;
+	}
+
 	ul {
 		padding: 0;
 		margin: 0;
