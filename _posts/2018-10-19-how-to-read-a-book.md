@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: review
 title:  "How to read a book"
 author: Mortimer Adler & Charles Van Doren
+summary: You have been reading wrong your whole life. Reading is more about quality than quantity.
 stars: 5
 date:   2018-10-19 15:00:00 +0100
 categories: booknotes

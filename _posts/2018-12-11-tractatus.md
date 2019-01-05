@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: review
 title:  "Tractatus Logico-Philosophicus"
 author: "Ludwig Wittgenstein"
+summary: Language is how we think, and all we can think is logical. Hence, what isn't logical cannot be discussed.
 stars: 4
 date:   2018-12-11 15:00:00 +0100
 categories: booknotes

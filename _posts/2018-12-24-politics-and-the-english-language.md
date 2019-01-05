@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: review
 title:  "Politics and the English Language"
 author: George Orwell
 stars: 4.5
+summary: How we speak affects how we think; and politics is full of bad speaking, which clouds our minds and how we vote.
 date:   2018-12-24 15:00:00 +0100
 categories: booknotes
 tags: [language, yule book flood]
