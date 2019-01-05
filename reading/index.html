@@ -1,7 +1,7 @@
 ---
 title: Reading
-description: Go through books with a purpose
-image:
+quote: We must fight the temptation to skip directly to the 'tips' and leave out the story.
+quote_author: Make it Stick
 ---
 {% assign tag_names = '' %}
 {% for tag in site.tags %}
@@ -17,8 +17,13 @@ image:
 		<div class="hero-text-container">
 			<h1 class="editable">{{page.title}}</h1>
 			<div class="subtext">
-			{% capture reading_quote %}{% include reading-quote.md %}{% endcapture %}
-			{{ reading_quote | markdownify }}
+				<div class="subtext">
+					<blockquote cite="">
+						<p>{{page.quote}}</p>
+						<p></p>
+						<p>— <strong>{{page.quote_author}}</strong></p>
+					</blockquote>
+				</div>
 			</div>
 		</div>
 	</div>
