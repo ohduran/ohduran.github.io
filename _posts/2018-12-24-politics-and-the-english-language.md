@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "'Politics and the English language' by George Orwell"
+title:  "Politics and the English Language"
+author: George Orwell
+stars: 4.5
 date:   2018-12-24 15:00:00 +0100
 categories: booknotes
 tags: [language, yule book flood]

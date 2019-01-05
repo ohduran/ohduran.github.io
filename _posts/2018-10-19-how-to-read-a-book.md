@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "'How to read a book' by Mortimer Adler & Charles Van Doren"
+title:  "How to read a book"
+author: Mortimer Adler & Charles Van Doren
+stars: 5
 date:   2018-10-19 15:00:00 +0100
 categories: booknotes
 tags: language performance

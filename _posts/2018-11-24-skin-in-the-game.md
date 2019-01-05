@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "'Skin in the Game' by Nassim Taleb"
+title:  "Skin in the Game"
+author: "Nassim Taleb"
+stars: 4.5
 date:   2018-11-24 15:00:00 +0100
 categories: booknotes
 tags: [language, power, war, politics, decision making, beliefs]
