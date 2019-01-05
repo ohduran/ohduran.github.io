@@ -116,8 +116,10 @@ Silly words and expressions have often disappeared, not through any evolutionary
 The defence of the English language implies more than this, and perhaps it is best to start by saying what it does not imply:
 
 1. It has nothing to do with archaism
+
 2. It has nothing to do with correct grammar and syntax
-3. it is not concerned with fake simplicity and the attempt to make written English colloquial
+
+3. It has nothing to do with fake simplicity and trying to make English colloquial
 
 Those are nonessential, as long as you make yourself clear. What is above all need is to __let the meaning choose the word, and not the other way around__.
 
@@ -128,10 +130,15 @@ Probably it is better to put off using words as long as possible and get the mea
 And keep in mind these rules:
 
 1. Never use a metaphor, simile or other figure of speech which you are used to seeing in print
+
 2. Never use a long word where a short one will do
+
 3. Always cut a word out if it is possible to cut it out
+
 4. Never use the passive where you can use the active
-5. Never use a foreign phrase, a scientific word or a jargon if you can think of an everyday English equivalent.
+
+5. Never use a foreign phrase, a scientific word or a jargon if you can think of an everyday English equivalent
+
 6. Always break any of these rules sooner than say anything outright barbarous
 
 These rules demand a deep change of attitude in anyone who has grown used to writing in the style now fashionable.
@@ -146,4 +153,4 @@ Political language is designed to make lies sound truthful and murder respectabl
 
 The decadence of language is probably curable. It has simply pervaded our language, during Orwell's time and of course nowadays. You cannot change this all in a moment, but you can at least change your own habits.
 
-Thanks for reading, and Merry Christmas!
+Thanks for reading, and Happy [Yule Book Flood](/reading)!

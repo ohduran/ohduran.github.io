@@ -55,8 +55,6 @@ quote_author: Make it Stick
 												{% assign co_authors = post.author | split: '&' %}
 												Author{% if co_authors.size > 1 %}s{% endif %}: {{ post.author }}
 												<br />
-												Read by: {{ post.date | date: "%d %B %Y" }}
-												<br />
 												<a href="{% include relative-src.html src=post.url %}">Read More</a>
 												</h4>
 											</div>
