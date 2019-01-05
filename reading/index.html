@@ -26,7 +26,6 @@ image:
 
 <section>
 	<div class="text-container" id="bottom-spaced">
-		<p id="notes">Check out my <a href="/my-reading">reading process</a> to learn more about these notes.</p>
 		<ul class="blog-posts">
 			{% for link in site.data.reading %}
 				<h2 class="post-title" id="brand-colored clean">{% if link.link %}<a href="{% include relative-src.html src=link.link %}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>{% else %}{{ link.name }}{% endif %}</h2>
@@ -52,6 +51,9 @@ image:
 	    		{% endfor %}
 	  	</ul>
 			{% endfor %}
-		<p class="" id="bottom-spaced">You can read all book notes in the <a class="blog-post" href="/reading/all">Reading Archive</a></p>
+			<div class="text-container" id="bottom-spaced">
+				<p class="">You can read all book notes in the <a class="blog-post" href="/reading/all">Reading Archive</a>,<br />or learn about my <a href="/my-reading">reading process</a>.</p>
+			</div>
+
 	</ul>
 </section>

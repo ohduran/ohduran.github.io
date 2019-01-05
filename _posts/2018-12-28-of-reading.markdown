@@ -6,7 +6,7 @@ categories: articles
 permalink: /my-reading
 description:
 ---
-The Middle Ages came to an end probably not because Cristopher Columbus discovered a new continent, but because Gutenberg found a way to make books cheaper by introducing the printing press. This was crucial in the development of the Renaissance, of course, but it became something that the society took from granted ever since, [as with any revolution](/revolutions). Luther became famous for posting his [Ninety-five Theses](https://en.wikipedia.org/wiki/Ninety-five_Theses), but his true achievement was paving the way for alternative interpretations of the Bible: read it yourself, and then think about it.
+It's likely that the Middle Age came to an end not because Cristopher Columbus discovered a new continent, but because Gutenberg found a way to make books cheaper by introducing the printing press. This was a crucial achievement that paved the way to a new era, by becoming something that [the society took from granted ever since](/revolutions). Luther became famous for posting his [Ninety-five Theses](https://en.wikipedia.org/wiki/Ninety-five_Theses), but his true achievement was paving the way for alternative interpretations of the Bible: read it yourself, and then think about it.
 
 That can happen only if books are available to people outside a monastery. Reading allowed our society to spread learning much faster than the old apprenticeship system: talent became scalable.
 
@@ -26,7 +26,11 @@ If you want to learn, you have to read. But *reading* is not stepping on letters
 
 Reading is done actively: take notes, lots of them. For instance, I take notes about the book I'm reading even when I'm not reading it: something might occur to me while working, or maybe I'm having a conversation with someone that overlaps with something I learnt on that book. Everything gets jotted down.
 
-Book notes are, hence, not just highlights on the Kindle, but a collection of thoughts on the whole book, an attempt at rewriting it my way, and on my terms. I've seen book notes all over the Internet from people I admire and that in itself is good news, but they belong to the first level of reading, and that for me is not enough, and misleads its true purpose.
+Book notes are, hence, not just highlights on the Kindle, but a collection of thoughts on the whole book, an attempt at rewriting it my way, and on my terms. I've seen book notes all over the Internet from people I admire and that in itself is good news, but they belong to the first level of reading, and that for me is not enough.
+
+> We must fight the temptation to skip directly to the 'tips' and leave out the story.
+>
+> -- __[Make it Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)__
 
 I understand that the race to have 200+ book notes is powerful, and even more powerful is stating something like 'I've read all these books, but don't take my word for it, check out the notes I wrote'.
 
@@ -46,13 +50,13 @@ Reading, then writing, makes perfect sense. It extends your memory, because you 
 >
 > -- __Beethoven__
 
-Paraphrasing Newton, you can only see the furthest if you stand on your own shoulders. Which is another way of saying that writing feeds your reading, and vice versa.
+If this is about who stands on whom, then of course you must keep your head standing on your own shoulders: writing feeds your reading, and vice versa.
 
 For all I know, that means that I write about what I read, but what should I read about? History? Philosophy? Batman?
 
 Again, there isn't a passive way to look at it. If I want to *learn* about something, I read about it, and I do some research on what could be the best books about what I want to learn. Say I want to learn about [language](/reading), I start with a book about books, and I go from there. Meandering is OK; after all, you're paving the way that only you are going to walk.
 
-When you start reading about a topic, it's all senseless names.
+But it's hard; when you start reading about a topic, it's all senseless names.
 
 > Names are like points; propositions like arrows: they have sense.
 >
@@ -64,7 +68,7 @@ To do so mentally, I tend to ask what I know so far about something, and then I 
 
 But whom do I get answers from? Well, from the book itself! You're on a quest to put together a corpus of knowledge that is as close to reality as possible, and that means that it *has to make sense*. Exposing your thoughts and ideas, meaning putting their [skin in the game](/skin-in-the-game), is what makes them valuable, robust.
 
-Afterwards, you must focus on those parts that do not make sense. You can ask questions like 'Are Trump voters racists?'. And realise that it's statistically improbable: they're simply too many; some must have voted Obama in 2012. So the model of reality that considers all Trump voters racists is probably wrong. You need to be humble enough to acknowledge when your models of reality are wrong, because the easiest person to fool is yourself.
+Afterwards, you must focus on those parts that do not make sense. For instance, you can ask questions like 'Are Trump voters racists?'. And realise that it's statistically improbable: they're simply too many; [some must have voted Obama in 2012](https://www.nytimes.com/2016/11/15/upshot/how-did-trump-win-over-so-many-obama-voters.html). So the model of reality that considers all Trump voters racists is probably wrong. You need to be humble enough to acknowledge when your models of reality are wrong, because the easiest person to fool is yourself.
 
 Have a map of the books that you want to read, and follow it. If you like reading, then you're going to be bombarded with reading lists that of course are other people's; it's up to you to decide whether these recommendations make sense in the grand scheme of things, and whether they get you closer to where you want to go. Decide whether you want to read the books you're recommended, and be conscious about your goals.
 

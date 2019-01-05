@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 ---
 
 <section>
-	<div class="blog-post text-container">
-		<p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
+	<div class="blog-post text-container" style="padding-top: 250px;">
+		<h2><a href="{% include relative-src.html src=post.url %}">{{ page.title }}</a></h2>
 		{% include post-title.html post=page %}
 
 		<div class="post-content">
