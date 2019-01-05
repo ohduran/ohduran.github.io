@@ -44,6 +44,11 @@ Putting together highlights and thoughts isn't enough, I reckon. Context is what
 
 So the next point for me worth considering is why bothering in writing those notes after reading a book, which is fair considering that reading a book trumps reading every summary on it. However, this question assumes that reading ends once you turn the last page, which I don't think is true: if done right, a book is never completely read, but something you always come back to, either remembering it or revisiting it. Writing about it becomes part of the process of reading. After all, the value of our writing comes from what it leaves in our minds.
 
+> Read, read, read. Read everything -- trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You'll absorb it.
+Then write. If it's good, you'll find out. If it's not, throw it out of the window.
+>
+> -- __William Faulkner__
+
 Reading, then writing, makes perfect sense. It extends your memory, because you can write more than what you can remember; it facilitates playing around with ideas by editing; and it clarifies your thinking by crossing out suboptimal lines. I visited [an exhibition on Leonardo da Vinci in Madrid](https://www.losrostrosdelgenio.com/) and the most remarkable thing about Leonardo's notes were that he never intended to publish them: he was supposed to be the sole reader.
 
 > If I don’t write it down immediately, I forget it right away. If I put it in a sketchbook, I never forget it and I never have to look it up again.

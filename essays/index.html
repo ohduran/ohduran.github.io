@@ -1,13 +1,20 @@
 ---
 title: Essays
-description: Being succinct is a weakness
+quote: Words can be like X-rays if you use them properly -- they’ll go through anything. You read and you’re pierced.
+quote_author: Aldous Huxley
 ---
 
 <section class="hero">
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
 			<h1 class="editable">{{page.title}}</h1>
-			<p class="subtext editable">{{page.description}}</p>
+			<div class="subtext">
+				<blockquote cite="">
+					<p>{{page.quote}}</p>
+					<p></p>
+					<p>— <strong>{{page.quote_author}}</strong></p>
+				</blockquote>
+			</div>
 		</div>
 	</div>
 </section>
@@ -27,5 +34,5 @@ description: Being succinct is a weakness
 				</li>
 			{% endfor %}
 		</ul>
-		<p class="">You can read all essays in the <a class="blog-post" href="/archive">Archive</a></p>
+		<p class="">You can read everything I wrote in the <a class="blog-post" href="/archive">Archive</a></p>
 </section>
