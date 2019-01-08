@@ -33,8 +33,6 @@ The book we are covering today is [Skin in the Game](https://www.amazon.com/Skin
 
 As with any good reading, the author is going down the rabbit hole along with you, and Skin in the Game is, to me, the culmination of a journey that for Taleb started in 2001 with the publication of [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219).
 
-As with any other book, note that all the opinions expressed here come as a result of my interpretation of what the author means by his words. It doesn't mean that the author indeed said what I interpret, but neither does it mean that I agree with what I interpret that the author is saying.
-
 > To figure out why ethics, moral obligation, and skill cannot be easily separable in real life, consider the following. When you tell someone in a position of responsibility, say your bookkeeper, "I trust you", do you mean that 1) you trust his ethics (he will not divert money to Panama), 2) you trust his accounting precision, or 3) both?
 >
 > -- __Skin in the Game__
