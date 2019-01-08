@@ -42,7 +42,7 @@ quote_author: Make it Stick
   			{% endif %}
 				<ul class="posts" id="spaced">
 					{% assign reviews = site.categories.booknotes | sort: "date" %}
-	    		{% for post in site.categories.booknotes %}
+	    		{% for post in reviews %}
 	      		{% for tag in post.tags %}
 	        		{% if link.lowercase == tag %}
 							<div class="post-teaser">
