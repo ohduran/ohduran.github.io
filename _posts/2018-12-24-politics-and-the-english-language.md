@@ -6,7 +6,7 @@ stars: 3
 summary: How we speak affects how we think; and politics is full of bad speaking, which clouds our minds and how we vote.
 date:   2018-12-24 15:00:00 +0100
 categories: booknotes
-tags: [language, yule book flood]
+tags: [language, blitz]
 permalink: /politics-and-the-english-language
 ---
 > Political language [...] is designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind. One cannot change this all in a moment, but one can at least change one's own habits.
@@ -152,5 +152,3 @@ Political language is designed to make lies sound truthful and murder respectabl
 ### Conclusion
 
 The decadence of language is probably curable. It has simply pervaded our language, during Orwell's time and of course nowadays. You cannot change this all in a moment, but you can at least change your own habits.
-
-Thanks for reading, and Happy [Yule Book Flood](/reading)!
