@@ -3,14 +3,6 @@ title: Reading
 quote: We must fight the temptation to skip directly to the 'tips' and leave out the story.
 quote_author: Make it Stick
 ---
-{% assign tag_names = '' %}
-{% for tag in site.tags %}
-{% assign tag_name = tag | first | capitalize %}
-{% unless tag_name == 'Blitz' %}
-{% assign tag_names = tag_names | append: " " | append: tag_name %}
-{% endunless %}
-{% endfor %}
-{% assign tag_names = tag_names | split:" " %}
 
 <section class="hero">
 	<div class="inner-hero text-container">
@@ -33,7 +25,12 @@ quote_author: Make it Stick
 	<div class="text-container" id="bottom-spaced">
 		<ul class="blog-posts">
 			{% for link in site.data.reading %}
-				<h2 class="post-title" id="brand-colored clean">{% if link.link %}<a href="{% include relative-src.html src=link.link %}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>{% else %}{{ link.name }}{% endif %}</h2>
+			<div class="post-title">
+				<h2 class="" id="">{% if link.link %}<a href="{% include relative-src.html src=link.link %}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>{% else %}{{ link.name }}{% endif %}</h2>
+				{% if link.essay %}<h4><a href="{{ link.essay }}">Syntopical essay on {{ link.name }}</a></h4>{% endif %}
+			</div>
+
+
 				{% if link.name == 'Blitz'%}
   				<div class="post-content">
     			{% capture blitz %}{% include blitz.md %}{% endcapture %}
