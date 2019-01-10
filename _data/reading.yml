@@ -1,10 +1,10 @@
 - name: Language
-  link: /language/
+  link:
   lowercase: language
   essay:
 
 - name: Performance
-  link: /performance/
+  link:
   lowercase: performance
   essay:
 
