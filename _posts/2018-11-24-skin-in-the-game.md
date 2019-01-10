@@ -622,8 +622,8 @@ Rawl’s veil, discussed in [Fooled by Randomness](https://www.amazon.com/Fooled
 
 __What would be the economical system that you would choose, provided that you don’t know at which stage in the society are you going to fall beforehand?__
 
-The way to make society more equal is by forcing the rich to be subjected to the risk of exiting from the 1%. Someone must always be able to bounce back from ruin, and someone must always be able to fall back from fuck you money.
-
+The way to make society more equal is by forcing the rich to be subjected to the risk of exiting from the 1%. Someone must always be able to bounce back from ruin, and someone must always be able to fall back from fuck you money. The richest families shouldn't stay rich for generations, as [it has happened in Florence](https://qz.com/694340/the-richest-families-in-florence-in-1427-are-still-the-richest-families-in-florence/)
+ since 1427.
 The exact opposite of perfect ergodicity is an absorbing state: a person gets rich by some process and then, having arrived, stays rich. And if someone enters the lower middle class, he will never have the chance to exit from it and become rich should he want to.
 
 A straightforward consequence is that fencing off immigrants from first class citizenship is immoral, and reduces ergodicity, because those people are unable to climb their way to the top. Nobody thinks of himself as rich, but we are, very. And there is people justified to resent us. No downside for some means no upside for the rest.
