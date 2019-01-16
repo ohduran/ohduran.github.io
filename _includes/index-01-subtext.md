@@ -1,1 +1,1 @@
-I'm a Software Engineer, a Data Scientist and a voracious reader.
+I'm a Data Scientist, a Software Engineer and a voracious reader.
