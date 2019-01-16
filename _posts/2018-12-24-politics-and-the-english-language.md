@@ -8,6 +8,7 @@ date:   2018-12-24 15:00:00 +0100
 categories: booknotes
 tags: [language, blitz]
 permalink: /politics-and-the-english-language
+book_image: https://images-eu.ssl-images-amazon.com/images/I/418Xj79ENkL.jpg
 ---
 > Political language [...] is designed to make lies sound truthful and murder respectable, and to give an appearance of solidity to pure wind. One cannot change this all in a moment, but one can at least change one's own habits.
 >

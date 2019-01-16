@@ -8,6 +8,7 @@ date:   2018-11-24 15:00:00 +0100
 categories: booknotes
 tags: [language, power, war, politics, decision making, beliefs]
 permalink: /skin-in-the-game
+book_image: https://images-eu.ssl-images-amazon.com/images/I/41GWJnPEaJL.jpg
 ---
 > It's one thing to study war and another to live the warrior's life.
 >

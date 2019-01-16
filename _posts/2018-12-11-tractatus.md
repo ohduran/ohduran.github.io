@@ -8,6 +8,7 @@ date:   2018-12-11 15:00:00 +0100
 categories: booknotes
 tags: language infinity
 permalink: /tractatus-logico-philosophicus
+book_image: https://images-na.ssl-images-amazon.com/images/I/514YAYwy6wL._SX316_BO1,204,203,200_.jpg
 ---
 > Perhaps this book will be understood only by someone who has himself already had the thoughts that are expressed in it– or at least similar thoughts.– So it is not a textbook.– Its purpose would be achieved if it gave pleasure to one person who read and understood it.
 >

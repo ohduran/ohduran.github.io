@@ -9,6 +9,7 @@ categories: booknotes
 tags: language performance
 permalink: /how-to-read-a-book
 abstract: 'Reading is not what you really think it is.'
+book_image: https://images-na.ssl-images-amazon.com/images/I/51EG8AyJiQL.jpg
 ---
 
 > Reading well, which means reading actively, is not only a good in itself, nor it is merely a means to advancement in our work or career. It also serves to keep our minds alive and growing.
