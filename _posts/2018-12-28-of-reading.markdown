@@ -2,7 +2,7 @@
 layout: post
 title:  "My Reading"
 date:   2018-12-28 00:01:00 +0100
-categories: articles
+categories: journal
 permalink: /my-reading
 description:
 ---

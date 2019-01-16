@@ -21,23 +21,31 @@ quote_author: Make it Stick
 	</div>
 </section>
 
+<section class="info">
+ <div class="container flex">
+	 <div class="text-container">
+		 <p class="">{% capture reading %}{% include index-03-reading.md %}{% endcapture %}{{ reading | markdownify }}</p>
+	 </div>
+ </div>
+</section>
+
 <section>
 	<div class="text-container" id="bottom-spaced">
 		<ul class="blog-posts">
 			{% for link in site.data.reading %}
 			<div class="post-title">
 				<h2 class="" id="">{% if link.link %}<a href="{% include relative-src.html src=link.link %}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>{% else %}{{ link.name }}{% endif %}</h2>
-				{% if link.essay %}<h4><a href="{{ link.essay }}">Syntopical essay on {{ link.name }}</a></h4>{% endif %}
-			</div>
-
-
+				{% if link.question %}<h3>{% if link.essay %}<a href="{{ link.essay }}">{% endif %}{{ link.question }}{% if link.essay %}</a>{% endif %}</h3>{% endif %}
 				{% if link.name == 'Blitz'%}
   				<div class="post-content">
     			{% capture blitz %}{% include blitz.md %}{% endcapture %}
     			{{ blitz | markdownify }}
   				</div>
   			{% endif %}
+				<br>
+			</div>
 				<ul class="posts" id="spaced">
+
 					{% assign reviews = site.categories.booknotes | sort: "date" %}
 	    		{% for post in reviews %}
 	      		{% for tag in post.tags %}
