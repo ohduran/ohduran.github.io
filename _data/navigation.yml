@@ -1,8 +1,8 @@
 - name: Essays
   link: /essays/
 
-- name: Data Science
-  link: /datascience/
-
 - name: Reading
   link: /reading/
+
+- name: Data Science
+  link: /datascience/
