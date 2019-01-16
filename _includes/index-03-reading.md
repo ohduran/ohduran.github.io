@@ -2,4 +2,4 @@ Like Groucho, I find television very educating: every time somebody turns on the
 
 That's why I write down notes on the books I've read: they are steps on lengthy projects of understanding an idea in great depth.
 
-You can read more about my reading playbook [here](/reading-playbook), or find all of my notes alphabetically sorted in the [Reading Archive](/reading/all).
+You can read more about my reading playbook [here](/my-reading), or find all of my notes alphabetically sorted in the [Reading Archive](/reading/all).
