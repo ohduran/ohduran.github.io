@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of avoiding Skin in the Game"
+title:  "Of Avoiding Skin in the Game"
 date:   2019-01-15 00:10:00 +0100
 categories: journal
 permalink: /of-avoiding-skin-in-the-game
