@@ -268,7 +268,7 @@ Blaming people for being ‘sectarian’ instead of making the best of such tend
 
 Once we've passed the limit of what we consider a 'we', communal behaviour cease to apply, and consequences described in the [Tragedy of the Commons](https://www.youtube.com/watch?v=Qr5Q3VvpI7w) begin to take place. “Me” is more likely to be a group than a single person.
 
-![smbc-comics.com/comics/20051204](/assets/smbc.gif)
+![smbc-comics.com/comics/20051204](/images/smbc.gif)
 
 ### Trying to remove skin in the game
 
@@ -298,7 +298,7 @@ When a group of people is gathered, and a decision has to be taken, a naive obse
 
 *The minority rule*: __It suffices for an intransigent minority with significant skin in the game to reach a minutely small level for the entire population to have to submit to their preferences__.
 
-![renormalisation](/assets/renormalisation.png)
+![renormalisation](/images/renormalisation.png)
 
 There are two main things to consider:
 
@@ -495,7 +495,7 @@ In a famous tale by Ahiqar, later picked up by Aesop, the dog boasts to the wolf
 
 Another aspect of the dog vs wolf dilemma: a wolf is trained to survive. Employees abandoned by their employers cannot bounce back. That is why unemployment in countries such as Spain is dramatic: loads of people were laid off, loads of people who couldn’t help themselves.
 
-![security](/assets/security.JPG)
+![security](/images/security.JPG)
 
 Note also the linguistic dimension: those who use foul language on social networks are sending an expensive signal that they are free and, ironically, competent. You don’t signal competence if you don’t take risks for it. So, cursing today is an status symbol, just as oligarchs in Moscow wear blue jeans at special events to signal their power.
 

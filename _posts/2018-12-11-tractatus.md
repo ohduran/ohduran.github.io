@@ -440,7 +440,7 @@ Mathematics is a branch separated from reality. If anything, what connects mathe
 
 In philosophy the question ‘What do we actually use this word or proposition for?’ leads to valuable insights.
 
-![will-we-ever-use-any-algebra](/assets/will-we-ever-use-any-algebra.png)
+![will-we-ever-use-any-algebra](/images/will-we-ever-use-any-algebra.png)
 
 The logic of the world is shown in equations by mathematics.
 
