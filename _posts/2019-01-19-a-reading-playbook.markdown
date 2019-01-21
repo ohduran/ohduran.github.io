@@ -128,7 +128,7 @@ The natural step afterwards is, once you've found the author's arguments, state 
 
 We have circled back to where we started: the main outline of the book. We've come a long way, but we aren't finished with the book just yet. It's time to emit a form of judgment of the book.
 
-#### Discussion
+### Discussion
 
 The works of Kahnemann and Tversky on how humans make decisions left them to conclude that we are mentally wired to take actions and jump into conclusions almost instantly, and only pause and reflect by making a conscious effort to do so.
 
