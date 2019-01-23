@@ -5,9 +5,6 @@ left_links:
 - name: Book Notes
   link: /reading/
 
-- name: Data Science
-  link: /datascience/
-
 right_links:
   - name: Archive
     link: /archive/
