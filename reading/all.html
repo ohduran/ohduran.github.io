@@ -22,20 +22,22 @@ image:
 			{% assign reviews = site.categories.booknotes | sort: "title" %}
 			{% for post in reviews %}
 			<div class="post-teaser">
-						<div class="book_info">
-							{% include book-cover.html page=post %}
-							<div class="book_meta">
-								<h3><em><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></em>{% if post.stars %}<br /><span class="stars-container stars-{{ post.stars | times:20 | round: 0 }}" title="{{ post.stars }}/5">★★★★★</span>{% endif %}</h3>
-								<h4>{% include book-tags.html post=post %}</h4>
-								<h4>Author: {{ post.author }}
-								<br />
-								Read by: {{ post.date | date: "%d %B %Y" }}
-								</h4>
-							</div>
-							<div id="without-margin-top">
-								{{ post.excerpt }}
-							</div>
+				<div class="book_info">
+					{% include book-cover.html page=post %}
+					<div class="book_meta">
+						<h3><em><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></em>{% if post.stars %}<br /><span class="stars-container stars-{{ post.stars | times:20 | round: 0 }}" title="{{ post.stars }}/5">★★★★★</span>{% endif %}</h3>
+						<h4>{% include book-tags.html post=post %}
+						<br />
+						{% assign co_authors = post.author | split: '&' %}
+						Author{% if co_authors.size > 1 %}s{% endif %}: {{ post.author }}
+						<br />
+						Read by: {{ post.date | date: "%d %B %Y" }}
+						</h4>
 					</div>
+					<div id="without-margin-top">
+						{{ post.excerpt }}
+					</div>
+				</div>
 			</div>
 			{% endfor %}
 		</ul>
