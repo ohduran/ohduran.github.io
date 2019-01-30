@@ -1,5 +1,5 @@
 ---
-title: Reading Archive
+title: Reading Map
 image:
 ---
 {% assign counter = 0 %}
@@ -10,7 +10,7 @@ image:
 	<div class="inner-hero text-container">
 		<div class="hero-text-container">
 			<h1 class="editable">{{page.title}}</h1>
-			<p class="subtext editable">Search through all {{ counter }} book notes, sorted by title</p>
+			<p class="subtext editable">Search through all {{ counter }} book read, and the books to be read </p>
 		</div>
 	</div>
 </section>
@@ -19,23 +19,26 @@ image:
 	<div class="text-container" id="bottom-spaced">
 		<!-- <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p> -->
 		<ul class="blog-posts">
-			{% assign reviews = site.categories.booknotes | sort: "title" %}
+			{% assign reviews = site.categories.booknotes| sort: "date" | concat: site.data.reading_map %}
 			{% for post in reviews %}
 			<div class="post-teaser">
-						<div class="book_info">
-							{% include book-cover.html page=post %}
-							<div class="book_meta">
-								<h3><em><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></em>{% if post.stars %}<br /><span class="stars-container stars-{{ post.stars | times:20 | round: 0 }}" title="{{ post.stars }}/5">★★★★★</span>{% endif %}</h3>
-								<h4>{% include book-tags.html post=post %}</h4>
-								<h4>Author: {{ post.author }}
-								<br />
-								Read by: {{ post.date | date: "%d %B %Y" }}
-								</h4>
-							</div>
-							<div id="without-margin-top">
-								{{ post.excerpt }}
-							</div>
+				<div class="book_info">
+					{% include book-cover.html page=post %}
+					<div class="book_meta">
+						<h3><em>{% if post.url %}<a href="{{ post.url | prepend: site.baseurl }}">{% endif %}{{ post.title }}{% if post.url %}</a>{% endif %}<br /></em>{% if post.stars %}<br /><span class="stars-container stars-{{ post.stars | times:20 | round: 0 }}" title="{{ post.stars }}/5">★★★★★</span>{% endif %}</h3>
+						<h4>{% include book-tags.html post=post %}
+						<br />
+						{% assign co_authors = post.author | split: '&' %}
+						Author{% if co_authors.size > 1 %}s{% endif %}: {{ post.author }}
+						<br />
+						Read by: {% if post.url %}{{ post.date | date: "%d %B %Y" }}{% else %}{{ post.date | date: "%B %Y" }}{% endif %}
+						</h4>
+						<h4>{{ post.summary }}</h4>
 					</div>
+					<div id="without-margin-top">
+						{{ post.excerpt }}
+					</div>
+				</div>
 			</div>
 			{% endfor %}
 		</ul>

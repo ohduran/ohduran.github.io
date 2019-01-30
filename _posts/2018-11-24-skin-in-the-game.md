@@ -2,7 +2,7 @@
 layout: review
 title:  "Skin in the Game"
 author: "Nassim Taleb"
-summary: A discussion on having something to lose guiding our society's decision making
+summary: A discussion on having something to lose guiding our society's decision making.
 stars: 4.5
 date:   2018-11-24 15:00:00 +0100
 categories: booknotes
