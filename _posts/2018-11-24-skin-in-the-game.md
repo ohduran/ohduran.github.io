@@ -16,7 +16,7 @@ book_image: https://images-eu.ssl-images-amazon.com/images/I/41GWJnPEaJL.jpg
 
 Knowledge can mean different things to different people. For taxi drivers in London, ['The Knowledge'](https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/learn-the-knowledge-of-london) is the exam that candidates must pass before sitting behind the wheel of one of the famous black cabs and drive quickly through London's complicated road network. It typically takes three to four years, and those who pass it have an encyclopedic knowledge of the streets and places of interest.
 
-Then, in 2005, Google Maps was invented. The question is: 'Is still worth it to pass The Knowledge?'
+With the advent of GPS, this changed. The question is: 'Is still worth it to pass The Knowledge?'
 
 Consider the following thought experiment: a naive tourist who have never been to London jumps into a cab, and asks for directions to, say, the London Eye. You, an experienced taxi driver, know your ways into the City, but more importantly, have the upper hand: his final destination is only 5 minutes away. Do you take the oblivious tourist there by the longest and most expensive route?
 
@@ -47,8 +47,6 @@ Third, the book is about how much information one should practically share with 
 Fourth, it is about rationality and the test of time, as in acknowledging the complexity of our world not through models, but through trial and error.
 
 ## __Book 1 - Introduction__
-
-### The interventionistas
 
 __You cannot separate knowledge from contact with the ground__, it's what the Greeks called *pathemata mathemata* (“guide your learning through pain”). However, our world is ruled by a class of people, the *interventionistas*, who rely on models to represent reality and have forgotten that __the map isn't the territory__, the idea coined by Afred Korzybski that encapsulates that the description of the thing is not the thing itself, that the model isn't the reality, and that the abstraction is not the concrete.
 
@@ -84,10 +82,6 @@ The principle should be *do not harm*, not talking about [actions that would be 
 
 Bureaucracy is a construction by which a person is conveniently separated from the consequences of his or her actions. They love formulas because it prevents them from having to exercise judgment for which they might be blamed.
 
-### Bob Rubin trade
-
-When Taleb wrote [The Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X), he probably didn't expect the repercussion it got, but he definitely wouldn't have thought that people who read it and were in a position of power didn't understand it.
-
 > [Former Secretary of the Treasury] Bob Rubin, [...] one of those who sign their names on the banknote you just used to pay for coffee, collected more than $120 million in compensation from Citibank in the decade preceding the banking crash of 2008. When the bank, literally insolvent, was rescued by the taxpayer, he didn't write any check— he invoked uncertainty as an excuse. Heads he wins, tails he shouts "Black Swan"
 >
 > -- __Skin in the Game__
@@ -100,13 +94,7 @@ In the hedge fund space, owner-operators have at least half of their net worth i
 
 The move that started when banks moved from partnerships to public companies, told by  Michael Lewis in [Liars' Poker](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X), was completed with the bailouts after the financial crash in 2008: they are, like journalists, completely removed from the consequences of their actions.
 
-### Systems learn by removing
-
-We saw that bureaucrats don’t learn because they are not the victims of their mistakes. The same mechanism of transferring risk also impedes learning. And more practically, only reality can convince someone that is wrong, no argument can do that.
-
-*The curse of modernity is that we are increasingly populated by a class of people who are better at explaining than understanding*.
-
-It's the Bias-Variance trade-off: explaining overfits your forecast analysis, so the two are at odds with each other.
+The same mechanism of transferring risk also impedes learning. And more practically, only reality can convince someone that is wrong, no argument can do that. *The curse of modernity is that we are increasingly populated by a class of people who are better at explaining than understanding*. Explaining overfits your forecast analysis, so the two are at odds with each other.
 
 > Learning isn’t quite what we teach inmates inside the high-security prisons called schools. Evolution can only happen if risk of extinction is present. There is no evolution without skin in the game.
 >
@@ -138,8 +126,6 @@ We need evolution to learn, because it's easier for humans to see what is wrong 
 
     Universal behaviour is great on paper, disastrous in practice. We are local, practical animals, and we are sensitive to scale. We need practical rules; the general and the abstract tend to attract self-righteous psychopaths.
 
-    Universalism is dangerous taken two or three steps too far, conflating the micro and the macro, in the same way *platonification* was, that is, mistaking the map for the territory.
-
 4. Fat Tony
 
     Fat Tony is our archetype: the exact opposite of those belonging to the interventionistas. He is the stereotype of a trader like those portrayed in Liars Poker.
@@ -166,59 +152,25 @@ We need evolution to learn, because it's easier for humans to see what is wrong 
 
     One of the side effects of the division of jobs proposed by Adam Smith in [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128/ref=sr_1_1?s=books&ie=UTF8&qid=1542738793&sr=1-1&keywords=the+wealth+of+nations) is separating labour from the fruits of labour, the concept of *alienation* described by Karl Marx's [Capital](https://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445684/ref=sr_1_1?s=books&ie=UTF8&qid=1542738874&sr=1-1&keywords=capital+marx).
 
-### Simplicity
-
 People who see complicated solutions do not have an incentive to implement simplified ones. They are, in fact, harder to come up with, statistically speaking: it's like [parking your car](http://philsci-archive.pitt.edu/794/1/falling-cats.pdf). Things designed by people without skin in the game tend to grow in complication: when you are rewarded for perception, not results, you need to show sophistication.
 
-It's one of the reasons why inexperienced people, in almost any branch of knowledge, go for the most complex solutions: they have been taught a lot of things in no time, everything is fresh and they were rewarded by perception on their tests.
-
-When there is fire, you run faster than in any competition, and similarly, poker is a much different game when the stakes are real.
+It's one of the reasons why inexperienced people, in almost any branch of knowledge, go for the most complex solutions: they have been taught a lot of things in no time, everything is fresh and they were rewarded by perception on their tests. If only they learnt what they needed, if only they learnt by making mistakes *that cost money*. When there is fire, you run faster than in any competition, and similarly, poker is a much different game when the stakes are real.
 
 What you learn from the intensity and the focus you had when under the influence of risk stays with you. Many kids would learn to love mathematics if they had some investment in it. It's the same when learning a new language; you need to throw yourself into the wild.
-
-### Soul in the game
 
 > If you do not take risks for your opinion, you are nothing.
 >
 > -- __Skin in the Game__
 
-Success is leading an honourable life. Honour implies that there are some actions you would categorically never do, regardless of the material rewards; and it also implies that there are things you would do unconditionally, regardless of its consequences. As a Spartan mother tells her departing son: “With it or on it”.
+Success is leading an honourable life. Honour implies that there are some actions you would categorically never do, regardless of the material rewards; and it also implies that there are things you would do unconditionally, regardless of its consequences.
 
-Contrast the above unconditional with modernistic accommodations: people who work for disgusting lobbies or knowingly play the usual unethical academic game, come to grips with their condition by saying things like “I have children to put through college”.
+Contrast the above unconditionals with modernistic accommodations: people who work for lobbies or knowingly play the usual unethical academic game, who justify their condition by saying things like “I have children to put through college”.
 
 That's why, regardless of the extremely cruel conditions in which Khashoggi was tortured and executed, no major government has raised any concerns about the involvement of Saudi Arabia: they are the main buyers and 'job providers' for many industries in many of these countries, in the same fashion that Russia, Eastern Europe's main provider of gas and oil, has the EU hostage pretty much every single winter.
 
-### Entrepreneurs
-
-Entrepreneurs are heroes in our society: they fail for the rest of us.
-
-However, many entrepreneurs fail to have true skin in the game, as VC mechanisms remove them from the possibility of long term profitability and channel their efforts towards selling their company to the big players. The true value of the company and its long-term prospects is of small relevance.
-
-One of the reasons corporations have the mortality of cancer patients is the assignment of time-defined duties: once you change assignment, Bob Rubin emerges: “It’s not my problem anymore”.
-
-### How the book is organised
-
-Skin in the Game is organised in sections, or books, with Book 1 being the introduction that we have gone through already.
-
-__Book 2__ is a deeper exposition of symmetry and agency in risk sharing, bridging commercial conflict of interest with general ethics.
-
-__Book 3__ is about the minority rule by which a small segment of the population inflicts its preferences on the general population.
-
-__Book 4__ deals with dependence and slavery in modern life: why employees exist because they have much more to lose than contractors.
-
-__Book 5__ shows how risk taking makes you look superficially less attractive, but vastly more convincing, the concept of “Intellectual Yet Idiot”, inequality, and the Lindy effect.
-
-__Book 6__ looks for consequential hidden asymmetries.
-
-__Book 7__ explains creeds in terms of skin in the game and revealed preferences, and the word ‘religion’.
-
-__Book 8__ has the two central chapters: ‘How to be Rational about Rationality’, which goes deep into what rationality really is; and ‘The Logic of Risk Taking’, which summarises the author’s tenets about risk and exposes the errors concerning small-probability events.
-
 ## __Book 2 - A first look at Agency__
 
-## <a name="chapter1"></a>Chapter 1 - Why each one should eat his own turtles
-
-*Beware of the person who gives advice, telling you that a certain action on your part is ‘good for you’, while it is also good for him, while the harm to you doesn’t directly affect him*.
+__Book 2__ is a deeper exposition of symmetry and agency in risk sharing, bridging commercial conflict of interest with general ethics.
 
 > I worked once for an US investment bank. As with all such firms, an image of ethics and professionalism was cultivated. [...] But the job of the salespeople was to ‘unload’ inventory with which traders were ‘stuffed’, that is, securities they had in excess in their books and needed to get rid of to lower their risk profile. Selling to other dealers was out of the question as professional traders would smell excess inventory and cause the price to drop, so they needed to sell to some client.
 >
@@ -230,7 +182,7 @@ As the Romans were fully aware, “one lauds merrily the merchandise to get rid 
 
 You can give advice or do sales, but the two need to be kept separate. In investment banking, there is the concept of Chinese Wall, in which sections within the bank dedicated to sell and give advice cannot speak to each other. Just the fact that these two sections can cohabit the same building smells funny: the mechanism itself is likely to be more permeable than what they can concede.
 
-### The Price of Corn in Rhodes
+*Beware of the person who gives advice, telling you that a certain action on your part is ‘good for you’, while it is also good for him, while the harm to you doesn’t directly affect him*.
 
 Assume that a man brought a large shipment of corn from Alexandria to Rhodes, at a time when corn was expensive in Rhodes because of shortage and famine. Suppose that he also knew that many boats had set sail from Alexandria to Rhodes with similar merchandise. *Does he have to inform the Rhodians*?
 
@@ -270,8 +222,6 @@ Once we've passed the limit of what we consider a 'we', communal behaviour cease
 
 ![smbc-comics.com/comics/20051204](/images/smbc.gif)
 
-### Trying to remove skin in the game
-
 There are two types of “talking one’s book”. One consists of buying a stock because you like it, then commenting on it– the most reliable advocate for a product is its user. No amount of advertising will match the credibility of a genuine user. Another is buying a stock so you can advertise the qualities of the company, then selling it, benefiting from the trumpeting– this is called market manipulation, and it is certainly a conflict of interest.
 
 We removed the skin in the game of journalists in order to prevent market manipulation. In the abscence of skin in the game, journalists will imitate, to be safe, the opinion of other journalists, thus creating a monoculture and collective mirages that does more harm than good to society.
@@ -290,7 +240,7 @@ The solution is for the patient to avoid treatment when he or she is mildly ill,
 
 ## __Book 3 - The Greatest Asymmetry__
 
-## Chapter 2 - The most intolerant wins: the dominance of the stubborn minority
+__Book 3__ is about the minority rule by which a small segment of the population inflicts its preferences on the general population.
 
 The main idea behind complex systems is that the ensemble behaves in ways not predict by its components. This is called an “emergent” property of the whole, in which parts and whole differ because what matters are the interactions between such parts. You would never understand a colony of ants by studying one ant in isolation.
 
@@ -302,9 +252,9 @@ When a group of people is gathered, and a decision has to be taken, a naive obse
 
 There are two main things to consider:
 
-- The geography of the terrain matters a bit: its makes a big difference whether the intransigents are in their own district or are mixed with the rest of the population.
+1. The geography of the terrain matters a bit: its makes a big difference whether the intransigents are in their own district or are mixed with the rest of the population.
 
-- The cost structure matters a bit: so long as the price doesn’t change much, the rule applies.
+2. The cost structure matters a bit: so long as the price doesn’t change much, the rule applies.
 
 Let’s call such minority an intransigent group, and the majority a flexible one. And their relationship rests on asymmetry in choices: the intransigent only chooses one option between two, whereas the flexible doesn’t care.
 
@@ -322,23 +272,17 @@ It opposes the mean-field approach, when one replaces all interactions to any on
 
 If there is a way to make a clear distinction between Physics and Chemistry, is this: Chemistry is the result of applying MFT to Physics.
 
-### Veto
-
 The minority rule can also be applied to why some well known chains such as McDonald’s or Starbucks thrive: they are a best worse-case divergence from expectations: if I travel to a foreign country I might risk it with some local food or play safe and take a Happy Meal. In parties, pizza and wine is the same story. Pizza is a commonly accepted food, and nobody would be blamed for ordering it in a get together. And once you have a small amount of women at a party, you cannot serve only beer. But most men will drink wine. So you only need a set of glasses if you serve only wine.
 
 > Nobody ever got fired for hiring IBM.
 >
 > -- Unknown
 
-### Languages
-
 Every meeting that takes place in which someone is not from the country itself will be held in English. Because once it was settled that English was the lingua franca, native speakers lost the incentive to learn a new language, and everyone else had the incentive to learn English.
 
 It's the same in the Spanish region of Catalonia: Some Catalans speak both indistinctively; but some others refuse to speak Spanish by any means. Thus, and so long as the impact and the cost of your labelling is low (milk bricks, local TV ads, generic station announcements, display window labelling), everything is in Catalan, not in Spanish.
 
 Language travels so much faster than genes: it shows us the recent mistake of building racial theories on language, dividing people into “Aryans” and “Semites”, based on linguistic considerations.
-
-### Religions
 
 The minority rules also applies, of course, to prohibitions.
 
@@ -372,8 +316,6 @@ This also happened much later: when Spaniards started colonising South America, 
 
 Confronted by such certainties, backed by coercive force, the more open-ended, absorbent oral religions of Africa or the Americas were simply overwhelmed.
 
-### Popper-Gödel paradox
-
 In 1931, Kurt Gödel published his incompleteness theorems; its basic idea is that a system cannot prove its own consistency, and he did so by means of applying self referencing to axioms. Self referencing is always problematic, and that is at the core of Gödel’s theorems.
 
 We've introduced this because the question is, __can democracy tolerate enemies?__ Would you agree to deny the freedom of speech to every political party that has in its charter the banning the freedom of speech? Can states allow independent parties when independence goes against the Constitution?
@@ -381,8 +323,6 @@ We've introduced this because the question is, __can democracy tolerate enemies?
 Should a society that has elected to be tolerant be intolerant about intolerance?
 
 This is in fact [the incoherence that Gödel detected in the United States Constitution](https://drive.google.com/file/d/0B9_mR_M2zOc4Y2VhNzZkMDQtMDdlNC00YWQ0LWJlYzQtMzAxZjAxMGYxNzM5/view), while Karl Popper independently discovered the same inconsistency in democratic systems and published in [The Open Society and its Enemies](https://www.amazon.com/Open-Society-Its-Enemies-One/dp/0691158134).
-
-### Markets and science
 
 Now consider markets. Price changes reflect the activities of the most motivated buyer and seller. All you need is a stubborn single seller to drive the price down. The market is like a large movie theatre with a small door: stampedes happen because those who want to be out do not want to be in. The same unconditionality that we see with kosher observance.
 
@@ -394,18 +334,17 @@ Science acts similarly: It isn’t a consensus, but a highly skewed procedure. [
 
 ## __Book 4 - Wolves among Dogs__
 
-## Chapter 3 - How to own another person
+__Book 4__ deals with dependence and slavery in modern life: why employees exist because they have much more to lose than contractors.
 
 __Complete freedom is the last thing you want if you have an organisation to run__.
 
 Every organisation wants a certain number of people associated with it and be deprived of a certain share of their freedom. How do you own them?
 
 1. Conditioning and psychological manipulation
+
 2. Tweaking them to have some skin in the game, to have something to lose if they disobey
 
 In the orders of the mafia, things are simple: *made* men can be whacked if the capo suspects a lack of allegiance. For other professions, skin in the game comes in a more subtle forms.
-
-### To own a pilot
 
 What a contractor would do, selling himself to the highest bidder and leave you on your own without any shed of doubt, isn’t something that employees would. People who are employees for a living don’t behave so opportunistically. Contractors are exceedingly risk-free; they fear mostly the law. But employees have a reputation to protect, and can be fired.
 
@@ -420,6 +359,7 @@ Employees are reliable, but also expensive: you have to pay them even if you hav
 > Evidence of submission is displayed by the employee’s going through years depriving himself of his personal freedom for nine hours every day, ritualistic and punctual arrival at an office, his denying himself his own schedule, and his not having beaten up anyone on the way back home after a bad day. He is an obedient, housebroken dog.
 >
 > -- __Skin in the Game__
+
 
 ### From the companies man to the companies person
 
@@ -467,10 +407,6 @@ Had Coase had any interest in the ancients, he would have discovered that Romans
 
 ### A curious form of slave ownership
 
-> The best slave is someone you overpay and who knows it, terrified of losing his status.
->
-> -- __Skin in the Game__
-
 In a famous tale by Ahiqar, later picked up by Aesop, the dog boasts to the wolf all the contraptions of comfort and luxury he has, almost prompting the wolf to enlist. Until the wolf asks the dog about his collar and is terrified when he understands its use.
 
 > “What is that on your neck?”, asked the Wolf.
@@ -495,6 +431,10 @@ In a famous tale by Ahiqar, later picked up by Aesop, the dog boasts to the wolf
 
 Another aspect of the dog vs wolf dilemma: a wolf is trained to survive. Employees abandoned by their employers cannot bounce back. That is why unemployment in countries such as Spain is dramatic: loads of people were laid off, loads of people who couldn’t help themselves.
 
+> The best slave is someone you overpay and who knows it, terrified of losing his status.
+>
+> -- __Skin in the Game__
+
 ![security](/images/security.JPG)
 
 Note also the linguistic dimension: those who use foul language on social networks are sending an expensive signal that they are free and, ironically, competent. You don’t signal competence if you don’t take risks for it. So, cursing today is an status symbol, just as oligarchs in Moscow wear blue jeans at special events to signal their power.
@@ -509,7 +449,7 @@ The employee has a very simple objective function: fulfil his tasks or satisfy s
 
 We see that with the West attitude towards Saudi Arabia. It has become clear that someone in that country is involved in the assasination of Khashoggi. However, no bureaucrat, fearful of the economic consequences made a move. You can see how, when there is no downside, governments like in the US are willing to sacrifice civilian lives to 'remove a dictator', but when there is skin in the game, they all freeze, or keep doing what they've been doing: business.
 
-## Chapter 4 - The skin of others in your game
+### The skin of others in your game
 
 Imagine working for a corporation that produces a (so far) hidden harm to the community, in concealing a property that kills thousands by an effect that is not (yet) fully visible.
 
@@ -517,19 +457,13 @@ You could alert the public, but you would automatically lose your job, with the 
 
 In any case, as with whistleblowers, even if you end up vindicated, it may require time for the truth to emerge over the noise created by corporate shills. Meanwhile, you pay the price. You are severely conflicted between your obligation to the collective and to your progeny. You feel you are part of the crime, and unless you do something, you are an agent.
 
-### Being ethical comes at a huge costs to others
-
 [In the climax of 'Batman vs Superman'](https://www.youtube.com/watch?v=EDsVT7hXm54#t=1m16s), the cape crusader is about to kill Superman, whom he sees as the ultimate no-skin-in-the-game enemy. However, something finally prevents him from doing it: the realisation that Superman has a mother, someone he cares for, someone for whom he would compromise his ethics.
 
 Society likes saints and moral heroes to be celibate so they do not have family pressures that may force them into the dilemma of needing to compromise their sense of ethics to feed their children: __To make ethical choices you cannot have dilemmas between the particular and the general__.
 
 That's the main driver for Venezuelan voters: [the widespread reliance on subsidies to buy groceries](https://www.nytimes.com/2018/05/18/world/americas/venezuela-election-president-maduro-food.html).
 
-Intellectual and ethical freedom requires the absence of skin of others into one’s game, which is why the free are so rare.
-
-### How to put skin in the game of suicide bombers
-
-Can someone punish a family for the crimes of an individual? The scriptures are self-contradictory:
+Intellectual and ethical freedom requires the absence of skin of others into one’s game, which is why the free are so rare. Can someone punish a family for the crimes of an individual? The scriptures are self-contradictory:
 
 > But He by no means leaves the guilty unpunished, responding to the transgression of fathers by dealing with children and children’s children, to the third and fourth generation.
 >
@@ -551,7 +485,7 @@ Thinking of yourself as an individual, and not as a small community, has also co
 
 ## __Book 5 - Being alive means taking certain risks__
 
-## Chapter 5 - Life in the simulation machine
+__Book 5__ shows how risk taking makes you look superficially less attractive, but vastly more convincing, the concept of “Intellectual Yet Idiot”, inequality, and the Lindy effect.
 
 Have you noticed how unusual it is that Christianity, among all religions, is the only one that believes in a God that is also a man? It's not like Ancient Greek gods; nor is it buddhism, which is more a collection of traditions, beliefs and spiritual practices based on teachings attributed to the Buddha than an actual religion.
 
@@ -569,7 +503,7 @@ It's the same when you play poker using fake money: you don't behave the same, y
 >
 > -- __Skin in the Game__
 
-## Chapter 6 - The Intellectual Yet Idiot
+### The Intellectual Yet Idiot
 
 These self-described members of the ‘intelligentsia’ aren’t intelligent enough to define intelligence, hence fall into circularities: __their main skill is a capacity to pass exams written by people like them, or to write papers read by people by them__.
 
@@ -587,7 +521,7 @@ I was recently caught by surprise by [the demonstration in London that asked for
 >
 > -- [EU Parliament, in the first session since 'Brexit' in Brussels, 28 Jun 2016](https://www.youtube.com/watch?v=SJzRa7HWVqs&t=0s&list=PLBEF4C827963BDDD1&index=5)
 
-## <a name="chapter7"></a>Chapter 7: Inequality and Skin in the Game
+### <a name="chapter7"></a>Inequality and Skin in the Game
 
 There is inequality and inequality.
 
@@ -635,8 +569,6 @@ A straightforward consequence is that fencing off immigrants from first class ci
 
 Only an academic would think that the problem of ethics in Finance can be solved by [adding more weight to the chapter in Ethics in the CFA curriculum](https://www.cfainstitute.org/en/ethics/codes/codes-standards-periodic-review).
 
-### Cobbler envies cobbler
-
 Envy does not originate with the impoverished, concerned with the betterment of their condition, but with the clerical class. As with all communist movements, it is often the bourgeois or clerical classes who are the early adopters of revolutionary theories.
 
 > Envy originates from a New York or Washington, D.C., Ivy-League educated IYI with a sense of entitlement, upset some ‘less smart’ persons are much richer.
@@ -650,8 +582,6 @@ In the more rural past, envy was rather controlled; wealthy people were not as e
 For a rich person isolated from vertical socialising with the poor, the poor become something entirely theoretical, a textbook reference. That is why a politician would say 'Refugees Welcome' without thinking of the consequences of doing so: because immigrants are an abstract term to be resolved.
 
 The intelligentsia therefore feels entitled to deal with the poor as a construct; one they created. Thus, they become convinced that they know what is best for them. The reaction to 'experts' in populism is a reaction to this.
-
-### Ethics of civil service
 
 When, on leaving office, Barack Obama accepted a sum of more than $40 million to write his memoirs, many people were outraged. Having rich people in a public office is very different from having public people become rich.
 
@@ -667,7 +597,7 @@ So there is an implicit bribe in public service, what we call [revolving doors](
 >
 > -- __Skin in the Game__
 
-## Chapter 8 - An expert called Lindy
+### An expert called Lindy
 
 [14 Things Ridiculously Successful People Do Every Day](https://www.entrepreneur.com/slideshow/299699), [What 12 Celebrities did to lose weight fast](http://www.nowloss.com/how-celebrities-lose-weight-fast-keep-it-off.htm), [10 of the Laziest Ways You Can Become Rich](https://www.therichest.com/rich-list/nation/10-of-the-laziest-ways-you-can-become-rich/): there are countless, clickbait-y ways to become rich, slim, and successful, and they are of course minimal changes in your life. The main idea is that "if you are not rich, slim and successful, *is because you don't want to*".
 
@@ -689,8 +619,6 @@ Skin in the game is resisting the test of time. It's worth emphasising that the 
 >
 > -- __Skin in the Game__
 
-### Peer review
-
 And what is praised is suspicious: in 1983, the computer giant IBM made the front cover of BusinessWeek as the ultimate company. If anything, you should afterwards be shorting the company. Collective praise by journal is at the least, suspicious, and at best, a curse. Prizes are likely to hit you at your peak.
 
 But there is something worse than peer assessment: the bureaucratisation of the activity. It creates a new class of judges: university administrators, who have no clue what someone is doing except via external signals, yet become the actual arbiters.
@@ -706,8 +634,6 @@ While academia has turned into an athletic contest, Wittgenstein, the author of 
 The most convincing statements are those in which one stands to lose, and the most unconvincing ones are those in which one patently tries to enhance one’s status without making a tangible contribution.
 
 Someone with a high public presence who is controversial and takes risks for his opinion, like [Jose Mourinho](https://en.wikipedia.org/wiki/Jos%C3%A9_Mourinho), is less likely to be a bullshit vendor.
-
-### Science is Lindy-compatible
 
 > It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.
 >
@@ -762,7 +688,7 @@ The New York banker vacationing in Greece
 
 ## __Book 6 - Deeper into Agency__
 
-## Chapter 9 - Surgeons should not look like surgeons
+__Book 6__ looks for consequential hidden asymmetries.
 
 When I was younger, I used to play in a football team as a goalkeeper. I was 1 foot taller than the other goalkeeper, so by watching us warming up you would have thought that I was starting, and he was the substitute goalie. It was, unexpectedly, the opposite.
 
@@ -829,7 +755,7 @@ The same happened with [Joseph Kony](https://www.youtube.com/watch?v=Y4MnpzG5Sqc
 
 The same pattern that Taleb has displayed repeats in that video: *either you're for invading Uganda and removing the dictator Kony, or you're against the children*.
 
-## Chapter 10 - Only rich people are poisoned; the preferences of others
+### Only rich people are poisoned; the preferences of others
 
 If academics and consultants are incentivised to sell you complication, we are impressed by it.
 
@@ -869,7 +795,7 @@ If wealth is giving you fewer options instead of more, you are doing it wrong.
 
 This is the reason behind [why we hate cheap things](https://www.theschooloflife.com/thebookoflife/why-we-hate-cheap-things/).
 
-## Chapter 11 - Facta non Verba (deeds before words)
+### Facta non Verba (deeds before words)
 
 There are two totally distinct varieties of terrorists.
 
@@ -878,8 +804,6 @@ The first group includes non soldiers who indiscriminately kill civilians for ef
 The second group is about strategic political assassination: IRA, most Shiite organisations, Algerian independence fighters against France, French resistance fighters during the German occupation, etc.
 
 The latter are inspired by the order of the Assassins.
-
-### The Assasins
 
 The best enemy is one you own by putting skin in his game and letting him know the exact rules that come with it. You keep him alive, with the knowledge that he owes his life to your benevolence.
 
@@ -901,8 +825,6 @@ If the democratic system doesn’t fully deliver governance, we have known forev
 
 François Mitterrand reigned for fourteen years, longer than many French kings. Even a US president, the modern kind of emperor, tends to last at least four years, while Rome had [six emperors in a single year](http://www.crystalinks.com/YearoftheSixEmperors.html) (238 AD), [five emperors in 193 AD](https://www.amazon.com/Year-Five-Emperors-Robert-Eckert/dp/1543909914) and [four in 69 AD](https://www.amazon.com/69-D-Year-Four-Emperors/dp/0195315898).
 
-### The camera for skin in the game
-
 Thanks to the camera, you no longer need to put horses’ heads in boutique hotels. Today, [anonymity brings out the asshole in people](https://en.wikipedia.org/wiki/Online_disinhibition_effect).
 
 But just the act of taking their pictures is similar to holding their lives in your hands and controlling their future behaviour thanks to your silence. [That's why companies like Facebook and Google are so potentially dangerous to society](https://www.imdb.com/title/tt2084953/).
@@ -922,7 +844,7 @@ Ah, but that's exactly the kind informal survey that, back in 2001, a young John
 
 Socrates, by the way, disagreed with Glaucon. He argued that you should only do what's right—irrespective of matters of life or death. And he didn't just gave that as an advice: [he lost his life because of it](https://en.wikipedia.org/wiki/Socrates#Trial_and_death).
 
-## Chapter 12 - The Facts are True, the News is Fake
+### The Facts are True, the News is Fake
 
 > In the summer of 2009, I partook [an hour-long public discussion with David Cameron](https://www.youtube.com/watch?v=QQAVDg4yqUU). It turned out that I presented my version of the precautionary principle during the conversation, where one does not need complex models as a justification to avoid a certain action. Models are error prone, and most risks only appear in analyses after harm is done, that’s why if we don’t understand something and it has a systemic effect, just avoid it. Like with climate change, the burden is on those who pollute to show a lack of tail risk.
 >
@@ -950,8 +872,6 @@ Economic insecurity worsens the condition. We can safely assume that no news age
 >
 > -- __Skin in the Game__
 
-### The ethics of disagreement
-
 As we discussed in [How to Read a Book](/how-to-read-a-book), you can criticise either what a person said or what a person meant. The mark of a charlatan is to defend his position or attack a critic by focusing on the former, for focusing on the latter requires an extensive grasp of the proposed idea.
 
 It is impossible to write a perfectly rationally argued document without a tiny segment that can be decontextualised to appear totally absurd and lend itself to sensationalisation, so politicians, charlatans and, more disturbingly, journalists hunt for these segments. Most cartoonists make fun of Trump without realising that they are focusing on the words rather than what he means, which is what their supporters grasp.
@@ -972,7 +892,7 @@ The principle of charity, a version of which we saw in [How to Read a Book](/how
 >
 > -— __Isaiah 29:21__
 
-## Chapter 13 - The Merchandising of Virtue
+### The Merchandising of Virtue
 
 Lycurgus, the Spartan lawmaker, responded to a suggestion to allow democracy there, saying ‘begin with your own family”.
 
@@ -1010,7 +930,7 @@ Courage is the only virtue you cannot fake.
 
 The entire idea is to move the Homo sapiens away from the macro, away from abstract universal aims, away from the kind of social engineering that brings tail risks to society. Courage is the highest virtue. We need entrepreneurs.
 
-## Chapter 14 - Peace, neither Ink nor Blood
+### Peace, neither Ink nor Blood
 
 One of the problems of the interventionist results in disrupting some of the peace making mechanisms that are inherent in human affairs.
 
@@ -1038,7 +958,7 @@ We like TV series about politicians, policemen, and doctors, not undertakers. Hi
 
 ## __Book 7 - Religion, Belief and Skin in the Game__
 
-## Chapter 15 - They don’t know what they are talking about when they talk about religion
+__Book 7__ explains creeds in terms of skin in the game and revealed preferences, and the word ‘religion’.
 
 > Men and women range themselves into three classes or orders of intelligence; you can tell the lowest class by their habit of always talking about persons; the next by the fact that their habit is always to converse about things; the highest by their preference for the discussion of ideas.
 >
@@ -1064,7 +984,7 @@ Some beliefs are, hence, decorative, others are functional (they help with survi
 >
 > -— __Edward Gibbon__, ‘[The Decline and Fall of the Roman Empire](https://www.amazon.com/Decline-Empire-Wordsworth-Classics-Literature/dp/1853264997?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1853264997)'.
 
-## Chapter 16 - No worship without skin in the game
+### No worship without skin in the game
 
 It is when you break a fast that you understand religion. The main theological flaw in Pascal’s wager, which stipulates that believing in the creator has a positive payoff in case he truly exists, and no downside in case he doesn’t, is that belief cannot be a free option. It entails a symmetry between what you pay and what you receive.
 
@@ -1075,8 +995,6 @@ The presence of saints in Christianity comes from that mechanism of recycling, a
 > The strength of a creed did not rest on ‘evidence’ of the powers of its gods, but evidence of the skin in the game on the part of its worshippers.
 >
 > -- __Skin in the Game__
-
-## Chapter 17 - Is the Pope Atheist?
 
 After Pope John Paul II was shot in 1981, he was rushed to the emergency room. At no point during the emergency period did the drivers of the ambulance consider taking the pope to a chapel for a prayer.
 
@@ -1090,7 +1008,7 @@ So we define atheism or secularism in deeds, by the distance between one’s act
 
 ## __Book 8 - Rationality and Risk Taking__
 
-## Chapter 18 - How to be rational about rationality
+__Book 8__ has the two central points: ‘How to be Rational about Rationality’, which goes deep into what rationality really is; and ‘The Logic of Risk Taking’, which summarises the author’s tenets about risk and exposes the errors concerning small-probability events.
 
 When we look at religion, we should consider what purpose they serve. In real life, belief is an instrument to do things, not the end product.
 
@@ -1106,13 +1024,10 @@ Survival comes first; truth, understanding, and science latter.
 
 Those who take risks have their priorities firmer than vague textbook pseudo-rationalism.
 
-### From Simon to Gigerenzer
-
 Herb Simon formulated the notion of bounded rationality: __we cannot possibly measure and assess everything as if we were a computer__; we therefore have, under evolutionary pressures, some shortcuts and distortions to avoid getting into unanticipated trouble.
 
 A fertile research program on ecological rationality, led by Gerd Gigerenzer, mapped how many things that do that appear, on the surface, illogical, but have deeper reasons.
 
-### Revelation of preferences
 
 Ken Binmore showed that the concept casually dubbed ‘rational’ is ill-defined. Everything lies in the notion of ‘revealed prefences’: __you will only have an idea about what people really think by looking at what they pay for goods, not by asking them__. This is a reformulation of skin in the game.
 
@@ -1123,8 +1038,6 @@ Ken Binmore showed that the concept casually dubbed ‘rational’ is ill-define
 Beliefs are cheap talk. I have shown in Antifragile that making some types of errors is the most rational thing to do, when the errors are of little cost, as they lead to discoveries.
 
 Without those mistakes, we wouldn't have penicillin, no chemotherapy, and almost no drugs, as explained in '[Happy Accidents](https://www.amazon.com/Happy-Accidents-Serendipity-Breakthroughs-Twentieth-ebook/dp/B005M26J06?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005M26J06)'.
-
-### What is religion about?
 
 > It is therefore my opinion that religion exists to enforce tail risk management across generations, as its binary and unconditional rules are easy to teach and enforce.
 >
@@ -1145,8 +1058,6 @@ Think, for instance, the reverence for cows in India. You would've thought that 
 > Not everything that happens happens for a reason, but everything that survives survives for a reason.
 >
 > -- __Skin in the Game__
-
-## Chapter 19 - The logic of risk taking
 
 Consider the following thought experiment.
 
@@ -1198,8 +1109,6 @@ Now it happens that this dynamic strategy is deemed out of line by behavioural f
 >
 > -- __Skin in the Game__
 
-### Who is ‘you’?
-
 One of the defects modern education introduces is the illusion that each one of us is a single unit.
 
 Unless you are perfectly narcissist and psychopathic, your worst case scenario is never limited to the loss of only your life. Thus, individual ruin is not as big a deal as collective ruin.
@@ -1223,3 +1132,7 @@ All risks are not equal. We often hear that ‘ebola is causing fewer deaths tha
 That is, the probability that the number of people who drown in their bathtubs in the US doubles next year is virtually zero. This cannot be said about the doubling of the number of people being killed by terrrorists over the same period.
 
 In a strategy that entails ruin, benefits never offset risks of ruin. Rationality is avoidance of systemic ruin.
+
+## Conclusion
+
+__Skin in the Game__ isn't paradigm shifting; most of the ideas on this book have been presented in Antifragile, or Black Swan. It is, however, a gateway book to Taleb's philosophy. A high level view of an idea that was elaborated in his previous works, and takes a digestable form that drags your attention and calls for action.
