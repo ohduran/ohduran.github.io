@@ -2,7 +2,7 @@
 <!-- Twitter cards -->
 <meta name="twitter:site"    content="@{{ site.author.twitter }}">
 <meta name="twitter:creator" content="@{{ page.author.twitter }}">
-<meta name="twitter:text:title"   content="{{ page.title }}">
+<meta name="twitter:title"   content="{{ page.title }}">
 
 {% if page.summary %}
 <meta name="twitter:description" content="{{ page.summary }}">
@@ -16,5 +16,6 @@
 {% else %}
 <meta name="twitter:card"  content="summary">
 <meta name="twitter:image" content="{{ site.logo }}">
+<meta name="twitter:text:title" content="{{ page.title }}">
 {% endif %}
 <!-- end of Twitter cards -->
