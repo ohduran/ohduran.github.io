@@ -534,7 +534,7 @@ The riddle does not exist. If a question can be framed at all, it is also possib
 
 The solution to the problem of life is seen [in the vanishing of the problem](https://www.youtube.com/watch?v=uAXtO5dMqEI). Buddhism is not about finding answers, but dropping the questions. Some things simply manifest in the world. That's what makes the world interesting.
 
-> The correct method in philosophy would really be the following: to say nothing exept what can be said, […] and then, whenever someone else wanted to say something metaphysical, to demonstrate to him that he had failed to give a meaning to certain signs in his propositions. Although it would not be satisfying to the other person, […] this method would be the only strictly correct one.
+> The correct method in philosophy would really be the following: to say nothing except what can be said, […] and then, whenever someone else wanted to say something metaphysical, to demonstrate to him that he had failed to give a meaning to certain signs in his propositions. Although it would not be satisfying to the other person, […] this method would be the only strictly correct one.
 >
 > -- __Tractatus__
 
