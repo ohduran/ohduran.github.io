@@ -10,12 +10,21 @@
 <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 
-{% if page.image %}
-<meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+
+<!-- Twitter cards: validate at https://cards-dev.twitter.com/validator -->
+<meta name="twitter:site"    content="@{{ site.author.twitter }}">
+<meta name="twitter:creator" content="@{{ site.author.twitter }}">
+<meta name="twitter:title"   content="{{ site.title }}">
+
+{% if page.summary %}
+<meta name="twitter:description" content="{{ page.summary }}">
 {% else %}
-<meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="/twitter_image.JPG">
-<meta name="twitter:text:title" content="{{ site.title }}">
+<meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
+
+
+<meta name="twitter:card"  content="summary">
+<meta name="twitter:image" content="{{ site.baseurl }}/images/logo/favicon.ico">
+<meta name="twitter:text:title" content="{{ site.title }}">
+
 <!-- end of Twitter cards -->
