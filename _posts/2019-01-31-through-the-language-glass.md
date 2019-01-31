@@ -64,6 +64,7 @@ What do you do when you have been Chancellor of the Exchequer but have time to k
 There is something awry about Homer, the author of the Iliad and the Odyssey, with regards to how he perceives and uses colour. In the [last volume of his Studies on Homer and the Homeric Age](https://www.amazon.com/Studies-Homer-Homeric-Age-V3/dp/149812478X?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=149812478X), Gladstone analysis led him to believe that Homer and his contemporaries perceived the world in something closer to black and white than in ‘full Technicolor’.
 
 > How could such a basic aspect of human experience have changed? [...] If there is one phrase that represents a rock of stability in the flux of human experience, then surely it would be that timeless question ‘Daddy, why is the sky blue?’
+>
 > -- __Through the Language Glass__
 
 Although the Homeric epics contain what appear to be colour words (some of which became straightforward colour words in later Greek), Gladstone noted that
@@ -93,13 +94,13 @@ To Gladstone, colour became a separate entity from the object that is coloured o
 
 The idea that people can evolve into seeing colour better sounded weird at the time. It all changed on 22 November 1859, when The Origin of Species was published, and Darwinism conquered the collective psyche: the stock of 1,250 copies for the first edition was oversubscribed, which forced its author to come back from a hydropathic establishment at Ilkley in Yorkshire where he went to recuperate from the strain of publishing, and begin corrections for a second edition.
 
-> Overflowing the narrow bounds of purely scientific circles, the "species question" divides with [Italy and the Volunteers](https://en.wikipedia.org/wiki/Italian_unification) the attention of general society. Everybody has read Mr. Darwin's book, or, at least, has given an opinion upon its merits or demerits; pietists, whether lay or ecclesiastic, decry it with the mild railing which sounds so charitable; bigots denounce it with ignorant invective; old ladies of both sexes consider it a decidedly dangerous book, and even savants, who have no better mud to throw, quote antiquated writers to show that its author is no better than an ape himself; while every philosophical thinker hails it as a veritable Whitworth gun in the armoury of liberalism; and all competent naturalists and physiologists, whatever their opinions as to the ultimate fate of the doctrines put forth, acknowledge that the work in which they are embodied is a solid contribution to knowledge and inaugurates a new epoch in natural history.
+> Overflowing the narrow bounds of purely scientific circles, the "species question" divides with [Italy and the Volunteers](https://en.wikipedia.org/wiki/Italian_unification) the attention of general society. Everybody has read Mr. Darwin's book, or, at least, has given an opinion upon its merits or demerits.
 >
 > -- __[Thomas Huxley](http://darwin-online.org.uk/content/frameset?itemID=A32&viewtype=text&pageseq=1)__
 
 Against this backdrop, the 1867 Assembly of German Naturalists and Physicians hold a plenary lecture called ‘On the Colour Sense in Primitive Times and its Evolution’, by Lazarus Geiger. His linguistic investigations convinced him that he could trace in language evidence of evolution, in the same way that Ernst Haeckel had done in palaeontology.
 
-> Has human sensation, has perception  by the senses, a history? Did everything in the human sense organs thousands of years ago function exactly as it does now, or can we perhaps show that at some remote period these organs must have been partly incapable of their presence performance?>
+> Has human sensation, has perception  by the senses, a history? Did everything in the human sense organs thousands of years ago function exactly as it does now, or can we perhaps show that at some remote period these organs must have been partly incapable of their presence performance?
 >
 > -- __Lazarus Geiger__, ‘On the Colour Sense in Primitive Times and Its Evolution’, 1867
 
@@ -139,7 +140,7 @@ If vision isn’t it, then the only conclusion is that those deficiencies come f
 
 The problem for the ‘culturalists’ is obvious: what kind of language is incapable of distinguish between green and blue? They argued that even nowadays language is ambiguous: you talk about ‘white wine’ even when we see that it’s greenish.
 
->Don’t the Italians call the yolk of an egg ‘red’ (il rosso)? Don’t we call the colour of orange juice ‘orange’ although it is in fact perfectly yellow? (Check out next time) […] Would race relations between the ‘dark browns’ and ‘pinkish brown’ have been as tortured as between ‘blacks’ and ‘whites’?
+> Don’t the Italians call the yolk of an egg ‘red’ (il rosso)? Don’t we call the colour of orange juice ‘orange’ although it is in fact perfectly yellow? (Check out next time) […] Would race relations between the ‘dark browns’ and ‘pinkish brown’ have been as tortured as between ‘blacks’ and ‘whites’?
 >
 > -- __Through the Language Glass__
 
@@ -161,9 +162,9 @@ Culturalists may have had the proof they needed, but they still needed a convinc
 
 Anthropology struggled to define what ‘culture’ really meant, and to determine the boundaries between acquire and innate aspects of human behaviour. It was essential to determine to what extent the cognitive traits of ‘savages’ differed from those of civilised people.
 
-> or the first time trained experimental psychologists investigated by means of adequate laboratory experiment a people in a low stage of culture under their ordinary conditions of life.
+> For the first time trained experimental psychologists investigated by means of adequate laboratory experiment a people in a low stage of culture under their ordinary conditions of life.
 >
-> --__Alfred Cort Haddon__, [Reports of the Cambridge Anthropological Expedition to Torres Straits](https://www.amazon.com/Reports-Cambridge-Anthropological-Expedition-Straits/dp/0521179874?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0521179874)
+> -- __Alfred Cort Haddon__, [Reports of the Cambridge Anthropological Expedition to Torres Straits](https://www.amazon.com/Reports-Cambridge-Anthropological-Expedition-Straits/dp/0521179874?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0521179874)
 
 River’s wanted to conduct detailed experiments on the eyesight of the natives. He had been immersed during the 1890s in the study of vision, and was keen to resolve the controversy over the colour sense. He spent four months on the remote Murray Island, with a population of about 450, sufficiently civilised to enable him to make observations and, yet, ‘sufficiently near their primitive condition to be thoroughly interesting’, as he put it.
 
@@ -183,7 +184,7 @@ Now, how could have got this wrong, given all the experiments that he conducted?
 
 Our deepest instincts yell at us that blue and black are really separate colours. But if a Russian anthropologist would have gone on a remote expedition to the remote British Islands, he would have been shocked that the native peoples use the same word for siny and goluboy; if pressed, a native English would say that one is ‘dark blue’ and the other is ‘navy blue’, but that these aren’t two different colours, but two different shades.
 
-The idea that our ‘defective’ vocabulary has anything to do with our defective vision is nonsense. It’s simply that cultural conventions regard these as shades of the same colour. With the advent of technology, these colours are understood by a computer to be #000000](https://www.color-hex.com/color/000000) and [#000080](https://www.color-hex.com/color/000080): the names of colours are just language conventions in a world were we are able to relate different colours to different things; given that we can see better than we can taste, we attach different colours to different things but not so many tastes to so many dishes.
+The idea that our ‘defective’ vocabulary has anything to do with our defective vision is nonsense. It’s simply that cultural conventions regard these as shades of the same colour. With the advent of technology, these colours are understood by a computer to be [#000000](https://www.color-hex.com/color/000000) and [#000080](https://www.color-hex.com/color/000080): the names of colours are just language conventions in a world were we are able to relate different colours to different things; given that we can see better than we can taste, we attach different colours to different things but not so many tastes to so many dishes.
 
 > __Mouse__: How did the machines know what Tasty Wheat tasted like. huh? Maybe they got it wrong. Maybe what I think Tasty Wheat tasted like actually tasted like oatmeal or tuna fish. That makes you wonder about a lot of things. You take chicken for example, maybe they couldn't figure out what to make chicken taste like, which is why chicken tastes like everything.
 >
