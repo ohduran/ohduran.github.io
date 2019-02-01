@@ -2,16 +2,11 @@
 <!-- Twitter cards: validate at https://cards-dev.twitter.com/validator -->
 <meta name="twitter:site"    content="@{{ site.author.twitter }}">
 <meta name="twitter:creator" content="@{{ site.author.twitter }}">
+
 {% if page.title %}
 <meta name="twitter:title"   content="{{ site.title }} | {{ page.title }}">
 {% else %}
 <meta name="twitter:title"   content="{{ site.title }}">
-{% endif %}
-
-{% if page.summary %}
-<meta name="twitter:description" content="{{ page.summary }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 
 {% if page.summary %}
