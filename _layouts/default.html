@@ -8,6 +8,7 @@
 		{% include tweet-cards.html %}
 		{% seo %}
 		{% feed_meta %}
+		<meta content="{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}	{% if page.description %}{{ page.description}}{% else %}{{ site.description }}{% endif %}" property="og:title">
 
 		<title>
 		 {%if page.title %}

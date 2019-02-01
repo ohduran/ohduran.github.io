@@ -24,7 +24,9 @@
 
 
 <meta name="twitter:card"  content="summary">
-<meta name="twitter:image" content="{{ site.url }}/sandiego 2.jpg">
+{% if page.book_image %}
+<meta name="twitter:image" content="{{ book_image }}">
+{% endif %}
 <meta name="twitter:text:title" content="{{ site.title }}">
 
 <!-- end of Twitter cards -->
