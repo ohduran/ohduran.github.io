@@ -3,7 +3,11 @@
 <meta name="twitter:site"    content="@{{ site.author.twitter }}">
 <meta name="twitter:creator" content="@{{ site.author.twitter }}">
 
-<meta name="twitter:title"   content="{{ page.title }}">
+{% if page.title %}
+<meta name="twitter:title"   content="{{ site.title }} | {{ page.title }}{% if page.author %} by {{ page.author }}{% endif %}">
+{% else %}
+<meta name="twitter:text:title" content="{{ site.title }}">
+{% endif %}
 
 {% if page.summary %}
 <meta name="twitter:description" content="{{ page.summary }}">
@@ -11,12 +15,11 @@
 <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
 
-
 <meta name="twitter:card"  content="summary_large_image">
 {% if page.book_image %}
 <meta name="twitter:image" content="{{ book_image }}">
 {% endif %}
-<meta name="twitter:text:title" content="{{ site.title }}">
+
 
 <!-- end of Twitter cards -->
 

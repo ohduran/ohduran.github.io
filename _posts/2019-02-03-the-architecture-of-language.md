@@ -3,7 +3,7 @@ layout: review
 title:  "The Architecture of Language"
 author: Noam Chomsky
 stars: 3
-summary: A blueprint for how to discover the principles and structures of the language, how many variations of our languages are possible and how is language used in our brain.
+summary: How to discover the structure of the language, the variations of our languages and how is it used in our brain.
 date:   2019-02-03 15:00:00 +0100
 categories: booknotes
 tags: [language, blitz]
