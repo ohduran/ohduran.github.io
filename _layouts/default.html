@@ -5,10 +5,9 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta itemprop="description" name="description" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
-		{% include tweet-cards.html %}
 		{% seo %}
 		{% feed_meta %}
-		<meta content="{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}	{% if page.description %}{{ page.description}}{% else %}{{ site.description }}{% endif %}" property="og:title">
+		{% include tweet-cards.html %}
 
 		<title>
 		 {%if page.title %}
