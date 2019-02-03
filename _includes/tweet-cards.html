@@ -17,7 +17,9 @@
 
 <meta name="twitter:card"  content="summary_large_image">
 {% if page.book_image %}
-<meta name="twitter:image" content="{{ book_image }}">
+<meta name="twitter:image" content="{{ page.book_image }}">
+{% else %}
+<meta name="twitter:image" content="{{ site.twitter_image }}">
 {% endif %}
 
 
