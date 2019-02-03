@@ -19,9 +19,9 @@
 {% if page.book_image %}
 <meta name="twitter:image" content="{{ page.book_image }}">
 {% elsif page.image %}
-<meta name="twitter:image" content="{{ page.image }}">
+<meta name="twitter:image" content="{{site.url}}/{{ page.image }}">
 {% else %}
-<meta name="twitter:image" content="{{ site.twitter_image }}">
+<meta name="twitter:image" content="{{site.url}}/{{ site.twitter_image }}">
 {% endif %}
 
 
