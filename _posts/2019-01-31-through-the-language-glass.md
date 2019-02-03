@@ -2,7 +2,7 @@
 layout: review
 title:  "Through the Language Glass"
 author: Guy Deutscher
-stars: 4
+stars: 2
 summary: Speaking and Thinking through the inquisitive analysis of science.
 date:   2019-01-31 15:00:00 +0100
 categories: booknotes
@@ -49,7 +49,7 @@ Then comes the biases. What could possibly be the most ‘natural’ language fo
 
 In their claims, even big thinkers are no different from the little ones. Does language reflect the culture of a society in any sense beyond the number of words that eskimos have for snow?
 
-The answer is nowadays considered to be no, with Noam Chomsky as the leading proponent. Even if some may concede some influence, any such influence is negligible.
+The answer is nowadays considered to be no, with [Noam Chomsky](/the-architecture-of-language) as the leading proponent. Even if some may concede some influence, any such influence is negligible.
 
 The book we are talking about today is [Through the Language Glass](https://archive.org/details/ThroughTheLanguageGlass/page/n8), and it’s about finding how much truth are in this answer. First, the way our languages carve up the world into concepts is not entirely ‘nature’, but also has a component of ‘nurture’. And second, the linguistic conventions of our society can affect aspects of our thought that go beyond language.
 
@@ -70,7 +70,7 @@ There is something awry about Homer, the author of the Iliad and the Odyssey, wi
 Although the Homeric epics contain what appear to be colour words (some of which became straightforward colour words in later Greek), Gladstone noted that
 these occurred surprisingly infrequently; and, more remarkably, that some of the apparent colour words which do occur are attributed to ranges of things which no present­ day European would see as sharing a common colour.
 
-For instance, the adjective *porphyreos*, which in later Greek meant approximately “purple” or “dark red”, is applied to blood, a dark cloud, the wave of a river when disturbed, a wave of the sea, the disturbed sea, and the rainbow. The same verb is applied to the sea darkening, and to the mind brooding, and a compound adjective to wool.
+For instance, the adjective *porphyreos*, which in later Greek meant approximately “purple” or “dark red”, is applied to blood, a dark cloud, the wave of a river when disturbed, a wave of the sea, the disturbed sea, and the rainbow. The same verb is applied to the sea darkening, and to the mind brooding, and, as a compound adjective, to wool.
 
 > Probably the single most famous phrase from [Homer’s work] that is still in common currency today is [...] ‘wine-dark sea’. [...] What Homer actually says is ‘oinops’, which literally means ‘wine-looking’.
 >
@@ -364,7 +364,7 @@ This idea is nevertheless perverse, and many writers have fallen for it. If in [
 
 Any idea can be expressed in any such form, in any language. Some are simple and ambiguous (populism aims toward that), and some are more complex and elaborate. But in the end, all roads lead to Rome. This is already understood in Computer Science: Most computer languages are [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness), which roughly mean that any programme defined in any of those languages can be ported, somehow, to any other language that is Turing complete.
 
-Gravitating around these ideas we find the works of Francis Boas and Roman Jakobson. In 1938, Boas wrote that ‘[grammar] determines those aspects of each experience that must be expressed’. English is pretty much gender neutral, unlike many Latin languages like German, French or Spanish. He went on to explain that languages varied in those such obligatory aspects, signalling what eventually became Chomsky’s Minimalist Program.
+Gravitating around these ideas we find the works of Francis Boas and Roman Jakobson. In 1938, Boas wrote that ‘[grammar] determines those aspects of each experience that must be expressed’. English is pretty much gender neutral, unlike many Latin languages like German, French or Spanish. He went on to explain that languages varied in those such obligatory aspects, signalling what eventually became [Chomsky’s Minimalist Program](/the-architecture-of-language).
 
 > If I say in English ‘I spent yesterday evening with a neighbour’, you may well wonder whether my companion was male or female, but I have the right to tell you politely that it’s none of your business. But if I we are speaking French or German or Russian, I don’t have the priviledge to equivocate, because I am obliged by the language to choose between voisin* or voisine, Nachbar or Nachbarin, sosed or sosedka.
 >
