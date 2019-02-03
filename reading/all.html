@@ -32,6 +32,8 @@ image:
 						Author{% if co_authors.size > 1 %}s{% endif %}: {{ post.author }}
 						<br />
 						Read by: {% if post.url %}{{ post.date | date: "%d %B %Y" }}{% else %}{{ post.date | date: "%B %Y" }}{% endif %}
+						<br />
+							{% include reading-time.html post=post %}
 						</h4>
 						<h4>{{ post.summary }}</h4>
 					</div>

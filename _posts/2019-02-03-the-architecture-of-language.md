@@ -6,7 +6,7 @@ stars: 3
 summary: A blueprint for how to discover the principles and structures of the language, how many variations of our languages are possible and how is language used in our brain.
 date:   2019-02-03 15:00:00 +0100
 categories: booknotes
-tags: [language, performance, blitz]
+tags: [language, blitz]
 permalink: /the-architecture-of-language
 book_image: https://images-na.ssl-images-amazon.com/images/I/41vgwOA%2BAZL._SX317_BO1,204,203,200_.jpg
 ---
