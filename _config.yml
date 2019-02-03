@@ -11,6 +11,7 @@ disqus_shortname:
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: images/logo/favicon.ico
 title_image: /images/london-light.JPG
+twitter_image: https://pbs.twimg.com/profile_images/2549530842/60T1Aa_gMEBBH2PkpIIu.0_400x400.jpg
 description: Essays, Book Notes, Data Science!
 author:
   name: Álvaro Durán
