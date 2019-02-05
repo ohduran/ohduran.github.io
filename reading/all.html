@@ -24,17 +24,7 @@ image:
 			<div class="post-teaser">
 				<div class="book_info">
 					{% include book-cover.html page=post %}
-					<div class="book_meta">
-						<h3><em>{% if post.url %}<a href="{{ post.url | prepend: site.baseurl }}">{% endif %}{{ post.title }}{% if post.url %}</a>{% endif %}<br /></em>{% if post.stars %}<br /><span class="stars-container stars-{{ post.stars | times:20 | round: 0 }}" title="{{ post.stars }}/5">★★★★★</span>{% endif %}</h3>
-						<h4>{% include book-tags.html post=post %}
-						<br />
-						{% assign co_authors = post.author | split: '&' %}
-						Author{% if co_authors.size > 1 %}s{% endif %}: {{ post.author }}
-						<br />
-						Read by: {% if post.url %}{{ post.date | date: "%d %B %Y" }}{% else %}{{ post.date | date: "%B %Y" }}{% endif %}
-						</h4>
-						<h4>{{ post.summary }}</h4>
-					</div>
+					{% include book-meta.html post=post %}
 					<div id="without-margin-top">
 						{{ post.excerpt }}
 					</div>

@@ -61,6 +61,8 @@ quote_author: Make it Stick
 											Author{% if co_authors.size > 1 %}s{% endif %}: {{ post.author }}
 											<br />
 											Read by: {{ post.date | date: "%d %B %Y" }}
+											<br />
+										    {% include reading-time.html post=post %}
 											</h4>
 										</div>
 										<div id="without-margin-top">
@@ -74,7 +76,7 @@ quote_author: Make it Stick
 	  	</ul>
 			{% endfor %}
 			<div class="text-container" id="bottom-spaced">
-				<p class="">You can read all my book notes in the <a class="blog-post" href="/reading/all">Reading Archive</a>,<br />or learn about my <a href="/reading-playbook">reading process</a></p>
+				<p class="">You can find all my book notes in the <a class="blog-post" href="/reading/all">Reading Map</a>,<br />or learn about my <a href="/reading-playbook">reading process</a></p>
 			</div>
 		</ul>
 	</div>

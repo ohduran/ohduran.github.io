@@ -1,0 +1,13 @@
+<div class="book_meta">
+  <h3><em>{% if include.post.url %}<a href="{{ include.post.url | prepend: site.baseurl }}">{% endif %}{{ include.post.title }}{% if include.post.url %}</a>{% endif %}<br /></em>{% if include.post.stars %}<br /><span class="stars-container stars-{{ include.post.stars | times:20 | round: 0 }}" title="{{ include.post.stars }}/5">★★★★★</span>{% endif %}</h3>
+  <h4>{% include book-tags.html post=include.post %}
+  <br />
+  {% assign co_authors = include.post.author | split: '&' %}
+  Author{% if co_authors.size > 1 %}s{% endif %}: {{ include.post.author }}
+  <br />
+  Read by: {% if include.post.url %}{{ include.post.date | date: "%d %B %Y" }}{% else %}{{ include.post.date | date: "%B %Y" }}{% endif %}
+  <br />
+    {% include reading-time.html post=include.post %}
+  </h4>
+  <h4>{{ include.post.summary }}</h4>
+</div>

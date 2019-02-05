@@ -6,6 +6,8 @@ categories: articles
 permalink: /reading-playbook
 description:
 ---
+> We don’t read our kids a 10 point list on how to be a better person; we tell them a story.
+
 Reading is all we do. Website, TV ads, fine print, big billboards, papers, newspapers, old hardcovers. Reading is everywhere. We can't escape it. And yet, we aren't taught how to excel at reading. We can recite Shakespeare parrot-fashion, but we haven't dug deeper into it; we go through life reading, but our reading goes through us too; we all have passed the beginner's level, but there are few masters among us.
 
 Some people say that reading has lost its shine. We read from time to time, out of the corner of our eyes. Everything is video nowadays, and we have the feeling that Internet is a good substitute to knowledge, as it can provide someone with enough insight to get going, with access to experts, with a variety of options, into packaged bits of ideas, easily digestible.

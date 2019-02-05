@@ -2,29 +2,33 @@
 <!-- Twitter cards: validate at https://cards-dev.twitter.com/validator -->
 <meta name="twitter:site"    content="@{{ site.author.twitter }}">
 <meta name="twitter:creator" content="@{{ site.author.twitter }}">
-<meta name="twitter:title"   content="{{ site.title }}">
+
+{% if page.title %}
+<meta name="twitter:title"   content="{{ site.title }} | {{ page.title }}{% if page.author %} by {{ page.author }}{% endif %}">
+{% else %}
+<meta name="twitter:text:title" content="{{ site.title }}">
+{% endif %}
 
 {% if page.summary %}
 <meta name="twitter:description" content="{{ page.summary }}">
 {% else %}
 <meta name="twitter:description" content="{{ site.description }}">
 {% endif %}
-
-
-<!-- Twitter cards: validate at https://cards-dev.twitter.com/validator -->
-<meta name="twitter:site"    content="@{{ site.author.twitter }}">
-<meta name="twitter:creator" content="@{{ site.author.twitter }}">
-<meta name="twitter:title"   content="{{ site.title }}">
-
-{% if page.summary %}
-<meta name="twitter:description" content="{{ page.summary }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description }}">
-{% endif %}
-
 
 <meta name="twitter:card"  content="summary_large_image">
-<meta name="twitter:image" content="{{ site.url }}/images/logo/favicon.ico">
-<meta name="twitter:text:title" content="{{ site.title }}">
+{% if page.book_image %}
+<meta name="twitter:image" content="{{ page.book_image }}">
+{% else %}
+<meta name="twitter:image" content="{{ site.twitter_image }}">
+{% endif %}
+
 
 <!-- end of Twitter cards -->
+
+<!--
+<meta property="og:image" content="http://example.com/ogp.jpg" />
+<meta property="og:image:secure_url" content="https://secure.example.com/ogp.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="A shiny red apple with a bite taken out" /> -->
