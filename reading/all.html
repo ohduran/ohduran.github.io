@@ -19,7 +19,7 @@ image:
 	<div class="text-container" id="bottom-spaced">
 		<!-- <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p> -->
 		<ul class="blog-posts">
-			{% assign reviews = site.categories.booknotes| sort: "date" | concat: site.data.reading_map %}
+			{% assign reviews = site.categories.booknotes| sort: "date" %}
 			{% for post in reviews %}
 			<div class="post-teaser">
 				<div class="book_info">
