@@ -6902,8 +6902,7 @@ table.sorter>tbody .row-data {
 .container .chosen-container-multi .chosen-choices li.search-choice {
  position:relative;
  display:inline-block;
- padding:.4em .5em;
- margin:2px 2px 2px 0;
+ padding: 0.1em .2em;
  font-size:11px;
  line-height:1;
  white-space:nowrap;
