@@ -2,7 +2,7 @@
 >
 > __Sigmund Freud__ -->
 
-Blogs are a two way conversation, so I welcome email and comments, as long as they're on topic, more or less. To get in touch, make time to compel a good case, and please [email me](mailto:{{ site.email }}) right away. Be aware, though, that [I may not be able to reply](/email).
+Blogs are a two way conversation, so I welcome email and comments, as long as they're on topic, more or less. To get in touch, make time to compel a good case, and please [email me](mailto:{{ site.author.email }}) right away. Be aware, though, that [I may not be able to reply](/email).
 
 To send an email that prompts a response,
 
