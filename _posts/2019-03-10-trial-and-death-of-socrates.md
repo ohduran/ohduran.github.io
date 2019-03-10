@@ -4,7 +4,7 @@ title:  "Trial and Death of Socrates"
 author: Plato
 stars: 2
 summary: Wise mentor, pompous, arrogant and often petulant teacher, Socrates is trialed and sentenced to death.
-date:   2019-03-08 15:00:00 +0100
+date:   2019-03-10 15:00:00 +0100
 categories: booknotes
 tags: language
 permalink: /trial-and-death-of-socrates
@@ -126,3 +126,85 @@ Where did all of this begin? There were probably many causes; Socrates is focuse
 > SOCRATES: “Socrates is an evil-doer, and a curious person, who searches into things under the earth and in heaven, and he makes the worse appear the better cause; and he teaches the aforesaid doctrines to others.” That is the nature of the accusation, and that is what you have seen yourselves in the comedy of Aristophanes, who has introduced a man whom he calls Socrates, going about and saying that he can walk in the air, and talking a deal of nonsense.
 >
 > -- __Trial and Death of Socrates__
+
+Rumours and propaganda. They're timeless. Socrates refers to his life motto: he can't corrupt anyone, because he knows nothing about anything.
+
+The fact that he has a reputation for being the wisest man comes, he says, from another rumour. One that concerns a prophecy by the oracle of Delphi.
+
+> SOCRATES: You must have known Chaerephon [...]. He went to Delphi and boldly asked the oracle to tell him [...] whether there was any one wiser than I was, and the Pythian prophetess answered, that there was no man wiser.
+>
+> -- __Trial and Death of Socrates__
+
+Now that is believed to come directly from Apollo: that there is no man wiser than Socrates. Everyone took it to be proof that Socrates knew lots of things. Socrates, of course, asked himself "what does Apollo mean by that?". And instead of taking it to be true, like everyone else did, he tried to prove it wrong.
+
+> SOCRATES: I reflected that if I could only find a man wiser than myself, then I might go to the god with a refutation in my hand.
+>
+> -- __Trial and Death of Socrates__
+
+He thus talked to anyone who was deemed to be wise, a famous politician, but the conversation eventually might have turned into a socratic dialog like the one held with Euthyphro, with similar end.
+
+>SOCRATES: When I began to talk with him, I could not help thinking that he was not really wise, although he was thought wise by many, and wiser still by himself; and I went and tried to explain to him that he thought himself wise , but was not really wise; and the consequence was that he hated me, and his enmity was shared by several who were present and heard me.
+>
+> -- __Trial and Death of Socrates__
+
+We have to assume that some of those people eventually made up the jury, or at least part of it. That is, there is a second degree of prejudice that Socrates is up against: he'd pissed off a lot of influential people.
+
+How had he resolved Apollo's riddle? He concluded that he is as wise as any, because he knows nothing; but he is superior in the fact that he at least has acknowledge his ignorance.
+
+> SOCRATES: The truth is, O men of Athens, that God only is wise; and in this oracle he means to say that the wisdom of men is little or nothing; he is not speaking of Socrates, he is only using my name as an illustration, as if he said, He, O men, is the wisest who, like Socrates, knows that his wisdom is in truth worth nothing.
+>
+> -- __Trial and Death of Socrates__
+
+This approach to life is what he had taught "young men of the richer classes, who have not much to do". That's how he spend his days, that's what is so corrupt about what he preaches: he is questioning the status quo.
+
+> SOCRATES: Those who are examined by [these young men], instead of being angry with themselves are angry with me: This confounded Socrates, they say; this villainous misleader of youth!— and then if somebody asks them, Why, what evil does he practise or teach? they do not know, and can not tell
+>
+> But in order that they may not appear to be at a loss, they repeat the ready-made charges which are used against all philosophers about teaching things up in the clouds and under the earth, and having no gods, and making the worse appear the better cause.
+>
+> For they do not like to confess that their pretence of knowledge has been detected— which is the truth; and as they are numerous and ambitious and energetic, and are all in battle array and have persuasive tongues, they have filled your ears with their loud and inveterate calumnies.
+>
+> -- __Trial and Death of Socrates__
+
+That ends the defence against the corruption of the youth. So far, he's been defensive about how to approach the accusations against him. For the accusation of believing in false gods, he turns on the offensive.
+
+> SOCRATES: [Meletus, the accuser] says that I am a doer of evil, who corrupt the youth; but I say, O men of Athens, that Meletus is a doer of evil, and the evil is that he makes a joke of a serious matter, and is too ready at bringing other men to trial from a pretended zeal and interest about matters in which he really never had the smallest interest.
+>
+> And the truth of this I will endeavour to prove.
+>
+> -- __Trial and Death of Socrates__
+
+He then embarks himself and Meletus into a Socratic dialogue, which aims at proving that no one would corrupt anyone voluntarily, because the corrupter stands to be eventually harmed in vengeance; and that if anyone is corrupted, then it's obvious that it is the jury, by means of the works of Aristophanes. The fact that he relies so much on the conditions of 'The Clouds' being a propagandistic work troubles me as an innocent bystander: why would Aristophanes want to portrait Socrates as such? What's in it for him?
+
+Afterwards, Socrates addresses the accusation of impiety, leading Meletus into contradicting himself, because he is accusing Socrates of both being an atheist and believing in false gods.
+
+> SOCRATES: Such nonsense, Meletus, could only have been intended by you as a trial of me. You have put this into the indictment because you had nothing real of which to accuse me. But no one who has a particle of understanding will ever be convinced by you that the same men can believe in divine and superhuman things, and yet not believe that there are gods and demigods and heroes.
+>
+> -- __Trial and Death of Socrates__
+
+He then addresses the jury, finally, with the latests remarks: that he had done nothing wrong, and that the jury stands to kill their souls if they find him guilty.
+
+> SOCRATES: I have said enough in answer to the charge of Meletus: any elaborate defence is unnecessary; but as I was saying before, I certainly have many enemies, and this is what will be my destruction if I am destroyed; of that I am certain;—not Meletus, nor yet Anytus, but the envy and detraction of the world, which has been the death of many good men, and will probably be the death of many more; there is no danger of my being the last of them.
+>
+> -- __Trial and Death of Socrates__
+
+Like Achilles, they should be thinking not in terms of harming the body, but in fearing the consequences for their immortal souls. Finding Socrates deserving of capital punishment may harm Socrates body, but it will surely harm their souls as well.
+
+> SOCRATES: I am not going to argue for my own sake, as you may think, but for yours, that you may not sin against the God, or lightly reject his boon by condemning me. For if you kill me you will not easily find another like me, who, if I may use such a ludicrous figure of speech, am a sort of gadfly, given to the state by the God; and. the state is like a great and noble steed who is tardy in his motions owing to his very size, and requires to be stirred into life.
+>
+> -- __Trial and Death of Socrates__
+
+## Second part: Sentencing plea
+
+The jurors of the trial voted the guilt of Socrates by a narrow margin: "had thirty votes gone over to the other side, I should have been acquitted". In those cases where the death penalty may arise, a sentencing plea was required so that the prosecutor and the defendant each propose a penalty to punish the actions for which the accused has been found guilty.
+
+At this point, Socrates is emotional. He's been found guilty for something that he believes are lies, and so he antagonises the jury. Rather than a penalty, he proposes a reward:
+
+> SOCRATES: And so [Meletus] proposes death as the penalty. And what shall I propose on my part, O men of Athens? Clearly that which is my due. And what is that which I ought to pay or to receive ? What shall be done to the man who has never had the wit to be idle during his whole life? [...]
+>
+> There can be no more fitting reward than maintenance in the Prytaneum, O men of Athens, a reward which he deserves far more than the citizen who has won the prize at Olympia in the horse or chariot race, whether the chariots were drawn by two horses or by many. For I am in want, and he has enough; and he only gives you the appearance of happiness, and I give you the reality.
+>
+> -- __Trial and Death of Socrates__
+
+As punishment, he dares to propose that he be treated like the benefactors of the city; that he should be given free meals, in perpetuity, at the Prytaneum, the public dining hall of Athens, an honour reserved for, among others, Olympic athletes.
+
+The provocative language and tone of Socrates's self-defence speech angered the jurors: he was sentenced to death.
