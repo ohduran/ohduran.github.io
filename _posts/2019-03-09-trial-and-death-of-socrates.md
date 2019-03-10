@@ -91,4 +91,38 @@ If this is the opening of anything, the terms are clear: he's going to win the a
 >
 > -- __Trial and Death of Socrates__
 
-This second section, called the Apology, is one of many explanatory *apologia* about Socrates's legal defence. Although Aristotle later classified it as a genre of fiction, it is still a useful historical source about Socrates.
+This second section, called the Apology, is one of many explanatory *apologia* about Socrates's legal defence. Although Aristotle later classified it as a genre of fiction, it is still a useful historical source about Socrates: not only it's Socrates the one talking, Plato is witnessing the speech unfold.
+
+### First part: The defence
+
+It was custom that the accused had three hours to refute the accusations, and this first part covers precisely that.
+
+What would your strategy be? The problem with the claims that he corrupts the youth and that he creates false gods is that they are hard to refute. What is 'corrupt'? Is expressing an opinion corrupting the mind of young people? Is researching nature a form of god creation?
+
+The accusers, Socrates imply, have told the jury before he starts to speak, "not to let yourselves be deceived by the force of [Socrate's] eloquence". They expect the rhetoric, the convoluted reasoning, and they tagged the only weapon that Socrates has to save himself to the bad reputation of sophists, so he must address that first.
+
+> SOCRATES: I do indeed admit that I am eloquent. But in how different a way from theirs! [...] but you shall hear from me the whole truth: not, however, delivered after their manner, in a set oration duly ornamented with words and phrases. No, indeed! but I shall use the words and arguments which occur to me at the moment; for I am certain that this is right, and that at my time of life I ought not to be appearing before you, O men of Athens, in the character of a juvenile orator.
+>
+> -- __Trial and Death of Socrates__
+
+How to turn the 'corrupting the youth' accusation upside down? By addressing the fact that their prejudice is also a form of corruption, and if he is accused of that, then every man and woman is guilty of that. That's maybe an argument that is legally useless nowadays (it's admission of guilt), but remember that the strict rules that govern our judicial system do not apply here.
+
+> SOCRATES: First, I have to reply to the older charges and to my first accusers, and then I will go on to the later ones. For I have had many accusers, who accused me of old, and their false charges have continued during many years.
+>
+> -- __Trial and Death of Socrates__
+
+Socrates, thus, begins by telling the jury that their minds were already poisoned to begin with, when they were young and impressionable.
+
+> SOCRATES: But far more dangerous are these, who began when you were children, and took possession of your minds with their falsehoods, telling of one Socrates, a wise man, who speculated about the heaven above, and searched into the earth beneath, and made the worse appear the better cause [...].
+>
+> These are the accusers whom I dread; for they are the circulators of this rumour, and their hearers are too apt to fancy that speculators of this sort do not believe in the gods. And they are many, and their charges against me are of ancient date, and they made them in days when you were impressible— in childhood, or perhaps in youth— and the cause when heard went by default, for there was none to answer.
+>
+> And hardest of all, their names I do not know and can not tell; unless in the chance case of a comic poet. [...] I must simply fight with shadows in my own defence, and examine when there is no one who answers.
+>
+> -- __Trial and Death of Socrates__
+
+Where did all of this begin? There were probably many causes; Socrates is focused on the most visible: Aristophanes.
+
+> SOCRATES: “Socrates is an evil-doer, and a curious person, who searches into things under the earth and in heaven, and he makes the worse appear the better cause; and he teaches the aforesaid doctrines to others.” That is the nature of the accusation, and that is what you have seen yourselves in the comedy of Aristophanes, who has introduced a man whom he calls Socrates, going about and saying that he can walk in the air, and talking a deal of nonsense.
+>
+> -- __Trial and Death of Socrates__
