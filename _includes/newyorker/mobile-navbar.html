@@ -1,0 +1,9 @@
+<nav>
+    <div class="Logo__componentLogo___1mTF4 Logo__full___23VWL">
+        <ul>
+          {% for item in site.data.navbar %}
+            <li><a class="Link__link___3dWao  " href="{{ item.url }}">{{ item.label }}</a></li>
+          {% endfor %}
+        </ul>
+    </div>
+</nav>
