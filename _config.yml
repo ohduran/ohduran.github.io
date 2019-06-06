@@ -3,6 +3,7 @@ name: "Álvaro Durán"
 title: "Álvaro Durán"
 description: "Essays, Book Notes, Data Science!"
 logo: 'assets/images/log.png'
+tinylogo: 'assets/images/tinylog.png'
 favicon: 'assets/images/logo.png'
 baseurl:
 google_analytics: 'UA-131540516-1'
