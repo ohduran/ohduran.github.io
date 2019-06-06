@@ -2,7 +2,7 @@
 layout: post
 title:  "An electronic story"
 date:   2018-10-20 15:00:00 +0100
-categories: articles science
+categories: articles
 permalink: /what-is-an-electron
 image: https://absurd.design/assets/img/gallery-color-69-13.jpg
 ---

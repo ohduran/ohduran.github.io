@@ -2,7 +2,7 @@
 layout: post
 title:  "Skin in the Game"
 author: Nassim Taleb
-categories: [booknotes]
+categories: [books]
 tags: [language, power, war, politics, decision making, beliefs]
 permalink: /skin-in-the-game
 image: https://images-eu.ssl-images-amazon.com/images/I/41GWJnPEaJL.jpg

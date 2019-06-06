@@ -2,7 +2,7 @@
 layout: post
 title:  "Defaulting and Copying"
 date:   2018-10-26 15:00:00 +0100
-categories: science
+categories: articles
 permalink: /defaulting-and-copying
 image: https://absurd.design/assets/img/gallery-color-69-4.jpg
 ---

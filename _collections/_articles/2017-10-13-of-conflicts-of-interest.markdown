@@ -2,7 +2,7 @@
 layout: post
 title:  "Of Conflicts of Interest"
 date:   2017-10-13 15:00:00 +0100
-categories: articles technology
+categories: articles
 permalink: /conflicts-of-interest
 image: https://absurd.design/assets/img/gallery-color-69-16.jpg
 ---
