@@ -2,11 +2,6 @@
 {% assign post = books.last %}
     <div class="Card__content___2_jDO undefined">
       {% include newyorker/categories.html post=post %}
-        <a class="Link__link___3dWao Card__imageLink___16N7I " href="/culture/culture-desk/the-unexpected-power-of-your-old-neighborhood">
-            <div class="Image__image___1PhYl Card__image___OLrHW" role="button" tabindex="0">
-                {% include newyorker/image.html post=post %}
-            </div>
-        </a>
         <a class="Link__link___3dWao  " href="/culture/culture-desk/the-unexpected-power-of-your-old-neighborhood"><h3 class="Card__hed___31cLY">{{ post.title }}</h3></a>
         <p class="Card__dek___29Iu1">{{ post.description }}</p>
         {% include newyorker/author-and-date.html post=post %}
