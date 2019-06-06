@@ -1,4 +1,4 @@
-{% assign books = site.books | sort_natural: "rating" | reverse | slice: 0, 5 %}
+{% assign books = (site.books | sort: "rating") | reverse | slice: 0, 5 %}
 <footer data-track-type="nav" data-track-location="page-footer" class="SiteFooter__footer___2CFaR">
     <div class="FooterPromoLinks__promoLinks___3HDWB">
         <div class="FooterPromoLinks__container___fzxb9">
@@ -47,7 +47,7 @@
                     <div class="FooterDirectory__panel___2uuX1">
                         <h4><a href="/business">Journal</a></h4>
                         <ul>
-                          {% assign journal = site.journal | sort_natural: "date" | reverse | slice: 0, 8 %}
+                          {% assign journal = (site.journal | sort: "date") | reverse | slice: 0, 8 %}
                           {% for post in journal | %}
                             <li><a class="Link__link___3dWao  " href="{{ post.url }}">{{ post.title }}</a></li>
                           {% endfor %}
@@ -59,7 +59,7 @@
                     <div class="FooterDirectory__panel___2uuX1">
                         <h4>Articles</h4>
                         <ul>
-                          {% assign articles = site.articles | sort_natural: "date" | reverse | slice: 0, 8 %}
+                          {% assign articles = (site.articles | sort: "date") | reverse | slice: 0, 8 %}
                           {% for article in articles %}
                             <li><a class="Link__link___3dWao  " href="{{ article.url }}">{{ article.title }}</a></li>
                           {% endfor %}

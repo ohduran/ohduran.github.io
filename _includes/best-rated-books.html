@@ -1,7 +1,7 @@
 <h3 class="RecirculationMostPopular__title___zwZ4R">Best Rated Books</h3>
 <ul data-track-type="recirc" data-track-location="mod-most-popular" data-service="parsely" data-source="parsely" class="RecirculationMostPopular__itemsList___2lXkt">
 
-  {% assign books = site.books | sort_natural: "rating" | reverse | slice: 0, 5 %}
+  {% assign books = (site.books | sort: "rating") | reverse | slice: 0, 5 %}
 
   {% for post in books %}
     <li class="RecirculationMostPopular__item___2z9PN" data-track-type="recircItem" data-track-location="mod-most-popular" data-source="parsely" data-track-position="{{ forloop.index }}"><span class="RecirculationMostPopular__counter___3YFww">{{ forloop.index }}.</span>

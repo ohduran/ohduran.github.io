@@ -3,7 +3,7 @@
 <div class="InTheNewsSection__sectionContent___Rs0Uv">
 
     <div class="InTheNewsSection__itemsColumn___2NmEq">
-      {% assign recently_added = site.articles | sort_natural: "date" | reverse | slice: -3, 3 %}
+      {% assign recently_added = (site.articles | sort: "date") | reverse | slice: -3, 3 %}
       {% for post in recently_added %}
         <div class="Card__inTheNewsItems___hdiHO">
             <div class="Card__content___2_jDO undefined">

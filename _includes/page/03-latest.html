@@ -1,4 +1,4 @@
-{% assign posts = include.posts | sort_natural: include.sorting | reverse %}
+{% assign posts = (include.posts | sort: include.sorting) | reverse %}
 <section data-track-type="recirc" data-track-location="mod-latest" data-service="none" data-source="curated" class="LatestSection__latestRow___3wyYQ">
     <div class="LatestSection__latestColumn___9T9OS">
         <h5 class="LatestSection__sectionHeader___1xOSE">
