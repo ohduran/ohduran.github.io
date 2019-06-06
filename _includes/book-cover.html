@@ -1,5 +1,0 @@
-<div class="book_cover">
-  <a href="{{ include.page.url | prepend: site.baseurl }}">
-    <img {% if include.page.book_image %} src="{{ include.page.book_image }}" {% else %} src="/../images/covers/{{ include.page.title | slugify }}.jpg" {% endif %} alt="Book cover for {{ include.page.title }}" />
-  </a>
-</div>

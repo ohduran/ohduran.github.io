@@ -1,0 +1,78 @@
+{% assign books = site.books | sort_natural: "rating" | reverse | slice: 0, 5 %}
+<footer data-track-type="nav" data-track-location="page-footer" class="SiteFooter__footer___2CFaR">
+    <div class="FooterPromoLinks__promoLinks___3HDWB">
+        <div class="FooterPromoLinks__container___fzxb9">
+            <div class="FooterPromoLinks__featureLinks___17S0N">
+                <div>
+                  {% for social in site.data.social %}
+                    <h4><a class="Link__link___3dWao  " href="{{ social.url }}">{{ social.label }}</a></h4>
+                  {% endfor %}
+            </div>
+        </div>
+    </div>
+    <div class="SiteFooter__footerContainer___2Ueuo">
+        <div class="SiteFooter__footerContent___36hmA">
+            <div class="FooterDirectory__directoryContainer___1tqT-">
+                <div class="FooterDirectory__directory___C4Dvz">
+                    <div class="FooterDirectory__panel___2uuX1">
+                        <h4><a href="/news">Best Rated Books</a></h4>
+                        <ul>
+                          {% for post in books %}
+                            <li><a class="Link__link___3dWao  " href="/news/daily-comment">{{ forloop.index }}. {{ post.title }}</a></li>
+                          {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="FooterDirectory__panel___2uuX1">
+                        <h4><a href="/culture">Sections</a></h4>
+                        <ul>
+                          {% for section in site.collections %}
+                          {% if section.label != "posts" %}
+                            <li><a class="Link__link___3dWao  " href="/{{ section.label }}">{{ section.label | replace: "_", " " | capitalize }}</a></li>
+                          {% endif %}
+                          {% endfor %}
+                        </ul>
+                    </div>
+
+                    <div class="FooterDirectory__panel___2uuX1">
+                        <h4><a href="/books">Annual Letters</a></h4>
+                        <ul>
+                          {% for letter in site.annual_letters %}
+                            <li><a class="Link__link___3dWao  " href="{{ letter.url }}">{{ letter.date | date: "%Y" | minus: 1 }}</a></li>
+                          {% endfor %}
+                        </ul>
+                    </div>
+
+                    <div class="FooterDirectory__panel___2uuX1">
+                        <h4><a href="/business">Journal</a></h4>
+                        <ul>
+                          {% assign journal = site.journal | sort_natural: "date" | reverse | slice: 0, 8 %}
+                          {% for post in journal | %}
+                            <li><a class="Link__link___3dWao  " href="{{ post.url }}">{{ post.title }}</a></li>
+                          {% endfor %}
+                        </ul>
+                    </div>
+
+
+
+                    <div class="FooterDirectory__panel___2uuX1">
+                        <h4>Articles</h4>
+                        <ul>
+                          {% assign articles = site.articles | sort_natural: "date" | reverse | slice: 0, 8 %}
+                          {% for article in articles %}
+                            <li><a class="Link__link___3dWao  " href="{{ article.url }}">{{ article.title }}</a></li>
+                          {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="FooterDirectory__panel___2uuX1">
+                        <h4><a href="/about/us">About Us</a></h4>
+                        <ul>
+                            <li><a class="Link__link___3dWao  " href="/about">About</a></li>
+                            <li><a class="Link__link___3dWao  " href="/contact">Contact</a></li>
+                            <li><a class="Link__link___3dWao  " href="/faq">FAQ</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

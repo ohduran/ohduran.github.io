@@ -1,0 +1,103 @@
+<script id="cns-head-include">
+    ! function() {
+        "use strict";
+        var n, t = (function(n, t) {
+            var r = function() {
+                var n = 0;
+
+                function t(n) {
+                    var t = [],
+                        r = 0,
+                        i = 0;
+                    this.push = function(s) {
+                        r - i >= n && ++i >= n && (i = 0, r = n - 1), t[r % n] = s, r++
+                    }, this.asArray = function() {
+                        var s = t.slice(i, Math.min(r, n)),
+                            u = t.slice(0, Math.max(r - n, 0));
+                        return s.concat(u)
+                    }, this.list = t
+                }
+
+                function r(t, r) {
+                    for (var i = r, s = 0; s < t.length; s++) {
+                        var u = t[s],
+                            a = i.r;
+                        a[u] || (a[u] = {
+                            w: u,
+                            r: {},
+                            i: n++
+                        }), i = a[u]
+                    }
+                    return i
+                }
+
+                function i(n, t, r) {
+                    var i;
+                    return r[n] ? i = r[n] : (i = function(n, t) {
+                        for (var r = [
+                                [t, 0]
+                            ], i = {}, s = []; r.length;) {
+                            var u = r.shift(),
+                                a = u[0],
+                                e = u[1],
+                                o = a.r,
+                                f = n[e];
+                            if (void 0 === f && a.fn && !i[a.i] ? (i[a.i] = 1, s.push(a.fn)) : o[f] && r.push([o[f], e + 1]), o["#"])
+                                for (var h = e; h <= n.length; h++) r.push([o["#"], h]);
+                            f && o["*"] && r.push([o["*"], e + 1])
+                        }
+                        return s
+                    }(n.split("."), t), r[n] = i), i
+                }
+                var s = function() {
+                    var s = {
+                            w: "",
+                            r: {},
+                            i: n++
+                        },
+                        u = {},
+                        a = new t(9999);
+
+                    function e(n, t) {
+                        var i = r(n.split("."), s),
+                            a = i.fn || [];
+                        return a.push(t), i.fn = a, u = {},
+                            function() {
+                                var n = a.indexOf(t);
+                                n > -1 && a.splice(n, 1)
+                            }
+                    }
+
+                    function o(n, t) {
+                        var r = Date.now();
+                        a.push([n, r]);
+                        for (var e = i(n, s, u), o = {
+                                topic: n
+                            }, f = 0; f < e.length; f++)
+                            for (var h = e[f], c = 0; c < h.length; c++) h[c](t, o)
+                    }
+                    this.emit = o, this.on = e, this.history = function(t) {
+                        var s = {
+                            w: "",
+                            r: {},
+                            i: n++
+                        };
+                        r(t.split("."), s).fn = 1;
+                        for (var u = [], e = {}, o = a.asArray(), f = 0; f < o.length; f++) {
+                            var h = o[f];
+                            i(h[0], s, e).length && u.push(h)
+                        }
+                        return u
+                    }, this.publish = o, this.subscribe = e
+                };
+                return s.Ring = t, s
+            }();
+            n.exports = r
+        }(n = {
+            exports: {}
+        }), n.exports);
+        window.cnBus = window.cnBus || new t, window.cns = window.cns || {};
+        var r = window.cns;
+        r.fastAdsHead = "6.28.2", r.timing = r.timing || {}, r.timing.headerStart = Date.now(), r.queue = r.queue || [], r.flags = {}
+    }();
+</script>

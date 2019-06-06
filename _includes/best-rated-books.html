@@ -1,0 +1,15 @@
+<h3 class="RecirculationMostPopular__title___zwZ4R">Best Rated Books</h3>
+<ul data-track-type="recirc" data-track-location="mod-most-popular" data-service="parsely" data-source="parsely" class="RecirculationMostPopular__itemsList___2lXkt">
+
+  {% assign books = site.books | sort_natural: "rating" | reverse | slice: 0, 5 %}
+
+  {% for post in books %}
+    <li class="RecirculationMostPopular__item___2z9PN" data-track-type="recircItem" data-track-location="mod-most-popular" data-source="parsely" data-track-position="{{ forloop.index }}"><span class="RecirculationMostPopular__counter___3YFww">{{ forloop.index }}.</span>
+        <div class="RecirculationMostPopular__content___1no0_"><span class="RecirculationMostPopular__rubric___29E94">{% for tag in post.tags %}{{ tag | capitalize }} {% endfor %}</span><a class="Link__link___3dWao  " href="{{ post.url }}"><h5 class="RecirculationMostPopular__hed___1Yugq">{{ post.title }}</h5></a>
+            <div class="Byline__theLatest___2viI5  ">
+                <p class="Byline__by___37lv8">By <a class="Link__link___3dWao  " title="{{ post.author }}" rel="author" href="#">{{ post.author }}</a></p>
+            </div>
+        </div>
+    </li>
+  {% endfor %}
+</ul>

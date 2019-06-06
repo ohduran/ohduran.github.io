@@ -1,0 +1,31 @@
+{% assign posts = include.posts | slice: -4, 3 %}
+<section class="SecondarySection__secondarySectionRow___2Oj9b">
+    <div class="SecondarySection__secondarySectionColumn___3D9VE">
+        <div class="SecondarySection__content___29Tap">
+            <div class="River__secondarySectionDuo___2vaQr">
+                <ul data-track-type="recirc" data-track-location="mod-large-secondary-features" data-service="none" data-source="curated" class="River__list___2_45v">
+                  {% for post in posts %}
+                  <li class="River__riverItem___3huWr">
+                      <div class="River__riverItemContent___2hXMG">
+                          {% include newyorker/categories.html post=post %}
+                          <a class="Link__link___3dWao  " href="{{ post.url }}">
+                              <h4 class="River__hed___re6RP">{{ post.title }}</h4>
+                          </a>
+                          <div class="River__riverItemBody___347sz">
+                              <a class="Link__link___3dWao  " href="{{ post.url }}">
+                                  <div class="Image__image___1PhYl">
+                                      {% include newyorker/image.html post=post %}
+                                  </div>
+                              </a>
+                              <h5 class="River__dek___CayIg">{{ post.description }}</h5>
+                              {% include newyorker/author-and-date.html post=post %}
+                          </div>
+                      </div>
+                  </li>
+                  {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+{% assign posts = include.posts %}

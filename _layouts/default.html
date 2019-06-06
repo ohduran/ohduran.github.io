@@ -1,95 +1,91 @@
 <!DOCTYPE html>
-
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta itemprop="description" name="description" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
-		{% seo %}
-		{% feed_meta %}
-		{% include tweet-cards.html %}
 
-		<title>
-		 {%if page.title %}
-		 	{{ page.title }}
-		 {% else %}
-		 	{{ site.title }}
-		 {% endif %}
-		  |
-			{% if page.description %}
-				{{ page.description | truncate: 160 }}
-			{% else %}
-				{{ site.description | truncate: 160  }}
-			{% endif %}
-		</title>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta itemprop="description" name="description" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+	{% seo %}
+	{% feed_meta %}
+	{% include tweet-cards.html %}
 
-		<link rel="apple-touch-icon" href="{{ site.baseurl }}/images/logo/favicon.ico">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo/favicon.ico" sizes="192x192">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo/favicon.ico">
-
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300|Rubik:300">
-		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
-
-		{% include mathjax.html %}
-
-		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131540516-1"></script>
-		<script>
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-
-		gtag('config', '{{ site.google_analytics_key }}');
-		</script>
+	<title>
+	 {%if page.title %}
+	 	{{ page.title }}
+	 {% else %}
+	 	{{ site.title }}
+	 {% endif %}
+	  |
+		{% if page.description %}
+			{{ page.description | truncate: 160 }}
+		{% else %}
+			{{ site.description | truncate: 160  }}
 		{% endif %}
-	</head>
-	<body>
-		<header id="mainHeader">
-			<div class="container">
-				<div class="company-name">
-					<a href="{{ site.baseurl }}/">
-						<span class="dark-logo"><img width="104" height="38" src="{{ site.baseurl }}/images/logo/favicon.ico" alt="profile picture logo"></span>
-						<span class="light-logo"><img width="104" height="38" src="{{ site.baseurl }}/images/logo/favicon.ico" alt="profile picture logo"></span>
-					</a>
-				</div>
-				{% include navigation.html %}
-				<p class="editor-link"><a style="display:inline;" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a></p>
-			</div>
-		</header>
+	</title>
 
-		{{ content }}
+	<link rel="apple-touch-icon" href="{{ site.baseurl }}/images/logo/favicon.ico">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo/favicon.ico" sizes="192x192">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo/favicon.ico">
 
-		<footer>
-			<div class="container">
-				<p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
-				<ul class="footer-left-links">
-					{% for link in site.data.footer.left_links %}
-						<li>
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
-								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
-								{{ link.name }}
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-				<ul class="footer-right-links">
-					{% for link in site.data.footer.right_links %}
-						<li>
-							<a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon | slugify }}-icon"{% endif %}>
-								{% if link.social_icon %}{% include social-icon.html icon=link.social_icon %}{% endif %}
-								{{ link.name }}
-							</a>
-						</li>
-					{% endfor %}
-				</ul>
-				<p class="copyright">
-					<a href=""></a>
-				</p>
-			</div>
-</footer>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300|Rubik:300">
+  <link rel="stylesheet" href="/css/homepage.7d0a95b98c3134ef7237.css" />
+  <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
+  <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/js/main.js"></script>
-	</body>
+	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+	{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131540516-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', '{{ site.google_analytics_key }}');
+	</script>
+	{% endif %}
+</head>
+
+<body class="page-homepage">
+  <!-- SCRIPT 10 -->
+  <!-- SCRIPT 11 -->
+
+    <div id="app-root">
+        <div class="" data-reactroot="">
+          <main class="PageContainer__main___w2VEm PageContainer__full___12krW">
+            <div class="SiteHeader__siteHeader___2Fkqk">
+                <div class="SiteHeader__navWrapper___1FuV4 ">
+                    <header class="MainHeader__mainHeader___28Tsw MainHeader__full___1V8KO">
+                      {% include newyorker/header.html %}
+                      {% include newyorker/navbar.html %}
+                    </header>
+                </div>
+            </div>
+              {{ content }}
+              {% include newyorker/footer.html %}
+            </main>
+        </div>
+    </div>
+    <!-- SCRIPT 12 -->
+    <script async="" src="/js/homepage.7d0a95b98c3134ef7237.js"></script>
+    <!-- SCRIPT 13 -->
+    <div>
+        <div id="parsely-root" style="display:none">
+            <div id="parsely-cfg" data-parsely-site="newyorker.com"></div>
+        </div>
+        <!-- SCRIPT 14 -->
+    </div>
+    <!-- SCRIPT 15 -->
+    <!-- SCRIPT 16 -->
+    <!-- SCRIPT 17 -->
+    <!-- SCRIPT 18 -->
+    <!-- SCRIPT 19 -->
+    <!-- SCRIPT 20 -->
+    <!-- SCRIPT 21 -->
+    <!-- SCRIPT 22 -->
+    <!-- SCRIPT 23 -->
+    <!-- SCRIPT 24 -->
+</body>
+
 </html>

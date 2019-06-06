@@ -1,0 +1,23 @@
+- Books:
+  label: Books
+  url: /books
+
+- Articles:
+  label: In Depth
+  url: /articles
+
+- Journal:
+  label: Journal
+  url: /journal
+
+- Annual_Letters:
+  label: Annual Letters
+  url: /annual_letters
+
+- About:
+  label: About
+  url: /about
+
+- FAQ:
+  label: FAQs
+  url: /faq

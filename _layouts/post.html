@@ -2,37 +2,57 @@
 layout: default
 ---
 
-<section>
-	<div class="blog-post text-container" style="padding-top: 250px;">
-		<h2><a href="{% include relative-src.html src=post.url %}">{{ page.title }}</a></h2>
-		{% include post-title.html post=page %}
+<head>
+    {% include article/meta/01.html %}
+    <!-- SCRIPT 01 -->
+    <!-- SCRIPT 02 -->
+    <!-- SCRIPT 03 -->
+    <!-- SCRIPT 04 -->
+    <!-- SCRIPT 05 -->
+    {% include article/meta/02.html %}
+    <!-- SCRIPT 06 -->
+    <link rel="stylesheet" href="/css/article.ad567db8cb394481e184.css" />
+    <!-- SCRIPT 07 -->
+</head>
 
-		<div class="post-content">
-			{{ content }}
-			{% include hr.html %}
+<section class="PageContainer__pageContent___1xERg PageContainer__article___136yK">
+    <article class="Layout__layoutContainer___2gtig">
+        {% include article/sections/01-header.html %}
+        <div class="Layout__twoColumn___1sIWV">
+            <main class="Layout__content___5vVe9">
+                <div>
+                    <div class="ArticleLedeImage__rightAligned___10Wqp ">
+                        <div class="ArticleLedeImage__container___Fy9Ni">
+                            <div class="Lightbox__lightbox___2lLZl Lightbox__white___jj_9p  " role="button" tabindex="0">
+                                <figure class="Figure__figure___U_9Te Figure__fullHeight___3uICS ArticleLedeImage__lede___1rVAF ">
+                                    <div class="placeholder">
+                                        <div class="placeholder-buttress"></div>
+                                        <div class="placeholder-content">
+                                            <div class="Image__image___1PhYl Figure__image___1hDvt ArticleLedeImage__image___17_0r" role="button" tabindex="0">
+                                              {% include newyorker/image.html post=page %}
+                                            </div>
+                                        </div>
+                                    </div>
+                                </figure>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="articleBody" data-template="two-column" class="ArticleBody__articleBody___1GSGP">
+                        <div>
+                            <div>
+                                <div class="SectionBreak SectionBreak__sectionBreak___1ppA7"></div>
+                                <div class="SectionBreak SectionBreak__sectionBreak___1ppA7">
+                                  {{ page.content }}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% include article/sections/04-footer.html post=page %}
+                </div>
+            </main>
+            {% include article/sections/05-aside.html %}
+        </div>
 
-			{% include related-posts.html %}
+    </article>
 
-			{% if site.disqus_shortname and page.comments %}
-				<div id="disqus_thread"></div>
-				<script>
-						var disqus_shortname = '{{ site.disqus_shortname }}';
-						var disqus_config = function () {
-								this.page.url = "{{ page.url | prepend: site.url }}";
-								this.page.identifier = "{{ page.id }}";
-						};
-
-						(function() {  // DON'T EDIT BELOW THIS LINE
-								var d = document, s = d.createElement('script');
-
-								s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-
-								s.setAttribute('data-timestamp', +new Date());
-								(d.head || d.body).appendChild(s);
-						})();
-				</script>
-				<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-			{% endif %}
-		</div>
-	</div>
 </section>

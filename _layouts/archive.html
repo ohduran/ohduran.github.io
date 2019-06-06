@@ -1,21 +1,21 @@
 ---
 layout: default
+title: Archive
 ---
 
-<section class="hero" style="background-image: url(https://source.unsplash.com/MqJX_8EaStM/2000x1322)">
-	<div class="inner-hero text-container">
-		<div class="hero-text-container">
-			<h1>The latest news</h1>
-			<p class="subtext">Hear the latest progress on Frisco and tips on making life long friends.</p>
-		</div>
-	</div>
-</section>
+<!-- Begin List Posts
+================================================== -->
+<section class="recent-posts">
+<div class="section-title">
+    <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
+</div>
+<div class="row listrecent">
 
-<section>
-	<div class="text-container">
-		<p class="change-category">You're currently looking at posts categorised under <strong>{{ page.title }}</strong>. <a href="{{ site.baseurl }}/blog/">View all posts</a> instead.</p>
-		<ul class="blog-posts">
-			{% include list-posts.html posts=page.posts %}
-		</ul>
-	</div>
+{% for post in page.posts %}
+
+    {% include postbox.html %}
+
+{% endfor %}
+
+</div>
 </section>

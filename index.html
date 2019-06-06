@@ -1,57 +1,127 @@
 ---
-image: images/london-light.JPG
-image_about: images/profile_pic.JPG
-image_reading: images/sandiego.JPG
-image_contact: images/capco_conference.png
-bottom_image: https://unsplash.it/2000/1322?a=.png
+layout: default
+title: Home
 ---
 
-<section class="hero" style="background-image: url({% include relative-src.html src=page.image %})">
-	<div class="inner-hero text-container">
-		<div class="hero-text-container">
-			<h1 class="">Hi, I'm <a href="#learn-more">Álvaro</a>!</h1>
-			<p class="subtext">{% capture subtext %}{% include index-01-subtext.md %}{% endcapture %}{{ subtext | markdownify }}</p>
-			<!--<div class="cta button alt"><a href="#">Join Now</a></div>-->
-		</div>
-	</div>
+<section class="PageContainer__pageContent___1xERg undefined">
+    <div class="PageSections__container___2--Bs">
+        <!-- {% include newyorker/promoSection.html %} -->
 
+        <!-- IN THE NEWS / FEATURED -->
+        <section class="HeroSecondaryInTheNewsSection__sectionRow___1vXR7">
+            <div class="HeroSecondaryInTheNewsSection__sectionColumn___2JPO5">
+
+                <!-- In the News - Left and Centre Column -->
+                <div class="HeroSecondarySection__heroSecondarySectionColumn___1APEX">
+
+                    <!-- Hero Item -->
+                    <div class="HeroSecondarySection__heroSecondaryItemsColumn___2zjhd">
+                        <div data-track-type="recirc" data-track-location="mod-featured-header-alt" data-service="none" data-source="curated">
+                            <div class="Card__heroSecondaryHeroItems___3O_Xd">
+                                {% include newyorker/sections/01-in-the-news/hero-item.html %}
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END Hero Item -->
+
+                    <!-- Left Column -->
+                    {% include newyorker/sections/01-in-the-news/left-section.html %}
+                    <!-- END Left Column -->
+
+                    <!-- Under Hero Item -->
+                    <div data-track-type="recirc" data-track-location="mod-secondary-alt" data-service="none" data-source="curated" class="HeroSecondarySection__underHeroItemColumn___2TjUO">
+                        <div class="Card__underHeroItem___1eZ71">
+                            {% include newyorker/sections/01-in-the-news/below-item.html %}
+                        </div>
+                    </div>
+                    <!-- END Under Hero Item -->
+
+                </div>
+                <!-- END In the News - Left and Centre Column -->
+
+                <!-- Right Column -->
+                <div data-track-type="recirc" data-track-location="mod-in-the-news-alt" data-service="none" data-source="curated" class="InTheNewsSection__sectionColumn___3OyZT">
+
+                    {% include newyorker/sections/01-in-the-news/right-section.html %}
+
+                </div>
+                <!-- END Right Column -->
+            </div>
+        </section>
+        <!-- END IN THE NEWS / FEATURED -->
+
+        <!-- {% include newyorker/promoSection.html %} -->
+
+        <!-- Spotlight Section -->
+        {% include newyorker/sections/02-spotlight/section.html %}
+        <!-- END Spotlight Section -->
+
+        <!-- Latest Section -->
+        {% include newyorker/sections/03-latest/section.html %}
+        <!-- END Latest Section -->
+
+
+        <!-- {% include newyorker/promoSection.html %} -->
+
+        <!-- Contributors and Most Popular, Two Columns -->
+        <div class="ContributorsSection__twoColumn___3aCEa">
+
+          <!-- Contributors Section -->
+          {% include newyorker/sections/04-contributors-and-most-popular/contributors/section.html %}
+          <!-- END Contributors Section -->
+
+          <!-- Most Popular Section -->
+          {% include newyorker/sections/04-contributors-and-most-popular/most-popular/section.html %}
+          <!-- END Most Popular Section -->
+        </div>
+        <!-- END Two Columns -->
+
+        <!-- Video Section -->
+        {% if site.videoSection %}
+        {% include newyorker/sections/05-video/section.html %}
+        {% endif %}
+        <!-- END Video Section -->
+
+        <!-- Daily Cartoon Section -->
+        {% if site.dailyCartoonSection %}
+        {% include newyorker/sections/06-daily-cartoon/section.html %}
+        {% endif %}
+        <!-- END Daily Cartoon Section -->
+
+        <!-- Photo Booth Section -->
+        {% if site.photoBoothSection %}
+        {% include newyorker/sections/07-photo-booth/section.html %}
+        {% endif %}
+        <!-- END Photo Booth Section -->
+
+        <!-- Magazine Section -->
+        {% if site.magazineSection %}
+        {% include newyorker/sections/08-magazine/section.html %}
+        {% endif %}
+        <!-- END Magazine Section -->
+
+        <!-- From This Week Issue Section -->
+        {% if site.fromThisWeekSection %}
+        {% include newyorker/sections/09-from-this-week/section.html %}
+        {% endif %}
+        <!-- END From This Week Section -->
+
+        <!-- Our Columnists Section -->
+        {% if site.ourColumnistsSection %}
+        {% include newyorker/sections/10-our-columnists/section.html %}
+        {% endif %}
+        <!-- END Our Columnist Section -->
+
+        <!-- Podcasts Section -->
+        {% if site.podcastsSection %}
+        {% include newyorker/sections/11-podcasts/section.html %}
+        {% endif %}
+        <!-- END Podcast Section -->
+
+        <!-- Previous Coverage Section -->
+        {% if site.previousCoverageSection %}
+        {% include newyorker/sections/12-previous-coverage/section.html %}
+        {% endif %}
+        <!-- END Previous Coverage Section -->
+    </div>
 </section>
-
-<div class="content">
-
-	<section class="info" id="learn-more">
-		<div class="container flex">
-			<div class="text">
-				<h2 class="">Data Scientist, Mentor and Software Engineer</h2>
-				<p class="">{% capture about %}{% include index-02-about.md %}{% endcapture %}{{ about | markdownify }}</p>
-			</div>
-			<div class="image">
-				<img class="" src="{% include relative-src.html src=page.image_about %}" alt="Picture about section" />
-			</div>
-		</div>
-	</section>
-
-<!--	<section class="info">
-		<div class="container flex">
-			<div class="text">
-				<h2 class=""><a href="/reading">Reading</a></h2>
-				<p class="">{% capture reading %}{% include index-03-reading.md %}{% endcapture %}{{ reading | markdownify }}</p>
-			</div>
-			<div class="image">
-				<img class="" src="{% include relative-src.html src=page.image_reading %}" alt="Picture reading section" />
-			</div>
-		</div>
-	</section> -->
-
-	<section class="info" id="contact">
-		<div class="container flex">
-			<div class="text">
-				<h2 class=""><a href="/#contact">Contact</a></h2>
-				<p class="">{% capture contact %}{% include index-04-contact.md %}{% endcapture %}{{ contact | markdownify }}</p>
-			</div>
-			<div class="image">
-				<img class="" src="{% include relative-src.html src=page.image_contact %}" alt="Picture contact section" />
-			</div>
-		</div>
-	</section>
-</div>

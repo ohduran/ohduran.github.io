@@ -1,0 +1,20 @@
+<div data-track-type="recirc" data-track-location="mod-secondary-alt" data-service="none" data-source="curated" class="HeroSecondarySection__secondaryItemsColumn___WTSfd">
+  {% assign books = site.books | slice: -4, 2 %}
+    {% for post in books %}
+
+      <div class="Card__heroSecondarySecondaryItemsRest___38peE">
+          <div class="Card__content___2_jDO undefined">
+            {% include newyorker/categories.html post=post %}
+              <a class="Link__link___3dWao Card__imageLink___16N7I " href="{{ post.url }}">
+                  <div class="Image__image___1PhYl Card__image___OLrHW" role="button" tabindex="0">
+                      {% include newyorker/image.html post=post %}
+                  </div>
+              </a>
+              <a class="Link__link___3dWao  " href="{{ post.url }}"><h3 class="Card__hed___31cLY">{{ post.title }}</h3></a>
+              <!-- <p class="Card__dek___29Iu1">“South Kashmir is in a constant state of funerals,” a local political operator said, referring to fighting between Indian forces and Kashmiri militants. “We cannot go now and talk about votes.”</p> -->
+            {% include newyorker/author-and-date.html post=post %}
+          </div>
+      </div>
+
+    {% endfor %}
+</div>
