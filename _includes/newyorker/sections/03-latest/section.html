@@ -3,7 +3,8 @@
         <h5 class="LatestSection__sectionHeader___1xOSE">The Journal</h5>
         <div class="LatestSection__listContainer___3lMZ4">
 
-          {% for post in site.journal %}
+          {% assign recently_added = (site.journal | sort: "date") | reverse | slice: 0, 4 %}
+          {% for post in recently_added %}
                 <div class="Card__theLatest___2bNJt">
                     <div class="Card__content___10ZW7 Card__hasPhoto___2TFok">
                         <a class="Link__link___3dWao  " href="{{ post.url }}"><h3 class="Card__hed___3aD8c">{{ post.title }}</h3></a>
