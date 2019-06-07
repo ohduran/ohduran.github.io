@@ -1,11 +1,11 @@
 ---
-layout: page
-title: About
-permalink: /about
+layout: post
+title:  "My Story"
+date:   2019-06-07 15:00:00 +0100
+permalink: /mystory
+image: assets/images/logo.png
+description: Data Scientist, Mentor and Software Engineer | Physicist, MSc Finance
 ---
-
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
 
 <p>I'm a software engineer based in Barcelona, Spain. I write mostly Python, either in Django or using its Data Science stack.</p>
 
@@ -13,10 +13,8 @@ permalink: /about
 
 <p>I spent 3 years in London working as a Digital Consultant at <a href="https://capco.com/">Capco</a> and as a Data Scientist at <a href="https://octopuslabs.com/">Octopus Labs</a>.</p>
 
-<p>My background is in theoretical Physics. I also hold a master's degree in International Finance.</p>
-
-<p>I love teaching. And reading.</p>
-
+<p>My background is in theoretical Physics. I also hold a master's degree in International Finance. You can find a more structure version of my resume <a href="/resume">here</a>.</p>
+<!--
 </div>
 
 <!-- <div class="col-md-4">
@@ -29,5 +27,5 @@ permalink: /about
 <a target="_blank" href="https://www.patreon.com/aduranb" class="btn btn-danger">Become a Patron</a>
 
 </div>
-</div> -->
 </div>
+</div> -->

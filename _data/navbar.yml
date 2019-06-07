@@ -14,9 +14,9 @@
   label: Annual Letters
   url: /annual_letters
 
-- About:
-  label: About
-  url: /about
+- MyStory:
+  label: My Story
+  url: /mystory
 
 - FAQ:
   label: FAQs
