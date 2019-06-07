@@ -68,7 +68,7 @@ h1 {
 
 <!-- MAIN (Center website) -->
 <div class="main">
-{% assign posts = include.posts | slice: -5, 4 %}
+{% assign posts = include.posts | slice: -5, 4 | reverse %}
 <!-- Portfolio Gallery Grid -->
 <div class="row">
   {% for post in posts %}
