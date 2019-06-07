@@ -10844,7 +10844,7 @@ a:hover .IssueDate__issueDate___2e_OC {
  display:flex;
  -ms-flex-flow:column wrap;
  flex-flow:column wrap;
- padding:0
+ margin-bottom: 8.33333%;
 }
 @media (min-width:768px) and (max-width:1023px) {
  .HeroSecondarySection__heroSecondarySectionColumn___1APEX {
@@ -10852,7 +10852,7 @@ a:hover .IssueDate__issueDate___2e_OC {
   flex:0 0 83.33333%;
   max-width:83.33333%;
   width:83.33333%;
-  margin-left:8.33333%
+  margin-left:8.33333%;
  }
 }
 @media (min-width:1024px) {
@@ -10908,7 +10908,7 @@ a:hover .IssueDate__issueDate___2e_OC {
  display:-ms-flexbox;
  display:flex;
  -ms-flex-direction:column;
- flex-direction:column
+ flex-direction:column;
 }
 @media (min-width:1024px) {
  .HeroSecondarySection__underHeroItemColumn___2TjUO {
@@ -10929,9 +10929,10 @@ a:hover .IssueDate__issueDate___2e_OC {
 @media (min-width:1024px) and (max-width:1279px) {
  .HeroSecondarySection__underHeroItemColumn___2TjUO {
   height:24%;
-  margin:-27% 0 -27% 33.33333%
+  margin:-27% 0 -27% 33.33333%;
  }
 }
+
 .InTheNewsSection__sectionHeader___2_kyj {
  color:#000;
  font-family: Georgia,Times New Roman,Times,serif;
