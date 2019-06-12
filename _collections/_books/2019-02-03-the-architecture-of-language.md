@@ -6,7 +6,7 @@ categories: [books]
 tags: [language]
 permalink: /the-architecture-of-language
 image: https://images-na.ssl-images-amazon.com/images/I/41vgwOA%2BAZL.jpg
-description: "How to discover the structure of the language, the variations of our languages and how is it used in our brain."
+description: How to discover the structure of the language, the variations of our languages and how is it used in our brain.
 rating: 1
 ---
 

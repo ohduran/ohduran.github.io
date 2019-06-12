@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of Dogfooding"
+title:  "Dogfooding"
 date:   2018-05-11 15:00:00 +0100
 categories: journal
 permalink: /dogfooding

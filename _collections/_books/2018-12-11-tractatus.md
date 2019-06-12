@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Tractatus Logico-Philosophicus"
+title:  Tractatus Logico-Philosophicus
 author: Ludwig Wittgenstein
 categories: [books]
 tags: [language, infinity]
 permalink: /tractatus-logico-philosophicus
 image: https://images-na.ssl-images-amazon.com/images/I/51VK-KX6DML.jpg
-description: "Language is how we think, and all we can think is logical. Hence, what isn't logical cannot be discussed."
+description: Language is how we think, and all we can think is logical. Hence, what isn't logical cannot be discussed.
 rating: 4
 ---
 

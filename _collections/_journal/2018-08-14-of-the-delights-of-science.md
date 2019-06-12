@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of the Delights of Science"
+title:  "The Delights of Science"
 date:   2018-08-14 15:00:00 +0100
 categories: journal
 permalink: /the-delights-of-science

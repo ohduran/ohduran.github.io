@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Skin in the Game"
+title:  Skin in the Game
 author: Nassim Taleb
 categories: [books]
 tags: [language, power, war, politics, decision making, beliefs]
 permalink: /skin-in-the-game
 image: https://images-eu.ssl-images-amazon.com/images/I/41GWJnPEaJL.jpg
-description: "A discussion on having something to lose guiding our society's decision making."
+description: A discussion on having something to lose guiding our society's decision making.
 rating: 4.5
 ---
 > It's one thing to study war and another to live the warrior's life.

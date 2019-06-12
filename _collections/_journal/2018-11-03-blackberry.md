@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of Revolutions"
+title:  "Revolutions"
 date:   2018-11-03 15:00:00 +0100
 categories: journal
 permalink: /revolutions
