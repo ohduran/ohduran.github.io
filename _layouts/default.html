@@ -36,10 +36,9 @@
   <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 
 	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-{{ jekyll.environment }}
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131540516-1"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131540516-1" data-environment="{{ jekyll.environment }}"></script>
 	<script>
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
