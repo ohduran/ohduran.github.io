@@ -3311,7 +3311,8 @@ div+div>.NewsletterCallout__newsletterForm___KelJX {
 .MainHeader__topBarItems___13CTQ {
  height:115px;
  position:relative;
- transition:height .5s
+ transition:height .5s;
+ padding-top: 1em;
 }
 @media print {
  .MainHeader__subscribeLink___3TGEc {
