@@ -35,23 +35,12 @@
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
   <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-	{% if jekyll.environment == 'production' %}
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131540516-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-131540516-1');
-	</script>
-	{% endif %}
 </head>
 
 <body class="page-homepage">
-  <!-- SCRIPT 10 -->
-  <!-- SCRIPT 11 -->
+	{% if jekyll.environment == 'production' %}
+		{% include analytics.html %}
+	{% endif %}
 
     <div id="app-root">
         <div class="" data-reactroot="">
