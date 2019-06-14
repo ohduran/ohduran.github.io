@@ -2,9 +2,6 @@
 <html lang="en">
 
 <head>
-	{% if jekyll.environment == 'production' %}
-		{% include analytics.html %}
-	{% endif %}
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta itemprop="description" name="description" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
@@ -38,6 +35,9 @@
   <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
   <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
 	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+	{% if jekyll.environment == 'production' %}
+		{% include analytics.html %}
+	{% endif %}
 </head>
 
 <body class="page-homepage">
