@@ -2,6 +2,9 @@
 <html lang="en">
 
 <head>
+	{% if jekyll.environment == 'production' %}
+		{% include analytics.html %}
+	{% endif %}
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta itemprop="description" name="description" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
@@ -38,9 +41,6 @@
 </head>
 
 <body class="page-homepage">
-	{% if jekyll.environment == 'production' %}
-		{% include analytics.html %}
-	{% endif %}
 
     <div id="app-root">
         <div class="" data-reactroot="">
@@ -62,7 +62,7 @@
         </div>
     </div>
     <!-- SCRIPT 12 -->
-    <script async="" src="/js/homepage.7d0a95b98c3134ef7237.js"></script>
+    <!-- <script async="" src="/js/homepage.7d0a95b98c3134ef7237.js"></script> -->
     <!-- SCRIPT 13 -->
     <div>
         <div id="parsely-root" style="display:none">
