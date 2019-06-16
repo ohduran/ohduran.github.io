@@ -75,8 +75,8 @@ h1 {
   <div class="column">
     <div class="content img-secondary">
       {% include newyorker/categories.html post=post %}
-      {% include newyorker/image.html post=post %}
       <a class="Link__link___3dWao  " href="{{ post.url }}">
+          {% include newyorker/image.html post=post %}
           <h4 class="River__hed___re6RP">{{ post.title }}</h4>
       </a>
       {% include newyorker/author-and-date.html post=post %}
