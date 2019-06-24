@@ -14,13 +14,9 @@ rating: 4.5
 >
 >  —— *Language in Thought and Action*
 
-When I finished reading [Politics and the English Language](/politics-and-the-english-language), I was dissatisfied. Partly because of the realisation that, even if I agreed with Orwell that politics language twists the language to its advantage, I was left with no clue on how it does it, or how to avoid fall victim of its tricks. Like many academics, Orwell falls into the trap of thinking that politics is a bad form of English that must be corrected, that there is a “right English” that we should aim for.
+When I finished reading [Politics and the English Language](/politics-and-the-english-language), I was dissatisfied. Partly because of the realisation that, even if I agreed with Orwell that politics language twists the language to its advantage, I was left with no clue on how it does it, or how to avoid falling victim of its tricks. Like many academics, Orwell falls into the trap of thinking that politics is a bad form of English that must be corrected, that there is a “right English” that we should aim for.
 
-But the truth seems to point in a different direction.
-
-> Most of the attempts made to force living language into a doctrinaire program have failed resoundingly. […]  [Mussolini] covered Italy with posters commanding Italians to use the “voi” form instead [of the informal “tu”, whose English counterpart, “thou”, has disappeared]. His campaign failed. […] Language has usually proven stronger than the individual.
->
->  —— *Language in Thought and Action*
+But truth is, whatever number of people can Orwell reach out to, there's an incentive for politicians to twist the language to its advantage. If we all play fair, then unfair propositions have no chance. And politics sometimes require promoting unfair propositions.
 
 In some form or another, propaganda is the darwinian result of years and years of governments’ attempts to guide and manipulate public opinion into do something, believe something, or vote something. This undeniable fact is what made it successful, with advertisement being an extension of that. Avoiding dying metaphors and pretentious diction won’t save us from being at the mercy of propagandists.
 
@@ -31,7 +27,7 @@ We must, then, fully understand that darwinian process that probably started whe
 >  —— *Language in Thought and Action*
 
 ## The functions of Language
-When we say *survival of the fittest*, what do we usually refer to? Probably to the strongest, the fastest, the cruelest. The connotations of /the law of the jungle/ are in: only the lions survive.
+When we say *survival of the fittest*, what do we usually refer to? Probably to the strongest, the fastest, the cruelest. The connotations of *the law of the jungle* are in: only the lions survive.
 
 That is empirically incorrect, as we discussed in [Skin in the Game](/skin-in-the-game).
 
@@ -39,7 +35,7 @@ That is empirically incorrect, as we discussed in [Skin in the Game](/skin-in-th
 >
 >  —— *Skin in the Game*
 
-Human beings are gregarious animals, *talking* animals. And, unlike what Noam Chomsky postulated to be some sort of a /happy accident/ that turned a higher primate wandering around into a fully talkative human, we can definitely trace back the origins of language into the animals around us. Our utterances are, simply, more complex, and allow us humans to cooperate into a whole new level.
+Human beings are gregarious animals, *talking* animals. And, unlike what Noam Chomsky postulated to be some sort of a *happy accident* that turned a higher primate wandering around into a fully talkative human, we can definitely trace back the origins of language into the animals around us. Our utterances are, simply, more complex, and allow us humans to cooperate into a whole new level.
 
 > If someone shouts at you, “Look out!” And you jump just in time to avoid being struck by a car, you owe your escape from injury to the fundamental cooperative act [of communication by means of noises]. […] You had, for the time being, the advantage of an extra nervous system in addition to yours.
 >
@@ -55,12 +51,12 @@ In 2003, Michael Nielsen presented a talk in Brisbane, Australia, titled [Extrem
 >
 > Your task is to check to see if the following rule is obeyed by the cards. The rule is simply this: if a card has a vowel on one side, then it has an even number on the other side.
 >
-> Now let me ask you, which of these four cards would you /need/ to turn over to check that the rule is being obeyed? […]
+> Now let me ask you, which of these four cards would you *need* to turn over to check that the rule is being obeyed? […]
 > Now let me describe a second game. Imagine you’re working as a bouncer in a bar, There’s recently been a crackdown on underage drinking. As the bouncer you have to enforce the following rule: for a person to be drinking legally, they have to be 18 or older. […]
 >
 > You see four people at the bar. The first person is drinking a beer. The second person is drinking a Diet Coke. The third person is quite elderly […] you can’t see whether they’re drinking alcohol or not. The fourth person is just a kid […] you can’t see whether they’re drinking alcohol or not.
 >
-> The question to you is, as the bouncer, which of these people do you /need/ to check out, to see whether the rule is being obeyed correctly?
+> The question to you is, as the bouncer, which of these people do you *need* to check out, to see whether the rule is being obeyed correctly?
 >
 >  —— *Extreme Thinking*, Michael Nielsen
 
@@ -70,7 +66,7 @@ Humans are ill equipped to think in terms of abstractions. “That is the specia
 
 Every animal, including humans, struggle conveying abstractions, because they lack the association that humans have developed relatively recently: *symbology*. To a chimpanzee, a red light is a signal, and he reacts to it completely and invariably; to a human being, a red light is a symbol, and he reacts to it conditionally upon the circumstances. If a red light shows, a chimpanzee driver will stop regardless of it being in the middle of the crossing, and a green light will make him floor the throttle even if there is another car stalled in its path. For a chimpanzee, red light *is* stop, and green light *is* go.
 
-Human beings understand the difference, and have thus elaborated what we will call the /symbolic process/.  From feathers worn on their heads, to police officers wearing their uniforms and badges, and athletes collecting trophies, there are very few things that people do or want to do that do not have a symbolic value of some kind. Even money is symbolic; it stands for what the society agreed that you are entitled to.
+Human beings understand the difference, and have thus elaborated what we will call the *symbolic process*.  From feathers worn on their heads, to police officers wearing their uniforms and badges, and athletes collecting trophies, there are very few things that people do or want to do that do not have a symbolic value of some kind. Even money is symbolic; it stands for what the society agreed that you are entitled to.
 
 But it’s worth notice that money is just fancy paper, feathers in the head stand for some degree of authority for Native American tribes. Or worse:
 
@@ -78,7 +74,7 @@ But it’s worth notice that money is just fancy paper, feathers in the head sta
 >
 >  —— *Language in Thought and Action*
 
-Of all form of symbolism, language is the most sophisticated, subtle and complicated. Over the course of millennia, human beings have reached a self sustaining agreement over what various noises that they can produce with their body stand for. We call that system of agreement /language/. When someone experiences the need for food, he or she might make the noise “I’m hungry”, and his or her peers will understand what sensation he or she is signalling.  There is, however, *no connection between the symbol and that which is symbolised*. In the same way that feathers in the head are *simply birds’ feathers*, I can say “I’m hungry” or “Tengo hambre” or “Ich have Hunger” and, although the noises I’m making are completely different, some people will understand one of those utterances while disregarding the other two as babbling.
+Of all form of symbolism, language is the most sophisticated, subtle and complicated. Over the course of millennia, human beings have reached a self sustaining agreement over what various noises that they can produce with their body stand for. We call that system of agreement *language*. When someone experiences the need for food, he or she might make the noise “I’m hungry”, and his or her peers will understand what sensation he or she is signalling.  There is, however, *no connection between the symbol and that which is symbolised*. In the same way that feathers in the head are *simply birds’ feathers*, I can say “I’m hungry” or “Tengo hambre” or “Ich have Hunger” and, although the noises I’m making are completely different, some people will understand one of those utterances while disregarding the other two as babbling.
 
 No wonder we all have that vague sense that all foreign languages are inherently absurd! They all are, in a sense. They’re just *not absurd for a considerable amount of people*.
 
@@ -98,7 +94,7 @@ The map, as is commonly said, is *not the territory*. However, most of our knowl
 
 ## Reports, Inferences, Judgments
 
-To exchange information, and build our maps of reality, we rely on the basic symbolic act of /reporting/. Reports, if anything, are *verifiable*.
+To exchange information, and build our maps of reality, we rely on the basic symbolic act of *reporting*. Reports, if anything, are *verifiable*.
 
 > Given the proper resources, it can be verified —or, if inaccurate, it can be validated.
 >
@@ -106,13 +102,13 @@ To exchange information, and build our maps of reality, we rely on the basic sym
 
 It’s no wonder that, despite the polarised political environment that we live in, we usually reach consensus in the reports; they can be easily refuted, and are hard to come by. It’s a proof of work, so to say: someone has produced some kind of examination and, probably out of reciprocity— I would love someone to trust my work if I were to do the same— I trust that report. Plus, any piece of bullshit is one search away in my computer to get crushed.
 
-From those reports, we produce inferences. We extract conclusions from them; /logical propositions/ was the word that we used in [Tractatus](/tractatus-logico-philosophicus). In many areas of thought, especially in sciences, reports might be the foundations, but inferences form body. Scientists predict; otherwise their knowledge is not grounded on experience.
+From those reports, we produce inferences. We extract conclusions from them; *logical propositions* was the word that we used in [Tractatus](/tractatus-logico-philosophicus). In many areas of thought, especially in sciences, reports might be the foundations, but inferences form body. Scientists predict; otherwise their knowledge is not grounded on experience.
 
 Inferences can be careful or carelessly made. The [Mertens conjecture](https://en.wikipedia.org/wiki/Mertens_conjecture) is a famous example of a mathematical proposition that is true for the first 10,000 numbers, but was eventually proven to be false. They may be made on the basis of a broad background of previous experience, but nothing impedes the circumstances that supported that inference to change. Nassim Taleb has been one of the proponents of what he called [black swan events](https://en.wikipedia.org/wiki/Black_swan_theory), those occasions where probabilities are badly constructed and a theory gives us an unrealistic view of the future. Just because the map is pretty doesn’t mean that the mermaids are really there.
 
 In any case, inferring may be grounded on experience; judgments are based on inferences and biases that may have nothing to do with real life.
 
-> To say “Jerry was convicted of theft and served two years in San Quentin” is a verifiable report […]. To say a man is a “thief” is to say in effect, “He has stolen /and will steal again/“— which is more a prediction than a report.
+> To say “Jerry was convicted of theft and served two years in San Quentin” is a verifiable report […]. To say a man is a “thief” is to say in effect, “He has stolen *and will steal again*“— which is more a prediction than a report.
 >
 >  —— *Language in Thought and Action*
 
@@ -131,7 +127,7 @@ Moreover, judging is more than just expressing complex ideas in simple emotional
 The aim is to think clearly; with some effort, anyone can with imagination and insight look at the same subject from different angles. “What is the angle?” should no longer be a valid question.
 
 ## Context
-If language is an agreement, it makes sense to think of dictionaries as repositories of that agreement. But the writing of a dictionary isn’t the discussion of what a word means based on the expertise of a group of people. Instead, the writer of a dictionary is more a historian, not a lawgiver: his or her task is to record what various words /have meant/ to authors in the distant or immediate past.
+If language is an agreement, it makes sense to think of dictionaries as repositories of that agreement. But the writing of a dictionary isn’t the discussion of what a word means based on the expertise of a group of people. Instead, the writer of a dictionary is more a historian, not a lawgiver: his or her task is to record what various words *have meant* to authors in the distant or immediate past.
 
 > Looking under a “hood”, we should ordinarily have found, five hundred years ago, a monk; today, we find an automobile engine.
 >
@@ -139,7 +135,7 @@ If language is an agreement, it makes sense to think of dictionaries as reposito
 
 We learn words from *verbal context*. I get that all the time when I’m asked about the translation of certain word. The first question I usually ask in return is “where did you find that word written?”. We learn the meanings of all our words not from dictionaries, but from hearing those words as they accompany actual situations.
 
-When we discussed [How to Read a Book](/how-to-read-a-book), the process of /coming to terms/ with the author appeared frequently at many stages in the overall process of reading a book. Coming to terms was finding what the important words meant for the author, and closing the gap with what those same words meant to you, so that both the author and the reader were speaking the same language, agreeing to certain ways of speaking about things.
+When we discussed [How to Read a Book](/how-to-read-a-book), the process of *coming to terms* with the author appeared frequently at many stages in the overall process of reading a book. Coming to terms was finding what the important words meant for the author, and closing the gap with what those same words meant to you, so that both the author and the reader were speaking the same language, agreeing to certain ways of speaking about things.
 
 Coming to terms is, in this book, finding the proper context. That’s why we make a distinction between *extensional meaning*, something that cannot be expressed in words, but in the context of how the word is used, and *intensional meaning*, what we construct in our heads when we hear that word.
 
@@ -149,7 +145,7 @@ Coming to terms is, in this book, finding the proper context. That’s why we ma
 
 In [How to Read a Book](/how-to-read-a-book), the authors considered that agreement could *always* be reached. They said that the reader “should admit a point when he sees it, but he also should not feel whipped by having to agree with an author, instead of dissenting: his problem is emotional rather than intellectual”.
 
-If no agreement can be reached, that means that the approach to our discussion is emotional, not rational, or that the context we use to internally define our terms is different. In this book, agreement is, too, always possible. What isn’t agreeable, paraphrasing Wittgenstein’s [Tractatus](/tractatus-logico-philosophicus), /we must pass over in silence/.
+If no agreement can be reached, that means that the approach to our discussion is emotional, not rational, or that the context we use to internally define our terms is different. In this book, agreement is, too, always possible. What isn’t agreeable, paraphrasing Wittgenstein’s [Tractatus](/tractatus-logico-philosophicus), *we must pass over in silence*.
 
 ## The Double Task of Language
 > Tens of thousands of years have elapsed since we shed our tails, but we are still communicating with a medium developed to meet the needs of arboreal man…
@@ -172,7 +168,7 @@ The old confusion of words with the things they symbolise manifests itself in ho
 
 The ramifications are endless, and worth mentioning. The conflicts are often an index to social concerns over the reality that the words refer to. When addressing the issue of social discrimination in language, many people ask whether using the word ‘man’ unearths biases that are unfair to women built into the English language. In Spain, there has been efforts [to rewrite the Constitution to be more inclusive](https://conlaa.com/lenguaje-inclusivo-constitucion-espanola/), and in Canada there’s been [an amend to the Canadian Human Rights Act and the Criminal Code](https://en.wikipedia.org/wiki/An_Act_to_amend_the_Canadian_Human_Rights_Act_and_the_Criminal_Code)to increase sentences for individuals who commit crimes motivated by bias based on gender expression that some have argued [could be forcing compelled speech for gender pronouns](https://www.youtube.com/watch?v=fvPgjg201w0).
 
-Should we demand that all writers adopt a ‘nonsexist’ vocabulary? History has proven over and over— Jonathan Swift against using the word ‘mob’, Samuel Johnson resisting to use the word ‘civilisation’ and Mussolini forcing Italians to use the informal ‘/tu/’ instead of ‘/voi/‘— prove that social forces that shaped the language contract cannot be changed easily. The fact is, however, that the presence or absence of ‘politically incorrect’ terms has no necessary connection with the presence or absence of the corresponding attitudes.
+Should we demand that all writers adopt a ‘nonsexist’ vocabulary? History has proven over and over— Jonathan Swift against using the word ‘mob’, Samuel Johnson resisting to use the word ‘civilisation’ and Mussolini forcing Italians to use the informal ‘*tu*’ instead of ‘*voi*‘— prove that social forces that shaped the language contract cannot be changed easily. The fact is, however, that the presence or absence of ‘politically incorrect’ terms has no necessary connection with the presence or absence of the corresponding attitudes.
 
 One curious fact about the words we apply to debated issues such as race, religion, political heresy and economic dissent is this:
 
@@ -208,11 +204,11 @@ What is the good that is done to us in these rituals is the *reaffirmation of so
 >
 >  —— Thurman Arnold
 
-If the informative use of language deals with verifiable facts, then *directive* uses of language deal with the relationship between words and future events. When we say “Come here!” we are trying to /make something happen/.
+If the informative use of language deals with verifiable facts, then *directive* uses of language deal with the relationship between words and future events. When we say “Come here!” we are trying to *make something happen*.
 
 We make things happen by means of orders, demands, requests, pleas, prays or supplications. Unlike animals, we humans are unique in our ability to react meaningfully to expressions such as ‘next Sunday’. Our capacity to trade things with our future self, or future peers, is what made progress possible; *we make maps for territories that are not there yet*.
 
-If directive language is to be effective, it must make use of the affective element available in language, even /nonverbal appeals/. Sermons and religious exhortations may be supplemented by costumes and choirs; politicians reinforce their speeches with flags and parades. Some business want us to buy their products, so they will seek to produce delusions and fantasies if that’s what it takes.
+If directive language is to be effective, it must make use of the affective element available in language, even *nonverbal appeals*. Sermons and religious exhortations may be supplemented by costumes and choirs; politicians reinforce their speeches with flags and parades. Some business want us to buy their products, so they will seek to produce delusions and fantasies if that’s what it takes.
 
 In any case, directive utterances say something about the future, and that *implies a promise*: that if we do the things they tell us to do, certain consequences will follow. The fact that some promises are kept or not is irrelevant for this to be effective: that will be verifiable only later.
 
@@ -245,11 +241,11 @@ The ‘object’ of our experience is not itself, but an /interaction between ou
 >
 >  —— Morpheus, *The Matrix*
 
-Great movie, by the way. [Too bad they never made any sequels](https://www.xkcd.com/566/). As we saw, and unlike chimpanzees, we symbolise things into objects. When we say ‘this is Bessie the cow’, we are only noting the aggregation of subatomic particles and processes that sum up to something that can be perceived as ‘Bessie’, calling it by a name, and noting its resemblance to other ‘cows’ while /ignoring the differences/.
+Great movie, by the way. [Too bad they never made any sequels](https://www.xkcd.com/566/). As we saw, and unlike chimpanzees, we symbolise things into objects. When we say ‘this is Bessie the cow’, we are only noting the aggregation of subatomic particles and processes that sum up to something that can be perceived as ‘Bessie’, calling it by a name, and noting its resemblance to other ‘cows’ while *ignoring the differences*.
 
-The object we see is an abstraction of the lowest level, but an abstraction nevertheless from the fact that Bessie simply /isn’t there/. The word ‘cow’ selects only the similarities between Bessie, Daisy and Rosie, and leaves out even more things about Bessie. The process goes on and on: ‘livestock’, ‘farm asset’, ‘asset’, ‘wealth’… It’s what we call an *Abstraction Ladder*.
+The object we see is an abstraction of the lowest level, but an abstraction nevertheless from the fact that Bessie simply *isn’t there*. The word ‘cow’ selects only the similarities between Bessie, Daisy and Rosie, and leaves out even more things about Bessie. The process goes on and on: ‘livestock’, ‘farm asset’, ‘asset’, ‘wealth’… It’s what we call an *Abstraction Ladder*.
 
-This process of abstracting ignores ‘the whole truth’ at the expense of reaching collective understanding. It /makes discussion possible/ by reducing the mental effort to perceive what it is that makes Bessie a cow. As we mentioned before, we learn words through context; that learning can only happen if we can distill what it is that is common between Bessie, Daisy and Rosie.
+This process of abstracting ignores ‘the whole truth’ at the expense of reaching collective understanding. It *makes discussion possible* by reducing the mental effort to perceive what it is that makes Bessie a cow. As we mentioned before, we learn words through context; that learning can only happen if we can distill what it is that is common between Bessie, Daisy and Rosie.
 
 > A producer of educational films once remarked to me that it is impossible to make a shot of ‘work’. You can shoot Joe hoeing potatoes, Susan polishing her car, Bill spraying paint on a barn, but never just ‘work’.
 >
@@ -257,7 +253,7 @@ This process of abstracting ignores ‘the whole truth’ at the expense of reac
 
 Banks do it all the time; they picture a [coffee van](https://www.santander.co.uk/business), a [factory](https://www.business.hsbc.uk/?DCSext.nav=foot-mat) or simply a [bullet journal where one can read ‘bullet journal’ jotted down](https://www.barclays.co.uk/business-banking/).
 
-Take for instance the concept of weight; one can try to define it, but in the end is all about /how we come up with the number of kilograms someone weights/:
+Take for instance the concept of weight; one can try to define it, but in the end is all about *how we come up with the number of kilograms someone weights*:
 
 > The operational definition, then, as Anatol Rapoport explains, is one that tells you what to do and what to observe in order to bring the thing defined or its effects within the range of one’s experience. He gives the following simple example of how to define ‘weight’: go to a railroad station or drugstore, look for a scale, stand on it, put in a penny, read the number at which the pointer comes to rest. That is your weight. […]
 > Just as there is no such thing as length apart from the operations by which length is measured, there is likewise no ‘democracy’ apart from the sum total of democratic practices, as as universal franchise, freedom of speech, equality before the law, and so on.
@@ -270,7 +266,7 @@ Unfortunately, there is a tendency to speak with disdain of abstractions. But th
 >
 >  —— *Language in Thought and Action*
 
-The test of abstractions is /whether they are referable to lower levels/. If so, they can be brought down to concrete examples; they can be *verified*. They are indeed reports, and not just prejudice.
+The test of abstractions is *whether they are referable to lower levels*. If so, they can be brought down to concrete examples; they can be *verified*. They are indeed reports, and not just prejudice.
 
 Some people, according to Wendell Johnson’s [People in Quandaries](https://www.amazon.com/People-Quandaries-Semantics-Personal-Adjustment/dp/091897027X), remain more or less permanently stuck at certain levels of the abstraction ladder. Some on the lower levels— those that describe vacation trips in letters by [detailing what they are doing or what they are eating](https://www.youtube.com/watch?v=3Y6-11P8S1o)—, and some on the higher ones— often, politicians. In 1998, Bill Clinton denied having committed perjury when he said that "there is not a sexual relationship" with Monica Lewinsky because, according to him, the fact that certain acts were performed "on him”, not by him, means that he did not engage in sexual relations.
 
@@ -295,9 +291,9 @@ In a wider sense, people confuse levels of abstractions: what’s in their heads
 
 In reality, we should not be saying “The pencil is yellow”, but instead “I see something that has characteristics which lead me to call it pencil. This thing that I call pencil has a further characteristic that lead me to say it is ‘yellow’”. And we would bore each other to death, running around in circles and making no progress whatsoever.
 
-The more complicated civilisation becomes, the more we left behind this primitive relationship between throwing virgins into volcanoes and the happiness of the gods, the more conscious we must be that /we must leave certain features of things we deal with in our heads in order to communicate/. In Ralph Ellison’s novel [Invisible Man](https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764), the narrator suggests that many whites, on encountering someone black, would see only the abstraction “black” that they carry in their heads; busy thinking of that ‘little man who wasn’t there’, they didn’t notice the actual individual.
+The more complicated civilisation becomes, the more we left behind this primitive relationship between throwing virgins into volcanoes and the happiness of the gods, the more conscious we must be that *we must leave certain features of things we deal with in our heads in order to communicate*. In Ralph Ellison’s novel [Invisible Man](https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764), the narrator suggests that many whites, on encountering someone black, would see only the abstraction “black” that they carry in their heads; busy thinking of that ‘little man who wasn’t there’, they didn’t notice the actual individual.
 
-## /Exceptio probat regulum/
+## *Exceptio probat regulum*
 
 > For of course the true meaning of a term is to be found by observing what a man does with it, not by what he says about it.
 >
@@ -309,13 +305,13 @@ When we name something, we are classifying. The individual object, of course, ha
 >
 >  —— *Language in Thought and Action*
 
-By the definition once accepted widely, any person with even a small amount of “Negro blood”— that is, whose ancestors were classified as “Negroes”— is “black”. It could be argued /the same thing about whiteness/. The fact that it used to be one thing but not the other is because that system of classification *suited the convenience of those making the classification*. Classifications /reflect a social conveniency or necessity/— and different necessities are always producing different classifications.
+By the definition once accepted widely, any person with even a small amount of “Negro blood”— that is, whose ancestors were classified as “Negroes”— is “black”. It could be argued *the same thing about whiteness*. The fact that it used to be one thing but not the other is because that system of classification *suited the convenience of those making the classification*. Classifications *reflect a social conveniency or necessity*— and different necessities are always producing different classifications.
 
 > When one person kills another, is it an act of murder, an act of temporary insanity, an act of homicide, an accident, or an act of heroism? As soon as the process of classification is completed, our attitudes and our conduct are, to a considerable degree, determined. We hang the murderer, we treat the insane, we absolve the victim of circumstance, we pin a medal on the hero.
 >
 >  —— *Language in Thought and Action*
 
-We talk about ‘snap judgments’, like Daniel Kahnemann did on [Thinking, Fast and Slow](/), suggesting that prejudices can be avoided by thinking more slowly; this is definitely not the case, /for some people think very slowly with no better results/.
+We talk about ‘snap judgments’, like Daniel Kahnemann did on [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0141033576), suggesting that prejudices can be avoided by thinking more slowly; this is definitely not the case, *for some people think very slowly with no better results*.
 
 Reactions such as “A Jew’s a jew” suggests that the denoted, extensional jew, is the fictitious one inside one’s head. People like Einstein, Woody Allen or Henry Kissinger happen to be jews, people who have gained the admiration of many people, and someone reacting that way can be confronted with the observation. These are usually treated as “exceptions”. At this point, *they will go on saying “But exceptions only prove the rule”, which is another way of saying “Facts don’t count”*.
 
@@ -323,7 +319,7 @@ Reactions such as “A Jew’s a jew” suggests that the denoted, extensional j
 >
 >  —— *Language in Thought and Action*
 
-Such assertions, like “woman drivers are woman drivers”, although it looks like a “simple statement of fact” is not simple and is not a fact. The first “woman driver” denotes the case under discussion; the second one invokes the /connotations/ of the concept.
+Such assertions, like “woman drivers are woman drivers”, although it looks like a “simple statement of fact” is not simple and is not a fact. The first “woman driver” denotes the case under discussion; the second one invokes the *connotations* of the concept.
 
 Many semantic problems are, ultimately, problems of classification and nomenclature.
 
@@ -335,7 +331,7 @@ Many semantic problems are, ultimately, problems of classification and nomenclat
 >
 >  —— *Language in Thought and Action*
 
-The decision finally rests upon /what society wants/, even if it must waits until the conditions of justice accommodate that way of thinking. When the desired decision is handed down, people will say “Truth has triumphed”, or “Justice has been done”. Demanding justice is merely asking to be told you’re right.
+The decision finally rests upon *what society wants*, even if it must waits until the conditions of justice accommodate that way of thinking. When the desired decision is handed down, people will say “Truth has triumphed”, or “Justice has been done”. Demanding justice is merely asking to be told you’re right.
 
 > Society, in short, regards as “true” those systems of classification that produce the desired results.
 >
@@ -347,21 +343,21 @@ The decision finally rests upon /what society wants/, even if it must waits unti
 >
 >  —— *Jerome Frank*
 
-In terms of a single desire, there are only two values; things that gratify it, and things that frustrate it. If we are starving, there are two kind of things in this world: edible and inedible things. If we are in danger, things can be fearful or can protect us. /Life at such basic levels of existence can be folded down in the middle/. All good is on one side, all bad is on the other, and everything is accounted for, because things that are irrelevant to our interests are invisible to our attention, like the [monkey experiment](/). This attitude to divide the world into two opposing forces and to ignore the existence of anything in-between will be called /two-valued orientation/.
+In terms of a single desire, there are only two values; things that gratify it, and things that frustrate it. If we are starving, there are two kind of things in this world: edible and inedible things. If we are in danger, things can be fearful or can protect us. *Life at such basic levels of existence can be folded down in the middle*. All good is on one side, all bad is on the other, and everything is accounted for, because things that are irrelevant to our interests are invisible to our attention, like the [monkey experiment](https://www.youtube.com/watch?v=vJG698U2Mvo). This attitude to divide the world into two opposing forces and to ignore the existence of anything in-between will be called *two-valued orientation*.
 
-This ability to direct and mobilise one’s entire mental and physical resources in the face of danger— the famous [fight or flight mechanism](/)—, has been a condition for the survival of the human race. However, it fails to acknowledge the subsequent steps of agreement that human beings engage into when there is nothing to fear.
+This ability to direct and mobilise one’s entire mental and physical resources in the face of danger— the famous [fight or flight mechanism](https://en.wikipedia.org/wiki/Fight-or-flight_response)—, has been a condition for the survival of the human race. However, it fails to acknowledge the subsequent steps of agreement that human beings engage into when there is nothing to fear.
 
 In most modern democratic systems, there happens to be a two-political system like the one in the United States (probably due to imitation). Under that system, two-valued pronouncements are frequent. We could argue that the current polarisation of the political arena is the consequence of making these kind of attitudes normal; even though in most issues there could be agreements between these two major parties, democracies in their current approach emphasise those areas where differences arise.
 
 You’ve watched this happen, more or less. Not a shadow or praise or even extenuation is offered to the opposing party in political speeches or conventions. It just doesn’t pay to be subtle in politics. An increasing portion of the electorate— if not a majority nowadays— take this two-valued orientation seriously. However, on the whole, it’s difficult to maintain a two-party system of government, as history has proven over and over.
 
-When a nation’s traditions permit a political party to behave as if it is so good for the country that no other party should be allowed in the room, there is /immediate silencing of opposition/. From that mindset, it makes perfect sense: the nation deserves the very best. In such case, the party’s interests become the interests of the nation as a whole.
+When a nation’s traditions permit a political party to behave as if it is so good for the country that no other party should be allowed in the room, there is *immediate silencing of opposition*. From that mindset, it makes perfect sense: the nation deserves the very best. In such case, the party’s interests become the interests of the nation as a whole.
 
 > Discussion of matters affecting our existence and that of the nation must cease altogether. Anyone who dares to question the rightness of the National Socialist outlook will be branded as traitor.
 >
 >  —— Herr Sauckel, Nazi Governor of Thuringia, 1933
 
-The connection between the two-valued orientation and combat is apparent in the history of Nazism: from the moment Hitler achieved power, he told the German people that they were surrounded by enemies, and called upon to act /as if/ war were already in progress. Even education was made to serve this purpose:
+The connection between the two-valued orientation and combat is apparent in the history of Nazism: from the moment Hitler achieved power, he told the German people that they were surrounded by enemies, and called upon to act *as if* war were already in progress. Even education was made to serve this purpose:
 
 > The task of universities is not to teach objective science, but the militant, the warlike, the heroic.
 >
@@ -373,9 +369,9 @@ The cruelties of the Nazis have been received with incredulity and repulse from 
 >
 >  —— *Language in Thought and Action*
 
-[Brave New World](/)’s author Aldous Huxley has said that it is the function of propaganda is to enable people to do in cold blood things that they could otherwise do only in the heat of passion. Two-valued propaganda has precisely this effect.
+[Brave New World](https://www.amazon.com/Brave-New-World-Vintage-Classics/dp/0099477467?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0099477467)’s author Aldous Huxley has said that it is the function of propaganda is to enable people to do in cold blood things that they could otherwise do only in the heat of passion. Two-valued propaganda has precisely this effect.
 
-To an extent that we are referring to logic, two-valued orientations are OK. “One plus one equals two” is /true/, and every other answer is /false/. Trying to bring this reasoning where words are slippery and fail us is where two-valued orientations no longer apply.
+To an extent that we are referring to logic, two-valued orientations are OK. “One plus one equals two” is *true*, and every other answer is *false*. Trying to bring this reasoning where words are slippery and fail us is where two-valued orientations no longer apply.
 
 > Logic can lead to agreement only when, as in mathematics or the sciences, there are pre-existing, hard-and-fast agreements as to what words stand for.
 >
@@ -383,13 +379,13 @@ To an extent that we are referring to logic, two-valued orientations are OK. “
 
 Even in mathematics, two-valued logic is only one of many approaches; probability is the basis of which insurance companies quote premiums, and it may be regarded as an infinite-valued logic.
 
-One factor that contributes to difficulties in thinking clearly is the nature of language. You need to visualise what “rich people” are in order to understand what “poor people” mean. Some concepts are defined in terms of what everything else /is not/.
+One factor that contributes to difficulties in thinking clearly is the nature of language. You need to visualise what “rich people” are in order to understand what “poor people” mean. Some concepts are defined in terms of what everything else *is not*.
 
 When someone says that politics has become “too emotional”, we usually assume that two-valued speeches are a consequence of that turn into emotions; but what if it’s the opposite? what if the forced two-valued orientation of political speech for shortsighted interests has led to this?
 
 ## Multi-valued orientation
 
-Except in violent controversies, the language of everyday life shows what may be termed as multi-valued orientation. We have /scales/ of judgement.
+Except in violent controversies, the language of everyday life shows what may be termed as multi-valued orientation. We have *scales* of judgement.
 
 > For weighing the various and complicated desires that civilization gives rise to, a finely graduated scale of values is necessary, as well as foresight, lest in satisfying one desire we frustrate even more important ones.
 >
@@ -415,7 +411,7 @@ Any TV debate is a variation of this; since both sides can do little other than 
 >
 >  —— *Language in Thought and Action*
 
-Milton Rokeach’s [The Open and Closed Mind](/) put matters as simply as possible in terms of a communicative event: the listener may either accept or reject the speaker, and he may accept or reject the statement. Thus, there are only 4 possible reactions to the communication as a listener.
+Milton Rokeach’s [The Open and Closed Mind](https://www.amazon.com/Open-Closed-Mind-Investigations-Personality/dp/1614278164/ref=sr_1_1?keywords=the+open+and+closed+mind&qid=1561395887&s=books&sr=1-1) put matters as simply as possible in terms of a communicative event: the listener may either accept or reject the speaker, and he may accept or reject the statement. Thus, there are only 4 possible reactions to the communication as a listener.
 
 1. Accept the speaker and Accept the statement
 2. Accept the speaker and Reject the statement
@@ -436,7 +432,7 @@ Two things are happening nowadays that prevent us from realising that the map is
 
 ## The Dime in the Juke Box
 
-So far we have discussed particular kinds of misevaluations that we can call /intensive orientation/:
+So far we have discussed particular kinds of misevaluations that we can call *intensive orientation*:
 
 1. The unawareness of contexts
 2. The tendency towards automatic reactions
@@ -444,7 +440,7 @@ So far we have discussed particular kinds of misevaluations that we can call /in
 4. The consciousness of similarities, but not of differences
 5. The habit of being content to explain words by means of definitions
 
-When we are intensionally oriented, words mean /what we say they mean/. “Politicians must be untrustworthy because all they do is ‘play politics’”. If our intensional orientations are serious, therefore, we can manufacture verbally a whole system of values out of the connotations of any term, and jump from one connotation to another indefinitely. The map becomes independent of the territory, and we can add castles upon castles in the sky.
+When we are intensionally oriented, words mean *what we say they mean*. “Politicians must be untrustworthy because all they do is ‘play politics’”. If our intensional orientations are serious, therefore, we can manufacture verbally a whole system of values out of the connotations of any term, and jump from one connotation to another indefinitely. The map becomes independent of the territory, and we can add castles upon castles in the sky.
 
 > Once we get started, we can spin out whole essays, sermons, books, and even philosophical systems on the basis of the word ‘churchgoer’.
 >
@@ -454,11 +450,11 @@ This is why many speakers and coaches can speak at a moment’s notice on any su
 
 Let’s say that a certain churchgoer, a word we have associated with ‘good Christian’, ‘faithfulness’, ‘honesty’, ‘sobriety’ and so on, is discovered to be unfaithful to his wife.
 
-A question arise: /How can a man be a churchgoer and such a bad person at the same time?/ Unable to separate the intensional from the extensional ‘churchgoer’, such people are forced to one of the following conclusions:
+A question arise: *How can a man be a churchgoer and such a bad person at the same time?* Unable to separate the intensional from the extensional ‘churchgoer’, such people are forced to one of the following conclusions:
 
 1. “This is an exceptional case”
 2. “He isn’t really that bad— he can’t be”
-3. “You can’t believe in /anything/ anymore”
+3. “You can’t believe in *anything* anymore”
 
 The important fact to be noticed about such absurd attitudes is  that *we should never have made nor so blinded ourselves in the first place*. They aren’t the product of ignorance, for genuine ignorance doesn’t have attitudes. It is likely that part of this false knowledge comes out of confusing levels of abstraction and the universal attitude of *talking too much*.
 
@@ -476,7 +472,7 @@ We’ve seen this behaviour before, on [How to Read a Book](/how-to-read-a-book)
 
 The fundamental purpose of advertising is to suspend any reasonable weighing of pros and cons and insert a ‘cassette’ into our decision making ‘cassette player’. Its main endeavour is to glamourise the objects to be sold by attaching to them all sort of desirable affective connotations.
 
-There’s more. Sometimes, they find ways to make the facts appear to be unique to certain products. Don Draper knows it well; he invented [It’s toasted](/).
+There’s more. Sometimes, they find ways to make the facts appear to be unique to certain products. Don Draper knows it well; he invented [It’s toasted](https://www.youtube.com/watch?v=X4p_oCFLdJE).
 
 > Many advertisers prefer that we be governed by automatic reactions to brand names rather than by thoughtful consideration of the facts about their products. […] The buyer must be ‘presold’ before arriving at the market.
 >
@@ -494,7 +490,7 @@ The problem is, the book we are talking about already highlights this issue, and
 >
 — *Language in Thought and Action*
 
-Is the series [Suits](/) a lawyer drama, or a long ad for Tom Ford clothing? Is the final rounds of Roland Garros a sports event, or a 5 hour long Nike’s commercial? Is [native advertising](/) an ad or a piece of news?
+Is the series [Suits](https://en.wikipedia.org/wiki/Suits_(American_TV_series)) a lawyer drama, or a long ad for Tom Ford clothing? Is the final rounds of Roland Garros a sports event, or a 5 hour long Nike’s commercial? Is [native advertising](https://en.wikipedia.org/wiki/Native_advertising) an ad or a piece of news?
 
 What we see on TV, what we are told over the Internet on any platform is simply an abstraction. Like most man-made images, it’s an array of pixels, each one uniquely coloured, that human eyes assemble into an “image”; electronic impulses for subsequent transmission and reproduction. Reality is reduced to simple computer code. An unwritten rule is that the camera never shows evidence of its own presence; you’ll never notice the queues to climb the Everest, how many people take a picture of the Mona Lisa at the same time; or how the camera on a music concert stages every moment of the show.
 
@@ -508,9 +504,9 @@ Yet another level of abstraction occurs: the time constraint.
 >
 >  —— *[Skin in the Game](/skin-in-the-game)*
 
-And if pictures is what give media its power, excessive reliance on them constitutes its weakness. News focus on things that can easily be /pictured/: it’s hard to televise houses not being built, rents increasing, or employment declining. War is easily televisable; some would say that the Vietnam War was lost in America’s living room.
+And if pictures is what give media its power, excessive reliance on them constitutes its weakness. News focus on things that can easily be *pictured*: it’s hard to televise houses not being built, rents increasing, or employment declining. War is easily televisable; some would say that the Vietnam War was lost in America’s living room.
 
-And last, media’s power rely on the stimulation of intense emotions. Recall when we said that emotions and two-valued orientations are interdependent? It’s no wonder that a society constantly bombarded by emotional content via every channel available has grown to become two-value oriented /by default/.
+And last, media’s power rely on the stimulation of intense emotions. Recall when we said that emotions and two-valued orientations are interdependent? It’s no wonder that a society constantly bombarded by emotional content via every channel available has grown to become two-value oriented *by default*.
 
 TV, social networks, newspapers… media is a shared set of experiences; the fact that there is so much tunnelling, sieving and filtering involved from what is really going on to what is shown to us should be constantly in our forefront, and whatever information we extract from it must be taken with a grain of salt.
 
@@ -536,7 +532,7 @@ In the rat experiment, it is the insolubility of the problem that leads to its n
 
 1. First, they are trained to make a given choice habitually when confronted with a given problem.
 2. Second, they get a terrible shock when they find that the conditions have changed and that the choice doesn’t produce the expected results (like when the computer suddenly shuts down and, however firmly you press the power button, it doesn’t turn on).
-3. Third, whether through shock or anxiety, they may fixate on the original choice and continue to make it regardless of consequences (have you ever pressed the power button /a million times yet?/).
+3. Third, whether through shock or anxiety, they may fixate on the original choice and continue to make it regardless of consequences (have you ever pressed the power button *a million times yet?*).
 4. Fourth, they refuse to act at all.
 5. When by external compulsion they are forced to make a choice, they again make the one they were originally trained to make,
 6. Finally, even with the goal visible in front of them, to be attained simply by making a different choice, they go crazy out of frustration.
@@ -549,11 +545,11 @@ Is this an exaggerated picture? Then you have never blown onto a Nintendo game t
 >
 >  —— *Language in Thought and Action*
 
-A basic reason for such insoluble problems in society is what we may call “institutional inertia”. An institution, in sociology, is an organised pattern of group behaviour. The key is that this patterns are well-established, more or less uniform throughout a social group. People in communist societies accept and perpetuate communism habits of economic behaviour, and so do capitalistic people with capitalistic habits; soldiers, bankers and stockbrokers look at the world through a soldier’s, banker’s or stockbroker’s eyes, and abstract from it what they are trained to abstract. Through long habituation to an institutional way of looking at the world, each tends to believe that this abstractions of reality /are/ reality.
+A basic reason for such insoluble problems in society is what we may call “institutional inertia”. An institution, in sociology, is an organised pattern of group behaviour. The key is that this patterns are well-established, more or less uniform throughout a social group. People in communist societies accept and perpetuate communism habits of economic behaviour, and so do capitalistic people with capitalistic habits; soldiers, bankers and stockbrokers look at the world through a soldier’s, banker’s or stockbroker’s eyes, and abstract from it what they are trained to abstract. Through long habituation to an institutional way of looking at the world, each tends to believe that this abstractions of reality *are* reality.
 
-Once we are used to those institutions, we get to feeling that they are /the only right and proper way of doing things/. Monarchy in mid nineteenth century France was claimed by its defenders to be “divinely ordained” until suddenly it wasn’t. Today, capitalism begets the kind of people that regard its way of organising the economy and its society as /the only proper way/; while communists adhere to their way with the same passionate conviction.
+Once we are used to those institutions, we get to feeling that they are *the only right and proper way of doing things*. Monarchy in mid nineteenth century France was claimed by its defenders to be “divinely ordained” until suddenly it wasn’t. Today, capitalism begets the kind of people that regard its way of organising the economy and its society as *the only proper way*; while communists adhere to their way with the same passionate conviction.
 
-> This loyalty to one’s own institution is understandable: almost everyone in any culture feels that its institutions are the very foundations of reasonable living. A challenge to those institutions is almost inevitable felt to be a threat to /all/ orderly existence.
+> This loyalty to one’s own institution is understandable: almost everyone in any culture feels that its institutions are the very foundations of reasonable living. A challenge to those institutions is almost inevitable felt to be a threat to *all* orderly existence.
 >
 >  —— *Language in Thought and Action*
 
@@ -561,7 +557,7 @@ Consequently, social institutions tend to change slowly, continuing to exist lon
 
 The pressing problems of our world are then problems of cultural lag— problems arising from trying to organise an Internet era world with horse and buggy institutions.
 
-Technological advancement during the last couple of centuries has been greater than the rate of change of our social institutions. Recall that people in the US vote on a Tuesday due to the fact that [it was common for voters to need two days to get to the poll station](/). The disparity between the technological progress and its subsequent adjustments in social institutions is getting wider and wider.
+Technological advancement during the last couple of centuries has been greater than the rate of change of our social institutions. Recall that people in the US vote on a Tuesday due to the fact that [it was common for voters to need two days to get to the poll station](https://www.npr.org/2016/11/01/500208500/why-do-we-vote-on-tuesdays?t=1561396392579). The disparity between the technological progress and its subsequent adjustments in social institutions is getting wider and wider.
 
 This brings us to understand why, in every contemporary culture that has felt the impact of technology, people are questioning the appropriateness of nineteenth-century institutions to twenty-first century conditions.
 
@@ -569,7 +565,7 @@ This brings us to understand why, in every contemporary culture that has felt th
 >
 >  —— *Language in Thought and Action*
 
-At this point, it’s easy for me to recall [The Industrial Society and its Future](/), otherwise known as the Unabomber Manifesto, in which Ted Kacynski laid down the reasons why technology is making us slaves. Or Aldous Huxley’s [Brave New World](/), where technological advancements were put at the service of making the society in a constant state of adolescent. These are well-known critiques of a society that is incapable of keeping up with the technological changes and adjusting its institutions accordingly.
+At this point, it’s easy for me to recall [The Industrial Society and its Future](http://editions-hache.com/essais/pdf/kaczynski2.pdf), otherwise known as the Unabomber Manifesto, in which Ted Kacynski laid down the reasons why technology is making us slaves. Or Aldous Huxley’s [Brave New World](https://www.amazon.com/Brave-New-World-Vintage-Classics/dp/0099477467?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0099477467), where technological advancements were put at the service of making the society in a constant state of adolescent. These are well-known critiques of a society that is incapable of keeping up with the technological changes and adjusting its institutions accordingly.
 
 Some societies, of course, meet this tension head-on, and strive to change or abandon outmoded institutions. One of the best arguments for a democracy is the idea that it is the system best prepared to cope with this cultural lag and aligns the interest of the law maker (the body responsible with adjusting social institutions) with those of the overall society (the body in contact with the consequences of that cultural lag). *People are constantly striving to bring institutions into closer relationship with reality*.
 
@@ -599,13 +595,13 @@ From extensional answers to such extensionally directed questions, decisions beg
 >
 >  —— *Language in Thought and Action*
 
-We must turn our sight towards science. The most striking characteristic of science has been its continued success in the solving of problems that seemed impossible. And scientists have special ways of talking about the phenomena they deal with, special ‘maps’ to describe the ‘territories’ they deal with. When things turn out as they predicted, they regard their maps as ‘true’. If not, they /discard/ their maps and make new ones, and act on /new sets of hypothesis/ that suggests /new courses of action/. On [Science and the Modern World](/), Alfred Whitehead says that it is not unusual for a scientist to /rejoice/ upon being proven wrong, that all human progress depended on ‘new questions’ rather than ‘new answers’ to the ‘old questions’.
+We must turn our sight towards science. The most striking characteristic of science has been its continued success in the solving of problems that seemed impossible. And scientists have special ways of talking about the phenomena they deal with, special ‘maps’ to describe the ‘territories’ they deal with. When things turn out as they predicted, they regard their maps as ‘true’. If not, they *discard* their maps and make new ones, and act on *new sets of hypothesis* that suggests *new courses of action*. On [Science and the Modern World](https://www.amazon.com/Science-Modern-World-Alfred-Whitehead/dp/0684836394), Alfred Whitehead says that it is not unusual for a scientist to *rejoice* upon being proven wrong, that all human progress depended on ‘new questions’ rather than ‘new answers’ to the ‘old questions’.
 
 > The last thing a scientist would do is to cling to a map because it was inherited from his grandfather or because it was used by George Washington or Abraham Lincoln. By intensional orientation, “If it was good enough for Washington or Lincoln, it’s good enough for me”. By extensional orientation, we don’t know until we have checked.
 >
 >  —— *Language in Thought and Action*
 
-But a different thing happens when we are trying to repair society. Few people have a sense of societies as mechanisms. Used to thinking of social problems in terms of simple moral indignation, we denounce everything around us, missing entirely the basic requirement of ‘mapping’ social problems: /establishing patterns of group behaviour/. Indignant, we do not ask of a proposed institutional change what the results will be; we are usually more interested in ‘punishing’ than in determining results.
+But a different thing happens when we are trying to repair society. Few people have a sense of societies as mechanisms. Used to thinking of social problems in terms of simple moral indignation, we denounce everything around us, missing entirely the basic requirement of ‘mapping’ social problems: *establishing patterns of group behaviour*. Indignant, we do not ask of a proposed institutional change what the results will be; we are usually more interested in ‘punishing’ than in determining results.
 
 > During the course of our weary struggles with such non-sense questions, someone or other is sure to come along with a campaign to tell us, “Let’s get *back* to normalcy… let’s stick to the good *old-fashioned*, *tried-and-true* principles… let’s *return* to *sound* economics and *sound* finance, to *basics*… America must get *back* to this… America must get *back* to that…”
 >
