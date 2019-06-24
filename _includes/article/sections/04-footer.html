@@ -1,6 +1,7 @@
+{% assign words = include.post.content | number_of_words %}
 <footer class="ArticleFooter__footer___3-wlJ">
 
-    <ul class="Tags__tags___1WDCj"><span class="Tags__heading___3sE5b">More:</span>
+    <ul class="Tags__tags___1WDCj"><span class="Tags__heading___3sE5b">This article took {{ words | divided_by:180 }} mins to read:</span>
         {% for tag in include.post.tags %}
         <li class="Tags__item___3xh9I"><a class="Link__link___3dWao  " href="#">{{ tag | capitalize }}</a></li>
         {% endfor %}
