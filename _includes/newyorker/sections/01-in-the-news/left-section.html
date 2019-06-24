@@ -1,5 +1,5 @@
 <div class="HeroSecondarySection__secondaryItemsColumn___WTSfd" style="margin-bottom: 9em;">
-  {% assign books = site.books | slice: -4, 2 %}
+  {% assign books = (site.books | sort: "date") | reverse | slice: 0, 2 %}
     {% for post in books %}
 
       <div class="Card__heroSecondarySecondaryItemsRest___38peE">
