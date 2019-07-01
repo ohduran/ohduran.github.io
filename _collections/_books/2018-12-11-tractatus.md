@@ -7,7 +7,7 @@ tags: [language, infinity]
 permalink: /tractatus-logico-philosophicus
 image: https://images-na.ssl-images-amazon.com/images/I/51VK-KX6DML.jpg
 description: Language is how we think, and all we can think is logical. Hence, what isn't logical cannot be discussed.
-rating: 4
+rating: 3.5
 ---
 
 > Perhaps this book will be understood only by someone who has himself already had the thoughts that are expressed in it– or at least similar thoughts.– So it is not a textbook.– Its purpose would be achieved if it gave pleasure to one person who read and understood it.
