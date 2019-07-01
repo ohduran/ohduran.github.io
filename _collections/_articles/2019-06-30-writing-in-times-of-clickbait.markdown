@@ -18,7 +18,6 @@ We live in incurious times. Some would argue that isn’t true, because we are o
 >  — [Google’s Ideological Echo Chamber](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf), James Damore, 2017
 
 
-
 We live in incurious time. Instead of a policing state that censors all readership, It’s a crowdsourced censorship, where its own people disregard facts that contradict their own beliefs, and where contradicting common wisdom is heresy, like in Galileo’s time.
 
 <hr>
@@ -70,19 +69,21 @@ Third, economically, the only reason why a user would read a newspaper is becaus
 
 <hr>
 
-The newspaper business model is, hence, based on drawing the attention of a big enough readership with low price tabloids and then reselling that attention. But, as a consequence, a newspaper can only survive if it gains and holds that attention. This means that, under competition, the race will naturally flow to the more vulgar, radiant and scandalous alternative. To what end? Apparently, to none.
+The newspaper business model is based on drawing the attention of a big enough readership with low price tabloids and then reselling that attention. But one consequence of that is that newspapers can only survive if they gain and hold that attention. This means that, under competition, the race will naturally flow to the more vulgar, radiant and scandalous alternative. To what end? Apparently, to none.
 
-If we hold the old mentality that the reader is the customer, which we serve, then we must make a clear separation between what is advertising— a white lie, to say the least— and the content— the truth, if there is such thing. But if we did so, advertisers bump into an upper limit to the value of their ads, which is that people know when they are being sold something. Which, up until some point, that was as good as you could get as an advertiser.
+Let's consider the space in a tabloid as we would have considered building space if we were real state developers. Town majors know that parks, libraries, police stations and the like provide any city with the shared value that attracts families to live there. They rise the value of the real state nearby by simply being there, and even though you can't build on top of any parks, the increase in nearby value offsets the cost of not building on that particular area. In our analogy, these spots are the content of the newspaper.
 
-But if we bring the readers down from the altar of VIPs and place them where they belong, then news agencies must channel the attention towards the ads being run on the newspaper. The separation between an ad and a piece of news must be blurrier. Ads must look like the news.
+Naturally, as a real state developer, the question is *how do I get the most value out of any piece of land, regardless of its proximity to parks or fire stations?*
 
-By blending the ad into the content, native advertising makes many readers unaware they are looking at an ad to begin with. When done well, advertisers get more out of their investment because good publicity is one that sounds like advice. If we considered a newspaper as real state, then native advertising makes any location increase in value.
+One approach, the old school, is to build a mansion: a piece of land so expensive that only the wealthiest can afford to live there, and are willing to pay that price. Some newspapers take that approach: *having correspondents peppered throughout the globe*, in order to be the first, or to have a unique angle. These are costly, but seemed a sensible approach to begin with.
 
-Let’s take the analogy a bit further. Let’s imagine that I want to get the most value of a piece of news, placed anywhere on the tabloid. How would you go about it? In terms of real state, cities know it better: you would like to have parks, libraries, police stations to bring crime rates down, firemen stations, etc. These are analogous to content: the advertiser pays for them to be there, but gets nothing out of it, only the bait to attract the reader.
+A second approach, maybe more modern, is to build a skyscraper: even if the space is tiny, it's been elevated so highly that many people can focus on it, and in fact is where most of us in some form of another live. This is what *following what's trendy* feels like. What's the weather going to be like this weekend or the sports section are the skyscrapers of mass media.
 
-In order to make the most of any piece of land, you must turn them into mansions. That way, anywhere you look is occupied by individuals that give you lots of money for where they live, even if a twenty-room house is more than what a couple and two kids need in order to live comfortably. The analogy is good in this case, because newspapers try to do just that: they turn every piece of content into something you want to read, even if that isn’t what you really need. Even if it’s a lie.
+One third approach, quite crazy, is trying to find gold in the terrain. Just tinker with the arena, pour water on it, prospect the land, do some work on it and, who knows? you'll find gold, or diamonds, or oil. That's what *clickbait* is all about— finding the luckiest, but easiest path to glory. There is no need for struggling; you just copy what the others are doing. In most cases, you would ruin the fundaments, and turn out with nothing but mud. BuzzFeed is mostly that, but even then there's method in their madness: they keep on betting, all the time, there's gold on every piece of land they own, in the hopes that whatever they find will make up for the surrounding mud left.
 
-In real state, things are what they are; families that bought a mansion that turned out to be the house of horrors will promptly leave. But information isn’t tangible. You can get away with a lie for an indefinite period of time. What you need to do is tap into some of the metaphorical levers that evolution has placed in humans’ minds and you’re good to go. A reckless and methodical industry will eventually figure out a way to tap on them, and make certain lies something you want to believe are truth.
+What's interesting is that there's been a shift from the first and second approaches onto the last one during the last ten years, probably in acceleration since longer. It's as if someone have found gold in clickbait and everyone is rushing to do the same, because there is no value in erecting content anymore. Virtually all newspapers include some of form of articles with potential for going viral; the question is how closely they do it to the front section. The rule is: regardless of the newspaper, enough scrolling will get you to an article that's pointless and is there to catch your attention, not inform you.
+
+In real state, things are what they are; families that bought a house that turned out to be [The Conjuring](https://en.wikipedia.org/wiki/The_Conjuring) will promptly leave. But information isn’t tangible. You can get away with a lie for an indefinite period of time. What you need to do is tap into some of the metaphorical levers that evolution has placed in humans’ minds and you’re good to go. A reckless and methodical industry will eventually figure out a way to tap on them, and make certain lies something you want to believe are truth.
 
 Fake news is what you get when you’re not the customer. If you were, and you were recurrently lied to, then you would vote with your feet for some other newspaper. There would be someone that give you what you want in exchange for the value that you perceive it has.
 
@@ -90,9 +91,9 @@ In that sense, both the newspapers and us are at guilt: it feels that neither of
 
 <hr>
 
-Are we placing so little value on being well informed, that huge amount of people don't hold the newscasts accountable for the news they are given? Or worse: are we so reckless, that we have delegated the decision of what we need to know in the hands of someone else?
+Are we placing so little value on being well informed, that society doesn't hold the newscasts accountable for the news they are given? Are we so reckless, that we have delegated the decision over what we need to know in the hands of an unaccountable somebody?
 
-Journalism supported by advertising took off on the assumption that the masses are simple and demand simple things to be entertained. They want circus, not academia; they want gladiators, not professors. The hypothesis, held to this day, is that daily stories need a baseline of drama, a look into the spectacular, for them to appear on the news. Mere facts don’t cut it; the masses want suicides, murders and rapes. Never mind the dubitative scientists; the masses want conviction and “to be told like it is”.
+Advertising-supported journalism was born on the idea that the masses are simple and demand simple things, and that the collective action towards a more challenging set of news can be drowned by a flood of listicles and clickbaits. That people are no longer in a position to demand anything, because they no longer pay for the content they look for.
 
 Have we chosen to live this way? Well, in a way. The main critics of TV news when I was younger pointed out that we knew very little about what really matters. “Tell us about the war in Africa”, they said, “Rwanda has been at war for 40 years, and no one knows it”. The answer, in one form of another, was: “People don’t care”. But did they? Fact is, we couldn’t care if we didn’t know, so we didn’t care. We relied on the newscasts to tell us what is important and what isn’t, and for that we are guilty. Every time we sat in front of the TV, we said “this is good enough for me”.
 
