@@ -6,7 +6,7 @@ categories: articles
 permalink: /writing-in-times-of-clickbait
 image: https://absurd.design/assets/img/gallery-color-69-4.jpg
 ---
-We live in incurious times. Some would argue that isn’t true, because we are only one click away from being informed. Some would argue that in the Internet era, facts can be verified to a degree that wasn’t possible before. And yet, it feels that people do not want to know, but to be reaffirmed in what they believe. That posing questions are seen as affirmative statements that must be punished. If someone asks “What if there is no gender gap?”, all hell breaks loose on social media, and the public trial begins. Even if there is a sincere attempt to ground the argument on facts, the crowd dismiss it as fabricated and biased, or something that must be silenced for these arguments create an unsafe environment in schools or in universities.
+We live in incurious times. Some would argue that isn’t true, because we are only one click away from being informed. Some would argue that in the Internet era, facts can be verified to a degree that wasn’t possible before. And yet, it feels that people do not want to know, but to be reaffirmed in what they believe. That posing questions are seen as affirmative statements that must be punished. If someone asks “What if there is no gender gap?”, all hell breaks loose on social media, and the public trial begins. Even if there is a sincere attempt to ground the argument on facts, the crowd dismiss them as fabricated and biased, or something that must be silenced, for these arguments create an unsafe environment in schools and universities.
 
 > In the midst of a federal investigation of Google’s alleged persistent wage gap […] an “antidiversity” manifesto authored by James Damore went viral in August 2017, supported by many Google employees, arguing that women are psychologically inferior and incapable of being as good at software engineering as men, among other patently false and sexist assertions.
 >
@@ -17,18 +17,15 @@ We live in incurious times. Some would argue that isn’t true, because we are o
 >
 >  — [Google’s Ideological Echo Chamber](https://assets.documentcloud.org/documents/3914586/Googles-Ideological-Echo-Chamber.pdf), James Damore, 2017
 
-
-We live in incurious time. Instead of a policing state that censors all readership, It’s a crowdsourced censorship, where its own people disregard facts that contradict their own beliefs, and where contradicting common wisdom is heresy, like in Galileo’s time.
-
 <hr>
 
 Across all cultures, people gained a large share of their information about the world from the written word. Not all of it, though: some had to be obtained by talking to other people or looking around. But for curious people, that has never been enough. They knew they had to read too, and they did read.
 
-However, reading has these days the stigma of an obsolete fad. TV and social media has taken over what used to be the functions of books and newspapers, just as photography took over most functions performed by painting and other graphic arts. People used to order a portrait to have a faithful depiction of themselves. Now it’s just pretentious. I believe the same thing is happening to writing a novel.
+However, reading has these days the stigma of an obsolete fad. TV, newspapers and social media have taken over what used to be the functions of books, just as photography took over most functions performed by painting and other graphic arts. People used to order a portrait to have a faithful depiction of themselves. Now it’s just pretentious. I believe the same thing is happening to writing a novel.
 
 Admittedly, TV spreads information extremely well; the visual communication of news has tremendous impact. And social media has helped breaking the fourth wall, so that people can now become part of the story. We know more about the world than we used to, and if it’s just knowledge what we needed, that would be good news.
 
-But knowledge for its own sake isn’t enough. Facts can be twisted and presented in various forms; they are sometimes statistically significant, not just plainly true in all cases. We do not have to know everything about something to understand it; too many facts are, often, as much of an obstacle to understanding as too few. And nowadays I have the sense that we moderns are inundated with facts to the detriment of understanding.
+But knowledge for its own sake isn’t enough. Facts can be twisted and presented in various forms; like in the case of [human-induced climate change](https://climate.nasa.gov/evidence/), facts can point strongly in one direction, but not be unfalsifiable. We do not have to know everything about something to understand it; too many facts are, often, as much of an obstacle to understanding as too few. And nowadays I have the sense that we moderns are inundated with facts to the detriment of understanding.
 
 <hr>
 
@@ -42,7 +39,7 @@ In the same way that early TV was simply radio with images, newspapers started a
 
 > At 6 cents, it was something of a luxury item, which was just as well, since […] it was aimed at the city’s business and political elite. Most New Yorkers, in fact, did not read newspapers at all.
 >
-> — Merchants of Attention, Tim Wu, 2016
+> — [The Attention Merchants](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads-ebook/dp/B01AEPSWB4), Tim Wu, 2016
 
 
 The shift consisted of turning a set of readers that were considered the customers to a wider audience that effectively became the product for others to advertise. From then onwards, advertising would join content to defray the cost of printing and distribution. Dramatically reducing the price of the newspaper wasn’t just possible, it was needed for the model to work, for anything other than a giant readership wouldn’t have been valuable to anyone. This new model made the separation between books and newspapers complete: the reader, for the book writer, is the customer; for the news agency, is the product.
@@ -65,7 +62,7 @@ Think of the movie “The Social Network”, for instance. Think of Justin Timbe
 >
 > MR. ZUCKERBERG: “[Senator, we run ads](https://www.youtube.com/watch?v=GGTWUOxkfGQ)”.
 
-Third, economically, the only reason why a user would read a newspaper is because it’s valuable to him, and the only reason why a company would run an ad on a newspaper is because there is value to it. There is an inescapable truth, which is what individuals think is valuable cannot be predicted. You are cast away on an island, sending messages in a bottle from which you get only the money advertisers give you. You can’t tell whether what you do is valuable to the reader, or the advertiser. Big Data and Analytics are the latest trends in trying to figure out why certain messages on certain bottles make more money than others.
+Third, economically, the only reason why a user would read a newspaper is because it’s valuable to him, and the only reason why a company would run an ad on a newspaper is because there is value to it. There is an inescapable truth: __what individuals think is valuable cannot be predicted__. You are cast away on an island, sending messages in a bottle from which you get only the money advertisers give you. You can’t tell whether what you do is valuable to the reader, or the advertiser. Big Data and Analytics are the latest trends in trying to figure out why certain messages on certain bottles make more money than others.
 
 <hr>
 
