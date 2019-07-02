@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Tractatus Logico-Philosophicus
+title: Tractatus Logico-Philosophicus
 author: Ludwig Wittgenstein
 categories: [books]
 tags: [language, infinity]

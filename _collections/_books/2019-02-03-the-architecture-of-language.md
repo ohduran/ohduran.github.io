@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Architecture of Language"
+title:  The Architecture of Language
 author: Noam Chomsky
 categories: [books]
 tags: [language]

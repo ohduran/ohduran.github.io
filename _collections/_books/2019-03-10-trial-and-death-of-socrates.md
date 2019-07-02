@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Trial and Death of Socrates
+title: Trial and Death of Socrates
 author: Plato
 categories: [books]
 tags: [language]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Language in Thought and Action
+title: Language in Thought and Action
 author: S. I. Hayakawa
 categories: [books]
 tags: [language, politics]

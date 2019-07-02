@@ -1,7 +1,7 @@
 ---
 layout: post
 output: true
-title:  How to read a book
+title: How to read a book
 author: Mortimer Adler & Charles Van Doren
 categories: [books]
 tags: [language, performance]

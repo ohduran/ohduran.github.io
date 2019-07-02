@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Through the Language Glass"
+title: Through the Language Glass
 author: Guy Deutscher
 categories: [books]
 tags: [language]

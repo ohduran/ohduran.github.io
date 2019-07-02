@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Politics and the English Language
+title: Politics and the English Language
 author: George Orwell
 categories: [books]
 tags: [language]
