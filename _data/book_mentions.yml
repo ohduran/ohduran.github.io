@@ -1,0 +1,102 @@
+- mentions:
+  - rating: '2'
+    title: Trial and Death of Socrates
+    url: /trial-and-death-of-socrates
+  - rating: '4.5'
+    title: Language in Thought and Action
+    url: /language-in-though-and-action
+  permalink: /through-the-language-glass
+- mentions:
+  - rating: '2'
+    title: Through the Language Glass
+    url: /through-the-language-glass
+  - rating: '2'
+    title: Trial and Death of Socrates
+    url: /trial-and-death-of-socrates
+  - rating: '1'
+    title: The Architecture of Language
+    url: /the-architecture-of-language
+  - rating: '4.5'
+    title: Language in Thought and Action
+    url: /language-in-though-and-action
+  - rating: '4.5'
+    title: Skin in the Game
+    url: /skin-in-the-game
+  - rating: '3'
+    title: Politics and the English Language
+    url: /politics-and-the-english-language
+  permalink: /tractatus-logico-philosophicus
+- mentions: []
+  permalink: /trial-and-death-of-socrates
+- mentions:
+  - rating: '2'
+    title: Through the Language Glass
+    url: /through-the-language-glass
+  - rating: '2'
+    title: Trial and Death of Socrates
+    url: /trial-and-death-of-socrates
+  - rating: '4'
+    title: Deep Work
+    url: /deep-work
+  permalink: /the-architecture-of-language
+- mentions: []
+  permalink: /language-in-though-and-action
+- mentions:
+  - rating: '5'
+    title: How to read a book
+    url: /how-to-read-a-book
+  permalink: /deep-work
+- mentions:
+  - rating: '3.5'
+    title: Tractatus Logico-Philosophicus
+    url: /tractatus-logico-philosophicus
+  - rating: '2'
+    title: Trial and Death of Socrates
+    url: /trial-and-death-of-socrates
+  - rating: '1'
+    title: The Architecture of Language
+    url: /the-architecture-of-language
+  - rating: '4.5'
+    title: Language in Thought and Action
+    url: /language-in-though-and-action
+  - rating: '3'
+    title: Politics and the English Language
+    url: /politics-and-the-english-language
+  permalink: /skin-in-the-game
+- mentions:
+  - rating: '2'
+    title: Through the Language Glass
+    url: /through-the-language-glass
+  - rating: '3.5'
+    title: Tractatus Logico-Philosophicus
+    url: /tractatus-logico-philosophicus
+  - rating: '2'
+    title: Trial and Death of Socrates
+    url: /trial-and-death-of-socrates
+  - rating: '1'
+    title: The Architecture of Language
+    url: /the-architecture-of-language
+  - rating: '4.5'
+    title: Language in Thought and Action
+    url: /language-in-though-and-action
+  - rating: '4.5'
+    title: Skin in the Game
+    url: /skin-in-the-game
+  - rating: '3'
+    title: Politics and the English Language
+    url: /politics-and-the-english-language
+  permalink: /how-to-read-a-book
+- mentions:
+  - rating: '2'
+    title: Through the Language Glass
+    url: /through-the-language-glass
+  - rating: '2'
+    title: Trial and Death of Socrates
+    url: /trial-and-death-of-socrates
+  - rating: '1'
+    title: The Architecture of Language
+    url: /the-architecture-of-language
+  - rating: '4.5'
+    title: Language in Thought and Action
+    url: /language-in-though-and-action
+  permalink: /politics-and-the-english-language
