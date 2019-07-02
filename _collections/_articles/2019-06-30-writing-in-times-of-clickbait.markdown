@@ -44,13 +44,11 @@ In the same way that early TV was simply radio with images, newspapers started a
 
 The shift consisted of turning a set of readers that were considered the customers to a wider audience that effectively became the product for others to advertise. From then onwards, advertising would join content to defray the cost of printing and distribution. Dramatically reducing the price of the newspaper wasn’t just possible, it was needed for the model to work, for anything other than a giant readership wouldn’t have been valuable to anyone. This new model made the separation between books and newspapers complete: the reader, for the book writer, is the customer; for the news agency, is the product.
 
-See, the advertising-supported business model was a truly innovative way to fund newspapers, which fitted them particularly well because of their uniqueness: they were books, but their stories were real, and happened yesterday: they were historians of the current days.
-
 <hr>
 
 I remember, during my master’s, one professor defined a customer as someone who pays money. It sounds stupidly simple, but it hides the truth at plain sight: if you’re paying less than someone else, you’re less of a customer than him or her; and if you don’t pay anything, you’re not the customer at all.
 
-If you’re in a theatre, and you pay your ticket, you’re the customer; but if you’re on the first row, and you have a hot dog on your hand, and you’ve been promised that you’ll visit the backstage before the performance, you’re likely to have paid more than someone else on the auditorium— more than those on the cheap seats. Those are known as VIPs. So, if you paid a penny for the newspaper on your hand, but Sainsbury’s paid 1 million dollars to have their latest deals on the back of the front cover, then they’re the VIPs, and you’re on the cheap seats.
+If you’re in a theatre, and you pay your ticket, then you’re a customer; but if you’ve got seats on the first row, and you’ve been promised that you’ll visit the backstage before the performance to meet the artists, you’re likely to have paid more than the former. Those are known as VIPs. So, if you paid a penny for the newspaper on your hand, but Sainsbury’s paid 1 million pounds to have their latest deals on the back of the front cover, then they’re the VIPs, and you’re on the cheap seats.
 
 This branching out of customers has ramifications that are critical for any media company. First, there is an interdependence between the newspaper reader and the advertiser: if you don’t have many of the first, you won’t have many of the latter, but if you have too many ads, that will scare out the readers. That suggests a fragile equilibrium between how many readers and how many ads you have.
 
@@ -62,7 +60,9 @@ Think of the movie “The Social Network”, for instance. Think of Justin Timbe
 >
 > MR. ZUCKERBERG: “[Senator, we run ads](https://www.youtube.com/watch?v=GGTWUOxkfGQ)”.
 
-Third, economically, the only reason why a user would read a newspaper is because it’s valuable to him, and the only reason why a company would run an ad on a newspaper is because there is value to it. There is an inescapable truth: __what individuals think is valuable cannot be predicted__. You are cast away on an island, sending messages in a bottle from which you get only the money advertisers give you. You can’t tell whether what you do is valuable to the reader, or the advertiser. Big Data and Analytics are the latest trends in trying to figure out why certain messages on certain bottles make more money than others.
+Third, the only reason why a user would read a newspaper is because it’s valuable to him, and the only reason why a company would run an ad on a newspaper is because there is value to it. There is an inescapable truth: __what individuals think is valuable cannot be predicted__. You are cast away on an island, sending messages in a bottle from which you get only the money advertisers give you. Big Data and Analytics are the latest trends in trying to figure out why certain messages on certain bottles make more money than others.
+
+Customers, again, are those that pay money. As news agencies have funded their business with even more ads than with a higher price for copies of the newspaper, the reader has lost any leverage he might have had in holding those agencies accountable. Readers are now sitting on the very last row of the auditorium; all they can do is boo.
 
 <hr>
 
