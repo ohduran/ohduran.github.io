@@ -5,6 +5,7 @@ date:   2018-12-12 15:00:00 +0100
 categories: articles
 permalink: /wasted-time
 image: https://absurd.design/assets/img/gallery-color-69-23.jpg
+rating: 2.5
 ---
 A PhD, the pinnacle of our current educational system, is ill-defined. There is an array of variables involved that uniquely separate one PhD programme from the next; the topic of the thesis, the size of the grant, the involvement of the professor. But they all have something in common: A PhD implies wasting 4 years of your life.
 

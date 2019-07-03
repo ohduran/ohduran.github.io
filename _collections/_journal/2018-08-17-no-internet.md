@@ -5,6 +5,7 @@ date:   2018-08-17 15:00:00 +0100
 categories: journal
 permalink: /no-internet
 image: https://absurd.design/assets/img/gallery-color-69-17.jpg
+rating: 1
 ---
 If you are reading this, I gained connection to the Internet again. However, this was written in the absolute isolation of a place that has no wifi available, and no access to signal whatsoever. I'm, in modern terms, stranded away from civilisation.
 

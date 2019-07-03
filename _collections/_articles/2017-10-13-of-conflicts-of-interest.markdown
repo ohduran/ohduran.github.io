@@ -5,6 +5,7 @@ date:   2017-10-13 15:00:00 +0100
 categories: articles
 permalink: /conflicts-of-interest
 image: https://absurd.design/assets/img/gallery-color-69-16.jpg
+rating: 1
 ---
 
 Think of it, from the ads agencies perspective: Do I really want someone to see my ad by all means? Seems like the common wisdom is "Yes". No matter what my mood is going to be after going through that piece of shit that you call "article", I'm going to be bombed with ads coming at me from all directions.

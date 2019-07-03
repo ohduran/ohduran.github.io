@@ -5,6 +5,7 @@ date:   2018-10-26 15:00:00 +0100
 categories: articles
 permalink: /defaulting-and-copying
 image: https://absurd.design/assets/img/gallery-color-69-4.jpg
+rating: 1
 ---
 
 Most Data Scientists, at least the ones that I mentor, usually come from non-STEM backgrounds, gravitate towards it driven by their own curiosity, and have looked up for free tutorials on the internet on how to "do Data Science", Machine Learning, and Big Data. In most cases, the overwhelming amount of resources, rather than a positive things, becomes a burden: will I be a Data Scientist after this course or that course?

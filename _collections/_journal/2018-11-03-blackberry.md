@@ -5,6 +5,7 @@ date:   2018-11-03 15:00:00 +0100
 categories: journal
 permalink: /revolutions
 image: https://absurd.design/assets/img/gallery-color-69-2.jpg
+rating: 1
 ---
 Since I read [Deep Work](/deep-work), I've been trying to reduce the amount of time I waste on social media and, overall, distracted. This has come as a realisation that my addiction to it was worse than I was aware of: picking up my mobile every time I had to wait or queue up was my default mode; I became conscious of how many times I was just watching a commercial on Instagram, and how many trains of thought I had in the shower compared to out of it. This had to end.
 

@@ -5,6 +5,7 @@ date:   2018-08-29 15:00:00 +0100
 categories: journal
 permalink: /home-office
 image: https://absurd.design/assets/img/gallery-color-69-11.jpg
+rating: 1
 ---
 I've always dreamed of a home office. Even when I was a kid, when my parents decided it was time to move out of a flat and into a house, they thought it was a good idea that I had my own 'laboratory'. Like Dexter's (I was 10 back then). Probably the expectations were too high, as I was scheming a tunnel that would start at my bedroom and would dress me, and feed me, while carrying me into the laboratory, in the blink of an eye.
 

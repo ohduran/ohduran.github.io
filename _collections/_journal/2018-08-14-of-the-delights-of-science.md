@@ -5,6 +5,7 @@ date:   2018-08-14 15:00:00 +0100
 categories: journal
 permalink: /the-delights-of-science
 image: https://absurd.design/assets/img/gallery-color-69-20.jpg
+rating: 1
 ---
 '- Why are you always arguing about things?'
 

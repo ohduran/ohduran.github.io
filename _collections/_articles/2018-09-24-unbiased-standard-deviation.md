@@ -5,6 +5,7 @@ date:   2018-09-24 15:00:00 +0100
 categories: articles
 permalink: /unbiased-standard-deviation
 image: https://absurd.design/assets/img/gallery-color-69-3.jpg
+rating: 1
 ---
 
 In Maths, people buy weird stuff all the time, like 10 melons, and no one asks any questions. You can do really nasty stuff, like stealing money from people, and they will be like "oh, but now you have 4 times what I used to". That, and everything is normal, gaussian, perfect, ideal. Even trivial, sometimes.
