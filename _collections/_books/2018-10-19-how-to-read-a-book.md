@@ -32,7 +32,7 @@ The problem is definitely not that; in fact, speed reading courses are now wides
 >
 > -- __Nassim Taleb__
 
-The book I'm talking about today teaches us [How to Read a Book](https://www.amazon.com/How-Read-Book-Intelligent-Touchstone/dp/0671212095?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0671212095): *with nothing but the power of your own mind, you gradually lift yourself from a state of understanding less to one of understanding more*. Its authors are Mortimer Adler and Charles Van Doren. The book argues that, for one to read correctly, he has to go through it in four stages: understanding what is it about, making sense of the terms and propositions of the book, extracting the answers to the questions you want to get answered and contextualise those answers with other books.
+The book I'm talking about today teaches us [How to Read a Book](https://www.amazon.com/gp/product/0671212095/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671212095&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24): *with nothing but the power of your own mind, you gradually lift yourself from a state of understanding less to one of understanding more*. Its authors are Mortimer Adler and Charles Van Doren. The book argues that, for one to read correctly, he has to go through it in four stages: understanding what is it about, making sense of the terms and propositions of the book, extracting the answers to the questions you want to get answered and contextualise those answers with other books.
 
 > Television, radio, and all the sources of amusement and information that surround us in our daily lives are artificial props. They can give us the impression that our minds are active, because we are required to react to stimuli from outside. But the power of those external stimuli to keep us going is limited. They are like drugs. We grow used to them, and we continuously need more and more of them. Eventually, they have little to no effect. Then, if we lack the resources within ourselves, we cease to grow intellectually, morally, and spiritually. And when we cease to grow, we begin to die.
 >
@@ -182,7 +182,7 @@ Reading a whole book, and specially a long and difficult one, poses the severest
 
 How do you follow those rules? Well, you must give the book an inspectional reading. Every book has a skeleton hidden between its covers. Your job as an analytical reader is to find it.
 
-In fact, you may have noticed that Rule 2 is what is commonly known as [The Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/), cleverly explained by James Gleick in his Feynman's biography [Genius: The Life and Science of Richard Feynman](https://www.amazon.com/gp/product/0679747044/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679747044&linkCode=as2&tag=stuhac-20&linkId=ZOWR5DAJUAZGTEBP).
+In fact, you may have noticed that Rule 2 is what is commonly known as [The Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/), cleverly explained by James Gleick in his Feynman's biography [Genius: The Life and Science of Richard Feynman](https://www.amazon.com/gp/product/0679747044/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679747044&linkCode=as2&tag=alvaroduran-20&linkId=9b21f2be13cd2e4759bb59346ed956af).
 
 > [Feynman] opened a fresh notebook. On the title page he wrote: NOTEBOOK OF THINGS I DON'T KNOW ABOUT. For the first but not last time he reorganized his knowledge. He worked for weeks at disassembling each branch of physics, oiling the parts, and putting them back together, looking all the while for the raw edges and inconsistencies. He tried to find the essential kernels of each subject.
 >
@@ -329,7 +329,7 @@ There's no easy solution to this problem, despite the fact that this book doesn'
 
 > Unlike previous researchers, Gittins approached the multi-armed bandit problem in [economic] terms. He conceived the goal as maximizing payoffs not for a fixed interval of time, but for a future that is endless yet discounted. [...] Gittins, for his part, realized (albeit many years before the first episode of Deal or No Deal aired) that for every slot machine we know little or nothing about, there is some guaranteed payout rate which, if offered to us in lieu of that machine, will make us quite content never to pull its handle again.
 >
-> -- __Brian Christian__; [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)
+> -- __Brian Christian__; [Algorithms to Live By: The Computer Science of Human Decisions](https://www.amazon.com/gp/product/1627790365/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1627790365&linkCode=as2&tag=alvaroduran-20&linkId=1da24c0c85ad0842cbf586326c5a2032)
 
 Probability theory tells us, then, that we should __try__, that skimming at least is what we should do, and given that appetiser, decide whether to pursue the book at hand with analytical precision or leave it be for now, and go on to the next one. Choosing what to read trumps ‘having something to read’.
 

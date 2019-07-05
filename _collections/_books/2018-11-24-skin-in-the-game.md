@@ -30,9 +30,9 @@ Of course you do. In the second case, you don't have __skin in the game__.
 >
 > -- __Skin in the Game__
 
-The book we are covering today is [Skin in the Game](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X), by Nassim Taleb. It's the last book of a collection called *Incerto*, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision making when you don't understand the world. If this is the first time yo stumble upon Taleb, he is definitely a unique writer, and perhaps is this book, the latest one in the series, the best gateway to the rest of the Incerto series, as it covers and summarises information from the others, leaving going more deeply into any topic as an exercise to the reader.
+The book we are covering today is [Skin in the Game](https://www.amazon.com/gp/product/042528462X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=042528462X&linkCode=as2&tag=alvaroduran-20&linkId=b1c629bca1c1fc9a07ae432eea4ac112), by Nassim Taleb. It's the last book of a collection called *Incerto*, an investigation of opacity, luck, uncertainty, probability, human error, risk, and decision making when you don't understand the world. If this is the first time yo stumble upon Taleb, he is definitely a unique writer, and perhaps is this book, the latest one in the series, the best gateway to the rest of the Incerto series, as it covers and summarises information from the others, leaving going more deeply into any topic as an exercise to the reader.
 
-As with any good reading, the author is going down the rabbit hole along with you, and Skin in the Game is, to me, the culmination of a journey that for Taleb started in 2001 with the publication of [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219).
+As with any good reading, the author is going down the rabbit hole along with you, and Skin in the Game is, to me, the culmination of a journey that for Taleb started in 2001 with the publication of [Fooled by Randomness](https://www.amazon.com/gp/product/0812975219/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812975219&linkCode=as2&tag=alvaroduran-20&linkId=042d42008c181e5a0f6f31c1b46a25d1).
 
 > To figure out why ethics, moral obligation, and skill cannot be easily separable in real life, consider the following. When you tell someone in a position of responsibility, say your bookkeeper, "I trust you", do you mean that 1) you trust his ethics (he will not divert money to Panama), 2) you trust his accounting precision, or 3) both?
 >
@@ -54,7 +54,7 @@ __You cannot separate knowledge from contact with the ground__, it's what the Gr
 >
 > -- __Skin in the Game__
 
-As explained in Christopher Phillips’ [The Battle for Syria](https://www.amazon.com/Battle-Syria-International-Rivalry-Middle/dp/030021717X), much of this foreign interference has in fact prolonged the war instead of helping win or shorten it. In the book, Phillips also gives a very good analysis of the Islamic State, noting that IS had ‘many parents’, and that if the Assad regime bore responsibility for it, so did his many international enemies, including Western countries, Turkey, Qatar, Saudi Arabia and others, who on earlier occasions supported trends which led to that movement. The story of [Barry Seal](https://en.wikipedia.org/wiki/Barry_Seal) is a testimony of the lack of scrupulousness of the US government when dealing with international affairs. It's a behaviour that you would never see in a doctor.
+As explained in Christopher Phillips’ [The Battle for Syria](https://www.amazon.com/gp/product/030021717X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=030021717X&linkCode=as2&tag=alvaroduran-20&linkId=15729ae1eea3d9b089c44ad891b805e8), much of this foreign interference has in fact prolonged the war instead of helping win or shorten it. In the book, Phillips also gives a very good analysis of the Islamic State, noting that IS had ‘many parents’, and that if the Assad regime bore responsibility for it, so did his many international enemies, including Western countries, Turkey, Qatar, Saudi Arabia and others, who on earlier occasions supported trends which led to that movement. The story of [Barry Seal](https://en.wikipedia.org/wiki/Barry_Seal) is a testimony of the lack of scrupulousness of the US government when dealing with international affairs. It's a behaviour that you would never see in a doctor.
 
 Interventionistas not only lack practical sense, and never learn from history, but they even fail at pure reasoning, which they drown in elaborate semiabstract buzzword-laden discourse.
 
@@ -86,13 +86,13 @@ Bureaucracy is a construction by which a person is conveniently separated from t
 >
 > -- __Skin in the Game__
 
-The book [Other People's Money](https://www.amazon.com/Other-Peoples-Money-Business-Finance/dp/1610397150) talks about this problem in more depth, and the concept of *clawback* bonuses, that is, taking it back, possibly with an added penalty, in the event that something that results of their actions ends up badly.
+The book [Other People's Money](https://www.amazon.com/gp/product/0142180718/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142180718&linkCode=as2&tag=alvaroduran-20&linkId=581b711a9c2ff854b3cde33a94f54997) talks about this problem in more depth, and the concept of *clawback* bonuses, that is, taking it back, possibly with an added penalty, in the event that something that results of their actions ends up badly.
 
 Government interference in general tends to remove skin in the game. It happened in financial markets: the risk-taking business started moving toward small independent structures known as hedge funds, mostly because of the overbureaucratization of the system as paper shufflers overburdened the banks with [rules](https://en.wikipedia.org/wiki/Basel_III), but avoided considering skin in the game.
 
 In the hedge fund space, owner-operators have at least half of their net worth in the funds, making them relatively more exposed than any of their customers, and they personally go down with the ship. Bailing out banks have removed the last ounce of skin in the game that financial institutions had and, given [what happened to Banco Popular](https://www.nytimes.com/2017/06/23/business/lessons-from-the-collapse-of-banco-popular.html), something is rotten, forever, in banking.
 
-The move that started when banks moved from partnerships to public companies, told by  Michael Lewis in [Liars' Poker](https://www.amazon.com/Liars-Poker-Norton-Paperback-Michael/dp/039333869X), was completed with the bailouts after the financial crash in 2008: they are, like journalists, completely removed from the consequences of their actions.
+The move that started when banks moved from partnerships to public companies, told by  Michael Lewis in [Liars' Poker](https://www.amazon.com/gp/product/039333869X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039333869X&linkCode=as2&tag=alvaroduran-20&linkId=844fec1f65040e9cac2ec8cb9416936d), was completed with the bailouts after the financial crash in 2008: they are, like journalists, completely removed from the consequences of their actions.
 
 The same mechanism of transferring risk also impedes learning. And more practically, only reality can convince someone that is wrong, no argument can do that. *The curse of modernity is that we are increasingly populated by a class of people who are better at explaining than understanding*. Explaining overfits your forecast analysis, so the two are at odds with each other.
 
@@ -150,7 +150,7 @@ We need evolution to learn, because it's easier for humans to see what is wrong 
     >
     > -- __Skin in the Game__
 
-    One of the side effects of the division of jobs proposed by Adam Smith in [The Wealth of Nations](https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577128/ref=sr_1_1?s=books&ie=UTF8&qid=1542738793&sr=1-1&keywords=the+wealth+of+nations) is separating labour from the fruits of labour, the concept of *alienation* described by Karl Marx's [Capital](https://www.amazon.com/Capital-Critique-Political-Economy-Classics/dp/0140445684/ref=sr_1_1?s=books&ie=UTF8&qid=1542738874&sr=1-1&keywords=capital+marx).
+One of the side effects of the division of jobs proposed by Adam Smith in [The Wealth of Nations](https://www.amazon.com/gp/product/0679424733/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679424733&linkCode=as2&tag=alvaroduran-20&linkId=054e7798a162f427d20e42a788e9a3f7) is separating labour from the fruits of labour, the concept of *alienation* described by Karl Marx's [Capital](https://www.amazon.com/gp/product/1791968465/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1791968465&linkCode=as2&tag=alvaroduran-20&linkId=0d3fa249e6ac237f9cfa8a324bb682e5).
 
 People who see complicated solutions do not have an incentive to implement simplified ones. They are, in fact, harder to come up with, statistically speaking: it's like [parking your car](http://philsci-archive.pitt.edu/794/1/falling-cats.pdf). Things designed by people without skin in the game tend to grow in complication: when you are rewarded for perception, not results, you need to show sophistication.
 
@@ -306,7 +306,7 @@ All one needs is a small rate of interfaith marriages. Islam out-stubborned Chri
 >
 > -- John 14:6
 
-Roman pagans were initially tolerant to Christians. But Christians weren’t tolerant of Roman paganism. The “persecution” of the Christians had vastly more to do with the intolerance of the Christians for the pantheon of local gods than the reverse, as described in [The Darkening Age](https://www.amazon.es/Darkening-Age-Christian-Destruction-Classical/dp/1509812326?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1509812326).
+Roman pagans were initially tolerant to Christians. But Christians weren’t tolerant of Roman paganism. The “persecution” of the Christians had vastly more to do with the intolerance of the Christians for the pantheon of local gods than the reverse, as described in [The Darkening Age](https://www.amazon.com/gp/product/0544800885/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0544800885&linkCode=as2&tag=alvaroduran-20&linkId=821991fdc5137c0b5ce3b31d943ac552).
 
 Remember that what we read is written by the Christian side: the Constantinian shift is *fake news*.
 
@@ -322,7 +322,7 @@ We've introduced this because the question is, __can democracy tolerate enemies?
 
 Should a society that has elected to be tolerant be intolerant about intolerance?
 
-This is in fact [the incoherence that Gödel detected in the United States Constitution](https://drive.google.com/file/d/0B9_mR_M2zOc4Y2VhNzZkMDQtMDdlNC00YWQ0LWJlYzQtMzAxZjAxMGYxNzM5/view), while Karl Popper independently discovered the same inconsistency in democratic systems and published in [The Open Society and its Enemies](https://www.amazon.com/Open-Society-Its-Enemies-One/dp/0691158134).
+This is in fact [the incoherence that Gödel detected in the United States Constitution](https://drive.google.com/file/d/0B9_mR_M2zOc4Y2VhNzZkMDQtMDdlNC00YWQ0LWJlYzQtMzAxZjAxMGYxNzM5/view), while Karl Popper independently discovered the same inconsistency in democratic systems and published in [The Open Society and its Enemies](https://www.amazon.com/gp/product/0691158134/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0691158134&linkCode=as2&tag=alvaroduran-20&linkId=a4cbc1311c8cd61f27b8f5e5e95c971a).
 
 Now consider markets. Price changes reflect the activities of the most motivated buyer and seller. All you need is a stubborn single seller to drive the price down. The market is like a large movie theatre with a small door: stampedes happen because those who want to be out do not want to be in. The same unconditionality that we see with kosher observance.
 
@@ -529,7 +529,7 @@ The first is the one people tolerate, such as one’s understanding compared to 
 
 The second is the inequality people find intolerable because the subject appears to be just a person like you, except that he’s been playing the system, acquiring privileges that are not warranted. You don’t just envy them; you take umbrage at their fame, and the sight of their expensive or even semi-expensive car triggers some feeling of bitterness.
 
-[Joan C Williams](https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class) explains that the American working class is impressed by the rich, as role models. Michèle Lamont, in her book [The Dignity of Working Men](https://www.amazon.com/Dignity-Working-Men-Boundaries-Immigration/dp/0674009924?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0674009924), cited by Williams, did a systematic interview of blue-collar Americans and found resentment of high-paid professionals but, unexpectedly, not of the rich.
+[Joan C Williams](https://hbr.org/2016/11/what-so-many-people-dont-get-about-the-u-s-working-class) explains that the American working class is impressed by the rich, as role models. Michèle Lamont, in her book [The Dignity of Working Men](https://www.amazon.com/gp/product/0674009924/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0674009924&linkCode=as2&tag=alvaroduran-20&linkId=eb52e5dbd0a550912f1f374e000a731a), cited by Williams, did a systematic interview of blue-collar Americans and found resentment of high-paid professionals but, unexpectedly, not of the rich.
 
 In countries were wealth comes from rent-seeking, political patronage or regulatory capture, wealth is seen as a zero-sum game. It is safe to say that the people despises people who make a lot of money on a salary.
 
@@ -549,11 +549,11 @@ Dynamic (ergodic) inequality takes into account the entire future and past life.
 
 __Ergodic__ means that the likelihood to be in any economic class is the same for everyone: is the ideal concept of the American dream: for those on the top, it's a matter of someone outsmarting or outworking them to replace them.
 
-Rawl’s veil, discussed in [Fooled by Randomness](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219), assumes that a fair society is the one which you would select if there were some type of a lottery.
+Rawl’s veil, discussed in [Fooled by Randomness](https://www.amazon.com/gp/product/0812975219/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812975219&linkCode=as2&tag=alvaroduran-20&linkId=042d42008c181e5a0f6f31c1b46a25d1), assumes that a fair society is the one which you would select if there were some type of a lottery.
 
 > Imagine that you have set for yourself the task of developing a totally new social contract for today's society. How could you do so fairly? Although you could never actually eliminate all of your personal biases and prejudices, you would need to take steps at least to minimize them. Rawls suggests that you imagine yourself in an original position behind a veil of ignorance. Behind this veil, you know nothing of yourself and your natural abilities, or your position in society. You know nothing of your sex, race, nationality, or individual tastes. Behind such a veil of ignorance all individuals are simply specified as rational, free, and morally equal beings. You do know that in the "real world", however, there will be a wide variety in the natural distribution of natural assets and abilities, and that there will be differences of sex, race, and culture that will distinguish groups of people from each other.
 >
-> -- __Spencer Maxcy__, [Ethical School Leadership](https://www.amazon.com/Ethical-School-Leadership-Spencer-Maxcy/dp/0810842777?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0810842777)
+> -- __Spencer Maxcy__, [Ethical School Leadership](https://www.amazon.com/gp/product/B01A3OJ7JM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01A3OJ7JM&linkCode=as2&tag=alvaroduran-20&linkId=eb9fd7d59388b0ae1eec483eb5dae3e7)
 
 __What would be the economical system that you would choose, provided that you don’t know at which stage in the society are you going to fall beforehand?__
 
@@ -605,7 +605,7 @@ There is an industry of domain-experts telling you what you have to do. Trends, 
 
 Who is the real expert, then? Time.
 
-The origin of the term ‘Lindy effect’ can be traced back to Albert Goldman and a 1964 article titled ‘[Lindy’s Law](https://www.dropbox.com/s/qripnmgbnvtyx16/1964-goldman.pdf)’, and was further developed by Benoit Mandelbrot in his book [The Fractal Geometry of Nature](https://www.amazon.com/Fractal-Geometry-Nature-Benoit-Mandelbrot/dp/0716711869?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0716711869). Mandelbrot expressed mathematically that for certain things bounded by the life of the producer, like human promise, future life expectancy is proportional to the past. J Richard Gott is also worth credit for his ‘Copernical principle'. Gott came up with the idea in 1969 when stopping at the Berlin Wall and wondering how long it would stand. He postulated that the Copernican principle is applicable in cases where nothing is known; unless there was something special about his visit, this gave a 75% chance that he was seeing the wall after the first quarter of its life.
+The origin of the term ‘Lindy effect’ can be traced back to Albert Goldman and a 1964 article titled ‘[Lindy’s Law](https://www.dropbox.com/s/qripnmgbnvtyx16/1964-goldman.pdf)’, and was further developed by Benoit Mandelbrot in his book [The Fractal Geometry of Nature](https://www.amazon.com/gp/product/0716711869/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0716711869&linkCode=as2&tag=alvaroduran-20&linkId=f0fbfedf03f9e8209a28e760be62a9e7). Mandelbrot expressed mathematically that for certain things bounded by the life of the producer, like human promise, future life expectancy is proportional to the past. J Richard Gott is also worth credit for his ‘Copernical principle'. Gott came up with the idea in 1969 when stopping at the Berlin Wall and wondering how long it would stand. He postulated that the Copernican principle is applicable in cases where nothing is known; unless there was something special about his visit, this gave a 75% chance that he was seeing the wall after the first quarter of its life.
 
 In probability, time and volatility are the same thing; in the Black Scholes formula, time and volatility, along with the differential between current price and the exercise price, determine the price of the option. It's the main reason why, in software engineering, you [should never do The Great Refactor](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/).
 
@@ -823,7 +823,7 @@ If the democratic system doesn’t fully deliver governance, we have known forev
 >
 > -- __Skin in the Game__
 
-François Mitterrand reigned for fourteen years, longer than many French kings. Even a US president, the modern kind of emperor, tends to last at least four years, while Rome had [six emperors in a single year](http://www.crystalinks.com/YearoftheSixEmperors.html) (238 AD), [five emperors in 193 AD](https://www.amazon.com/Year-Five-Emperors-Robert-Eckert/dp/1543909914) and [four in 69 AD](https://www.amazon.com/69-D-Year-Four-Emperors/dp/0195315898).
+François Mitterrand reigned for fourteen years, longer than many French kings. Even a US president, the modern kind of emperor, tends to last at least four years, while Rome had [six emperors in a single year](http://www.crystalinks.com/YearoftheSixEmperors.html) (238 AD), [five emperors in 193 AD](https://www.amazon.com/gp/product/B074CJPF82/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074CJPF82&linkCode=as2&tag=alvaroduran-20&linkId=da08a40c1f5263a6cd501973c92d3133) and [four in 69 AD](https://www.amazon.com/gp/product/0415236207/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0415236207&linkCode=as2&tag=alvaroduran-20&linkId=e8a84577286a7cc4462960e477038b0b).
 
 Thanks to the camera, you no longer need to put horses’ heads in boutique hotels. Today, [anonymity brings out the asshole in people](https://en.wikipedia.org/wiki/Online_disinhibition_effect).
 
@@ -831,7 +831,7 @@ But just the act of taking their pictures is similar to holding their lives in y
 
 Today, strangers, incapable of judging a person’s general character, have become self-appointed behaviour police. Web-shaming is much more powerful than past reputational blots, and more of a tail risk.
 
-That, again, isn't something we've just discovered. In Book 2 of Plato’s [Republic](https://www.amazon.com/Republic-AmazonClassics-Plato/dp/1542048664), there is a discussion between Socrates and Plato’s bother, Glaucon, about the ring of Gyges, which gives its holder the power to be invisible at will and watch others. This is the same story that H. G. Wells’ ‘The Invisible Man’ has as its basis, the ring that inspired the Alberich’s Ring in Richard Wagner’s ’The Ring of the Nibelung’, and, of course, the One Ring from J. R. R. Tolkien’s ‘The Hobbit’ and ‘The Lord of the Rings’.
+That, again, isn't something we've just discovered. In Book 2 of Plato’s [Republic](https://www.amazon.com/gp/product/B0082SV87G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0082SV87G&linkCode=as2&tag=alvaroduran-20&linkId=53b7037155d407ef9342153ba5d82d34), there is a discussion between Socrates and Plato’s bother, Glaucon, about the ring of Gyges, which gives its holder the power to be invisible at will and watch others. This is the same story that H. G. Wells’ ‘The Invisible Man’ has as its basis, the ring that inspired the Alberich’s Ring in Richard Wagner’s ’The Ring of the Nibelung’, and, of course, the One Ring from J. R. R. Tolkien’s ‘The Hobbit’ and ‘The Lord of the Rings’.
 
 >__Glaucon__: "Suppose now that there were two such magic rings, and the just put on one of them and the unjust the other[...]. No man would keep his hands off what was not his own when he could safely take what he liked out of the market [...], in all respects be like a god among men.
 >
@@ -982,7 +982,7 @@ Some beliefs are, hence, decorative, others are functional (they help with survi
 
 > The various modes of worship, which prevailed in the Roman world, were all considered by the people, as equally true; by the philosopher, as equally false; and by the magistrate, as equally useful. And thus toleration produced not only mutual indulgence, but even religious concord.
 >
-> -— __Edward Gibbon__, ‘[The Decline and Fall of the Roman Empire](https://www.amazon.com/Decline-Empire-Wordsworth-Classics-Literature/dp/1853264997?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1853264997)'.
+> -— __Edward Gibbon__, ‘[The Decline and Fall of the Roman Empire](https://www.amazon.com/gp/product/B00AP2XWA8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00AP2XWA8&linkCode=as2&tag=alvaroduran-20&linkId=cb69832f57070106c5719f1aa9a22e88)'.
 
 ### No worship without skin in the game
 
@@ -990,7 +990,7 @@ It is when you break a fast that you understand religion. The main theological f
 
 The altar in [Saint Sergius](https://www.saintsergius.org/) has a drain for blood. It had been recycled from an earlier pre-Christian practice: early Christians were sort of pagans, and in practice were not too differentiated from other Semitic cult followers, and shared places of worship with one another.
 
-The presence of saints in Christianity comes from that mechanism of recycling, as explained in detail in [Pagan Christianity](https://www.amazon.com/Pagan-Christianity-Exploring-Church-Practices/dp/1414364555). Christianity ended up removing the idea that such sacrifices under the notion that Christ sacrifice himself for others. However, if you happen to go to mass on Sunday, you’ll see wine representing blood, closely resembling the altar in Saint Sergius. Sacrifice was ended by making it metaphorical.
+The presence of saints in Christianity comes from that mechanism of recycling, as explained in detail in [Pagan Christianity](https://www.amazon.com/gp/product/1414364555/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1414364555&linkCode=as2&tag=alvaroduran-20&linkId=7c455541a74b1fa3b8a45aeac7c26b6c). Christianity ended up removing the idea that such sacrifices under the notion that Christ sacrifice himself for others. However, if you happen to go to mass on Sunday, you’ll see wine representing blood, closely resembling the altar in Saint Sergius. Sacrifice was ended by making it metaphorical.
 
 > The strength of a creed did not rest on ‘evidence’ of the powers of its gods, but evidence of the skin in the game on the part of its worshippers.
 >
@@ -1037,7 +1037,7 @@ Ken Binmore showed that the concept casually dubbed ‘rational’ is ill-define
 
 Beliefs are cheap talk. I have shown in Antifragile that making some types of errors is the most rational thing to do, when the errors are of little cost, as they lead to discoveries.
 
-Without those mistakes, we wouldn't have penicillin, no chemotherapy, and almost no drugs, as explained in '[Happy Accidents](https://www.amazon.com/Happy-Accidents-Serendipity-Breakthroughs-Twentieth-ebook/dp/B005M26J06?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B005M26J06)'.
+Without those mistakes, we wouldn't have penicillin, no chemotherapy, and almost no drugs, as explained in '[Happy Accidents](https://www.amazon.com/gp/product/1611451620/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1611451620&linkCode=as2&tag=alvaroduran-20&linkId=1e0d929c85b43f39ac03e6393814935e)'.
 
 > It is therefore my opinion that religion exists to enforce tail risk management across generations, as its binary and unconditional rules are easy to teach and enforce.
 >
