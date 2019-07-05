@@ -6,6 +6,7 @@ categories: [books]
 tags: [language, politics]
 permalink: /language-in-though-and-action
 image: https://images-na.ssl-images-amazon.com/images/I/41Z2i0McoHL._SX262_BO1,204,203,200_.jpg
+amazon_link: https://www.amazon.com/gp/product/0156482401/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156482401&linkCode=as2&tag=alvaroduran-20&linkId=cf30105777758da2deff32db2a9e3530
 description: The truism that we all mean the same things when we use the same words has unwanted consequences in politics, advertisement and life.
 rating: 4.5
 ---

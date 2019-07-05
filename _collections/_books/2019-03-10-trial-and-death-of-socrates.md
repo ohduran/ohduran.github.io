@@ -6,6 +6,7 @@ categories: [books]
 tags: [language]
 permalink: /trial-and-death-of-socrates
 image: https://images-eu.ssl-images-amazon.com/images/I/51PmLZNtdlL.jpg
+amazon_link: https://www.amazon.com/gp/product/0486270661/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0486270661&linkCode=as2&tag=alvaroduran-20&linkId=5f8678e6d75da8b0cb17f597d67137df
 description: Wise mentor, pompous, arrogant and often petulant teacher, Socrates is trialed and sentenced to death.
 rating: 2
 ---

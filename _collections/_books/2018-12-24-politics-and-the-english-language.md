@@ -6,6 +6,7 @@ categories: [books]
 tags: [language]
 permalink: /politics-and-the-english-language
 image: https://images-eu.ssl-images-amazon.com/images/I/418Xj79ENkL.jpg
+amazon_link: https://www.amazon.com/gp/product/0141393068/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0141393068&linkCode=as2&tag=alvaroduran-20&linkId=97e3deadf7b55b0f5210d42672ce7ebc
 description: How we speak affects how we think; and politics is full of bad speaking, which clouds our minds and how we vote.
 rating: 3
 ---

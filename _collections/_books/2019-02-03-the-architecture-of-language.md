@@ -6,6 +6,7 @@ categories: [books]
 tags: [language]
 permalink: /the-architecture-of-language
 image: https://images-na.ssl-images-amazon.com/images/I/41vgwOA%2BAZL.jpg
+amazon_link: https://www.amazon.com/gp/product/019568446X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=019568446X&linkCode=as2&tag=alvaroduran-20&linkId=200e8a221a94cb2352171921d6aa5d1a
 description: How to discover the structure of the language, the variations of our languages and how is it used in our brain.
 rating: 1
 ---

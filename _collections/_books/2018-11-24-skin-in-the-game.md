@@ -6,6 +6,7 @@ categories: [books]
 tags: [language, power, war, politics, decision making, beliefs]
 permalink: /skin-in-the-game
 image: https://images-eu.ssl-images-amazon.com/images/I/41GWJnPEaJL.jpg
+amazon_link: https://www.amazon.com/gp/product/042528462X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=042528462X&linkCode=as2&tag=alvaroduran-20&linkId=b1c629bca1c1fc9a07ae432eea4ac112
 description: A discussion on having something to lose guiding our society's decision making.
 rating: 4.5
 ---

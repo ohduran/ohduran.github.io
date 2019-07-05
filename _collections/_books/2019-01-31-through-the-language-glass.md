@@ -6,6 +6,7 @@ categories: [books]
 tags: [language]
 permalink: /through-the-language-glass
 image: https://images-na.ssl-images-amazon.com/images/I/51L1yVAyWLL.jpg
+amazon_link: https://www.amazon.com/gp/product/B011T6XLVS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B011T6XLVS&linkCode=as2&tag=alvaroduran-20&linkId=2a0510018fcbd03f081abb0d1d37b251
 description: Speaking and Thinking through the inquisitive analysis of science.
 rating: 2
 ---
