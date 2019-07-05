@@ -3,7 +3,7 @@ import re
 from os import listdir
 from os.path import isfile, join
 
-import yaml
+from yaml import dump
 
 books_collection_path = '_collections/_books'
 
@@ -129,5 +129,5 @@ print(data)
 
 
 with open('_data/mentions.yml', 'w') as stream:
-    yaml.dump(data, stream)    # Write a YAML representation of data to 'document.yaml'.
-    print(yaml.dump(data))
+    dump(data, stream)    # Write a YAML representation of data to 'document.yaml'.
+    print(dump(data))
