@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Home Office"
+title: Home Office
 date:   2018-08-29 15:00:00 +0100
 categories: journal
 permalink: /home-office

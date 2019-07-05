@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Writing in times of Clickbait"
+title: Writing in times of Clickbait
 date:   2019-06-30 00:10:00 +0100
 categories: articles
 permalink: /writing-in-times-of-clickbait

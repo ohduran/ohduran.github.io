@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Conflicts of Interest"
+title: On Conflicts of Interest
 date:   2017-10-13 15:00:00 +0100
 categories: articles
 permalink: /conflicts-of-interest

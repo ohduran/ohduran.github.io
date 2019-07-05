@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Reading PlayBook"
+title: A Reading PlayBook
 date:   2019-01-19 00:10:00 +0100
 categories: articles
 permalink: /reading-playbook

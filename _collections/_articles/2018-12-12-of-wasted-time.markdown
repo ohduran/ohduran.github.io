@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "On Wasted Time"
+title: On Wasted Time
 date:   2018-12-12 15:00:00 +0100
 categories: articles
 permalink: /wasted-time

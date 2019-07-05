@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "No Internet"
+title: No Internet
 date:   2018-08-17 15:00:00 +0100
 categories: journal
 permalink: /no-internet

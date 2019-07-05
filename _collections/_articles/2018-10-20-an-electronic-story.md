@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An electronic story"
+title: An electronic story
 date:   2018-10-20 15:00:00 +0100
 categories: articles
 permalink: /what-is-an-electron

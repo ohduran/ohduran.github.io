@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Of Persistence in Software"
+title: Of Persistence in Software
 date:   2017-08-09 15:00:00 +0100
 categories: journal
 permalink: /persistence-in software

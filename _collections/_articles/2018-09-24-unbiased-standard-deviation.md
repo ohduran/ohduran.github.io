@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unbiased, Standard Deviations"
+title: Unbiased, Standard Deviations
 date:   2018-09-24 15:00:00 +0100
 categories: articles
 permalink: /unbiased-standard-deviation

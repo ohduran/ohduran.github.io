@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Take care of the environment"
+title: Take care of the environment
 date:   2018-11-30 15:00:00 +0100
 categories: articles
 permalink: /take-care-of-the-environment

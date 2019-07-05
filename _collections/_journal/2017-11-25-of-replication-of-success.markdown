@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Replication of Success"
+title: Replication of Success
 date:   2017-11-25 15:00:00 +0100
 categories: journal
 permalink: /replication-of-success
