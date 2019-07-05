@@ -7,6 +7,7 @@ categories: [books]
 tags: [language, performance]
 permalink: /how-to-read-a-book
 image: https://images-na.ssl-images-amazon.com/images/I/51EG8AyJiQL.jpg
+amazon_link: https://www.amazon.com/gp/product/0671212095/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671212095&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24
 description: Reading is not what you really think it is.
 rating: 5
 ---
