@@ -127,7 +127,7 @@ data = mentions()
 
 print(data)
 
-#
-# with open('_data/mentions.yml', 'w') as stream:
-#     yaml.dump(data, stream)    # Write a YAML representation of data to 'document.yaml'.
-#     print(yaml.dump(data))
+
+with open('_data/mentions.yml', 'w') as stream:
+    yaml.dump(data, stream)    # Write a YAML representation of data to 'document.yaml'.
+    print(yaml.dump(data))
