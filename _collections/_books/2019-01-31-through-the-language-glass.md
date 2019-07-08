@@ -61,7 +61,7 @@ What do you do when you have been Chancellor of the Exchequer but have time to k
 >
 > -- __Matt Levine__
 
-There is something awry about Homer, the author of the Iliad and the Odyssey, with regards to how he perceives and uses colour. In the [last volume of his Studies on Homer and the Homeric Age](https://www.amazon.com/Studies-Homer-Homeric-Age-V3/dp/149812478X?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=149812478X), Gladstone analysis led him to believe that Homer and his contemporaries perceived the world in something closer to black and white than in ‘full Technicolor’.
+There is something awry about Homer, the author of the Iliad and the Odyssey, with regards to how he perceives and uses colour. In the [last volume of his Studies on Homer and the Homeric Age](https://www.amazon.com/gp/product/110801206X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=110801206X&linkCode=as2&tag=alvaroduran-20&linkId=097c6207d771ec6fe8eee9d9d5157653), Gladstone analysis led him to believe that Homer and his contemporaries perceived the world in something closer to black and white than in ‘full Technicolor’.
 
 > How could such a basic aspect of human experience have changed? [...] If there is one phrase that represents a rock of stability in the flux of human experience, then surely it would be that timeless question ‘Daddy, why is the sky blue?’
 >
@@ -164,7 +164,7 @@ Anthropology struggled to define what ‘culture’ really meant, and to determi
 
 > For the first time trained experimental psychologists investigated by means of adequate laboratory experiment a people in a low stage of culture under their ordinary conditions of life.
 >
-> -- __Alfred Cort Haddon__, [Reports of the Cambridge Anthropological Expedition to Torres Straits](https://www.amazon.com/Reports-Cambridge-Anthropological-Expedition-Straits/dp/0521179874?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0521179874)
+> -- __Alfred Cort Haddon__, [Reports of the Cambridge Anthropological Expedition to Torres Straits](https://www.amazon.com/gp/product/0521179882/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0521179882&linkCode=as2&tag=alvaroduran-20&linkId=0602bcf6c8b4e41d4cdb05f689af0d4c)
 
 River’s wanted to conduct detailed experiments on the eyesight of the natives. He had been immersed during the 1890s in the study of vision, and was keen to resolve the controversy over the colour sense. He spent four months on the remote Murray Island, with a population of about 450, sufficiently civilised to enable him to make observations and, yet, ‘sufficiently near their primitive condition to be thoroughly interesting’, as he put it.
 
@@ -360,7 +360,7 @@ The fallacy is believing that, given that some concepts are easier to express in
 
 ![Schadenfreude](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eduardo_Zamacois_y_Zabala_-_Regreso_al_convento.jpg/2880px-Eduardo_Zamacois_y_Zabala_-_Regreso_al_convento.jpg)
 
-This idea is nevertheless perverse, and many writers have fallen for it. If in [Politics and the English Language](/politics-and-the-english-language), we talked about how speech affects thought, we are now convinced that things aren’t as simple as that. George Orwell’s [1984](https://www.amazon.co.uk/Nineteen-Eighty-Four-Penguin-Modern-Classics/dp/014118776X/ref=sr_1_1?s=books&ie=UTF8&qid=1548960652&sr=1-1&keywords=1984), in which the political rulers assumed political dissent could be weed out by expunging all offending words from the vocabulary, elaborated on his short essay.
+This idea is nevertheless perverse, and many writers have fallen for it. If in [Politics and the English Language](/politics-and-the-english-language), we talked about how speech affects thought, we are now convinced that things aren’t as simple as that. George Orwell’s [1984](https://www.amazon.com/gp/product/0451524934/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451524934&linkCode=as2&tag=alvaroduran-20&linkId=cd128ed097bf94481e7152fd6b4d9a1f), in which the political rulers assumed political dissent could be weed out by expunging all offending words from the vocabulary, elaborated on his short essay.
 
 Any idea can be expressed in any such form, in any language. Some are simple and ambiguous (populism aims toward that), and some are more complex and elaborate. But in the end, all roads lead to Rome. This is already understood in Computer Science: Most computer languages are [Turing complete](https://en.wikipedia.org/wiki/Turing_completeness), which roughly mean that any programme defined in any of those languages can be ported, somehow, to any other language that is Turing complete.
 
@@ -374,7 +374,7 @@ If different languages influence their speakers’ minds in varying ways, it’s
 
 How? That’s where the road ends. Boas was concerned with the role that grammar plays in language, and Jakobson was dealing with the challenges in translation. Inferring anything from this is pure speculation, and we find ourselves outside the black box that our brain is, trying to understand it in the same plane of reality that our thinking tool lives.
 
-In [The Stuff of Thought](https://www.amazon.com/Stuff-Thought-Language-Penguin-Science/dp/0141015470?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0141015470), Steven Pinker argues that since no one has ever managed to show that speakers of one language find it impossible to reason in a particular way that comes naturally to other speakers of another language, then any remaining effects of language on thought are mundane.
+In [The Stuff of Thought](https://www.amazon.com/gp/product/0143114247/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143114247&linkCode=as2&tag=alvaroduran-20&linkId=14a48e824309f83a28257ef7e5a03dcd), Steven Pinker argues that since no one has ever managed to show that speakers of one language find it impossible to reason in a particular way that comes naturally to other speakers of another language, then any remaining effects of language on thought are mundane.
 
 We need to refer back to our system of coordinates. That’s how we express ourselves: through a system of conventions agreed upon. This agreements are complex enough to convey ideas with granular detail and flexible enough to be broken into pieces and reassembled to form new meanings (most languages form words by means of common roots; my favourite is the German word for fridge, Külschrank, literally ‘cold closet’). It’s a living tool, in the sense that it isn’t definite. It’s part of our culture in the sense that we the act of speaking shapes our language.
 
