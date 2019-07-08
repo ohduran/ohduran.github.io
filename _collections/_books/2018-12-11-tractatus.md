@@ -15,7 +15,7 @@ rating: 3.5
 >
 > -- __Tractatus__
 
-Everyone has looked up to the sky and asked The Big Questions: why are we here, what's our purpose, what's the meaning of life. The fact that those questions have remained unanswered for all history is a testament that they are either impossible to answer, or that we have been framing them wrong all along. In this context, Ludwig Wittgenstein publishes the [Tractatus Logico-Philosophicus](https://www.amazon.com/Tractatus-Logico-Philosophicus-Ludwig-Wittgenstein/dp/1602064512), to identify the relationship between language and reality and to define the limits of science. Its title is a homage to Baruch Spinoza's [Tractatus Theologico-Politicus](https://www.amazon.com/Theologico-Political-Treatise-Tractatus-Theologico-Politicus-Translated-Contents-ebook/dp/B006LG24I8/ref=sr_1_1?s=books&ie=UTF8&qid=1543868621&sr=1-1&keywords=tractatus+spinoza).
+Everyone has looked up to the sky and asked The Big Questions: why are we here, what's our purpose, what's the meaning of life. The fact that those questions have remained unanswered for all history is a testament that they are either impossible to answer, or that we have been framing them wrong all along. In this context, Ludwig Wittgenstein publishes the [Tractatus Logico-Philosophicus](https://www.amazon.com/gp/product/0415254086/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0415254086&linkCode=as2&tag=alvaroduran-20&linkId=d3dcaa88e899d9a2ebfedc7c5ddc1792), to identify the relationship between language and reality and to define the limits of science. Its title is a homage to Baruch Spinoza's [Tractatus Theologico-Politicus](https://www.amazon.com/gp/product/0872206076/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0872206076&linkCode=as2&tag=alvaroduran-20&linkId=20e85451840a2c746728ad3b7ae78170).
 
 The book is cryptic. That's not just me; even the author himself, in a letter to Bertrand Russell, agrees.
 
@@ -70,7 +70,7 @@ In a logically perfect language, however, nothing that is not simple will have a
 
 "We make ourselves pictures of facts" is indeed the catchy phrase encapsulating this. That we are not looking at the world, but instead we are modelling it by means of our own language, as it is the way we process thoughts. Because what cannot be thought, cannot be said. __The object of philosophy should be the clarification of those thoughts__, not to make a certain number of 'philosophical propositions'.
 
-The world consists of facts; which cannot be directly said, but are what make propositions true or false. If we can reduce the world to a set of simple, or atomic, facts, independent to each other like a canonic base of vectors, then we can fully describe the world, so long as those are all of them. It's like the 5 axioms of Euclides' [Elements of Geometry](https://www.amazon.com/Euclids-Elements-Geometry-Classic-Reprint/dp/B008HV6DXC), the building blocks of the whole corpus of the book.
+The world consists of facts; which cannot be directly said, but are what make propositions true or false. If we can reduce the world to a set of simple, or atomic, facts, independent to each other like a canonic base of vectors, then we can fully describe the world, so long as those are all of them. It's like the 5 axioms of Euclides' [Elements of Geometry](https://www.amazon.com/gp/product/1888009187/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1888009187&linkCode=as2&tag=alvaroduran-20&linkId=aad7415559923d58fe73c0f9d3dea3dc), the building blocks of the whole corpus of the book.
 
 We can also extend the analogy by saying that, once we have a uniform method of construction of propositions as truth functions that are born from propositions that declare those atomic facts, logic can be defined as the corpus that results from that set of atomic propositions, in the same way that Geometry follows from Euclides' 5 axioms and Electromagnetism follows from Maxwell's equations. Even the fact that Newtonian mechanics does not hold logically from Maxwell's equations prompted Einstein to look at the world from a different angle, and eventually came up with special relativity.
 
@@ -343,7 +343,7 @@ Now if I say, ‘The probability of my drawing a white ball is equal to the prob
 >
 > -- __Tractatus__
 
-What we mean that knowledge, or deduction, is made a priori is this: even the slightest deviation in our data can disprove our model of reality. It just takes an improbable [Black Swan](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X) to disprove our previous assumption that all swans are white.
+What we mean that knowledge, or deduction, is made a priori is this: even the slightest deviation in our data can disprove our model of reality. It just takes an improbable [Black Swan](https://www.amazon.com/gp/product/081297381X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=081297381X&linkCode=as2&tag=alvaroduran-20&linkId=525d9a02e17337d502bc0d622b97b0d5) to disprove our previous assumption that all swans are white.
 
 It is in this way that __probability is a generalisation__. We use probability only in default of certainty— if our knowledge of a fact is not indeed complete, but we do know something about its form, like the shape of the dice.
 
@@ -493,7 +493,7 @@ It is a hypothesis that the sun will rise tomorrow. A good one, though.
 
 > Laplace’s Law offers us the first simple rule of thumb for confronting small data in the real world. [...] Count the number of times it has happened in the past plus one, then divide by the number of opportunities plus two. And the beauty of Laplace’s Law is that it works equally well whether we have a single data point or millions of them. Little Annie’s faith that the sun will rise tomorrow is justified, it tells us: with an Earth that’s seen the sun rise for about 1.6 trillion days in a row, the chance of another sunrise on the next “attempt” is all but indistinguishable from 100%.
 >
-> -- __[Algorithms to Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/1627790365)__
+> -- __[Algorithms to Live By](https://www.amazon.com/gp/product/1627790365/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1627790365&linkCode=as2&tag=alvaroduran-20&linkId=de6c91c90c6d4841a6e952bcc39a4a38)__
 
 The whole modern conception of the world is founded on the illusion that the so-called laws of nature are the explanations of natural phenomena.
 
@@ -513,13 +513,13 @@ Is he insinuating that Heaven and Hell are just mindsets?
 >
 > -- __Tractatus__
 
-Our life has no end; we just stop living. Life is an [infinite game](https://www.amazon.com/Finite-Infinite-Games-James-Carse/dp/1476731713?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1476731713).
+Our life has no end; we just stop living. Life is an [infinite game](https://www.amazon.com/gp/product/1476731713/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476731713&linkCode=as2&tag=alvaroduran-20&linkId=8ed998d9fd3573be468a54a6e1924e2c).
 
 > Not only there is no guarantee of the temporal immortality of the human soul, […] this assumption completely fails to accomplish the purpose for which it has always been intended. Or is some riddle solved by my surviving for ever? Is not this eternal life itself as much of a riddle as our present life? The solution of the riddle of life in space and time lies outside space and time.
 >
 > -- __Tractatus__
 
-Jordan Peterson has a good take about this on [Maps of Meaning](https://www.youtube.com/watch?v=I8Xc2_FtpHI&list=PL22J3VaeABQAT-0aSPq-OKOpQlHyR4k5h).
+Jordan Peterson has a good take about this on [Maps of Meaning](https://www.amazon.com/gp/product/0415922224/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0415922224&linkCode=as2&tag=alvaroduran-20&linkId=95ef1748cd3a7fac4ed873d148ec4dc1).
 
 > It is not how things are in the world that is mystical, but that it exists.
 >
