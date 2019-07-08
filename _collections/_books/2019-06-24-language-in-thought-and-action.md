@@ -269,7 +269,7 @@ Unfortunately, there is a tendency to speak with disdain of abstractions. But th
 
 The test of abstractions is *whether they are referable to lower levels*. If so, they can be brought down to concrete examples; they can be *verified*. They are indeed reports, and not just prejudice.
 
-Some people, according to Wendell Johnson’s [People in Quandaries](https://www.amazon.com/People-Quandaries-Semantics-Personal-Adjustment/dp/091897027X), remain more or less permanently stuck at certain levels of the abstraction ladder. Some on the lower levels— those that describe vacation trips in letters by [detailing what they are doing or what they are eating](https://www.youtube.com/watch?v=3Y6-11P8S1o)—, and some on the higher ones— often, politicians. In 1998, Bill Clinton denied having committed perjury when he said that "there is not a sexual relationship" with Monica Lewinsky because, according to him, the fact that certain acts were performed "on him”, not by him, means that he did not engage in sexual relations.
+Some people, according to Wendell Johnson’s [People in Quandaries](https://www.amazon.com/gp/product/091897027X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=091897027X&linkCode=as2&tag=alvaroduran-20&linkId=6939c9a3b3562916158ac4c0b509a4bb), remain more or less permanently stuck at certain levels of the abstraction ladder. Some on the lower levels— those that describe vacation trips in letters by [detailing what they are doing or what they are eating](https://www.youtube.com/watch?v=3Y6-11P8S1o)—, and some on the higher ones— often, politicians. In 1998, Bill Clinton denied having committed perjury when he said that "there is not a sexual relationship" with Monica Lewinsky because, according to him, the fact that certain acts were performed "on him”, not by him, means that he did not engage in sexual relations.
 
 In order to engage in a meaningful conversation, one in which both you and your peer is engaged and ‘have come to terms’ is one in which there is an interplay between higher and lower levels of abstractions.
 
@@ -292,7 +292,7 @@ In a wider sense, people confuse levels of abstractions: what’s in their heads
 
 In reality, we should not be saying “The pencil is yellow”, but instead “I see something that has characteristics which lead me to call it pencil. This thing that I call pencil has a further characteristic that lead me to say it is ‘yellow’”. And we would bore each other to death, running around in circles and making no progress whatsoever.
 
-The more complicated civilisation becomes, the more we left behind this primitive relationship between throwing virgins into volcanoes and the happiness of the gods, the more conscious we must be that *we must leave certain features of things we deal with in our heads in order to communicate*. In Ralph Ellison’s novel [Invisible Man](https://www.amazon.com/Invisible-Man-Ralph-Ellison/dp/0679732764), the narrator suggests that many whites, on encountering someone black, would see only the abstraction “black” that they carry in their heads; busy thinking of that ‘little man who wasn’t there’, they didn’t notice the actual individual.
+The more complicated civilisation becomes, the more we left behind this primitive relationship between throwing virgins into volcanoes and the happiness of the gods, the more conscious we must be that *we must leave certain features of things we deal with in our heads in order to communicate*. In Ralph Ellison’s novel [Invisible Man](https://www.amazon.com/gp/product/0679732764/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0679732764&linkCode=as2&tag=alvaroduran-20&linkId=4baa91305c7c573c3004ac7f34197a5c), the narrator suggests that many whites, on encountering someone black, would see only the abstraction “black” that they carry in their heads; busy thinking of that ‘little man who wasn’t there’, they didn’t notice the actual individual.
 
 ## *Exceptio probat regulum*
 
@@ -312,7 +312,7 @@ By the definition once accepted widely, any person with even a small amount of �
 >
 >  —— *Language in Thought and Action*
 
-We talk about ‘snap judgments’, like Daniel Kahnemann did on [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0141033576), suggesting that prejudices can be avoided by thinking more slowly; this is definitely not the case, *for some people think very slowly with no better results*.
+We talk about ‘snap judgments’, like Daniel Kahnemann did on [Thinking, Fast and Slow](https://www.amazon.com/gp/product/0374533555/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=alvaroduran-20&linkId=0532102e2a8c7fa69f55374fa061304e), suggesting that prejudices can be avoided by thinking more slowly; this is definitely not the case, *for some people think very slowly with no better results*.
 
 Reactions such as “A Jew’s a jew” suggests that the denoted, extensional jew, is the fictitious one inside one’s head. People like Einstein, Woody Allen or Henry Kissinger happen to be jews, people who have gained the admiration of many people, and someone reacting that way can be confronted with the observation. These are usually treated as “exceptions”. At this point, *they will go on saying “But exceptions only prove the rule”, which is another way of saying “Facts don’t count”*.
 
@@ -370,7 +370,7 @@ The cruelties of the Nazis have been received with incredulity and repulse from 
 >
 >  —— *Language in Thought and Action*
 
-[Brave New World](https://www.amazon.com/Brave-New-World-Vintage-Classics/dp/0099477467?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-ffab-es-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=0099477467)’s author Aldous Huxley has said that it is the function of propaganda is to enable people to do in cold blood things that they could otherwise do only in the heat of passion. Two-valued propaganda has precisely this effect.
+[Brave New World](https://www.amazon.com/gp/product/0060850523/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0060850523&linkCode=as2&tag=alvaroduran-20&linkId=9805d94c2d766f72d66dbb0a391b7736)’s author Aldous Huxley has said that it is the function of propaganda is to enable people to do in cold blood things that they could otherwise do only in the heat of passion. Two-valued propaganda has precisely this effect.
 
 To an extent that we are referring to logic, two-valued orientations are OK. “One plus one equals two” is *true*, and every other answer is *false*. Trying to bring this reasoning where words are slippery and fail us is where two-valued orientations no longer apply.
 
@@ -412,7 +412,7 @@ Any TV debate is a variation of this; since both sides can do little other than 
 >
 >  —— *Language in Thought and Action*
 
-Milton Rokeach’s [The Open and Closed Mind](https://www.amazon.com/Open-Closed-Mind-Investigations-Personality/dp/1614278164/ref=sr_1_1?keywords=the+open+and+closed+mind&qid=1561395887&s=books&sr=1-1) put matters as simply as possible in terms of a communicative event: the listener may either accept or reject the speaker, and he may accept or reject the statement. Thus, there are only 4 possible reactions to the communication as a listener.
+Milton Rokeach’s [The Open and Closed Mind](https://www.amazon.com/gp/product/1614278164/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1614278164&linkCode=as2&tag=alvaroduran-20&linkId=a18f2ac2bf1312f0929bf757107cc292) put matters as simply as possible in terms of a communicative event: the listener may either accept or reject the speaker, and he may accept or reject the statement. Thus, there are only 4 possible reactions to the communication as a listener.
 
 1. Accept the speaker and Accept the statement
 2. Accept the speaker and Reject the statement

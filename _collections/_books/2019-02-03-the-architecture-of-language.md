@@ -88,7 +88,7 @@ On the other hand, you also want *explanatory adequacy*: the child’s ability t
 
 > Adjectives in English absolutely have to be in this order: opinion-size-age-shape-colour-origin-material-purpose Noun. So you can have a lovely little old rectangular green French silver whittling knife. But if you mess with that word order in the slightest you’ll sound like a maniac. It’s an odd thing that every English speaker uses that list, but almost none of us could write it out.
 >
-> -- __Mark Forsyth__, [The Elements of Eloquence](https://www.amazon.com/Elements-Eloquence-Secrets-Perfect-Phrase/dp/042527618X/ref=sr_1_1?s=amazon-elements&srs=8514636011&ie=UTF8&qid=1549118372&sr=8-1&keywords=elements+of+eloquence)
+> -- __Mark Forsyth__, [The Elements of Eloquence](https://www.amazon.com/gp/product/042527618X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=042527618X&linkCode=as2&tag=alvaroduran-20&linkId=a3fa0eacb1e4b5a6b9b033211aabc5a0)
 
 That looks like a flat contradiction. The general approach was the natural one: try to abstract general principles, take them to be properties of the language faculty itself, and try to show that the residue is much less complex and varied than it looks. English, Hindi, French, Spanish, they all share a common structure that is innate to humans, and we shape the way we speak with the data we are exposed to, so that English kids say 'cheese' and French kids say '*fromage*'.
 
