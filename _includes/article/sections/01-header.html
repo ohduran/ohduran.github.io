@@ -1,14 +1,13 @@
 <header>
     <div class="ArticleHeader__articleHeader___1G7-9  ArticleHeader__default___1GpE3">
         <div class="ArticleHeader__headerRow___nDCwd">
-            <h1 class="ArticleHeader__hed___GPB7e">{{ page.title }}{% if page.author %},{% endif %}</h1>
-            {% if page.author %}<h1 class="ArticleHeader__hed___GPB7e">by {{ page.author }}</h1>{% endif %}
+            <h1 class="ArticleHeader__hed___GPB7e">{{ page.title }}</h1>
             <h2 class="ArticleHeader__dek___2rbDs">{{ page.description }}</h2>
             <div class="ArticleHeader__metaInfo___1aBON">
                 <div class="ArticleContributors__byline___3-luq">
                     <div class="ArticleContributors__contributorWrapper___1CrIJ">
                       <div class="Byline__articleHeader___13Q7D  ">
-                          {% if page.amazon_link %}<p class="ArticleTimestamp__timestamp___1klks"><a class="Link__link___3dWao" href="{{ page.amazon_link }}" target="_blank">Buy it on Amazon</a></p>
+                          {% if page.amazon_link %}<p class="Byline__by___37lv8"><a class="Link__link___3dWao" href="{{ page.amazon_link }}" target="_blank">Buy it on Amazon</a></p>
                           {% else %}<p class="ArticleTimestamp__timestamp___1klks ">{{ page.date | date: "%a, %d %b, %y" }}</p>{% endif %}
                       </div>
                     </div>
