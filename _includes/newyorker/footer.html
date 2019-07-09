@@ -4,12 +4,10 @@
         <div class="FooterPromoLinks__container___fzxb9">
             <div class="FooterPromoLinks__featureLinks___17S0N">
                 <div>
-                    <h4>Made with ❤️ by <a class="Link__link___3dWao" href="/mystory">AD</a> based on <a class="Link__link___3dWao" href="https://www.wowthemes.net/themes/mediumish-ghost/">Mediumish</a></h4>
+                    <h4>Made by <a class="Link__link___3dWao" href="/mystory">AD</a></h4>
                     <h4>Post pictures by <a class="Link__link___3dWao" href="https://absurd.design">Diana Valeanu</a></h4>
-                    <h4>Book pictures by <a class="Link__link___3dWao" href="https://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=508088&ref_=footer_cou">Amazon</a></h4>
-
-                    <!-- <h4>Based on the <a class="Link__link___3dWao  " href="https://github.com/wowthemesnet/mediumish-theme-jekyll/">Mediumish Theme</a>.</h4>
-                    <h4>Default pictures by Diana Valeanu, the woman behind <a class="Link__link___3dWao" href="https://absurd.design/">Absurd Design</a>.</h4> -->
+                    <h4>Book pictures by <a class="Link__link___3dWao" href="https://www.amazon.com/?&_encoding=UTF8&tag=alvaroduran-20&linkCode=ur2&linkId=c13dea527579fda47d0bc1c744e0c38f&camp=1789&creative=9325">Amazon</a></h4>
+                    <h4>See a list of all books mentioned <a class="Link__link___3dWao" href="/mentioned">here</a></h4>
             </div>
         </div>
     </div>
@@ -18,7 +16,7 @@
             <div class="FooterDirectory__directoryContainer___1tqT-">
                 <div class="FooterDirectory__directory___C4Dvz">
                     <div class="FooterDirectory__panel___2uuX1">
-                        <h4><a href="/news">Best Rated Books</a></h4>
+                        <h4><a href="/books">Best Rated Books</a></h4>
                         <ul>
                           {% for post in books %}
                             <li><a class="Link__link___3dWao  " href="{{ post.url }}">{{ forloop.index }}. {{ post.title }}</a></li>
@@ -26,11 +24,11 @@
                         </ul>
                     </div>
                     <div class="FooterDirectory__panel___2uuX1">
-                        <h4><a href="/books">Sections</a></h4>
+                        <h4><a href="#">Sections</a></h4>
                         <ul>
                           {% for section in site.collections %}
                           {% if section.label != "posts" %}
-                            <li><a class="Link__link___3dWao  " href="/{{ section.label }}">{{ section.label | replace: "_", " " | capitalize }}</a></li>
+                            <li><a class="Link__link___3dWao" href="/{{ section.label }}">{{ section.label | replace: "_", " " | capitalize }}</a></li>
                           {% endif %}
                           {% endfor %}
                         </ul>
