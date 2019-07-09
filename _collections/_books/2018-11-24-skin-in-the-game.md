@@ -823,7 +823,7 @@ If the democratic system doesn’t fully deliver governance, we have known forev
 >
 > -- __Skin in the Game__
 
-François Mitterrand reigned for fourteen years, longer than many French kings. Even a US president, the modern kind of emperor, tends to last at least four years, while Rome had [six emperors in a single year](http://www.crystalinks.com/YearoftheSixEmperors.html) (238 AD), [five emperors in 193 AD](https://www.amazon.com/gp/product/B074CJPF82/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B074CJPF82&linkCode=as2&tag=alvaroduran-20&linkId=da08a40c1f5263a6cd501973c92d3133) and [four in 69 AD](https://www.amazon.com/gp/product/0415236207/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0415236207&linkCode=as2&tag=alvaroduran-20&linkId=e8a84577286a7cc4462960e477038b0b).
+François Mitterrand reigned for fourteen years, longer than many French kings. Even a US president, the modern kind of emperor, tends to last at least four years, while Rome had [six emperors in a single year](http://www.crystalinks.com/YearoftheSixEmperors.html) (238 AD), five emperors in 193 AD and four in 69 AD.
 
 Thanks to the camera, you no longer need to put horses’ heads in boutique hotels. Today, [anonymity brings out the asshole in people](https://en.wikipedia.org/wiki/Online_disinhibition_effect).
 

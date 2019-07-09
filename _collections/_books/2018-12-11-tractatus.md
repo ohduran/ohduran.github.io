@@ -513,7 +513,7 @@ Is he insinuating that Heaven and Hell are just mindsets?
 >
 > -- __Tractatus__
 
-Our life has no end; we just stop living. Life is an [infinite game](https://www.amazon.com/gp/product/1476731713/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476731713&linkCode=as2&tag=alvaroduran-20&linkId=8ed998d9fd3573be468a54a6e1924e2c).
+Our life has no end; we just stop living. Life is an infinite game, one of those that James P. Carse described in [Finite and Infinite games](https://www.amazon.com/gp/product/1476731713/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476731713&linkCode=as2&tag=alvaroduran-20&linkId=8ed998d9fd3573be468a54a6e1924e2c).
 
 > Not only there is no guarantee of the temporal immortality of the human soul, […] this assumption completely fails to accomplish the purpose for which it has always been intended. Or is some riddle solved by my surviving for ever? Is not this eternal life itself as much of a riddle as our present life? The solution of the riddle of life in space and time lies outside space and time.
 >

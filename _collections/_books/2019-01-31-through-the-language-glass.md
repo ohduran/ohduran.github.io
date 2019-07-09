@@ -61,7 +61,7 @@ What do you do when you have been Chancellor of the Exchequer but have time to k
 >
 > -- __Matt Levine__
 
-There is something awry about Homer, the author of the Iliad and the Odyssey, with regards to how he perceives and uses colour. In the [last volume of his Studies on Homer and the Homeric Age](https://www.amazon.com/gp/product/110801206X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=110801206X&linkCode=as2&tag=alvaroduran-20&linkId=097c6207d771ec6fe8eee9d9d5157653), Gladstone analysis led him to believe that Homer and his contemporaries perceived the world in something closer to black and white than in ‘full Technicolor’.
+There is something awry about Homer, the author of the Iliad and the Odyssey, with regards to how he perceives and uses colour. In the last volume of his [Studies on Homer and the Homeric Age](https://www.amazon.com/gp/product/110801206X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=110801206X&linkCode=as2&tag=alvaroduran-20&linkId=097c6207d771ec6fe8eee9d9d5157653), Gladstone analysis led him to believe that Homer and his contemporaries perceived the world in something closer to black and white than in ‘full Technicolor’.
 
 > How could such a basic aspect of human experience have changed? [...] If there is one phrase that represents a rock of stability in the flux of human experience, then surely it would be that timeless question ‘Daddy, why is the sky blue?’
 >
