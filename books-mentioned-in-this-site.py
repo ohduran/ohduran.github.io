@@ -23,6 +23,7 @@ def collection_files():
 
 def generate_book_mentions():
     url_starter = 'https://www.amazon.com/gp/product/'
+    image_link_template = 'https://www.amazon.com/gp/product/{}/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN={}&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24'
     graph = []
     uniques = []
     for path in collection_paths:
@@ -33,10 +34,12 @@ def generate_book_mentions():
                     for link in html.xpath('//a'):
                         if link.get('href') and link.get('href').startswith(url_starter) and link.text not in uniques:
                             uniques.append(link.text)
+                            asin = re.findall(r"product/(.{10})", link.get('href'))[0]
                             graph.append({
                                 'title': link.text,
                                 'url': link.get('href'),
-                                'asin': re.findall(r"product/(.{10})", link.get('href'))[0]
+                                'asin': asin,
+                                'image_url': image_link_template.format(asin, asin)
                             })
             except (FileNotFoundError, etree.XMLSyntaxError):
                 pass
