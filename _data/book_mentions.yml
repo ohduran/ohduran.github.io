@@ -118,10 +118,6 @@
   image_url: https://www.amazon.com/gp/product/1591846447/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846447&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24
   title: Start With Why
   url: https://www.amazon.com/gp/product/1591846447/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846447&linkCode=as2&tag=alvaroduran-20&linkId=104f5ca6fe48f08ee1eee7138686c29d
-- asin: 0156923947
-  image_url: https://www.amazon.com/gp/product/0156923947/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156923947&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24
-  title: Stuart Chase
-  url: https://www.amazon.com/gp/product/0156923947/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156923947&linkCode=as2&tag=alvaroduran-20&linkId=59e4f003a401162329c376db84cec1e7
 - asin: 110801206X
   image_url: https://www.amazon.com/gp/product/110801206X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=110801206X&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24
   title: Studies on Homer and the Homeric Age
@@ -182,6 +178,10 @@
   image_url: https://www.amazon.com/gp/product/0143114247/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143114247&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24
   title: The Stuff of Thought
   url: https://www.amazon.com/gp/product/0143114247/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0143114247&linkCode=as2&tag=alvaroduran-20&linkId=14a48e824309f83a28257ef7e5a03dcd
+- asin: 0156923947
+  image_url: https://www.amazon.com/gp/product/0156923947/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156923947&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24
+  title: The Tyranny of Words
+  url: https://www.amazon.com/gp/product/0156923947/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156923947&linkCode=as2&tag=alvaroduran-20&linkId=59e4f003a401162329c376db84cec1e7
 - asin: 0393354776
   image_url: https://www.amazon.com/gp/product/0393354776/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0393354776&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24
   title: The Undoing Project

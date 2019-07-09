@@ -145,7 +145,7 @@ And keep in mind these rules:
 
 These rules demand a deep change of attitude in anyone who has grown used to writing in the style now fashionable.
 
-[Stuart Chase](https://www.amazon.com/gp/product/0156923947/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156923947&linkCode=as2&tag=alvaroduran-20&linkId=59e4f003a401162329c376db84cec1e7) claims that all abstract words are meaningless, and have used this as a pretext for advocating a kind of political quietism. But you should note that the present political chaos is connected with the decay of language, and that one can probably bring about some improvement by starting at the verbal end.
+In [The Tyranny of Words](https://www.amazon.com/gp/product/0156923947/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0156923947&linkCode=as2&tag=alvaroduran-20&linkId=59e4f003a401162329c376db84cec1e7), Stuart Chase claims that all abstract words are meaningless, and have used this as a pretext for advocating a kind of political quietism. But you should note that the present political chaos is connected with the decay of language, and that one can probably bring about some improvement by starting at the verbal end.
 
 You cannot speak any of the necessary dialects, and when you make a stupid remark its stupidity will be obvious, even to yourself.
 
