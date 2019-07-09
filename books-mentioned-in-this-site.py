@@ -35,7 +35,8 @@ def generate_book_mentions():
                             uniques.append(link.text)
                             graph.append({
                                 'title': link.text,
-                                'url': link.get('href')
+                                'url': link.get('href'),
+                                'asin': re.findall(r"product/(.{10})", link.get('href'))[0]
                             })
             except (FileNotFoundError, etree.XMLSyntaxError):
                 pass

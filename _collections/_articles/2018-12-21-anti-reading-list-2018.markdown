@@ -33,7 +33,7 @@ In ascending disgust, I present you the list of 10 books that I strongly encoura
 
 He is one of my favourite authors, he is engaging from the first page, and has a unique style that captivated me in ‘Liars Poker’.
 
-However, this book is pretty much useless: an excuse for a layman reader to read about psychology in a lab environment. As much as he tries to convey an aura of heroism to Tversky and Kahnemann, they’re simply humans, researchers, in an area that has gained traction only recently. While Liars’ Poker has aged well, I don’t expect that from this book.
+However, this book is pretty much useless: an excuse for a layman reader to read about psychology in a lab environment. As much as he tries to convey an aura of heroism to Tversky and Kahnemann, they’re simply humans, researchers, in an area that has gained traction only recently. While Liars Poker has aged well, I don’t expect that from this book.
 
 Instead, go straight to the source: [Thinking, Fast and Slow](https://www.amazon.com/gp/product/0374533555/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=alvaroduran-20&linkId=0532102e2a8c7fa69f55374fa061304e).
 
@@ -51,7 +51,7 @@ Skimming this book is more than enough. Instead, I would recommend to go to [Mr 
 
 Don’t buy the book; watch [his TED talk](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) instead.
 
-### 7 - [Don’t pay for your MBA](https://www.amazon.com/gp/product/0814438482/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814438482&linkCode=as2&tag=alvaroduran-20&linkId=90130d3207262b7f2c1554f397649c93), by Laurie Pickard
+### 7 - [Don't pay for your MBA](https://www.amazon.com/gp/product/0814438482/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814438482&linkCode=as2&tag=alvaroduran-20&linkId=90130d3207262b7f2c1554f397649c93), by Laurie Pickard
 
 Unspecific, all things considered: he could have built an entire case against education, but instead went for “I did this and it went well, so I’m broadcasting my cognitive dissonance to the entire universe”. The author makes deep suggestions such as “you need to plan your MBA yourself” and “you can learn at your own pace”, which to be fair are true, but not mind-blowing.
 
