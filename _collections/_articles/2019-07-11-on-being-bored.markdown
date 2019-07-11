@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Being bored
+title: Being Bored
 date:   2019-07-11 00:10:00 +0100
 categories: articles
 permalink: /being-bored
