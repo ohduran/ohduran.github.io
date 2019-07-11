@@ -49,4 +49,3 @@ def generate_book_mentions():
 with open('_data/book_mentions.yml', 'w') as stream:
     data = generate_book_mentions()
     dump(data, stream)    # Write a YAML representation of data to 'document.yaml'.
-    print(data)
