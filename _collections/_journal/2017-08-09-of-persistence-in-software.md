@@ -4,7 +4,8 @@ title: Of Persistence in Software
 date:   2017-08-09 15:00:00 +0100
 categories: journal
 permalink: /persistence-in software
-image: https://absurd.design/assets/img/gallery-color-69-5.jpg
+image: https://static01.nyt.com/images/2017/02/16/well/family/well-gubar-sisyphus/well-gubar-sisyphus-superJumbo.jpg
+image_caption: Sisyphus, 1548 - Titian
 rating: 1
 ---
 I've come to realise that the only attribute that sets good software engineers apart from the rest is persistence. The ability to be focused for long period of times is known to be crucial for knowledge workers, and developers are no exception to this. But, just declaring a correlation between good performance and deep focus is not enough: it is also crucial to understand that focusing is an essential ingredient to excellence by means of persistence.

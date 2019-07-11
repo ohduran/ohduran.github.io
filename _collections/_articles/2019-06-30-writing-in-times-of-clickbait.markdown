@@ -4,7 +4,8 @@ title: Writing in times of Clickbait
 date:   2019-06-30 00:10:00 +0100
 categories: articles
 permalink: /writing-in-times-of-clickbait
-image: https://absurd.design/assets/img/gallery-color-69-4.jpg
+image: https://upload.wikimedia.org/wikipedia/commons/4/43/Leonid_Pasternak_-_The_Passion_of_creation.jpg
+image_caption: The Passion of Creation, 19th century, exact date unknown - Lenoid Pasternak
 rating: 4
 ---
 We live in incurious times. Some would argue that isn’t true, because we are only one click away from being informed. Some would argue that in the Internet era, facts can be verified to a degree that wasn’t possible before. And yet, it feels that people do not want to know, but to be reaffirmed in what they believe. That posing questions are seen as affirmative statements that must be punished. If someone asks “What if there is no gender gap?”, all hell breaks loose on social media, and the public trial begins. Even if there is a sincere attempt to ground the argument on facts, the crowd dismiss them as fabricated and biased, or something that must be silenced, for these arguments create an unsafe environment in schools and universities.

@@ -4,7 +4,8 @@ title: On Conflicts of Interest
 date:   2017-10-13 15:00:00 +0100
 categories: articles
 permalink: /conflicts-of-interest
-image: https://absurd.design/assets/img/gallery-color-69-16.jpg
+image: http://www.the-athenaeum.org/art/display_image.php?id=38223
+image_caption: Pay Attention, late 19th century - Henry Bacon
 rating: 1
 ---
 

@@ -4,7 +4,8 @@ title: Replication of Success
 date:   2017-11-25 15:00:00 +0100
 categories: journal
 permalink: /replication-of-success
-image: https://absurd.design/assets/img/gallery-color-69-8.jpg
+image: https://byronsmuse.files.wordpress.com/2014/07/1889-the-starry-night-van-gogh1.jpg
+image_caption: The Starry Night, 1889 - Vincent Van Gogh
 rating: 1
 ---
 A couple of days ago, I bumped into a rant by an anonymous guy who bantered something like this:

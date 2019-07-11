@@ -4,7 +4,8 @@ title: A Reading PlayBook
 date:   2019-01-19 00:10:00 +0100
 categories: articles
 permalink: /reading-playbook
-image: https://absurd.design/assets/img/gallery-color-69-6.jpg
+image: https://uploads5.wikiart.org/images/joaquin-sorolla/in-the-garden-1896.jpg!Large.jpg
+image_caption: In the Garden, 1896 - Joaquín Sorolla
 rating: 3.5
 ---
 Reading is all we do. Website, TV ads, fine print, big billboards, papers, newspapers, old hardcovers. Reading is everywhere. We can't escape it. And yet, we aren't taught how to excel at reading. We can recite Shakespeare parrot-fashion, but we haven't dug deeper into it; we go through life reading, but our reading goes through us too; we all have passed the beginner's level, but there are few masters among us.
