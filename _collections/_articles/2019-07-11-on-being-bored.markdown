@@ -12,11 +12,9 @@ My dog is a cheeky creature. Like many other beagles, she lives in a constant st
 
 > And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth. Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.
 
-All of us have experienced boredom in one form of another. The football game showing on the muted nearby TV, the overwhelming stream of messages being sent across social media platforms, that web-browser window serving as a reminder for something we want to check out later, the river of unread emails that add up an unsurmountable number. I can’t settle on any of it, let alone think for a moment.
+All of us have experienced how the world schemes to distract us. The football game showing on the muted nearby TV, the overwhelming stream of messages being sent across social media platforms— what we call [Fear of Missing Out](https://www.amazon.com/gp/product/B00HUZORM0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HUZORM0&linkCode=as2&tag=alvaroduran-20&linkId=28469ff17fdd1102c7ec2d226ef93324)—, that web-browser window serving as a reminder for something we want to check out later, the river of unread emails that add up an unsurmountable number. I can’t settle on any of it, let alone think for a moment. It’s weight, weight in your mental luggage that you carry around, weight that you can’t get rid of, weight that brings you down at the end of the day, positive that all that bearing didn’t account for much. You get asked “how did your day go?” and…it just went. Away.
 
-It’s weight, weight in your mental luggage that you carry around, weight that you can’t get rid of, weight that brings you down at the end of the day, positive that all that bearing didn’t account for much. You’re asked “how did your day go?” and…it just went. Away.
-
-Why do human beings— and dogs alike— crave what’s new in the world, what stands out from the routine, what comes as a surprise? Why do we ache for entertainment when there’s nothing to do?
+Why do human beings— and dogs alike— crave for entertainment when there’s nothing to do?
 
 <hr>
 
