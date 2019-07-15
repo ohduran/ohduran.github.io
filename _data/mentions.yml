@@ -22,6 +22,9 @@
   - rating: '4.5'
     title: Skin in the Game
     url: /skin-in-the-game
+  - rating: '5'
+    title: How to read a book
+    url: /how-to-read-a-book
   - rating: '3'
     title: Politics and the English Language
     url: /politics-and-the-english-language
@@ -142,8 +145,6 @@
   permalink: /wasted-time
 - mentions: []
   permalink: /what-is-an-electron
-- mentions: []
-  permalink: /reading-playbook
 - mentions:
   - rating: '1'
     title: Revolutions
