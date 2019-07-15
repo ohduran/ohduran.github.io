@@ -2,7 +2,6 @@
 layout: post
 title: Dogfooding
 date:   2018-05-11 15:00:00 +0100
-categories: journal
 permalink: /dogfooding
 image: https://www.wga.hu/art/m/murillo/1/102muril.jpg
 image_caption: Boys eating Grapes and Melon, 1645 - Bartolomé Esteban Murillo

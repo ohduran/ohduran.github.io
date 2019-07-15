@@ -2,7 +2,6 @@
 layout: post
 title: Of Avoiding Skin in the Game
 date:   2019-01-15 00:10:00 +0100
-categories: articles
 permalink: /of-avoiding-skin-in-the-game
 image: https://upload.wikimedia.org/wikipedia/commons/8/88/Galileo_facing_the_Roman_Inquisition.jpg
 image_caption: Galileo facing the Roman Inquisition, 1857 - Cristiano Banti

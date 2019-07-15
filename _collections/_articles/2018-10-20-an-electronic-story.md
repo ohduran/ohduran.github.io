@@ -2,7 +2,6 @@
 layout: post
 title: An electronic story
 date:   2018-10-20 15:00:00 +0100
-categories: articles
 permalink: /what-is-an-electron
 image: https://uploads5.wikiart.org/images/joan-miro/catalan-landscape-the-hunter-1924.jpg!Large.jpg
 image_caption: Catalan Landscape (The Hunter), 1923 - Joan Miró

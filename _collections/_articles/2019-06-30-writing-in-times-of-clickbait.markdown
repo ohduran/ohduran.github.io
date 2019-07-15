@@ -2,7 +2,6 @@
 layout: post
 title: Writing in times of Clickbait
 date:   2019-06-30 00:10:00 +0100
-categories: articles
 permalink: /writing-in-times-of-clickbait
 image: https://upload.wikimedia.org/wikipedia/commons/4/43/Leonid_Pasternak_-_The_Passion_of_creation.jpg
 image_caption: The Passion of Creation, 19th century, exact date unknown - Lenoid Pasternak

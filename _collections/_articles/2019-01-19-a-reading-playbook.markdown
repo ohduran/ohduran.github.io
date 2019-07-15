@@ -2,7 +2,6 @@
 layout: post
 title: A Reading PlayBook
 date:   2019-01-19 00:10:00 +0100
-categories: articles
 permalink: /reading-playbook
 image: https://uploads5.wikiart.org/images/joaquin-sorolla/in-the-garden-1896.jpg!Large.jpg
 image_caption: In the Garden, 1896 - Joaquín Sorolla

@@ -2,7 +2,6 @@
 layout: post
 title: Replication of Success
 date:   2017-11-25 15:00:00 +0100
-categories: journal
 permalink: /replication-of-success
 image: https://byronsmuse.files.wordpress.com/2014/07/1889-the-starry-night-van-gogh1.jpg
 image_caption: The Starry Night, 1889 - Vincent Van Gogh

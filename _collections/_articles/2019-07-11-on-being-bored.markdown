@@ -2,7 +2,6 @@
 layout: post
 title: Being Bored
 date:   2019-07-11 00:10:00 +0100
-categories: articles
 permalink: /being-bored
 image: /assets/images/boredom-gaston-de-la-touche.jpg
 image_caption: Boredom, 1893 - Gaston de la Touche
