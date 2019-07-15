@@ -2,7 +2,6 @@
 layout: post
 title: Through the Language Glass
 author: Guy Deutscher
-categories: [books]
 tags: [language]
 permalink: /through-the-language-glass
 image: https://images-na.ssl-images-amazon.com/images/I/51L1yVAyWLL.jpg

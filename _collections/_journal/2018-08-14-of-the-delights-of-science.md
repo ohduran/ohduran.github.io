@@ -2,7 +2,6 @@
 layout: post
 title: The Delights of Science
 date:   2018-08-14 15:00:00 +0100
-categories: journal
 permalink: /the-delights-of-science
 image: https://www.art-prints-on-demand.com/kunst/raffael_eigntl_rafaello_santi/1-Die-Schule-von-Athen.jpg
 image_caption: The School of Athens, 1511 - Raphael

@@ -2,7 +2,6 @@
 layout: post
 title: The Architecture of Language
 author: Noam Chomsky
-categories: [books]
 tags: [language]
 permalink: /the-architecture-of-language
 image: https://images-na.ssl-images-amazon.com/images/I/41vgwOA%2BAZL.jpg

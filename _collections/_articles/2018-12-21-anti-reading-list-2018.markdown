@@ -2,7 +2,6 @@
 layout: post
 title:  "The 2018 Anti-Reading List"
 date:   2018-12-21 00:00:01 +0100
-categories: articles
 image: https://www.theparisreview.org/blog/wp-content/uploads/2017/08/degas-sulking.jpg
 image_caption: Sulking, ca 1870 - Edgar Degas
 permalink: /anti-reading-list/2018

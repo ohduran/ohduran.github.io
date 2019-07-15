@@ -125,8 +125,5 @@ def mentions():
 
 data = mentions()
 
-print(data)
-
-
 with open('_data/mentions.yml', 'w') as stream:
     dump(data, stream)    # Write a YAML representation of data to 'document.yaml'.

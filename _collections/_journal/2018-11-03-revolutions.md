@@ -2,7 +2,6 @@
 layout: post
 title: Revolutions
 date: 2018-11-03 15:00:00 +0100
-categories: journal
 permalink: /revolutions
 image: https://classconnection.s3.amazonaws.com/571/flashcards/419571/jpg/liberty_leading_the_people1312067692248.jpg
 image_caption: Liberty Leading the People, 1830 - Eugène Delacroix

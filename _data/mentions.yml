@@ -139,13 +139,7 @@
 - mentions: []
   permalink: /2018-annual-letter
 - mentions: []
-  permalink: /defaulting-and-copying
-- mentions: []
-  permalink: /take-care-of-the-environment
-- mentions: []
   permalink: /wasted-time
-- mentions: []
-  permalink: /unbiased-standard-deviation
 - mentions: []
   permalink: /what-is-an-electron
 - mentions: []
@@ -158,6 +152,8 @@
 - mentions: []
   permalink: /of-avoiding-skin-in-the-game
 - mentions: []
+  permalink: /being-bored
+- mentions: []
   permalink: /anti-reading-list/2018
 - mentions: []
   permalink: /writing-in-times-of-clickbait
@@ -166,18 +162,9 @@
 - mentions: []
   permalink: /dogfooding
 - mentions: []
-  permalink: /no-internet
-- mentions: []
-  permalink: /home-office
-- mentions:
-  - rating: '1'
-    title: No Internet
-    url: /no-internet
   permalink: /persistence-in software
 - mentions: []
   permalink: /replication-of-success
-- mentions: []
-  permalink: /the-best-thing-about-linkedin
 - mentions:
   - rating: '4'
     title: Deep Work
