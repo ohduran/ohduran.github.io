@@ -3,7 +3,7 @@ layout: post
 title: On Wasted Time
 date:   2018-12-12 15:00:00 +0100
 permalink: /wasted-time
-image: http://2.bp.blogspot.com/-iYbzb6tVT3E/T-Kpf__ubAI/AAAAAAAADzo/LeH-L9JTI8A/s1600/SalvadorDali-ThePersistenceOfMemory.jpg
+image: https://ziemanng.files.wordpress.com/2014/09/the-persistence-of-memory.jpg
 image_caption: The Persistence of Memory, 1930 - Salvador Dalí
 rating: 2.5
 ---

@@ -50,8 +50,6 @@
   permalink: /the-architecture-of-language
 - mentions: []
   permalink: /language-in-though-and-action
-- mentions: []
-  permalink: /damn-good-advice
 - mentions:
   - rating: '2.5'
     title: Damn Good Advice
@@ -66,6 +64,8 @@
     title: Revolutions
     url: /revolutions
   permalink: /deep-work
+- mentions: []
+  permalink: /damn-good-advice
 - mentions:
   - rating: '3.5'
     title: Tractatus Logico-Philosophicus
