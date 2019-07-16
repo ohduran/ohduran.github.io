@@ -1034,7 +1034,7 @@ Ken Binmore showed that the concept casually dubbed ‘rational’ is ill-define
 >
 > -- __Batman__, '[Batman Begins](https://www.imdb.com/title/tt0372784/)'
 
-Beliefs are cheap talk. I have shown in Antifragile that making some types of errors is the most rational thing to do, when the errors are of little cost, as they lead to discoveries.
+Beliefs are cheap talk. In [Antifragile](https://www.amazon.com/gp/product/0812979680/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812979680&linkCode=as2&tag=alvaroduran-20&linkId=6fc644194b9da371eefe70a2ec9c2a23) we saw that making some types of errors is the most rational thing to do, when the errors are of little cost, as they lead to discoveries.
 
 Without those mistakes, we wouldn't have penicillin, no chemotherapy, and almost no drugs, as explained in '[Happy Accidents](https://www.amazon.com/gp/product/1611451620/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1611451620&linkCode=as2&tag=alvaroduran-20&linkId=1e0d929c85b43f39ac03e6393814935e)'.
 
@@ -1134,4 +1134,4 @@ In a strategy that entails ruin, benefits never offset risks of ruin. Rationalit
 
 ## Conclusion
 
-__Skin in the Game__ isn't paradigm shifting; most of the ideas on this book have been presented in Antifragile, or Black Swan. It is, however, a gateway book to Taleb's philosophy. A high level view of an idea that was elaborated in his previous works, and takes a digestable form that drags your attention and calls for action.
+__Skin in the Game__ isn't paradigm shifting; most of the ideas on this book have been presented in [Antifragile](https://www.amazon.com/gp/product/0812979680/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0812979680&linkCode=as2&tag=alvaroduran-20&linkId=6fc644194b9da371eefe70a2ec9c2a23), or Black Swan. It is, however, a gateway book to Taleb's philosophy. A high level view of an idea that was elaborated in his previous works, and takes a digestable form that drags your attention and calls for action.

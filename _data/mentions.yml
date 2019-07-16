@@ -50,7 +50,12 @@
   permalink: /the-architecture-of-language
 - mentions: []
   permalink: /language-in-though-and-action
+- mentions: []
+  permalink: /damn-good-advice
 - mentions:
+  - rating: '2.5'
+    title: Damn Good Advice
+    url: /damn-good-advice
   - rating: '5'
     title: How to read a book
     url: /how-to-read-a-book
@@ -74,6 +79,9 @@
   - rating: '4.5'
     title: Language in Thought and Action
     url: /language-in-though-and-action
+  - rating: '2.5'
+    title: Damn Good Advice
+    url: /damn-good-advice
   - rating: '3'
     title: Politics and the English Language
     url: /politics-and-the-english-language
@@ -109,6 +117,9 @@
   - rating: '4.5'
     title: Language in Thought and Action
     url: /language-in-though-and-action
+  - rating: '2.5'
+    title: Damn Good Advice
+    url: /damn-good-advice
   - rating: '4.5'
     title: Skin in the Game
     url: /skin-in-the-game
