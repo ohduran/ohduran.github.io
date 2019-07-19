@@ -19,9 +19,6 @@
   - rating: '4.5'
     title: Language in Thought and Action
     url: /language-in-though-and-action
-  - rating: '4.5'
-    title: Skin in the Game
-    url: /skin-in-the-game
   - rating: '5'
     title: How to read a book
     url: /how-to-read-a-book
@@ -120,9 +117,6 @@
   - rating: '2.5'
     title: Damn Good Advice
     url: /damn-good-advice
-  - rating: '4.5'
-    title: Skin in the Game
-    url: /skin-in-the-game
   - rating: '3'
     title: Politics and the English Language
     url: /politics-and-the-english-language
@@ -132,6 +126,9 @@
   - rating: '2.5'
     title: ' "The 2018 Anti-Reading List"'
     url: /anti-reading-list/2018
+  - rating: '4'
+    title: Start Reading
+    url: /start-reading
   permalink: /how-to-read-a-book
 - mentions:
   - rating: '2'
@@ -156,27 +153,34 @@
   permalink: /wasted-time
 - mentions: []
   permalink: /what-is-an-electron
-- mentions:
-  - rating: '1'
-    title: Revolutions
-    url: /revolutions
-  permalink: /conflicts-of-interest
 - mentions: []
   permalink: /of-avoiding-skin-in-the-game
 - mentions: []
   permalink: /being-bored
-- mentions: []
+- mentions:
+  - rating: '4'
+    title: Start Reading
+    url: /start-reading
   permalink: /anti-reading-list/2018
 - mentions: []
   permalink: /writing-in-times-of-clickbait
 - mentions: []
   permalink: /mystory
 - mentions: []
+  permalink: /start-reading
+- mentions: []
   permalink: /dogfooding
 - mentions: []
   permalink: /persistence-in software
 - mentions: []
   permalink: /replication-of-success
+- mentions: []
+  permalink: /the-best-thing-about-linkedin
+- mentions:
+  - rating: '1'
+    title: Revolutions
+    url: /revolutions
+  permalink: /conflicts-of-interest
 - mentions:
   - rating: '4'
     title: Deep Work
