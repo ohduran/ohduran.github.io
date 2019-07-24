@@ -6,6 +6,7 @@ permalink: /wasted-time
 image: https://ziemanng.files.wordpress.com/2014/09/the-persistence-of-memory.jpg
 image_caption: The Persistence of Memory, 1930 - Salvador Dalí
 rating: 2.5
+description: Or "Time is only wasted when we do things over and over and learn nothing".
 ---
 A PhD, the pinnacle of our current educational system, is ill-defined. There is an array of variables involved that uniquely separate one PhD programme from the next; the topic of the thesis, the size of the grant, the involvement of the professor. But they all have something in common: A PhD implies wasting 4 years of your life.
 

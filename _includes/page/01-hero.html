@@ -12,7 +12,13 @@
                 <a class="Link__link___3dWao  " href="{{ post.url }}">
                     <h1 class="Hero__hed___3qGU4">{{ post.title}}</h1>
                 </a>
-                <h2 class="Hero__dek___I2uAD">{{ post.description }}</h2>
+                <h2 class="Hero__dek___I2uAD">
+                  {% if post.description %}
+                    {{ post.description }}
+                  {% else %}
+                    {{ post.excerpt }}
+                  {% endif %}
+                </h2>
                 {% include newyorker/author-and-date.html post=post %}
             </div>
         </div>

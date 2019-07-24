@@ -72,7 +72,7 @@ On this section of the book, Lois deals with his beginnings: must have a shockin
 
 > 36 __Most people work at *keeping* their job, rather than *doing* a good job__
 
-In order to go to the next level, you must separated from the rest, do something risky, and avoid trends. The best piece of advice that could be given to first year undergraduates is “don’t study Economics”. Throughout my senior year in high school, I was constantly repeated that majoring in  Business was economically sensible, because there was so many jobs out there for you.
+In order to go to the next level, you must distance yourself from the rest, do something risky, and avoid trends. The best piece of advice that could be given to first year undergraduates is “don’t study Economics”. Throughout my senior year in high school, I was constantly repeated that majoring in  Business was economically sensible, because there was so many jobs out there for you.
 
 For me, it was obvious that it would eventually become the opposite. Now, my generation is full of people with Business degrees that are, in the face of so many others holding it too, worthless.
 

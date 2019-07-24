@@ -6,6 +6,7 @@ permalink: /what-is-an-electron
 image: https://uploads5.wikiart.org/images/joan-miro/catalan-landscape-the-hunter-1924.jpg!Large.jpg
 image_caption: Catalan Landscape (The Hunter), 1923 - Joan Miró
 rating: 1
+description: Or "Drop the Schrödinger's cat jokes".
 ---
 How do we handle complex ideas in our head? How do we manage to use a brain that, in all its power, was designed to grasp concrete ideas to hunt, organise small groups of people and preserve itself, and put it to manipulate concepts that cannot be seen? At the peak of their era, Romans have conquered pretty much all the known world, and yet they were using a numerical system that could only count up to 10,000, and the concept of zero was yet to be mastered!
 

@@ -6,6 +6,7 @@ permalink: /being-bored
 image: /assets/images/boredom-gaston-de-la-touche.jpg
 image_caption: Boredom, 1893 - Gaston de la Touche
 rating: 4
+description: Or "Thinking about being bored when bored"
 ---
 My dog is a cheeky creature. Like many other beagles, she lives in a constant state of unrest, craves new toys, and is always ready for menace, even at the expense of the usual punishment. Like many humans, she just can’t stay put when she is bored.
 
