@@ -55,7 +55,7 @@
     title: How to read a book
     url: /how-to-read-a-book
   - rating: '1'
-    title: Why I Didn't Answer Your Email
+    title: Email (let's drop the hyphen)
     url: /email
   - rating: '1'
     title: Revolutions
@@ -162,11 +162,17 @@
     title: Start Reading
     url: /start-reading
   permalink: /anti-reading-list/2018
-- mentions: []
+- mentions:
+  - rating: '1'
+    title: Email (let's drop the hyphen)
+    url: /email
   permalink: /writing-in-times-of-clickbait
 - mentions: []
   permalink: /mystory
-- mentions: []
+- mentions:
+  - rating: '1'
+    title: Email (let's drop the hyphen)
+    url: /email
   permalink: /start-reading
 - mentions: []
   permalink: /dogfooding
@@ -174,8 +180,6 @@
   permalink: /persistence-in software
 - mentions: []
   permalink: /replication-of-success
-- mentions: []
-  permalink: /the-best-thing-about-linkedin
 - mentions:
   - rating: '1'
     title: Revolutions

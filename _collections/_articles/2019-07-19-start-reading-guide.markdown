@@ -7,7 +7,7 @@ image: https://www.theschooloflife.com/thebookoflife/wp-content/uploads/2014/11/
 image_caption: Lao Tzu leaving the kingdom on his water buffalo - Artist Unknown
 rating: 4
 ---
-When I was a kid, I read everything, voraciously. I read the breakfast cereal boxes— in Spanish and in Portuguese—, I read the billboards, I read the [objects in mirror are closer than they appear](https://en.wikipedia.org/wiki/Objects_in_mirror_are_closer_than_they_appear) warning, even if I didn’t understand what it meant. I read the shampoo labelling, the fine print on medicine labels, and the advertising disclaimers, passing like high-speed trains across the bottom of the TV.
+When I was a kid, I read everything, voraciously. I read the breakfast cereal boxes— in Spanish and in Portuguese—, I read the billboards, I read the [objects in mirror are closer than they appear](https://en.wikipedia.org/wiki/Objects_in_mirror_are_closer_than_they_appear) warning, I read the shampoo labelling, the fine print on medicine labels, and the advertising disclaimers, passing like high-speed trains across the bottom of the TV.
 
 Regardless of the medium, my undivided attention shifted towards what was in writing. I came to realise that I hold the written word in high regard: most of what was in print was something that I could memorise more easily. Plus, most of the writing I was exposed to was trying to tell me a story, and thus I must pay attention to it. And attention I did pay.
 
