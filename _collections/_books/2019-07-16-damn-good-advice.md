@@ -25,7 +25,7 @@ When I go out, I feel like there’s a war going on. A barrage of posters, bans 
 
 All these ads struggle with the same meta-problem: the discovery problem. The fact that I’m not even aware of either the problem at hand, nor the solution the company found for it. The fact that I’m in no mood to be sold something, because my attention span when I’m doing something else is limited, and I want either to be left alone or to be left with a complete idea of what they want.
 
-I want to know lightning-fast, or I don’t want them.
+I want to know lightning-fast, or I don’t want to.
 
 <hr>
 
