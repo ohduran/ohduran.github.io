@@ -1,4 +1,3 @@
-{% assign books = (site.books | sort: "rating") | reverse | slice: 0, 5 %}
 <footer data-track-type="nav" data-track-location="page-footer" class="SiteFooter__footer___2CFaR">
     <div class="FooterPromoLinks__promoLinks___3HDWB">
         <div class="FooterPromoLinks__container___fzxb9">
@@ -17,58 +16,37 @@
                     <div class="FooterDirectory__panel___2uuX1">
                         <h4><a href="/books">Best Rated Books</a></h4>
                         <ul>
+                          {% assign books = (site.books | sort: "rating") | reverse | slice: 0, 5 %}
                           {% for post in books %}
                             <li><a class="Link__link___3dWao  " href="{{ post.url }}">{{ forloop.index }}. {{ post.title }}</a></li>
                           {% endfor %}
                         </ul>
                     </div>
-                    <!-- <div class="FooterDirectory__panel___2uuX1">
-                        <h4><a href="#">Sections</a></h4>
-                        <ul>
-                          {% for section in site.collections %}
-                          {% if section.label != "posts" %}
-                            <li><a class="Link__link___3dWao" href="/{{ section.label }}">{{ section.label | replace: "_", " " | capitalize }}</a></li>
-                          {% endif %}
-                          {% endfor %}
-                        </ul>
-                    </div> -->
-
                     <div class="FooterDirectory__panel___2uuX1">
-                        <h4><a href="/annual_letters">Annual Letters</a></h4>
+                        <h4><a href="/articles">Best Essays</a></h4>
                         <ul>
-                          {% for letter in site.annual_letters %}
-                            <li><a class="Link__link___3dWao  " href="{{ letter.url }}">{{ letter.date | date: "%Y" | minus: 1 }}</a></li>
+                          {% assign articles = (site.articles | sort: "rating") | reverse | slice: 0, 5 %}
+                          {% for post in articles %}
+                            <li><a class="Link__link___3dWao  " href="{{ post.url }}">{{ forloop.index }}. {{ post.title }}</a></li>
                           {% endfor %}
                         </ul>
                     </div>
-
                     <div class="FooterDirectory__panel___2uuX1">
                         <h4><a href="/journal">Journal</a></h4>
                         <ul>
-                          {% assign journal = (site.journal | sort: "date") | reverse | slice: 0, 8 %}
+                          {% assign journal = (site.journal | sort: "rating") | reverse | slice: 0, 5 %}
                           {% for post in journal | %}
-                            <li><a class="Link__link___3dWao  " href="{{ post.url }}">{{ post.title }}</a></li>
-                          {% endfor %}
-                        </ul>
-                    </div>
-
-
-
-                    <div class="FooterDirectory__panel___2uuX1">
-                        <h4><a href="/articles">Articles</a></h4>
-                        <ul>
-                          {% assign articles = (site.articles | sort: "date") | reverse | slice: 0, 8 %}
-                          {% for article in articles %}
-                            <li><a class="Link__link___3dWao  " href="{{ article.url }}">{{ article.title }}</a></li>
+                            <li><a class="Link__link___3dWao  " href="{{ post.url }}">{{ forloop.index }}. {{ post.title }}</a></li>
                           {% endfor %}
                         </ul>
                     </div>
                     <div class="FooterDirectory__panel___2uuX1">
-                        <h4><a href="/mystory">Get to know me</a></h4>
+                        <h4><a href="/annual_letters">Annual Letters</a></h4>
                         <ul>
-                            <li><a class="Link__link___3dWao  " href="/mystory">About</a></li>
-                            <li><a class="Link__link___3dWao  " href="/contact">Contact</a></li>
-                            <li><a class="Link__link___3dWao  " href="/faq">FAQ</a></li>
+                          {% assign letters = (site.annual_letters | sort: "date") | reverse | slice: 0, 8 %}
+                          {% for letter in letters %}
+                            <li><a class="Link__link___3dWao  " href="{{ letter.url }}">{{ letter.date | date: "%Y" | minus: 1 }}</a></li>
+                          {% endfor %}
                         </ul>
                     </div>
                 </div>

@@ -5,7 +5,7 @@ date: 2019-07-19 00:10:00 +0100
 permalink: /start-reading
 image: https://www.theschooloflife.com/thebookoflife/wp-content/uploads/2014/11/LaoTzu-Taoist-562x10241.jpg
 image_caption: Lao Tzu leaving the kingdom on his water buffalo - Artist Unknown
-rating: 4
+rating: 3
 description: Or "Relearning to Read".
 ---
 When I was a kid, I read everything, voraciously. I read the breakfast cereal boxes— in Spanish and in Portuguese—, I read the billboards, I read the [objects in mirror are closer than they appear](https://en.wikipedia.org/wiki/Objects_in_mirror_are_closer_than_they_appear) warning, I read the shampoo labelling, the fine print on medicine labels, and the advertising disclaimers, passing like high-speed trains across the bottom of the TV.

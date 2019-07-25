@@ -5,7 +5,7 @@ date:   2019-06-30 00:10:00 +0100
 permalink: /writing-in-times-of-clickbait
 image: https://incaelo.files.wordpress.com/2013/09/caravaggio-the-calling-of-st-matthew-full.jpg
 image_caption: The Calling of St. Matthew, 1600 - Caravaggio
-rating: 4
+rating: 4.5
 description: Or "Fake news is what you get when you’re not the customer".
 ---
 We live in incurious times. Some would argue that isn’t true, because we are only one click away from being informed. Some would argue that in the Internet era, facts can be verified to a degree that wasn’t possible before. And yet, it feels that people do not want to know, but to be reaffirmed in what they believe. That posing questions are seen as affirmative statements that must be punished. If someone asks “What if there is no gender gap?”, all hell breaks loose on social media, and the public trial begins. Even if there is a sincere attempt to ground the argument on facts, the crowd dismiss them as fabricated and biased, or something that must be silenced, for these arguments create an unsafe environment in schools and universities.

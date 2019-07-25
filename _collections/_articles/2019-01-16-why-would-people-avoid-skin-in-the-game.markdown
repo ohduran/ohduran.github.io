@@ -5,7 +5,7 @@ date:   2019-01-15 00:10:00 +0100
 permalink: /of-avoiding-skin-in-the-game
 image: https://upload.wikimedia.org/wikipedia/commons/8/88/Galileo_facing_the_Roman_Inquisition.jpg
 image_caption: Galileo facing the Roman Inquisition, 1857 - Cristiano Banti
-rating: 2.5
+rating: 3.5
 description: Or "Albeit it does move".
 ---
 The whole prerogative about [Skin in the Game](/skin-in-the-game) is that being exposed to the harm of the decisions that you make is good for your health, your decision making and your wealth. Only when we are exposed to a certain level stress, we thrive: that's the sole purpose of going to the gym. Even our immune system is built to learn; [not being exposed to enough toxins and bacteria might be one of the causes of childhood leukaemia](https://www.youtube.com/watch?v=hI3wrKpxySA).
