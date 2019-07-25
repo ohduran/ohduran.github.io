@@ -15,7 +15,7 @@ rating: 5
 >
 > -- __[How to Read a Book](https://www.amazon.com/gp/product/0671212095/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0671212095&linkCode=as2&tag=alvaroduran-20&linkId=f5d392d227d2234a4e08b81362c11e24)__
 
-Before the Internet, there were books. We shared information with each other by means of the printing word, ink and paper, from cover to cover. It’s likely that you, like me, were encouraged to read since you were very young. We aren’t alone: literacy across the globe has experienced a steady increase since the end of World War II.
+Before the Internet, there were books. We shared information with each other by means of the printing word, ink and paper, from cover to cover. It’s possible that you, like me, were encouraged to read since you were very young. We aren’t alone: literacy across the globe has experienced a steady increase since the end of World War II.
 
 Alas, that isn’t enough. With the pervasive literacy also comes the competition; we are drawn to take away more from the books we read, from the information we are presented. However important that is, researches agree that we haven’t found ways to consistently drive our reading skills further from what we learnt when we were 7. In terms of reading and collecting information from what we read, we are still in playground.
 
@@ -27,7 +27,7 @@ This isn’t news to you. Many of us thought in the mid twentieth century that t
 >
 > — __[Amusing Ourselves to Death](https://www.amazon.com/gp/product/014303653X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=014303653X&linkCode=as2&tag=alvaroduran-20&linkId=ad2b6817f1aefe4c216c7a5f3bb302a0)__
 
-The basics, hearteningly, are simple to understand. You just can’t read everything the same way. There is no point in reading the 822-page [Gödel, Escher, Bach](https://www.amazon.com/gp/product/0465026567/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465026567&linkCode=as2&tag=alvaroduran-20&linkId=56e323099796f39a351798629ba0f48c) and the motorway billboard the same way. Some books are to be read more slowly, because they are more demanding; others are to be read more lightly, because they are less so. If people read like they wonder in museums, reading well is like pausing in front of each painting, looking at it closely. You probably 'see' less, but you certainly understand more. You won’t even need a camera!
+The basics, hearteningly, are simple to understand. You just can’t read everything the same way. It doesn't make sense to read the 822-page [Gödel, Escher, Bach](https://www.amazon.com/gp/product/0465026567/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0465026567&linkCode=as2&tag=alvaroduran-20&linkId=56e323099796f39a351798629ba0f48c) and the motorway billboard in the same way. Some books are to be read more slowly, because they are more demanding; others are to be read more lightly, because they are less so. If people read like they wonder in museums, reading well is like pausing in front of each painting, looking at it closely. You probably 'see' less, but you certainly understand more. You won’t even need a camera!
 
 <hr>
 
@@ -38,6 +38,8 @@ The only way to solve whether an enterprise is worth pursuing is failing fast. L
 But first, let me define what I mean by reading: __reading is learning from an absent teacher__. When lectured by a teacher, you don’t learn by osmosis; you struggle with what you’re presented, until you get it. Over that struggle, you may ask questions to the teacher, and he or she may answer them. A demanding teacher is almost always a better one, because he or she is pushing the student’s capabilities to their extremes. When reading, this mindset must continue; in this case, the reader has to wear the hats of the curious pupil and the demanding teacher. Ideally, a curious pupil never stops asking questions, and a demanding teacher brings about what he is teaching from different angles. An ideal reader, thus, will have procured himself with a version of the book he is reading “written by him or herself”.
 
 If we have decided that the book is worth our time and attention, we now must *read the book through, without ever stopping to look up or ponder the things you don't understand right away*. Given that the book is difficult, in order to read better we need to form the habit of asking questions, and ask them as you read. That habit is the mark of a demanding reader; a habit that is formed *by reading*. Now that we have decided that this book is worth reading, then we aren’t putting it down until we are satisfied with the results. Thus, taking notes is as part of reading as it is turning to the next page. This will keep you focused as well as alert for the answers you’re looking for.
+
+<hr>
 
 The strategy to gain as much insight from a book as you possibly can is analyse it both ways: one goes top-down, and we call it *analysis*; the other is bottom-up, and we call it *synthesis*.
 
@@ -57,6 +59,8 @@ Eventually, the skeleton of the book will reveal itself— the better the book a
 
 We have circled back to where we started: the main outline of the book. We've come a long way, but we aren't finished with the book just yet. It's time to emit a form of judgment of the book.
 
+<hr>
+
 In [Thinking, Fast and Slow](https://www.amazon.com/gp/product/0374533555/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0374533555&linkCode=as2&tag=alvaroduran-20&linkId=0532102e2a8c7fa69f55374fa061304e), Kahnemann elaborates on human beings’ impulse to jump into conclusions as quickly as they can. We seem to be mentally wired to take actions almost instantly, and only pause and reflect by making a conscious effort to do so.
 
 It’s worth pointing that out, because as you can see, judgement comes after reading, analysing and synthesising the book. __Only when I can say “I understand”, I’m in a position to declare whether I agree or not__.
@@ -71,7 +75,9 @@ If truth is at stake, we can safely assume that there is only one kind of it, an
 
 This is possibly one of the key takeaways of the book: that agreement is always possible, because truth is unique. It branches out from postmodernist ideas, where truth is a matter of opinion and personal experience, and agreement isn’t always possible. Thing is, I find myself in a strange paradox here: I don’t agree with the authors. Truth isn’t simple, and unique; it seems to me that competent and smart people can be found in both sides of long held arguments, be it monetary policy or social benefits. What strikes me as a correct statement, because I don’t see how something can be “truth-y" but not true, “faulty” but not false, clashes with my understanding of how stock markets operate in terms of future outcomes. No one is entirely right; they just make a profit out of what they think the future will hold.
 
-One book is, nevertheless, only the beginning. Intially, our aim was to scratch an itch: we wanted to answer a question we had. Frequently, reading a book will open a world of possibilities that we weren’t aware before reading it. That shouldn’t scare you, but excite you.
+<hr>
+
+One book is, nevertheless, only the beginning. Initially, our aim was to scratch an itch: we wanted to answer a question we had. Frequently, reading a book will open a world of possibilities that we weren’t aware before reading it. That shouldn’t scare you, but excite you.
 
 > Feeling insignificant because the universe is large has exactly the same logic as feeling inadequate for not being a cow. Or a herd of cows. The universe is not there to overwhelm us; it is our home, and our resource. The bigger the better.
 >
