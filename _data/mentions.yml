@@ -156,6 +156,8 @@
 - mentions: []
   permalink: /of-avoiding-skin-in-the-game
 - mentions: []
+  permalink: /email
+- mentions: []
   permalink: /being-bored
 - mentions:
   - rating: '4'
@@ -190,8 +192,6 @@
     title: Deep Work
     url: /deep-work
   permalink: /the-delights-of-science
-- mentions: []
-  permalink: /email
 - mentions:
   - rating: '2.5'
     title: ' "2018 Annual Letter"'
