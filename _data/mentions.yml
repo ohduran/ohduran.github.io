@@ -1,3 +1,5 @@
+- mentions: []
+  permalink: /code
 - mentions:
   - rating: '2'
     title: Trial and Death of Socrates
@@ -86,7 +88,7 @@
     title: ' "2018 Annual Letter"'
     url: /2018-annual-letter
   - rating: '3.5'
-    title: Of Avoiding Skin in the Game
+    title: Avoiding Skin in the Game
     url: /of-avoiding-skin-in-the-game
   - rating: '2.5'
     title: ' "The 2018 Anti-Reading List"'
