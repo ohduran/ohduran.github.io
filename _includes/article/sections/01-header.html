@@ -1,7 +1,7 @@
 <header>
     <div class="ArticleHeader__articleHeader___1G7-9  ArticleHeader__default___1GpE3">
         <div class="ArticleHeader__headerRow___nDCwd">
-            <h1 class="ArticleHeader__hed___GPB7e">{{ page.title }}</h1>
+            <h1 class="ArticleHeader__hed___GPB7e">{{ page.title }}{% if page.author%}, by {{ page.author}}{% endif %}</h1>
             <h2 class="ArticleHeader__dek___2rbDs">{{ page.description }}</h2>
             <div class="ArticleHeader__metaInfo___1aBON">
                 <div class="ArticleContributors__byline___3-luq">
