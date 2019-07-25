@@ -1,6 +1,3 @@
 <div class="Byline__theLatest___2viI5  ">
-  {% if include.post.author %}
-    <p class="Byline__by___37lv8">By <a class="Link__link___3dWao  " title="{{ post.author}}" rel="author" href="#">{{ include.post.author }}</a></p>
-  {% endif %}
-    <p class="Card__timestamp___3DCYn">{{ include.post.date | date: "%a, %d %b, %y" }}</p>
+  <p class="Byline__by___37lv8"><a class="Link__link___3dWao  " title="{{ post.author}}" rel="author" href="#">{{ include.post.date | date: "%a, %d %b, %y" }}</a></p>
 </div>

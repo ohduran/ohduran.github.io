@@ -54,10 +54,10 @@
   - rating: '5'
     title: How to read a book
     url: /how-to-read-a-book
-  - rating: '1'
+  - rating: '3'
     title: Email (let's drop the hyphen)
     url: /email
-  - rating: '1'
+  - rating: '1.5'
     title: Revolutions
     url: /revolutions
   permalink: /deep-work
@@ -85,7 +85,7 @@
   - rating: '2.5'
     title: ' "2018 Annual Letter"'
     url: /2018-annual-letter
-  - rating: '2.5'
+  - rating: '3.5'
     title: Of Avoiding Skin in the Game
     url: /of-avoiding-skin-in-the-game
   - rating: '2.5'
@@ -94,7 +94,7 @@
   - rating: '1'
     title: Replication of Success
     url: /replication-of-success
-  - rating: '1'
+  - rating: '1.5'
     title: Revolutions
     url: /revolutions
   permalink: /skin-in-the-game
@@ -126,7 +126,7 @@
   - rating: '2.5'
     title: ' "The 2018 Anti-Reading List"'
     url: /anti-reading-list/2018
-  - rating: '4'
+  - rating: '3'
     title: Start Reading
     url: /start-reading
   permalink: /how-to-read-a-book
@@ -160,19 +160,19 @@
 - mentions: []
   permalink: /being-bored
 - mentions:
-  - rating: '4'
+  - rating: '3'
     title: Start Reading
     url: /start-reading
   permalink: /anti-reading-list/2018
 - mentions:
-  - rating: '1'
+  - rating: '3'
     title: Email (let's drop the hyphen)
     url: /email
   permalink: /writing-in-times-of-clickbait
 - mentions: []
   permalink: /mystory
 - mentions:
-  - rating: '1'
+  - rating: '3'
     title: Email (let's drop the hyphen)
     url: /email
   permalink: /start-reading
@@ -183,7 +183,7 @@
 - mentions: []
   permalink: /replication-of-success
 - mentions:
-  - rating: '1'
+  - rating: '1.5'
     title: Revolutions
     url: /revolutions
   permalink: /conflicts-of-interest
