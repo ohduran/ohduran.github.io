@@ -64,3 +64,23 @@ Advertising never dies. It doesn't matter how many times it gets killed; it even
 It never dies because in the same way we pay attention, we want others to pay attention to us. It's the hierarchical structure of our societies, predating even the first humans. We have evolved to climb the ladder, to become the peak of the pyramids and the role model of our peers. In biology, advertisers have found the secret for their immortality.
 
 Our attention is designed to face inwards. It's easy to be self-conscious, and hard to empathise. In the constant battle for our attention, networking tools like Google and Facebook culminate a process that started with dumping undifferentiated messages into the wild and approached the consumers slowly but inexorably. In marketing textbooks, you define a *persona*, a stereotype you aim at selling something to. Technology has provided us with the tools to now turn the *persona* into *each person*.
+
+<hr>
+
+The show, however, must go on. But once they've reached out even the most hidden corners of our minds, the tide must keep rising.
+
+![Augmented Reality](assets/images/Zuckerberg_MWC.jpg)
+
+There is backlash, though. Coming from all angles. Which, in a way, is conforming into two sides of how to approach entertainment.
+
+One is exemplified by Google and Facebook, the classic Attention Merchants. The ubiquitous search engine and the everyone's platform is leveraging all the data they can find to model *you*, so that you're sold on anything they put in front of you before you even see it. The more they know about you, the merrier. Even if you're not the one looking at the ads, someone similar to you is about to search something, and whatever they know about you can be extrapolated to understand that guy better. Each data point is more valuable because it doesn't happen in a vacuum, but inside their kingdom.
+
+The other one is exemplified by Netflix and Apple. They champion privacy because the approach they take to entertainment doesn't involve ads, but an extraordinary user experience. I won't binge watch series for days on end if I'm interrupted by ads, nor will I buy a $1,000+ smartphone that's slow because of the amount of ads in between me and the content I want to stare at.
+
+We'll see. It's a new form of propaganda, a new battle fought for 'our rights' that resembles uncannily Pepsi's championing [The Pepsi Generation](https://www.youtube.com/watch?v=po0jY4WvCIc) in an effort to turn long-term Coke drinkers to their side, by taking the moral high ground on behalf of users, while also damaging their greatest rival.
+
+In the midst of this battle, several newspapers have taken one or the other side in their efforts to simply survive in a world dominated by supermassive black holes of attention. It seems that their many approaches can be put on the likes of an spectrum: from The Guardian's approach that "allows us to keep our journalism accessible to all, regardless of where they live or what they can afford" with your "ongoing support", to the New Yorker's "you have 3 free articles left this month. Try the New Yorker, plus get a free tote. Subscribe now", they're struggling to make ends meet between what journalism that people needs and listicles that people click mindlessly.
+
+<hr>
+
+Where does that leave us? Where we started. With an exchange, like the indulgences. I'm promised what I want, and I give you my attention and, directly or indirectly, my money. What's always had been. One in which, if you want to embark yourself in entertainment, you will be able to do that so without being ripped off. Otherwise the situation, as told in this book, won't hold for long.
