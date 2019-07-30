@@ -7,7 +7,7 @@ permalink: /tractatus-logico-philosophicus
 image: https://images-na.ssl-images-amazon.com/images/I/51VK-KX6DML.jpg
 amazon_link: https://www.amazon.com/gp/product/0415254086/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0415254086&linkCode=as2&tag=alvaroduran-20&linkId=d3dcaa88e899d9a2ebfedc7c5ddc1792
 description: Language is how we think, and all we can think is logical. Hence, what isn't logical cannot be discussed.
-rating: 3.5
+rating: 3
 ---
 
 > Perhaps this book will be understood only by someone who has himself already had the thoughts that are expressed in it– or at least similar thoughts.– So it is not a textbook.– Its purpose would be achieved if it gave pleasure to one person who read and understood it.
