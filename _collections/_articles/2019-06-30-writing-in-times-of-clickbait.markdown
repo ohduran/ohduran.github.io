@@ -8,7 +8,9 @@ image_caption: The Calling of St. Matthew, 1600 - Caravaggio
 rating: 4.5
 description: Or "Fake news is what you get when you’re not the customer".
 ---
-We live in incurious times. Some would argue that isn’t true, because we are only one click away from being informed. Some would argue that in the Internet era, facts can be verified to a degree that wasn’t possible before. And yet, it feels that people do not want to know, but to be reaffirmed in what they believe. That posing questions are seen as affirmative statements that must be punished. If someone asks “What if there is no gender gap?”, all hell breaks loose on social media, and the public trial begins. Even if there is a sincere attempt to ground the argument on facts, the crowd dismiss them as fabricated and biased, or something that must be silenced, for these arguments create an unsafe environment in schools and universities.
+We live in incurious times. Some would argue that isn’t true, because we are only one click away from being informed. Some would argue that in the Internet era, facts can be verified to a degree that wasn’t possible before. And yet, it feels that people do not want to know, but to be reaffirmed in what they believe. That posing questions are seen as affirmative statements that must be punished.
+
+Have you noticed that if someone asks “What if there is no gender gap?” on social media, all hell breaks loose? It doesn't matter if there is a sincere attempt to ground the argument on facts, the crowd dismiss them as fabricated and biased, or something that must be silenced, for these arguments create an unsafe environment in schools and universities.
 
 > In the midst of a federal investigation of Google’s alleged persistent wage gap […] an “antidiversity” manifesto authored by James Damore went viral in August 2017, supported by many Google employees, arguing that women are psychologically inferior and incapable of being as good at software engineering as men, among other patently false and sexist assertions.
 >
