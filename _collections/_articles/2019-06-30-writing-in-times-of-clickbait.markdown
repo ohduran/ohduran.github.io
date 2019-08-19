@@ -39,11 +39,11 @@ Everything that is habitual and familiar pass silently through our senses; what�
 
 Technology, like in many other cases, only amplified what was already there. With the invention of the printing press, what used to be contained gossiping turned into widespread circulation of ideas. By separating the emitter from the receiver, we stripped gossip from its accountability, and thus technology allowed for the spreading of a kind of misinformation humans weren’t, and still aren’t, prepared for: propaganda.
 
-In the same way that early TV was simply radio with images, newspapers started as short books. During the first quarter of the nineteenth century, New York City’s leading newspaper was a fourpage daily with circulation of 2,600 in a city of 300,000.
+In the same way that early TV was simply radio with images, newspapers started as short books. During the first quarter of the nineteenth century, New York City’s leading newspaper was a four-page, daily with circulation of 2,600 in a city of 300,000.
 
 > At 6 cents, it was something of a luxury item, which was just as well, since […] it was aimed at the city’s business and political elite. Most New Yorkers, in fact, did not read newspapers at all.
 >
-> — [The Attention Merchants](https://www.amazon.com/Attention-Merchants-Scramble-Inside-Heads-ebook/dp/B01AEPSWB4), Tim Wu, 2016
+> — [The Attention Merchants](/attention-merchants), Tim Wu, 2016
 
 
 The shift consisted of turning a set of readers that were considered the customers to a wider audience that effectively became the product for others to advertise. From then onwards, advertising would join content to defray the cost of printing and distribution. Dramatically reducing the price of the newspaper wasn’t just possible, it was needed for the model to work, for anything other than a giant readership wouldn’t have been valuable to anyone. This new model made the separation between books and newspapers complete: the reader, for the book writer, is the customer; for the news agency, is the product.
