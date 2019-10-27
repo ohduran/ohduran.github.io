@@ -12,7 +12,6 @@
             {% if collection.label != 'posts'%}
               {% assign my_language_posts=collection.docs | where:"lang", page.lang %}
               <div class="col-12 col-md">
-                <h6><a class="p-3 text-uppercase text-nord-6 small font-family-baloo" href="{{ collection.label | remove: " " | prepend: "/" | prepend: site.baseurl | prepend: site.url}}">{{ collection.label | capitalize | replace: "_", " "}}</a></h6>
                 <ul class="list-unstyled text-small">
                   {% assign posts=my_language_posts | reverse | slice: 0, 5 %}
                   {% for post in posts %}

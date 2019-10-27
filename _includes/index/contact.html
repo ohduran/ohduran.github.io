@@ -25,10 +25,14 @@
               </p>
           </div>
           <div class="row mb-4">
-            <textarea name="message" class="form-control" rows="5" placeholder="What's your project and how can I help?"></textarea>
+            <textarea name="message" class="form-control" rows="5"
+                      placeholder="{% if include.lang == 'en' %}What's your project and how can I help?
+                                   {% elsif include.lang == 'es'%}¿Cuál es tu proyecto y cómo puedo ayudar?{% endif %}"></textarea>
           </div>
           <div class="row">
-            <input type="email" name="_replyto" class="form-control rounded-left w-75" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email">
+            <input type="email" name="_replyto" class="form-control rounded-left w-75" id="exampleInputEmail1" aria-describedby="emailHelp"
+                   placeholder="{% if include.lang == 'en' %}Enter your email
+                                {% elsif include.lang == 'es'%}Introduce un email de contacto{% endif %}">
             <button type="submit" class="btn btn-primary d-flex w-25 rounded-right justify-content-center font-family-baloo">
               {% if include.lang == 'en' %}
                 Send
