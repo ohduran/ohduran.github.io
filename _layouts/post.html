@@ -1,46 +1,15 @@
 ---
 layout: default
 ---
-<section class="PageContainer__pageContent___1xERg PageContainer__article___136yK">
-    <article class="Layout__layoutContainer___2gtig">
-        {% include article/sections/01-header.html %}
-        <div class="Layout__twoColumn___1sIWV">
-            <main class="Layout__content___5vVe9">
-                <div>
-                    <div class="ArticleLedeImage__rightAligned___10Wqp ">
-                        <div class="ArticleLedeImage__container___Fy9Ni">
-                            <div class="Lightbox__lightbox___2lLZl Lightbox__white___jj_9p  " role="button" tabindex="0">
-                                <figure class="Figure__figure___U_9Te Figure__fullHeight___3uICS ArticleLedeImage__lede___1rVAF ">
-                                    <div class="placeholder">
-                                        <div class="placeholder-buttress"></div>
-                                        <div class="placeholder-content">
-                                            <div class="Image__image___1PhYl Figure__image___1hDvt ArticleLedeImage__image___17_0r" role="button" tabindex="0">
-                                              {% include newyorker/image.html post=page %}
-                                              {% include newyorker/image-caption.html post=page %}
-                                            </div>
-                                        </div>
-                                    </div>
-                                </figure>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="articleBody" data-template="two-column" class="ArticleBody__articleBody___1GSGP">
-                        <div>
-                            <div>
-                                <div class="SectionBreak SectionBreak__sectionBreak___1ppA7"></div>
-                                <div class="SectionBreak SectionBreak__sectionBreak___1ppA7">
-                                  {{ page.content }}
-                                  {% if page.amazon_link %}<span class="Tags__heading___3sE5b"><a href="{{ page.amazon_link }}">Buy this book</a></span>{% endif %}
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    {% include article/sections/04-footer.html post=page %}
-                </div>
-            </main>
-            {% include article/sections/05-aside.html %}
-        </div>
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-    </article>
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  </header>
 
-</section>
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+</article>

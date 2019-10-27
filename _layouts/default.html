@@ -1,83 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ page.lang }}">
 
-<head>
-	{% if jekyll.environment == 'production' %}
-	{% include analytics.html %}
-	{% endif %}
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta itemprop="description" name="description" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
-	{% seo %}
-	{% feed_meta %}
-	{% include tweet-cards.html %}
+  {% include head.html %}
 
-	<title>
-	 {%if page.title %}
-	 	{{ page.title }}
-	 {% else %}
-	 	{{ site.title }}
-	 {% endif %}
-	  |
-		{% if page.description %}
-			{{ page.description | truncate: 160 }}
-		{% else %}
-			{{ site.description | truncate: 160  }}
-		{% endif %}
-	</title>
+  <body>
 
-	<link rel="apple-touch-icon" href="{{ site.baseurl }}/images/logo/favicon.ico">
-	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo/favicon.ico" sizes="192x192">
-	<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/logo/favicon.ico">
+    {% include header.html %}
+    {{ content }}
 
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:300|Rubik:300">
-	<link rel="stylesheet" href="/css/homepage.7d0a95b98c3134ef7237.css" />
-	{% if page.layout == 'post' %}
-		<link rel="stylesheet" href="/css/article.ad567db8cb394481e184.css" />
-	{% endif %}
-	<link rel="stylesheet" href="/css/blog.css" />
+    {% include footer.html %}
+  </body>
 
-  <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
-  <link href="{{ site.baseurl }}/assets/css/screen.css" rel="stylesheet">
-	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-</head>
-
-<body class="page-homepage">
-
-    <div id="app-root">
-        <div class="" data-reactroot="">
-          <main class="PageContainer__main___w2VEm PageContainer__full___12krW">
-            <div class="SiteHeader__siteHeader___2Fkqk">
-                <div class="SiteHeader__navWrapper___1FuV4 ">
-                    <header class="MainHeader__mainHeader___28Tsw MainHeader__full___1V8KO">
-                      {% include newyorker/header.html %}
-                      {% include newyorker/navbar.html %}
-                    </header>
-										<header class="MobileHeader__mobileHeader___13HZG MobileHeader__full___2-q_g">
-											{% include newyorker/mobile-header.html %}
-										</header>
-                </div>
-            </div>
-              {{ content }}
-              {% include newyorker/footer.html %}
-            </main>
-        </div>
-    </div>
-    <!-- SCRIPT 12 -->
-    <!-- SCRIPT 13 -->
-    <div>
-        <!-- SCRIPT 14 -->
-    </div>
-    <!-- SCRIPT 15 -->
-    <!-- SCRIPT 16 -->
-    <!-- SCRIPT 17 -->
-    <!-- SCRIPT 18 -->
-    <!-- SCRIPT 19 -->
-    <!-- SCRIPT 20 -->
-    <!-- SCRIPT 21 -->
-    <!-- SCRIPT 22 -->
-    <!-- SCRIPT 23 -->
-    <!-- SCRIPT 24 -->
-</body>
+  <!-- Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 </html>

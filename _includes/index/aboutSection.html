@@ -1,0 +1,27 @@
+<section class="container pb-5">
+  <div class="row mb-4">
+    <div class="col-md-12">
+      <h1 class="display-4 home-heading font-family-baloo">
+      {% if include.lang == 'en' %}
+        Hi, I'm Álvaro Durán!
+      {% elsif include.lang == 'es' %}
+        ¡Hola, soy Álvaro Durán!
+      {% endif %}
+      </h1>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-12 media">
+      <img src="{{ '/assets/images/logo.png' | prepend: site.baseurl }}" class="align-self-center mr-3" alt="Fav icon">
+      <div class="media-body">
+        <h4 class="font-family-montserrat">
+          {% if include.lang == 'en' %}
+            This site hosts all of my <a href="essays">essays</a>, <a href="/letters">notes</a> and <a href="/projects">projects</a> I've worked on.
+          {% elsif include.lang == 'es' %}
+            En este sitio web podrás encontrar todos los <a href="/ensayos">ensayos</a>, <a href="/cartas">notas</a> y <a href="/projects">proyectos</a> en los que he trabajado.
+          {% endif %}
+          </h4>
+      </div>
+    </div>
+  </div>
+</section>

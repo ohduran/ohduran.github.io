@@ -1,0 +1,46 @@
+<section class="my-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <h1 class="display-4 home-heading font-family-baloo pb-5 text-align-center">
+          {% if include.lang == 'en' %}
+            Let's work together
+          {% elsif include.lang == 'es' %}
+            Trabajemos juntos
+          {% endif %}
+        </h1>
+      </div>
+    </div>
+    <form action="https://formspree.io/xjvbobay" method="POST">
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+          <div class="row mb-2">
+            <p class="intro">
+              {% if include.lang == 'en' %}
+                <strong>To discuss your project and develop a proposal</strong>, use the form below or email <a href="mailto:{{ site.email }}" itemprop="email">{{ site.email }}</a>.
+              {% elsif include.lang == 'es' %}
+                <strong>Para comentar el proyecto y desarrollar una propuesta</strong>, utilice el siguiente formulario o envíe un email a <a href="mailto:{{ site.email }}" itemprop="email">{{ site.email }}</a>.
+              {% endif %}
+              </p>
+          </div>
+          <div class="row mb-4">
+            <textarea name="message" class="form-control" rows="5" placeholder="What's your project and how can I help?"></textarea>
+          </div>
+          <div class="row">
+            <input type="email" name="_replyto" class="form-control rounded-left w-75" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter your email">
+            <button type="submit" class="btn btn-primary d-flex w-25 rounded-right justify-content-center font-family-baloo">
+              {% if include.lang == 'en' %}
+                Send
+              {% elsif include.lang == 'es' %}
+                Enviar
+              {% endif %}
+            </button>
+          </div>
+        </div>
+        <div class="col-md-3"></div>
+      </div>
+
+    </form>
+  </div>
+</section>

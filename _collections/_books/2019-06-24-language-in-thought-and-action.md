@@ -2,6 +2,7 @@
 layout: post
 title: Language in Thought and Action
 author: S. I. Hayakawa
+lang: en
 tags: [language, politics]
 permalink: /language-in-though-and-action
 image: https://images-na.ssl-images-amazon.com/images/I/41Z2i0McoHL._SX262_BO1,204,203,200_.jpg

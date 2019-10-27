@@ -1,0 +1,41 @@
+<header class="blog-header container-fluid {% if page.layout != 'index' %}pt-5{% endif %} {% unless page.title_background_color %}background-nord-0{% endunless %}"
+        {% if page.title_background_color %}style="background-color: #{{page.title_background_color}}"{% endif %}>
+  <div class="row flex-nowrap justify-content-between align-items-center {% if page.layout != 'index' %}pb-3{% endif %}">
+    {% if page.layout != 'index' %}
+      <div class="col-12 text-center">
+        <a class="blog-header-logo font-family-baloo text-nord-4" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a>
+      </div>
+    {% endif %}
+  </div>
+  <div class="nav-scroller py-1">
+    <div class="row">
+      <nav class="nav d-flex justify-content-center col-md-9">
+        {% for collection in site.data.navbar %}
+          <a class="p-3 text-uppercase text-nord-4 small font-family-baloo" href="{{ collection.label[page.lang] | remove: " " | prepend: "/" | prepend: site.baseurl | prepend: site.url}}">{{ collection.label[page.lang] | capitalize }}</a>
+        {% endfor %}
+      </nav>
+      <nav class="nav d-flex justify-content-end col-md-3 pr-5">
+        {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+        {% for post in posts %}
+          <a class="p-3" href="{{ post.url | prepend: site.baseurl }}">
+          {% if post.lang == 'es' %}
+          🇪🇸
+          {% elsif post.lang == 'en' %}
+          🇬🇧
+          {% endif %}
+          </a>
+        {% endfor %}
+        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+        {% for page in pages %}
+          <a class="p-3 text-uppercase text-nord-4" href="{{ page.url | prepend: site.baseurl }}">
+            {% if page.lang == 'es' %}
+            🇪🇸
+            {% elsif page.lang == 'en' %}
+            🇬🇧
+            {% endif %}
+          </a>
+        {% endfor %}
+      </nav>
+    </div>
+  </div>
+</header>

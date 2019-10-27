@@ -1,5 +1,4 @@
-_site
 .DS_Store
-*.swp
+_site
 .sass-cache
-*~
+*.gem

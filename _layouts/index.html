@@ -1,0 +1,31 @@
+---
+layout: default
+ref: index
+---
+
+{% include index/heroSection.html lang=page.lang %}
+
+{% include index/aboutSection.html lang=page.lang %}
+
+{% include index/whatIDo.html lang=page.lang %}
+
+{% include index/testimonials.html lang=page.lang %}
+
+{% include index/previousCompanies.html lang=page.lang %}
+
+{% include index/contact.html lang=page.lang %}
+
+
+
+
+<script src="assets/index.js"></script>
+<script type="text/javascript">
+  // This piece of JS is only to be applied to the INDEX page
+  // var userLang = navigator.language || navigator.userLanguage;
+  // if (userLang == 'es' && window.location != getBaseURL().concat('indice.html')){
+  //   window.location.replace('/indice.html')
+  // }
+  // if (userLang == 'en' && window.location != getBaseURL().concat('index.html')){
+  //   window.location.replace('/index.html')
+  // }
+</script>

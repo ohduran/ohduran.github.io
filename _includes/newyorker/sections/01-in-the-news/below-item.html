@@ -1,8 +1,0 @@
-{% assign books = site.books | slice: -3, 1 %}
-{% assign post = books.last %}
-    <div class="Card__content___2_jDO undefined">
-      {% include newyorker/categories.html post=post %}
-        <a class="Link__link___3dWao  " href="{{ post.url }}"><h3 class="Card__hed___31cLY">{{ post.title }}</h3></a>
-        <p class="Card__dek___29Iu1">{{ post.description }}</p>
-        {% include newyorker/author-and-date.html post=post %}
-    </div>

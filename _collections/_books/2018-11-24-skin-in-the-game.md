@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Skin in the Game
+lang: en
 author: Nassim Taleb
 tags: [language, power, war, politics, decision making, beliefs]
 permalink: /skin-in-the-game

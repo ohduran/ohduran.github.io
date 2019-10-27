@@ -2,6 +2,7 @@
 layout: post
 title: Trial and Death of Socrates
 author: Plato
+lang: en
 tags: [language]
 permalink: /trial-and-death-of-socrates
 image: https://images-eu.ssl-images-amazon.com/images/I/51PmLZNtdlL.jpg

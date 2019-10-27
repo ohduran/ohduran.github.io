@@ -1,7 +1,8 @@
 ---
 layout: post
 output: true
-title: How to read a book
+title: How to Read a Book
+lang: en
 author: Mortimer Adler
 tags: [language, performance]
 permalink: /how-to-read-a-book

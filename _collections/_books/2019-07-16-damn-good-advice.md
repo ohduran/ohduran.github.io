@@ -2,6 +2,7 @@
 layout: post
 title: Damn Good Advice
 author: George Lois
+lang: en
 tags: [language, politics, advertising]
 permalink: /damn-good-advice
 image: https://images-na.ssl-images-amazon.com/images/I/51Up%2Bgh4i3L._SX355_BO1,204,203,200_.jpg

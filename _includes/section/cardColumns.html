@@ -1,0 +1,16 @@
+<section>
+  <div class="card-columns">
+    {% assign posts=include.collection | where:"lang", include.lang | sort:"rating" | reverse %}
+    {% for post in posts %}
+      <div class="card">
+        <img src="{{ post.image }}" class="card-img-top" alt="Image of {{ post.title }}">
+        <div class="card-body">
+          <h3 class="card-title">{{ post.title }}</h3>
+          <blockquote class="blockquote mb-0 card-text">
+            <p>{{ post.excerpt }}</p>
+          </blockquote>
+        </div>
+      </div>
+    {% endfor %}
+</div>
+</section>

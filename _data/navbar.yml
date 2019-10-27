@@ -1,27 +1,31 @@
-- Books:
-  label: Books
-  url: /books
+- Essays:
+  label:
+    en: essays
+    es: ensayos
+  url:
+    en: /essays
+    es: /ensayos
 
-- Articles:
-  label: In Depth
-  url: /articles
+- Letters:
+  label:
+    en: letters
+    es: cartas
+  url:
+    en: /letters
+    es: /cartas
+# 
+# - Projects:
+#   label:
+#     en: projects
+#     es: proyectos
+#   url:
+#     en: /projects
+#     es: /proyectos
 
-- Journal:
-  label: Journal
-  url: /journal
-
-- Annual_Letters:
-  label: Annual Letters
-  url: /annual_letters
-
-- MyStory:
-  label: My Story
-  url: /mystory
-
-- FAQ:
-  label: FAQs
-  url: /faq
-
-- Contact:
-  label: Contact
-  url: /contact
+- About:
+  label:
+    en: about
+    es: acerca de
+  url:
+    en: /about
+    es: /acerca
