@@ -28,7 +28,17 @@
 }
 
 
+.zoom {
+   transition: all 0.25s ease;
+}
 
+.zoom:hover {
+  transform: scale(1.05);
+}
+
+
+
+// --- GRID ---
 #grid {
   line-height: 1 !important;
   background-position: center  6vw;
@@ -83,9 +93,4 @@ div#row2b{
 grid-row-end: span 2;
 }
 
-#filler {
-width: 100vw;
-height: 30vw;
-background-color:#ff0;
-margin-left: -1vw;
-}
+// --- GRID ---

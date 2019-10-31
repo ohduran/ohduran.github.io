@@ -6,32 +6,10 @@ ref: about
 lang: en
 title_background_color: 5e81ac
 ---
+I'm a physicist that loves pizza, staring at the same painting in a museum for ages and listen to [generative music](https://en.wikipedia.org/wiki/Generative_music).
 
+For the past {{ site.time | date: '%Y' | minus: 2014 }} years, I've worked in a vast range of areas related to Digital businesses: build websites, optimise databases, design software architecture, do machine learning research, you name it.
 
-When I was a kid, reading stories was part of the deal. At home, you didn’t get to watch too much TV anyway; there were some books on the shelf, and you were given more books on Christmas to read. So you read stories, or you got stories told to you.
+I love creating things from scratch, and I believe that people should feel boredom more often.
 
-My dad was the story-teller. He used to gather my brother and I to depict the adventures of Alexander the Great, or Napoleon, or the Little Red Riding Hood’s Real Story, the one when she wasn’t that good, and the Wolf wasn’t neither Big nor Bad.
-
-My childhood is a long, vivid story about Viriathus, Vercingetorix and Hannibal. I had read [Once Upon a Time… Man](https://en.wikipedia.org/wiki/Once_Upon_a_Time..._Man) comics a million times, in order to catch up with the stories that my dad was narrating. I read Asterix, I read Tintin. At some point, my dad stopped telling stories, but the habit remained; like a nuclear reactor, my mind acquired critical mass, and it was self-sustaining.
-
-School was much different. There were no stories to tell, only things to memorise. By then, anything that wasn’t a story was, for me, utterly boring. That’s probably the reason I liked numbers; they were the only thing resembling a story when I was eight: here’s the problem, go find the path to the solution. In a way, each challenge was just figuring out what the change was going to add up to when I was on the supermarket with my parents, or on my own. You had to be fast, though; the checkout lady had the advantage of the register machine.
-
-Maths got gradually more complex, but the basics remained the same: the problem, an unknown solution, and a set of tools to master. Be it Geometry, be it Physics, sciences turned out to be what I grew up to be good at. Essentially, all those problems were stories I have been told before; there was no suspense if you knew how the story ends.
-
-Later, during my last couple of years in high school, I learnt History properly, and Philosophy. And although some people couldn’t tell why I was good at liberal arts and hardcore mathematics, it made perfect sense to me: they were all stories to tell, and everything else not.
-
-It all changed in university. I remember taking Physics as a major, assuming that it was all going to be a smooth transition from high school into mathematics all day, with no obstacles on the way.
-
-That realisation hold true for two days. I was surrounded by the smartest people I’ve ever known. Focused, hard-working brains at their full potential. I was an optimist gym regular at a strength athlete convention, and this was their field.
-
-In order to stay on top of everything, I had to become a highly functioning, disciplined student, when up until that point just focusing during class was more than enough to get good enough grades. In hindsight, I now know I was handed the best challenge I could possibly need back then: I had been told, again and again, how smart I was. Before turning into an adult, I had to rectify the habit of thinking that just ‘being smart’ was enough.
-
-This extreme makeover was still ongoing when I moved to London and started working as a Digital Consultant. After standing out in one of the get togethers that my firm was organising from time to time, I was approached by one of the partners of the firm and asked to join a new venture that was digitising the first Brazilian bank by asset size. “Although your MSc in Finance is good”, he said, “I want your brains”.
-
-My brains, again, wasn’t going to cut it. Surrounded by four Physics PhDs, I was overwhelmed by their discipline and their thinking speed. Learning happened daily; what used to be C++ Runge-Kutta exercises in university turned into Python scripts that automated my job here and there. I was taught to think in systems, to design software architectures that turned more and more complex. I touched very few books, but I learnt from very bright people.
-
-In order to learn, I had to disabuse myself of the idea that school was, at some point, over. These people were pursuing new challenges every single day, despite the fact that they have stretched their abilities to their maximum in university. It took a while for me to understand that what my boss meant as ‘brains’ was not understanding things quickly, but learning new things frequently. That was something that I had been doing all my life; I only needed to steer it to a valuable direction.
-
-Learning is not about a whiteboard, and someone to teach you things. [The best teachers are on the Internet; the best content is on the Internet; the best tools are on the Internet](https://twitter.com/AndrewYNg/status/890261553416552448).
-
-When I was about to enter university, everyone was puzzled about my majoring in Physics. “Aren’t you going to be a doctor, like your parents?”, they said. But I’ve seen what they do, I’ve seen what they’re striving for: lifelong learning. In that sense, I truly hope that I’m on my way to be like them.
+Feel free to [contact me](/#contact) if you want to know more.
