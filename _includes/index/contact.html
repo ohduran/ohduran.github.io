@@ -20,14 +20,14 @@
               {% if include.lang == 'en' %}
                 <strong>To discuss your project and develop a proposal</strong>, use the form below or email <a href="mailto:{{ site.email }}" itemprop="email">{{ site.email }}</a>.
               {% elsif include.lang == 'es' %}
-                <strong>Para comentar el proyecto y desarrollar una propuesta</strong>, utilice el siguiente formulario o envíe un email a <a href="mailto:{{ site.email }}" itemprop="email">{{ site.email }}</a>.
+                <strong>Para comentar el proyecto y desarrollar una propuesta</strong>, utiliza el siguiente formulario o envíame un email a <a href="mailto:{{ site.email }}" itemprop="email">{{ site.email }}</a>.
               {% endif %}
               </p>
           </div>
           <div class="row mb-4">
             <textarea name="message" class="form-control" rows="5"
                       placeholder="{% if include.lang == 'en' %}What's your project and how can I help?
-                                   {% elsif include.lang == 'es'%}¿Cuál es tu proyecto y cómo puedo ayudar?{% endif %}"></textarea>
+                                   {% elsif include.lang == 'es'%}¿Cuál es tu proyecto y cómo puedo ayudarte?{% endif %}"></textarea>
           </div>
           <div class="row">
             <input type="email" name="_replyto" class="form-control rounded-left w-75" id="exampleInputEmail1" aria-describedby="emailHelp"
