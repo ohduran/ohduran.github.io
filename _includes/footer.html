@@ -13,7 +13,7 @@
               {% assign my_language_posts=collection.docs | where:"lang", page.lang %}
               <div class="col-12 col-md">
                 <ul class="list-unstyled text-small">
-                  {% assign posts=my_language_posts | reverse | slice: 0, 5 %}
+                  {% assign posts=my_language_posts | sort:"rating" | reverse | slice: 0, 5 %}
                   {% for post in posts %}
                     <li class="mb-3"><a class="text-nord-4 text-center" href="{{ post.url }}">{{ post.title }}</a></li>
                   {% endfor %}
