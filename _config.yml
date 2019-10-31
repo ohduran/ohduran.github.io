@@ -20,7 +20,7 @@ collections:
   essays:
     output: true
   books:
-    output: false
+    output: true
   letters:
     output: true
   projects:
