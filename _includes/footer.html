@@ -28,5 +28,9 @@
   <div class="container">
 
   </div>
-  {% include signature.html %}
+  {% if page.lang == 'es' %}
+    {% include signature_es.html %}
+  {% else %}
+    {% include signature.html %}
+  {% endif %}
 </footer>
