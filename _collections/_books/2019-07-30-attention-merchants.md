@@ -3,6 +3,7 @@ layout: post
 title: The Attention Merchants
 author: Tim Wu
 lang: en
+ref: attention-merchants
 tags: [language, politics, advertising]
 permalink: /attention-merchants
 image: https://images-na.ssl-images-amazon.com/images/I/510xVS6UBvL._SX326_BO1,204,203,200_.jpg

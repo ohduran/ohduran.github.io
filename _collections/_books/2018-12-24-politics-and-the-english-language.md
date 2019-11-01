@@ -3,6 +3,7 @@ layout: post
 title: Politics and the English Language
 author: George Orwell
 lang: en
+ref: politics-and-the-english-language
 tags: [language]
 permalink: /politics-and-the-english-language
 image: https://images-eu.ssl-images-amazon.com/images/I/418Xj79ENkL.jpg

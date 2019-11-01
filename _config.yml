@@ -34,3 +34,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
+
+subscribe_url: https://buttondown.email/alvaroduran

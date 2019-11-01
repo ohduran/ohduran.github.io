@@ -11,7 +11,7 @@
     <div class="row">
       <nav class="nav d-flex justify-content-center col-md-9">
         {% for collection in site.data.navbar %}
-          <a class="p-3 text-uppercase text-nord-4 small font-family-baloo" href="{{ collection.label[page.lang] | remove: " " | prepend: "/" | prepend: site.baseurl | prepend: site.url}}">{{ collection.label[page.lang] | capitalize }}</a>
+          <a class="p-3 text-uppercase text-nord-4 small font-family-baloo" href="{{ collection.url[page.lang] }}">{{ collection.label[page.lang] | capitalize }}</a>
         {% endfor %}
       </nav>
       <nav class="nav d-flex justify-content-end col-md-3 pr-5">

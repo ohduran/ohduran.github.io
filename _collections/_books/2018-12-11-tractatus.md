@@ -3,6 +3,7 @@ layout: post
 title: Tractatus Logico-Philosophicus
 author: Ludwig Wittgenstein
 lang: en
+ref: tractatus-logico-philosophicus
 tags: [language, infinity]
 permalink: /tractatus-logico-philosophicus
 image: https://images-na.ssl-images-amazon.com/images/I/51VK-KX6DML.jpg
