@@ -15,7 +15,7 @@
         <p>{{ testimonial.text[include.lang] }}</p>
         <footer class="blockquote-footer">
           <small class="text-muted">
-            {{ testimonial.author }}{% if testimonial.job_title%}, {{ testimonial.job_title}}{% endif %} {% if include.lang == 'es' %}en{% else %}on{% endif %} <cite title="Source">{{ testimonial.source}}</cite>
+            {{ testimonial.author }}{% if testimonial.job_title%}, {{ testimonial.job_title}}{% endif %}
           </small>
         </footer>
       </blockquote>
