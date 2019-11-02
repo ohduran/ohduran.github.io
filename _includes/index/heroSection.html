@@ -5,28 +5,34 @@
         <div class="row">
           <h1 class="text-nord-6 home-heading font-family-baloo">
             {% if include.lang == 'en' %}
-            <p><span class="text-nord-7">Originality</span> is a form of <span class="text-nord-11">rebellion</span></p>
+              <p><span class="text-nord-7">Originality</span> is a form of <span class="text-nord-11">rebellion</span></p>
             {% elsif include.lang == 'es' %}
-
+              <p>La <span class="text-nord-7">Originalidad</span> es una forma de <span class="text-nord-11">rebelarse</span></p>
             {% endif %}
           </h1>
           <h4 class="text-nord-6 font-family-montserrat">
             {% if include.lang == 'en' %}
-            Unlock the digital potential of your business with bold websites, delivered beautifully
+              Unlock the digital potential of your business
             {% elsif include.lang == 'es' %}
-
+              Descubre el potencial digital de tu negocio
             {% endif %}
           </h4>
           <h6 class="mt-5 text-nord-6 font-family-montserrat">
-            <p><i class="fas fa-check-circle text-nord-7"></i> Keep your website relevant</p>
-            <p><i class="fas fa-check-circle text-nord-7"></i> Have a go-to reference for your business online</p>
-            <p><i class="fas fa-check-circle text-nord-7"></i> Stand out from your peers</p>
+            {% if include.lang == 'en' %}
+              <p><i class="fas fa-check-circle text-nord-7"></i> Keep your website relevant</p>
+              <p><i class="fas fa-check-circle text-nord-7"></i> Have a go-to reference for your business online</p>
+              <p><i class="fas fa-check-circle text-nord-7"></i> Stand out from your peers</p>
+            {% elsif include.lang == 'es' %}
+              <p><i class="fas fa-check-circle text-nord-7"></i> Actualiza tu página web</p>
+              <p><i class="fas fa-check-circle text-nord-7"></i> Manten una referencia online para tu negocio</p>
+              <p><i class="fas fa-check-circle text-nord-7"></i> Destaca del resto</p>
+            {% endif %}
           </h6>
         </div>
         <div class="row">
           <div class="col-md-8">
             <form class="row">
-              <input type="email" class="col-md-8 form-control rounded-left text-center" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Join the newsletter!">
+              <input type="email" class="col-md-8 form-control rounded-left text-center" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{% if include.lang == 'en' %}Join the newsletter!{% elsif include.lang == 'es' %}¡Únete a la newsletter!{% endif %}">
               <button type="submit" class="col-md-4 btn btn-primary d-flex rounded-right justify-content-center font-family-baloo">
                   {% if include.lang == 'en' %}
                     Subscribe
@@ -37,8 +43,6 @@
             </form>
           </div>
         </div>
-
-
       </div>
       <div class="col-5 media">
         <img class="img-fluid w-100 d-none d-md-block align-self-center" src="{{ 'assets/svgs/peak-mountain.svg' | prepend: site.baseurl }}  " alt="">
