@@ -2,29 +2,46 @@
   <div class="container px-5">
     <div class="row">
       <div class="col-7">
-        <h1 class="text-nord-6 home-heading font-family-baloo">
-          {% if include.lang == 'en' %}
-          <p>The <span class="text-nord-7">digital partner</span> for ambitious businesses</p>
-          {% elsif include.lang == 'es' %}
+        <div class="row">
+          <h1 class="text-nord-6 home-heading font-family-baloo">
+            {% if include.lang == 'en' %}
+            <p><span class="text-nord-7">Originality</span> is a form of <span class="text-nord-11">rebellion</span></p>
+            {% elsif include.lang == 'es' %}
 
-          {% endif %}
-        </h1>
-        <h3 class="text-nord-6 font-family-montserrat">
-          {% if include.lang == 'en' %}
-          <p>Improve your website,<br>step your digital game <span class="text-nord-7">up</span>!</p>
+            {% endif %}
+          </h1>
+          <h4 class="text-nord-6 font-family-montserrat">
+            {% if include.lang == 'en' %}
+            Unlock the digital potential of your business with bold websites, delivered beautifully
+            {% elsif include.lang == 'es' %}
 
-          {% elsif include.lang == 'es' %}
+            {% endif %}
+          </h4>
+          <h6 class="mt-5 text-nord-6 font-family-montserrat">
+            <p><i class="fas fa-check-circle text-nord-7"></i> Keep your website relevant</p>
+            <p><i class="fas fa-check-circle text-nord-7"></i> Have a go-to reference for your business online</p>
+            <p><i class="fas fa-check-circle text-nord-7"></i> Stand out from your peers</p>
+          </h6>
+        </div>
+        <div class="row">
+          <div class="col-md-8">
+            <form class="row">
+              <input type="email" class="col-md-8 form-control rounded-left text-center" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Join the newsletter!">
+              <button type="submit" class="col-md-4 btn btn-primary d-flex rounded-right justify-content-center font-family-baloo">
+                  {% if include.lang == 'en' %}
+                    Subscribe
+                  {% elsif include.lang == 'es' %}
+                    Subscribirme
+                  {% endif %}
+              </button>
+            </form>
+          </div>
+        </div>
 
-          {% endif %}
-        </h3>
-        <h5 class="mt-5 text-nord-6 font-family-montserrat">
-          <p><i class="fas fa-check-circle text-nord-7"></i> Keep your website relevant</p>
-          <p><i class="fas fa-check-circle text-nord-7"></i> Have a go-to reference for your business online</p>
-          <p><i class="fas fa-check-circle text-nord-7"></i> Stand out from your peers</p>
-        </h5>
+
       </div>
       <div class="col-5 media">
-        <img class="img-fluid w-100 d-none d-md-block align-self-center" src="{{ 'assets/svgs/hiking-traveler.svg' | prepend: site.baseurl }}  " alt="">
+        <img class="img-fluid w-100 d-none d-md-block align-self-center" src="{{ 'assets/svgs/peak-mountain.svg' | prepend: site.baseurl }}  " alt="">
       </div>
     </div>
   </div>

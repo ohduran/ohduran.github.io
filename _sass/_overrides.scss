@@ -1,7 +1,12 @@
 .btn-primary {
-  color: $nord4;
+  color: $nord6;
   background-color: $nord0;
   border-color: $nord0;
+}
+.btn-primary:hover {
+  color: $nord6;
+  background-color: $nord7;
+  border-color: $nord8;
 }
 
 .card{
