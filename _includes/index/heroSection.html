@@ -1,24 +1,30 @@
 <section id="heroSection" class="background-nord-0">
-  <div class="container pt-5 px-5">
+  <div class="container px-5">
     <div class="row">
-      <div class="col-md-7">
+      <div class="col-7">
         <h1 class="text-nord-6 home-heading font-family-baloo">
           {% if include.lang == 'en' %}
-          <span class="text-nord-7">Originality</span><br>is a form of <span class="text-nord-11">rebellion</span>
+          <p>The <span class="text-nord-10">digital partner</span> for ambitious businesses</p>
           {% elsif include.lang == 'es' %}
-          La <span class="text-nord-7">Originalidad</span><br>es una forma de <span class="text-nord-11">rebelarse</span>
+
           {% endif %}
         </h1>
         <h3 class="text-nord-6 font-family-montserrat">
           {% if include.lang == 'en' %}
-          I design technology that<br><span class="font-weight-bold">fascinate</span>, <span class="font-weight-bold">delight</span> and <span class="font-weight-bold">knock out!</span>
+          <p>Improve your website,<br>step your digital game <span class="text-nord-7">up</span>!</p>
+
           {% elsif include.lang == 'es' %}
-          Diseño tecnología que<br><span class="font-weight-bold">fascine</span>, <span class="font-weight-bold">asombre</span> y <span class="font-weight-bold">¡rompa moldes!</span>
+
           {% endif %}
         </h3>
+        <h5 class="mt-5 text-nord-6 font-family-montserrat">
+          <p>Keep your website relevant</p>
+          <p>Have a go-to reference for your business online</p>
+          <p>Stand out from your peers</p>
+        </h5>
       </div>
-      <div class="col-md-5">
-        {% include manypixels/peak-mountain.svg %}
+      <div class="col-5 media">
+        <img class="img-fluid w-100 d-none d-md-block align-self-center" src="{{ 'assets/svgs/hiking-traveler.svg' | prepend: site.baseurl }}  " alt="">
       </div>
     </div>
   </div>
