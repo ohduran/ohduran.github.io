@@ -6,7 +6,7 @@
           {% if include.lang == 'en' %}
             About me
           {% elsif include.lang == 'es' %}
-            Acerca de mí
+            Sobre mí
           {% endif %}
         </h1>
       </div>
@@ -21,9 +21,9 @@
             <div class="col-md-1"></div>
             <div class="col-md-10">
               {% if include.lang == 'en' %}
-              <h3 class="font-family-baloo text-center">Digital Consultant</h3>
+              <h3 class="font-family-baloo text-center">Online, everything is about figuring out<br>what to automate and what not</h3>
               {% elsif include.lang == 'es' %}
-              <h3 class="font-family-baloo text-center">Consultor Digital</h3>
+              <h3 class="font-family-baloo text-center">Online, todo consiste en entender<br>qué automatizar y qué no</h3>
               {% endif %}
             </div>
             <div class="col-md-1"></div>
@@ -34,14 +34,13 @@
 
                 {% if include.lang == 'en' %}
                   <h5 class="card-text font-family-montserrat">I'm a physicist that loves pizza, staring at the same painting in a museum for ages, and listen to <a href="https://en.wikipedia.org/wiki/Generative_music">generative music</a>.</h5>
-                  <p class="card-text font-family-montserrat">For the past {{ site.time | date: '%Y' | minus: 2014 }} years, I've worked in a vast range of areas related to digital businesses: I've <strong>built websites</strong> for tax advisors, <strong>created intuitive dashboards</strong> that influenced million-dollar decisions, and <strong>designed platforms</strong> that were used by thousands of businesses.</p>
+                  <p class="mt-3 card-text font-family-montserrat">For the past {{ site.time | date: '%Y' | minus: 2014 }} years, I've worked in a vast range of areas related to digital businesses: I've <strong>built websites</strong> for tax advisors, <strong>created intuitive dashboards</strong> that influenced million-dollar decisions, and <strong>designed platforms</strong> that were used by thousands of businesses.</p>
                   <p class="card-text font-family-montserrat">I design, build and maintain websites that stand out for their simplicity and ease of use, both for the user and for the developer, so that iterating is always a seamless process.</p>
 
                 {% elsif include.lang == 'es' %}
-                <p class="card-text font-family-montserrat text-center">En un mundo cambiante, la capacidad de adaptación y superación es más valiosa que el status quo. Si alguna vez te encuentras en el espacio, no olvides llevar <a href="https://www.swissarmy.com/us/en/Victorinox/Inspiration/Man-on-the-Moon/cms/manonthemoon">una navaja suiza</a>.</p>
-                <p class="card-text font-family-montserrat text-center">Diseño, construyo y mantengo páginas web que destacan por su simplicidad y manejo, tanto para el usuario final como para el desarrollador que continúa trabajando con ellas, para que iterar nuevas ideas sea siempre un proceso sencillo.</p>
-                <p class="card-text font-family-montserrat text-center">Construye tu sitio web ahora, <strong>con un ojo en el futuro</strong>.</p>
-
+                <h5 class="card-text font-family-montserrat">Soy un físico al que le gusta la pizza, quedarse mirando el mismo cuadro en un museo durante horas, y escuchar <a href="https://en.wikipedia.org/wiki/Generative_music">música generativa</a>.</h5>
+                <p class="mt-3 card-text font-family-montserrat">Durante los últimos {{ site.time | date: '%Y' | minus: 2014 }} años, he trabajado en diferentes sectores del negocio digital: He <strong>desarrollado páginas web</strong> para gestores administrativos, <strong>creado <i>dashboards</i> intuitivos</strong> que influyen decisiones respecto a millones de dólares, y <strong>diseñado plataformas</strong> que usan miles de personas.</p>
+                <p class="card-text font-family-montserrat">Diseño, desarrollo y mantengo sitios web que destacan por su simplicidad y facilidad de uso, tanto para el usuario final como para el desarrollador, de modo que iterar sea siempre un proceso sencillo.</p>
                 {% endif %}
             </div>
             <div class="col-md-1"></div>
