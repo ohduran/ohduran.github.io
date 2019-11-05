@@ -32,14 +32,14 @@
         <div class="row">
           <div class="col-md-8">
             <form class="row">
-              <input type="email" class="col-md-8 form-control rounded-left text-center" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{% if include.lang == 'en' %}Join the newsletter!{% elsif include.lang == 'es' %}¡Únete a la newsletter!{% endif %}">
-              <button type="submit" class="col-md-4 btn btn-primary d-flex rounded-right justify-content-center font-family-baloo">
+              <!-- <input type="email" class="col-md-8 form-control rounded-left text-center" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{% if include.lang == 'en' %}Join the newsletter!{% elsif include.lang == 'es' %}¡Únete a la newsletter!{% endif %}"> -->
+              <a href="https://buttondown.email/alvaroduran"><button type="submit" class="col-md-4 btn btn-primary d-flex rounded-right justify-content-center font-family-baloo">
                   {% if include.lang == 'en' %}
-                    Subscribe
+                    Join the newsletter!
                   {% elsif include.lang == 'es' %}
-                    Subscribirme
+                    ¡Únete a la newsletter!
                   {% endif %}
-              </button>
+                </button></a>
             </form>
           </div>
         </div>
