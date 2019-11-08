@@ -13,24 +13,21 @@
     </div>
     <div class="card row mb-3">
       <div class="row no-gutters">
-        <div class="col-4">
-          <img src="{{ '/assets/images/logo.png' | prepend: site.baseurl }}" class="card-img" alt="...">
+        <div class="col-md-4 col-sm-12">
+          <img src="{{ '/assets/images/logo.png' | prepend: site.baseurl }}" class="w-75 card-img" alt="...">
         </div>
-        <div class="col-8">
+        <div class="col-md-8 col-sm-12">
           <div class="row">
-            <div class="col-md-1"></div>
-            <div class="col-md-10">
+            <div class="col-md-12">
               {% if include.lang == 'en' %}
               <h3 class="font-family-baloo text-center">Online, everything is about figuring out<br>what to automate and what not</h3>
               {% elsif include.lang == 'es' %}
               <h3 class="font-family-baloo text-center">Online, todo consiste en entender<br>qué automatizar y qué no</h3>
               {% endif %}
             </div>
-            <div class="col-md-1"></div>
           </div>
           <div class="row card-body">
-            <div class="col-md-1"></div>
-            <div class="col-md-10 card-body container">
+            <div class="col-12 card-body container">
 
                 {% if include.lang == 'en' %}
                   <h5 class="card-text font-family-montserrat">I'm a physicist that loves pizza, staring at the same painting in a museum for ages, and listening to <a href="https://en.wikipedia.org/wiki/Generative_music">generative music</a>.</h5>
@@ -43,7 +40,6 @@
                 <p class="card-text font-family-montserrat">Diseño, desarrollo y mantengo sitios web que destacan por su simplicidad y facilidad de uso, tanto para el usuario final como para el desarrollador, de modo que iterar sea siempre un proceso sencillo.</p>
                 {% endif %}
             </div>
-            <div class="col-md-1"></div>
 
           </div>
 
