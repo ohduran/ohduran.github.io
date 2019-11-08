@@ -31,15 +31,13 @@
         </div>
         <div class="row">
           <div class="col-md-8">
-            <form class="row">
-              <!-- <input type="email" class="col-md-8 form-control rounded-left text-center" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="{% if include.lang == 'en' %}Join the newsletter!{% elsif include.lang == 'es' %}¡Únete a la newsletter!{% endif %}"> -->
-              <a class="col-md-6 btn btn-primary d-flex rounded-right justify-content-center font-family-baloo background-nord-7" href="https://buttondown.email/alvaroduran">
-                  {% if include.lang == 'en' %}
-                    Join the newsletter!
-                  {% elsif include.lang == 'es' %}
-                    ¡Únete a la newsletter!
-                  {% endif %}
-              </a>
+            <form action="https://buttondown.email/api/emails/embed-subscribe/alvaroduran"
+                  method="post"
+                  class="row embeddable-buttondown-form">
+              <input type="email" class="col-md-8 form-control rounded-left text-center" name="email" id="bd-email"
+                     placeholder="{% if include.lang == 'en' %}Join the newsletter!{% elsif include.lang == 'es' %}¡Únete a la newsletter!{% endif %}">
+              <input type="submit" class="col-md-4 btn btn-primary d-flex rounded-right justify-content-center font-family-baloo background-nord-7" value="Subscribe"></input>
+              <input type="hidden" value="1" name="embed"></input>
             </form>
           </div>
         </div>
