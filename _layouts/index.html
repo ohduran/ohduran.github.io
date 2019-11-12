@@ -15,16 +15,13 @@ ref: index
 
 {% include index/contact.html lang=page.lang %}
 
-
-
-
 <script src="assets/index.js"></script>
 <script type="text/javascript">
   // This piece of JS is only to be applied to the INDEX page
-  // var userLang = navigator.language || navigator.userLanguage;
-  // if (userLang == 'es' && window.location != getBaseURL().concat('indice.html')){
-  //   window.location.replace('/indice.html')
-  // }
+  var userLang = navigator.language || navigator.userLanguage;
+  if (userLang == 'es' && window.location != getBaseURL().concat('indice.html')){
+    window.location.replace('/indice.html')
+  }
   // if (userLang == 'en' && window.location != getBaseURL().concat('index.html')){
   //   window.location.replace('/index.html')
   // }
