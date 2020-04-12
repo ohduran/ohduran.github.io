@@ -32,10 +32,10 @@ export default class extends React.Component {
                 alignItems: 'end'
               }}>
               <h3 className="col-start-1 row-span-2 md:row-span-1">
-                "Tengo una empresa que podría automatizar muchas tareas, pero no tengo nociones tecnológicas para cambiar eso."
+                "En mi empresa se podrían automatizar muchas tareas, pero no sé cómo hacerlo ni por dónde empezar."
               </h3>
               <h3 className="mt-3 col-start-2 row-span-2 md:row-span-1 text-right">
-                "No tenemos mentalidad digital; nos salva que nuestros competidores tampoco la tienen, de momento."
+                "No tenemos mentalidad digital; nos salva que nuestros competidores tampoco, de momento."
               </h3>
             </div>
           </section>
@@ -88,24 +88,24 @@ export default class extends React.Component {
 
           <section className="mt-5">
             <h2 className="mb-1 text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-family-baloo">Las 4 Reglas de la Digitalización</h2>
-            <div className="my-5 w-10/12 mx-auto grid grid-rows-4 xs:grid-rows-2 grid-cols-4 gap-4" style={{
+            <div className="my-5 w-10/12 mx-auto grid grid-rows-4 sm:grid-rows-2 grid-cols-4 gap-4" style={{
                 alignItems: 'center',
                 justifyItems: 'center'
               }}>
 
-              <div className="col-start-1 row-start-1 col-span-4 xs:col-span-2 flex align-center">
+              <div className="col-start-1 row-start-1 col-span-4 sm:col-span-2 flex align-center">
                 <img src={teamMeeting} className="h-16 sm:h-24 md:h-32 lg:h-48" alt="Reglas de Digitalizacion - social" />
                 <h3 className="ml-2 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center my-auto">Toda digitalización es un proceso <span className="font-family-baloo">social</span></h3>
               </div>
-              <div className="col-start-1 row-start-2 col-span-4 xs:col-start-3 xs:row-start-1 xs:col-span-2 flex align-center">
+              <div className="col-start-1 row-start-2 col-span-4 sm:col-start-3 sm:row-start-1 sm:col-span-2 flex align-center">
                 <h3 className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center my-auto">La clave es <span className="font-family-baloo">experimentar</span> y explorar los límites</h3>
                 <img src={scientist} className="ml-2 h-16 sm:h-24 md:h-32 lg:h-48" alt="Reglas de Digitalizacion - experimentar" />
               </div>
-              <div className="col-start-1 row-start-3 col-span-4 xs:col-start-1 xs:row-start-2 xs:col-span-2 flex align-center">
+              <div className="col-start-1 row-start-3 col-span-4 sm:col-start-1 sm:row-start-2 sm:col-span-2 flex align-center">
                 <img src={designer} className="h-16 sm:h-24 md:h-32 lg:h-48" alt="Reglas de Digitalizacion - concretar" />
                 <h3 className="ml-2 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center my-auto">Hablar de ideas <span className="font-family-baloo">concretas</span> facilita la comunicación</h3>
               </div>
-              <div className="col-start-1 row-start-4 col-span-4 xs:col-start-3 xs:row-start-2 xs:col-span-2 flex align-center">
+              <div className="col-start-1 row-start-4 col-span-4 sm:col-start-3 sm:row-start-2 sm:col-span-2 flex align-center">
                 <h3 className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center my-auto">Mejor decir <span className="font-family-baloo">'está terminado'</span> que 'está perfecto'</h3>
                 <img src={rocketLaunch} className="ml-2 h-16 sm:h-24 md:h-32 lg:h-48" alt="Reglas de Digitalizacion - velocidad"/>
               </div>
