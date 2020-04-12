@@ -1,6 +1,6 @@
-# My blog on Jekyll
+# My blog on Gatsby
 
-This is the code that supports my blog on the Jekyll framework.
+This is the code that supports my blog on the Gatsby framework.
 
 You can visit this site on https://alvaroduran.com
 
@@ -16,7 +16,7 @@ Although the design and implementation is mine, this site wouldn't have been pos
 
 ## Copyright
 
-Copyright (C) 2019 Alvaro Duran, https://www.alvaroduran.com
+Copyright (C) 2020 Alvaro Duran, https://www.alvaroduran.com
 
 **This website** is designed and developed by [Alvaro](https://alvaroduran.com) and it is *free* to use under [MIT license](https://alvaroduran.mit-license.org/).
 
