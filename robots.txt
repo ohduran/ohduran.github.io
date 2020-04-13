@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.alvaroduran.com/sitemap.xml
+Host: https://www.alvaroduran.com
