@@ -20,7 +20,6 @@ export default class extends React.Component {
           <section className="-mt-1 bg-nord-1 px-3 grid gap-2 grid-rows-2" style={{
               gridTemplateColumns: 'minmax(max-content, 1fr) 1fr',
               gridTemplateRows: 'minmax(max-content, 1fr) 1fr',
-              alignItems: 'center'
             }}>
 
             <div className="col-span-2 xs:col-span-1" style={{

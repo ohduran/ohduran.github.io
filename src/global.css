@@ -4,6 +4,18 @@
 
 @tailwind components;
 
+.align-items-center{
+  align-items: center;
+}
+
+.align-items-end{
+  align-items: end;
+}
+
+.justify-items-center{
+  justify-items: center;
+}
+
 .font-family-baloo{
   font-family: 'Baloo', cursive;
 }

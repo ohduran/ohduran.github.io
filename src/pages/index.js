@@ -31,9 +31,7 @@ export default class extends React.Component {
               ¿Te sientes así?
             </h2>
 
-            <div className="text-xs xs:text-sm lg:text-base italic grid grid-cols-2 grid-rows-2 md:grid-rows-1 md:w-10/12  md:mx-auto gap-2" style={{
-                alignItems: 'end'
-              }}>
+            <div className="text-xs xs:text-sm lg:text-base italic grid grid-cols-2 grid-rows-2 md:grid-rows-1 align-items-end md:w-10/12 md:mx-auto gap-2">
               <h3 className="col-start-1 row-span-2 md:row-span-1">
                 "En mi empresa se podrían automatizar muchas tareas, pero no sé cómo hacerlo ni por dónde empezar."
               </h3>
@@ -43,9 +41,7 @@ export default class extends React.Component {
             </div>
           </section>
 
-          <section className="mt-5 w-11/12 mx-auto text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl leading-relaxed grid grid-cols-2 grid-rows-3 gap-4" style={{
-              alignItems: 'center'
-            }}>
+          <section className="mt-5 w-11/12 mx-auto text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl leading-relaxed grid grid-cols-2 grid-rows-3 gap-4 align-items-center">
             <h2 className="row-start-1 col-span-2">
               Da igual lo que digan:<br/><span className="bg-nord-12 font-semibold text-white p-1 rounded-lg">La gente realmente no quiere cambiar</span>
             </h2>
@@ -73,9 +69,7 @@ export default class extends React.Component {
             </svg>
 
             {/* Quien soy */}
-            <section className="mt-5 w-11/12 object-cover mx-auto grid grid-cols-2 grid-rows-2 gap-6 rounded-lg text-nord-4 text-right font-family-baloo" style={{
-                alignItems: 'center',
-              }}>
+            <section className="mt-5 w-11/12 object-cover mx-auto grid grid-cols-2 grid-rows-2 gap-6 align-items-center rounded-lg text-nord-4 text-right font-family-baloo">
               <Img className="row-span-2 h-full object-cover rounded-lg shadow-xl"
                   sizes={this.props.data.profileImage.sizes} alt="profile" />
               <h2 className="m-2 col-start-2 xs:text-lg sm:text-xl md:text-2xl lg:text-3xl">
@@ -92,10 +86,7 @@ export default class extends React.Component {
 
           <section className="mt-5">
             <h2 className="mb-1 text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-family-baloo">Las 4 Reglas de la Digitalización</h2>
-            <div className="my-5 w-10/12 mx-auto grid grid-rows-4 sm:grid-rows-2 grid-cols-4 gap-4" style={{
-                alignItems: 'center',
-                justifyItems: 'center'
-              }}>
+            <div className="my-5 w-10/12 mx-auto grid grid-rows-4 sm:grid-rows-2 grid-cols-4 gap-4 align-items-center justify-items-center">
 
               <div className="col-start-1 row-start-1 col-span-4 sm:col-span-2 flex align-center">
                 <img src={teamMeeting} className="h-16 sm:h-24 md:h-32 lg:h-48" alt="Reglas de Digitalizacion - social" />
@@ -122,10 +113,7 @@ export default class extends React.Component {
           </svg>
           <section className="bg-nord-10 -mt-1 pt-3">
             <h2 className="mb-1 text-nord-6 text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-family-baloo">Compañías con las que he colaborado</h2>
-            <div className="w-11/12 md:w-9/12 lg:w-7/12 mx-auto mt-2 grid grid-cols-2 md:grid-cols-3 grid-rows-3 md:grid-rows-2 md:gap-3" style={{
-                justifyItems: 'center',
-                alignItems: 'center'
-              }}>
+            <div className="w-11/12 md:w-9/12 lg:w-7/12 mx-auto mt-2 grid grid-cols-2 md:grid-cols-3 grid-rows-3 md:grid-rows-2 md:gap-3 align-items-center justify-items-center">
               <img src={capco} alt="Capco" />
               <img className="h-16" src={everis} alt="Capco" />
               <img className="h-10" src={hsbc} alt="Capco" />
@@ -139,9 +127,8 @@ export default class extends React.Component {
           </svg>
 
           {/* Testimonials */}
-          <section className="mt-5 w-11/12 sm:w-9/12 md:w-7/12 lg:w-11/12 mx-auto grid grid-cols-3 gap-8" style={{
+          <section className="mt-5 w-11/12 sm:w-9/12 md:w-7/12 lg:w-11/12 mx-auto grid grid-cols-3 gap-8 align-items-center" style={{
               gridTemplateRows: 'min-content min-content min-content',
-              alignItems: 'center'
             }}>
 
             <Testimonial className="row-start-1 col-span-3 xl:col-span-1"
