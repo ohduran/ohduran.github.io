@@ -1,5 +1,8 @@
 import React from "react"
 import '../global.css'
+import { graphql } from 'gatsby'
+import Img from "gatsby-image";
+
 import DefaultLayout from '../layouts/Default'
 import Testimonial from '../components/Testimonial'
 
@@ -7,7 +10,7 @@ import teamMeeting from '../static/manypixels/teamMeeting.svg'
 import scientist from '../static/manypixels/scientist.svg'
 import designer from '../static/manypixels/designer.svg'
 import rocketLaunch from '../static/manypixels/rocketLaunch.svg'
-import profilePic from '../static/logos/profile-pic.jpg'
+
 import capco from '../static/logos/capco.svg'
 import everis from '../static/logos/everis.png'
 import hsbc from '../static/logos/hsbc.svg'
@@ -73,7 +76,8 @@ export default class extends React.Component {
             <section className="mt-5 w-11/12 object-cover mx-auto grid grid-cols-2 grid-rows-2 gap-6 rounded-lg text-nord-4 text-right font-family-baloo" style={{
                 alignItems: 'center',
               }}>
-              <img className="row-span-2 h-full object-cover rounded-lg shadow-xl" src={profilePic} alt="profile" />
+              <Img className="row-span-2 h-full object-cover rounded-lg shadow-xl"
+                  sizes={this.props.data.profileImage.sizes} alt="profile" />
               <h2 className="m-2 col-start-2 xs:text-lg sm:text-xl md:text-2xl lg:text-3xl">
                 Soy Álvaro Durán,<br/>y ayudo a las pymes a <span className="text-nord-1">digitalizarse</span>
               </h2>
@@ -175,3 +179,13 @@ export default class extends React.Component {
     }
 
 }
+
+export const pageQuery = graphql`
+  query profileImageQuery {
+    profileImage: imageSharp {
+      sizes(maxWidth: 1240 ) {
+        ...GatsbyImageSharpSizes
+      }
+    }
+  }
+`
