@@ -1,5 +1,6 @@
 import React from "react"
 import DefaultLayout from "../layouts/Default"
+import NewsLetterForm from "../components/NewsletterForm"
 
 const axios = require("axios").default
 
@@ -32,8 +33,11 @@ class NewsLetter extends React.Component {
     console.log(data)
     return (
       <DefaultLayout>
-        <h1 className="text-lg text-center font-semibold">Newsletter</h1>
-        <ul className="mt-3 w-11/12 mx-auto">
+        <h1 className="mt-1 md:mt-3 mb-3 text-xl xs:text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center font-family-baloo">
+          Newsletter
+        </h1>
+        <NewsLetterForm />
+        <ul className="mt-10 w-11/12 md:w-5/12 mx-auto">
           {data.results
             ? data.results
                 // Descending order
@@ -52,7 +56,7 @@ class NewsLetter extends React.Component {
                     <a
                       href={`https://buttondown.email/alvaroduran/archive/${item.slug}/`}
                     >
-                      <p className="hover:underline">
+                      <p className="hover:underline text-sm md:text-base">
                         {item.secondary_id}. {item.subject}
                       </p>
                     </a>
