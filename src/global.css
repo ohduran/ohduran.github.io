@@ -40,4 +40,8 @@ hr {
   @apply my-10 mx-5 border-nord-3;
 }
 
+img {
+  @apply mx-auto;
+}
+
 @tailwind utilities;
