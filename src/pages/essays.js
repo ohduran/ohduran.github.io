@@ -1,7 +1,8 @@
 import React from "react"
 import { graphql, useStaticQuery, Link } from "gatsby"
 import DefaultLayout from "../layouts/Default"
-import PagaeTitle from "../components/PageTitle"
+import PageTitle from "../components/PageTitle"
+import PageSubTitle from "../components/PageSubTitle"
 
 const Essays = () => {
   const data = useStaticQuery(graphql`
@@ -23,21 +24,24 @@ const Essays = () => {
   `)
   return (
     <DefaultLayout>
-      <PagaeTitle title="Ensayos" />
+      <PageTitle title="Ensayos" />
       <ul className="mt-2 w-11/12 mx-auto">
         {data.allMarkdownRemark.edges.map((edge) => {
           const { title, description } = edge.node.frontmatter
           const { slug } = edge.node.fields
           return (
             <li>
-              <Link to={`/essays/${slug}`}>
-                <h2 className="text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl text-nord-0 font-family-baloo">
+              <Link
+                className="no-underline hover:underline"
+                to={`/essays/${slug}`}
+              >
+                <h2 className="text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl">
                   {title}
                 </h2>
-                <p className="text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl text-nord-3">
-                  {description}
-                </p>
               </Link>
+              <h3 className="text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl text-nord-3">
+                {description}
+              </h3>
             </li>
           )
         })}

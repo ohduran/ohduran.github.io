@@ -82,7 +82,7 @@ export default class extends React.Component {
 
         <div id="fondo-playa" className="mt-5 bg-nord-7">
           <svg
-            className={`fill-current text-nord-4`}
+            className={`fill-current text-nord-6`}
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 1440 320"
           >
@@ -237,7 +237,7 @@ export default class extends React.Component {
             <p className="mt-3 text-xs sm:text-sm md:text-base text-center">
               ¿Te ha picado la curiosidad?{" "}
               <a
-                className="font-family-baloo p-1 hover:text-nord-7"
+                className="font-family-baloo p-1 no-underline hover:text-nord-7"
                 href="mailto:alvaro.duranb@gmail.com"
                 itemprop="email"
               >
