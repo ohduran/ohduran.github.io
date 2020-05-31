@@ -1,31 +1,43 @@
-@import url('https://fonts.googleapis.com/css?family=Baloo|Montserrat|Mansalva&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Baloo|Montserrat|Mansalva&display=swap");
 
 @tailwind base;
 
 @tailwind components;
 
-.align-items-center{
+.align-items-center {
   align-items: center;
 }
 
-.align-items-end{
+.align-items-end {
   align-items: end;
 }
 
-.justify-items-center{
+.justify-items-center {
   justify-items: center;
 }
 
-.font-family-baloo{
-  font-family: 'Baloo', cursive;
+.font-family-baloo {
+  font-family: "Baloo", cursive;
 }
 
-.font-family-montserrat{
-  font-family: 'Montserrat', sans-serif;
+.font-family-montserrat {
+  font-family: "Montserrat", sans-serif;
 }
 
-body{
-  @apply bg-nord-4 font-family-montserrat;
+body {
+  @apply bg-nord-6 font-family-montserrat;
+}
+
+p {
+  @apply mt-8;
+}
+
+a {
+  @apply underline;
+}
+
+hr {
+  @apply my-10 mx-5 border-nord-3;
 }
 
 @tailwind utilities;
