@@ -16,8 +16,11 @@ export default class extends React.Component {
           <Link to="/">
             <img className="h-12 xs:h-16" src={logo} alt="logo" />
           </Link>
-          <nav className="col-start-2 mt-4 mr-2 text-nord-4 text-right font-semibold font-family-baloo">
-            <Link to="/newsletter">Newsletter</Link>
+          <nav className="col-start-2 mt-4 mr-2 text-nord-4 text-right font-semibold font-family-baloo flex justify-center">
+            <Link to="/essays">Ensayos</Link>
+            <Link className="ml-2" to="/newsletter">
+              Newsletter
+            </Link>
           </nav>
         </header>
         {/* https://getwaves.io/ */}

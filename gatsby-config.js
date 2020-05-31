@@ -19,6 +19,14 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-advanced-sitemap`,
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: "src",
+        path: `${__dirname}/src/`,
+      },
+    },
+    `gatsby-transformer-remark`,
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: "UA-131540516-3",
