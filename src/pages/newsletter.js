@@ -24,14 +24,7 @@ class NewsLetter extends React.Component {
   }
 
   render() {
-    //   const { data } = this.state
-    //   console.log(data)
-    //   data.length ? console.log("data", data) : console.log("no data", data)
-    // return <DefaultLayout>
-    //   {data.results? data.results.map((item) => (<li>item.id</li>)}
-    //   </DefaultLayout>
     const { data } = this.state
-    console.log(data)
     return (
       <DefaultLayout>
         <PageTitle title="Newsletter" />
@@ -46,18 +39,19 @@ class NewsLetter extends React.Component {
                 )
                 .map((item) => (
                   <li className="mt-2" key={item.id}>
-                    <p
+                    <h5
                       className="text-gray-500 font-semibold"
                       style={{ fontSize: "0.5rem" }}
                     >
                       {`${item.publish_date.split("T")[0]}`}
-                    </p>
+                    </h5>
                     <a
+                      className="no-underline"
                       href={`https://buttondown.email/alvaroduran/archive/${item.slug}/`}
                     >
-                      <p className="hover:underline text-sm md:text-base">
+                      <h4 className="hover:underline text-sm md:text-base">
                         {item.secondary_id}. {item.subject}
-                      </p>
+                      </h4>
                     </a>
                   </li>
                 ))

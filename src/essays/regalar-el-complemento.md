@@ -3,7 +3,7 @@ title: Regalar el Complemento
 description: La razón por la que Google te regala Android y Chrome
 ---
 
-Durante la carrera, mis profesores me hicieron entender que la relatividad no era un descubrimiento cualquiera, sino un cambio de paradigma completo. Para hacer sitio a lo nuevo, no bastaba con modificar lo que había ligeramente. Había que borrarlo todo, y volver a empezar. Lo curioso es que, debido a Internet, tenemos que hacer lo mismo con nuestra manera de entender la Economía.
+Durante la carrera, mis profesores me hicieron entender que la relatividad no era un descubrimiento cualquiera, sino un cambio de paradigma completo. Para hacer sitio a lo nuevo, no bastaba con modificar lo que había ligeramente. Había que borrarlo todo, y volver a empezar. Lo curioso es que, gracias a Internet, tenemos que hacer lo mismo con nuestra manera de entender los negocios.
 
 En un mundo pre-Internet, **el problema más difícil era la distribución**. Para comprar comida, tenías que ir al supermercado; para comprar ropa, tenías que ir a la tienda; para escuchar música, tenías que comprarte un disco; para encontrar información, tenías que comprar una enciclopedia. En un mundo donde el problema más difícil es la distribución, los intermediarios son el elemento esencial de la cadena.
 
@@ -19,7 +19,7 @@ Cuando Internet estaba en pañales, para encontrar lo que necesitabas tenías qu
 
 Abajo, a la izquierda, Yahoo te indica, con orgullo, que tiene categorizadas casi 24,000 páginas web, una lista ampliada y revisada por un equipo humano. Este método de bibliotecario para la búsqueda en Internet se iba a quedar muy corto muy pronto. Sólo 4 años después, éste era el aspecto de Yahoo:
 
-![Yahoo en 1998](http://oneday.wpengine.netdna-cdn.com/wp-content/uploads/yahoo-1998.png "Yahoo en 1998")
+![Yahoo en 1998](https://www.versionmuseum.com/images/websites/yahoo-website/yahoo-website%5E1998%5Ehomepage.png "Yahoo en 1998")
 
 Con tantas categorías, no hay quien se oriente: Yahoo ha dejado de ser un modelo viable para la búsqueda en una Web que tiene ya casi 2 millones y medio de páginas.
 

@@ -2,7 +2,6 @@ import React from "react"
 import { graphql, useStaticQuery, Link } from "gatsby"
 import DefaultLayout from "../layouts/Default"
 import PageTitle from "../components/PageTitle"
-import PageSubTitle from "../components/PageSubTitle"
 
 const Essays = () => {
   const data = useStaticQuery(graphql`
