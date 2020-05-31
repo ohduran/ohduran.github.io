@@ -33,7 +33,7 @@ export default class extends React.Component {
               justifySelf: "center",
             }}
           >
-            <h1 className="text-center xs:text-justify text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-family-baloo font-bold">
+            <h1 className="text-center xs:text-justify text-2xl xs:text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-family-baloo">
               La <span className="text-nord-7">digitalización</span>
               <br className="" /> de tu empresa,
               <br />

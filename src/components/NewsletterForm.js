@@ -3,7 +3,7 @@ import React from "react"
 const NewsLetterForm = () => {
   return (
     <>
-      <h2 className="mx-auto text-center text-xs xs:text-base sm:text-lg md:text-xl lg:text-2xl font-semibold">
+      <h2 className="mx-auto text-center text-xs xs:text-base sm:text-lg md:text-xl lg:text-2xl font-family-baloo">
         Descubre el potencial digital de tu negocio
       </h2>
       <form
@@ -20,7 +20,7 @@ const NewsLetterForm = () => {
         />
         <input
           type="submit"
-          className="ml-1 rounded-lg shadow-lg bg-nord-7 text-nord-6 p-2 text-center text-xs sm:text-sm md:text-base font-bold"
+          className="ml-1 rounded-lg shadow-lg bg-nord-7 text-nord-6 font-family-montserrat p-2 text-center text-xs sm:text-sm md:text-base"
           value="Registrarse"
         />
         <input type="hidden" value="1" name="embed"></input>

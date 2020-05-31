@@ -82,7 +82,7 @@ export default class extends React.Component {
 
         <div id="fondo-playa" className="mt-5 bg-nord-7">
           <svg
-            className={`fill-current text-nord-4`}
+            className={`fill-current text-nord-6`}
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 1440 320"
           >
@@ -90,10 +90,10 @@ export default class extends React.Component {
           </svg>
 
           {/* Quien soy */}
-          <section className="mt-5 w-11/12 object-cover mx-auto grid grid-cols-2 grid-rows-2 gap-6 align-items-center rounded-lg text-nord-4 text-right font-family-baloo">
+          <section className="mt-5 w-11/12 object-cover mx-auto grid grid-cols-2 grid-rows-2 gap-6 align-items-center rounded-lg text-nord-6 text-center font-family-baloo">
             <Img
               className="row-span-2 h-full object-cover rounded-lg shadow-xl"
-              sizes={this.props.data.profileImage.sizes}
+              sizes={this.props.data.allImageSharp.edges[0].node.sizes}
               alt="profile"
             />
             <h2 className="m-2 col-start-2 xs:text-lg sm:text-xl md:text-2xl lg:text-3xl">
@@ -101,10 +101,10 @@ export default class extends React.Component {
               <br />y ayudo a las pymes a{" "}
               <span className="text-nord-1">digitalizarse</span>
             </h2>
-            <h3 className="col-start-2 row-start-2 text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl">
+            <h3 className="col-start-2 row-start-2 text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl ">
               Todo empieza con una pregunta:
               <br />
-              si pudiésemos quitarnos de encima una tarea,
+              si pudiéses quitarte de encima una tarea,
               <br />
               ¿cuál sería?
             </h3>
@@ -237,7 +237,7 @@ export default class extends React.Component {
             <p className="mt-3 text-xs sm:text-sm md:text-base text-center">
               ¿Te ha picado la curiosidad?{" "}
               <a
-                className="font-family-baloo p-1 hover:text-nord-7"
+                className="font-family-baloo p-1 no-underline hover:text-nord-7"
                 href="mailto:alvaro.duranb@gmail.com"
                 itemprop="email"
               >
@@ -254,9 +254,16 @@ export default class extends React.Component {
 
 export const pageQuery = graphql`
   query profileImageQuery {
-    profileImage: imageSharp {
-      sizes(maxWidth: 1240) {
-        ...GatsbyImageSharpSizes
+    allImageSharp(
+      filter: { sizes: { originalName: { eq: "profile-pic.jpg" } } }
+    ) {
+      edges {
+        node {
+          id
+          sizes(maxWidth: 1240) {
+            ...GatsbyImageSharpSizes
+          }
+        }
       }
     }
   }

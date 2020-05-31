@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "axios": "0.19.2",
-    "gatsby": "2.22.13",
+    "gatsby": "2.22.15",
     "gatsby-image": "2.4.5",
     "gatsby-plugin-advanced-sitemap": "1.5.4",
     "gatsby-plugin-google-analytics": "2.3.2",
@@ -27,7 +27,8 @@
     "gatsby-plugin-robots-txt": "1.5.1",
     "gatsby-plugin-sharp": "2.6.9",
     "gatsby-plugin-sitemap": "2.4.3",
-    "gatsby-source-filesystem": "2.3.8",
+    "gatsby-source-filesystem": "^2.3.8",
+    "gatsby-transformer-remark": "^2.8.13",
     "gatsby-transformer-sharp": "2.5.3",
     "nord": "0.2.1",
     "react": "16.13.1",
