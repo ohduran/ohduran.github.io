@@ -1,6 +1,6 @@
 ---
 title: Regalar el Complemento
-description: La razón por la que Google te deja usar gratis Android y Chrome
+description: La razón por la que Google te deja usar Android y Chrome gratis
 tags: [Microsoft, IBM, Yahoo, Google, Marc Andreseen, Netscape, Bill Gates]
 ---
 
