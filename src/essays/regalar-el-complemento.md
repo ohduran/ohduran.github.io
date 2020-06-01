@@ -22,7 +22,7 @@ Abajo, a la izquierda, Yahoo te indica, con orgullo, que tiene categorizadas cas
 
 Con tantas categorías, no hay quien se oriente: Yahoo ha dejado de ser una forma viable de buscar algo en una Web que tiene ya casi 2 millones y medio de páginas y que crece sin parar.
 
-Es en septiembre de 1998 cuando aparece Google. A diferencia del método de bibliotecario que usa Yahoo, Google está diseñado para utilizar los links que hay entre una página y otra cómo indicador de su relevancia. Es el método que usan los académicos para evaluar la importancia de sus artículos científicos: si un artículo es mencionado por muchos otros, eso es señal de que es un artículo importante.
+Es en septiembre de 1998 cuando aparece Google. A diferencia del método de bibliotecario que usa Yahoo, Google está diseñado para utilizar los links que hay entre una página y otra cómo indicador de su relevancia. Es el método que usan los académicos para evaluar la importancia de sus artículos científicos: si un artículo es mencionado por muchos otros, eso es señal de que es importante.
 
 Lo interesante del diseño de Google no es sólo que ya era mejor que el de Yahoo en 1998, sino que **conforme crecía Internet, su algoritmo era mejor y más eficaz**. Además, cuanta más gente usaba Google, más datos tenía el buscador para ajustar y mejorar su algoritmo, con lo que atraía más usuarios. En poco tiempo, Google dejó atrás a Yahoo, y se convirtió en la ventana a Internet.
 
