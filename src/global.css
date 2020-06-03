@@ -1,4 +1,28 @@
-@import url("https://fonts.googleapis.com/css?family=Baloo|Montserrat|Mansalva&display=swap");
+@font-face {
+  font-family: "ClearfaceLT-Regular";
+  src: url("./fonts/clearface.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/clearface.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("./fonts/clearface.otf") format("opentype"),
+    /* Open Type Font */ url("./fonts/clearface.svg") format("svg"),
+    /* Legacy iOS */ url("./fonts/clearface.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("./fonts/clearface.woff") format("woff"),
+    /* Modern Browsers */ url("./fonts/clearface.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ClearfaceLT-Bold";
+  src: url("./fonts/clearfacebold.eot"); /* IE9 Compat Modes */
+  src: url("./fonts/clearfacebold.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("./fonts/clearfacebold.otf") format("opentype"),
+    /* Open Type Font */ url("./fonts/clearfacebold.svg") format("svg"),
+    /* Legacy iOS */ url("./fonts/clearfacebold.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("./fonts/clearfacebold.woff") format("woff"),
+    /* Modern Browsers */ url("./fonts/clearfacebold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
 
 @tailwind base;
 
@@ -16,16 +40,16 @@
   justify-items: center;
 }
 
-.font-family-baloo {
-  font-family: "Baloo", cursive;
+.font-family-clearface {
+  font-family: "ClearfaceLT-Regular", Helvetica, sans-serif;
 }
 
-.font-family-montserrat {
-  font-family: "Montserrat", sans-serif;
+.font-family-clearface-bold {
+  font-family: "ClearfaceLT-Bold", Helvetica, sans-serif;
 }
 
 body {
-  @apply bg-nord-6 font-family-montserrat;
+  @apply bg-nord-0 text-nord-6 font-family-clearface;
 }
 
 p {
