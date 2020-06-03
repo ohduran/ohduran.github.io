@@ -6,11 +6,6 @@ import Img from "gatsby-image"
 import DefaultLayout from "../layouts/Default"
 import Testimonial from "../components/Testimonial"
 
-import teamMeeting from "../static/manypixels/teamMeeting.svg"
-import scientist from "../static/manypixels/scientist.svg"
-import designer from "../static/manypixels/designer.svg"
-import rocketLaunch from "../static/manypixels/rocketLaunch.svg"
-
 import capco from "../static/logos/capco.svg"
 import everis from "../static/logos/everis.png"
 import hsbc from "../static/logos/hsbc.svg"
