@@ -1,8 +1,10 @@
 import React from "react"
+import { Link } from "gatsby"
 import "../global.css"
 
 import DefaultLayout from "../layouts/Default"
 import Testimonial from "../components/Testimonial"
+import NewsLetterForm from "../components/NewsletterForm"
 
 import profilePic from "../static/images/profile-pic.jpg"
 import capco from "../static/logos/capco.svg"
@@ -12,6 +14,8 @@ import renta4 from "../static/logos/renta4.svg"
 import octopusLabs from "../static/logos/octopusLabs.svg"
 import bradesco from "../static/logos/bradesco.svg"
 
+import openMap from "../static/manypixels/openMap.svg"
+
 export default class extends React.Component {
   render() {
     return (
@@ -20,75 +24,116 @@ export default class extends React.Component {
           <h2 className="text-lg font-family-clearface-bold">
             ¿Te sientes así?
           </h2>
-          <div className="text-xs">
-            <p>
-              “Veo en televisión que todo el mundo está comprando por Internet,
-              <br />
-              pero no sé como hacer que mi negocio dé el salto.”
+          <div className="text-xs w-11/12 mx-auto">
+            <p className="mt-3">
+              “Monté una tienda e-commerce con un proveedor y me dejo un 10% de
+              mi facturación en las comisiones."
             </p>
-            <p>“No había necesitado vender online hasta ahora.”</p>
-            <p>
-              “Sé que estoy dejando de lado a muchos clientes por no tener un
-              sitio Web.”
+            <p className="mt-3">
+              "Todos me dicen que mis precios son muy altos, y creo que es
+              porque mi web no parece profesional."
             </p>
-            <p>
-              “Mi futuro está en Internet, pero sé que con hacer una página web
-              no basta.”
+            <p className="mt-3">
+              “Creo hay mucha gente que entra en mi tienda online y no compra, y
+              no sé cómo solucionarlo."
+            </p>
+            <p className="mt-3">
+              "No quiero acabar vendiendo mis productos en Amazon, pero es donde
+              está todo el mundo."
             </p>
           </div>
-          <div className="mt-5">
-            <h2 className="text-base text-nord-13">
-              Digitalizarse no es una moda. Es la única manera de mantenerse a
-              flote.
+          <div className="mt-5 w-11/12 mx-auto">
+            <h2 className="text-sm">
+              Los negocios tradicionales necesitan una estrategia para salir
+              adelante.
+              <br />
+              <span className="text-nord-13">
+                Los negocios digitales, también.
+              </span>
             </h2>
-            <h3 className="text-sm">
-              Un negocio profesional debe recurrir a profesionales.
-            </h3>
           </div>
         </section>
         <section className="mt-10">
-          <figure className="w-10/12 mx-auto text-xs">
+          <figure className="w-10/12 mx-auto">
             <img
-              className="h-40 float-left"
+              className="h-32 float-left"
               src={profilePic}
               style={{
                 shapeOutside: "circle()",
               }}
             />
             <figcaption>
-              <h1 className="text-lg ">
-                Me llamo Álvaro Durán,
-                <br />y ayudo a las empresas
-                <br />a que crezcan en Internet.
+              <h1 className="text-sm">
+                Me llamo Álvaro Durán, y soy el consultor estratégico de las
+                e-commerce.
               </h1>
-              <h2 className="mt-5">
-                Me he especializado en entender qué diferencias hay entre los
-                negocios de toda la vida y los digitales, y cómo muchas veces{" "}
+              <h2 className="mt-3 text-xs">
+                Me he especializado en entender{" "}
                 <span className="text-nord-9">
-                  las mejores decisiones en la Web son contraintuitivas
-                </span>
-                .
+                  por qué las decisiones acertadas, en la Web, son
+                  contraintuitivas
+                </span>{" "}
+                para casi todo el mundo.
               </h2>
             </figcaption>
           </figure>
         </section>
-        <section className="mt-16">
+        <section className="w-11/12 text-xs mx-auto mt-5 text-center">
+          <p className="mt-3">
+            ¿Por qué Amazon se hizo la e-commerce más grande, si no era más que
+            una tienda de libros?
+          </p>
+          <p className="mt-3">
+            <Link
+              className="hover:text-nord-13"
+              to="/essays/regalar-el-complemento"
+            >
+              ¿Por qué Google liberó el uso de Android para que Samsung ganase
+              millones gracias a ello?
+            </Link>
+          </p>
+          <p className="mt-3">
+            ¿Por qué Facebook se gastó 13 mil millones de dólares en comprar
+            Instagram?
+          </p>
+          <p className="mt-3">
+            ¿De dónde sale el dinero para pagar los miles de millones de
+            pérdidas de Uber?
+          </p>
+          <img
+            className="mt-5 h-48 float-right"
+            src={openMap}
+            style={{
+              shapeOutside: "circle()",
+            }}
+          />
+          <h3 className="mt-5 text-base text-left">
+            Saber cómo responder a estas preguntas es esencial para sobrevivir
+            en Internet. Aunque se inventó en 1991, aún es territorio
+            desconocido para muchos.
+            <br />
+            <span className="text-nord-9">Es mejor ir con guía.</span>
+          </h3>
+          <NewsLetterForm className="mt-5">
+            Subscríbete a la newsletter para saber más
+          </NewsLetterForm>
+        </section>
+        <section className="mt-10 w-11/12 mx-auto">
           <h2 className="text-lg text-center font-family-clearface-bold">
             Empresas con las que he colaborado
           </h2>
           <div
-            className="grid gap-1 grid-cols-3 grid-rows-2"
+            className="grid grid-cols-2 grid-rows-3"
             style={{
-              justifyItems: "center",
               alignItems: "center",
             }}
           >
-            <img className="h-10" src={capco} />
+            <img className="h-8" src={capco} />
             <img className="h-10" src={everis} />
-            <img className="h-6" src={hsbc} />
+            <img className="h-8" src={hsbc} />
             <img className="h-6" src={renta4} />
-            <img className="h-6" src={octopusLabs} />
-            <img className="h-20" src={bradesco} />
+            <img className="h-8" src={octopusLabs} />
+            <img className="h-24" src={bradesco} />
           </div>
         </section>
         <section className="mt-10">

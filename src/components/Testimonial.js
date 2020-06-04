@@ -5,7 +5,7 @@ const Testimonial = ({ className, author, children }) => {
   return (
     <div className={className}>
       <blockquote
-        className="blockquote pl-5 mx-8"
+        className="blockquote pl-5 mx-8 text-sm"
         style={{
           borderLeft: "4px solid #ebcb8b",
         }}

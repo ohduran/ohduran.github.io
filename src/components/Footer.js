@@ -21,18 +21,18 @@ export default class extends React.Component {
               <br />
               de tu empresa, <span className="text-nord-0">ahora</span>
             </p>
-            <NewsLetterForm className="mt-2" />
+            <NewsLetterForm className="w-11/12 mx-auto mt-2" />
           </section>
           <section>
             <img className="h-32" src={innovationBulb} />
           </section>
         </div>
         <div
-          className="mt-5 w-4/12 mx-auto grid gap-2"
+          className="mt-5 grid gap-2"
           style={{
             gridTemplateColumns:
               "1fr min-content min-content min-content min-content 1fr",
-            gridTemplateRows: "max-content",
+            gridTemplateRows: "min-content",
           }}
         >
           <a className="col-start-2" href="https://github.com/ohduran">

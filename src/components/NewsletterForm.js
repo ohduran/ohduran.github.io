@@ -1,9 +1,11 @@
 import React from "react"
 
-const NewsLetterForm = ({ className }) => {
+const NewsLetterForm = ({ className, children }) => {
   return (
     <div className={className}>
-      <h2 className="text-xs">Descubre el potencial digital de tu negocio</h2>
+      <h2 className="text-xs">
+        {children ? children : "Descubre el potencial digital de tu negocio"}
+      </h2>
       <form
         action="https://buttondown.email/api/emails/embed-subscribe/alvaroduran"
         method="post"
