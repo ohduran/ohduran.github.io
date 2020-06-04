@@ -4,6 +4,7 @@ import "../global.css"
 import IconGitHub from "../icons/github.js"
 import IconLinkedIn from "../icons/linkedin.js"
 import IconMail from "../icons/mail.js"
+import IconInstagram from "../icons/instagram.js"
 
 import innovationBulb from "../static/manypixels/innovationBulb.svg"
 
@@ -12,18 +13,36 @@ import NewsLetterForm from "./NewsletterForm"
 export default class extends React.Component {
   render() {
     return (
-      <footer className="mt-10 p-10 bg-nord-10 flex">
-        <section className="w-7/12 mx-auto">
-          <p className="text-lg">
-            La <span className="text-nord-13">digitalización</span>
-            <br />
-            de tu empresa, <span className="text-nord-0">ahora</span>
-          </p>
-          <NewsLetterForm className="mt-2" />
-        </section>
-        <section>
-          <img className="h-32" src={innovationBulb} />
-        </section>
+      <footer className="mt-10 p-1 bg-nord-10">
+        <div className="p-10 flex justify-around">
+          <section className="w-7/12 mx-auto">
+            <p className="text-lg">
+              La <span className="text-nord-13">digitalización</span>
+              <br />
+              de tu empresa, <span className="text-nord-0">ahora</span>
+            </p>
+            <NewsLetterForm className="mt-2" />
+          </section>
+          <section>
+            <img className="h-32" src={innovationBulb} />
+          </section>
+        </div>
+        <div className="mt-5 w-5/12 mx-auto flex justify-around">
+          <a href="https://github.com/ohduran">
+            <IconGitHub className="h-8" />
+          </a>
+          <a href="https://instagram.com/digitalvaro">
+            <IconInstagram className="h-8" />
+          </a>
+
+          <a href="https://linkedin.com/in/alvaroduranbarata">
+            <IconLinkedIn className="h-8" />
+          </a>
+
+          <a href="mailto:alvaro.duranb@gmail.com">
+            <IconMail className="h-8" />
+          </a>
+        </div>
       </footer>
     )
   }

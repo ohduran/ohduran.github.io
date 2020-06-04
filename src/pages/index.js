@@ -1,7 +1,5 @@
 import React from "react"
 import "../global.css"
-import { graphql } from "gatsby"
-import Img from "gatsby-image"
 
 import DefaultLayout from "../layouts/Default"
 import Testimonial from "../components/Testimonial"
