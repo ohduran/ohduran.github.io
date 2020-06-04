@@ -27,19 +27,29 @@ export default class extends React.Component {
             <img className="h-32" src={innovationBulb} />
           </section>
         </div>
-        <div className="mt-5 w-5/12 mx-auto flex justify-around">
-          <a href="https://github.com/ohduran">
+        <div
+          className="mt-5 w-4/12 mx-auto grid gap-2"
+          style={{
+            gridTemplateColumns:
+              "1fr min-content min-content min-content min-content 1fr",
+            gridTemplateRows: "max-content",
+          }}
+        >
+          <a className="col-start-2" href="https://github.com/ohduran">
             <IconGitHub className="h-8" />
           </a>
-          <a href="https://instagram.com/digitalvaro">
+          <a className="col-start-3" href="https://instagram.com/digitalvaro">
             <IconInstagram className="h-8" />
           </a>
 
-          <a href="https://linkedin.com/in/alvaroduranbarata">
+          <a
+            className="col-start-4"
+            href="https://linkedin.com/in/alvaroduranbarata"
+          >
             <IconLinkedIn className="h-8" />
           </a>
 
-          <a href="mailto:alvaro.duranb@gmail.com">
+          <a className="col-start-5" href="mailto:alvaro.duranb@gmail.com">
             <IconMail className="h-8" />
           </a>
         </div>
