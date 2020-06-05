@@ -20,7 +20,7 @@ export default class extends React.Component {
         >
           <Link to="/" className="col-start-3 sm:col-start-1">
             <img
-              className="h-12 sm:h-16 lg:h-20 py-1 px-3 m-1"
+              className="h-16 sm:h-20 lg:h-24 py-1 px-3 my-4 mr-5"
               src={logo}
               alt="logo"
             />
