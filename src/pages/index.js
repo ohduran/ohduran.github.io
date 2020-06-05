@@ -61,7 +61,7 @@ export default class extends React.Component {
           </div>
         </section>
         <section className="mt-16 sm:mt-24 lg:mt-32">
-          <figure className="w-11/12 xs:w-9/12 sm:w-7/12 lg:w-5/12 mx-auto">
+          <figure className="w-11/12 xs:w-9/12 sm:w-7/12 lg:w-6/12 mx-auto">
             <img
               className="h-32 sm:h-40 md:h-48 lg:h-64 float-left"
               src={profilePic}
