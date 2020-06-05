@@ -21,7 +21,7 @@ export default class extends React.Component {
     return (
       <DefaultLayout>
         <section className="mt-5 sm:mt-7 text-center">
-          <h2 className="text-lg sm:text-xl font-family-clearface-bold">
+          <h2 className="text-lg sm:text-xl md:text-2xl font-family-clearface-bold">
             ¿Te sientes así?
           </h2>
           <div className="text-xs sm:text-sm w-11/12 mx-auto">
@@ -60,8 +60,8 @@ export default class extends React.Component {
             </h2>
           </div>
         </section>
-        <section className="mt-10">
-          <figure className="w-10/12 mx-auto">
+        <section className="mt-16 sm:mt-24">
+          <figure className="w-11/12 sm:w-1/2 mx-auto">
             <img
               className="h-32 sm:h-40 float-left"
               src={profilePic}
@@ -81,7 +81,9 @@ export default class extends React.Component {
                 <br className="hidden sm:block" />
                 <span className="sm:hidden"> </span>
                 <span className="text-nord-9">
-                  por qué las decisiones acertadas, en la Web, son
+                  por qué las decisiones acertadas,
+                  <br className="hidden sm:block" />
+                  <span className="sm:hidden"> </span>en la Web, son
                   contraintuitivas
                 </span>
                 .
