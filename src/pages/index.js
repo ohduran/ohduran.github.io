@@ -20,30 +20,37 @@ export default class extends React.Component {
   render() {
     return (
       <DefaultLayout>
-        <section className="mt-5 text-center">
-          <h2 className="text-lg font-family-clearface-bold">
+        <section className="mt-5 sm:mt-7 text-center">
+          <h2 className="text-lg sm:text-xl font-family-clearface-bold">
             ¿Te sientes así?
           </h2>
-          <div className="text-xs w-11/12 mx-auto">
+          <div className="text-xs sm:text-sm w-11/12 mx-auto">
             <p className="mt-3">
-              “Monté una tienda e-commerce con un proveedor y me dejo un 10% de
-              mi facturación en las comisiones."
+              “Monté una tienda e-commerce con un proveedor
+              <br className="hidden sm:block" />
+              <span className="sm:hidden"> </span>y me dejo un 10% de mi
+              facturación en las comisiones."
             </p>
             <p className="mt-3">
-              "Todos me dicen que mis precios son muy altos, y creo que es
-              porque mi web no parece profesional."
+              "Todos me dicen que mis precios son muy altos,
+              <br className="hidden sm:block" />
+              <span className="sm:hidden"> </span>y creo que es porque mi web no
+              parece profesional."
             </p>
             <p className="mt-3">
-              “Creo hay mucha gente que entra en mi tienda online y no compra, y
-              no sé cómo solucionarlo."
+              "No quiero acabar vendiendo mis productos en Amazon,
+              <br className="hidden sm:block" />
+              <span className="sm:hidden"> </span>pero es donde está todo el
+              mundo."
             </p>
             <p className="mt-3">
-              "No quiero acabar vendiendo mis productos en Amazon, pero es donde
-              está todo el mundo."
+              “Hay mucha gente que entra en mi tienda online y no compra,
+              <br className="hidden sm:block" />
+              <span className="sm:hidden"> </span>y no sé cómo solucionarlo."
             </p>
           </div>
-          <div className="mt-5 w-11/12 mx-auto">
-            <h2 className="text-sm">
+          <div className="mt-5 sm:mt-7 w-11/12 mx-auto">
+            <h2 className="text-sm sm:text-base">
               Los negocios tradicionales necesitan una estrategia para salir
               adelante.
               <br />
@@ -56,74 +63,79 @@ export default class extends React.Component {
         <section className="mt-10">
           <figure className="w-10/12 mx-auto">
             <img
-              className="h-32 float-left"
+              className="h-32 sm:h-40 float-left"
               src={profilePic}
               style={{
                 shapeOutside: "circle()",
               }}
             />
             <figcaption>
-              <h1 className="text-sm">
-                Me llamo Álvaro Durán, y soy el consultor estratégico de las
-                e-commerce.
+              <h1 className="text-sm sm:text-base">
+                Me llamo Álvaro Durán, y soy
+                <br className="hidden sm:block" />
+                <span className="sm:hidden"> </span>el consultor estratégico de
+                las e-commerce.
               </h1>
-              <h2 className="mt-3 text-xs">
-                Me he especializado en entender{" "}
+              <h2 className="mt-3 text-xs sm:text-sm">
+                Me he especializado en entender
+                <br className="hidden sm:block" />
+                <span className="sm:hidden"> </span>
                 <span className="text-nord-9">
                   por qué las decisiones acertadas, en la Web, son
                   contraintuitivas
-                </span>{" "}
-                para casi todo el mundo.
+                </span>
+                .
               </h2>
             </figcaption>
           </figure>
         </section>
-        <section className="w-11/12 text-xs mx-auto mt-5 text-center">
-          <p className="mt-3">
-            ¿Por qué Amazon se hizo la e-commerce más grande, si no era más que
-            una tienda de libros?
-          </p>
+        <section className="w-11/12 text-xs sm:text-sm mx-auto mt-16 sm:mt-24 text-center">
+          {/* Regalar el complemento */}
           <p className="mt-3">
             <Link
               className="hover:text-nord-13"
               to="/essays/regalar-el-complemento"
             >
-              ¿Por qué Google liberó el uso de Android para que Samsung ganase
-              millones gracias a ello?
+              ¿Por qué Google distribuye Android gratis? ¿Es por sus datos?
             </Link>
           </p>
+          {/* Una empresa en Internet o pretende conquistar el mundo o acabará devorada */}
           <p className="mt-3">
-            ¿Por qué Facebook se gastó 13 mil millones de dólares en comprar
-            Instagram?
+            ¿Por qué Tuenti nunca consiguió despegar del todo, y Facebook sí?
           </p>
+          {/* Hay dos tipos de empresa: Amazon y Ben & Jerry's */}
           <p className="mt-3">
-            ¿De dónde sale el dinero para pagar los miles de millones de
-            pérdidas de Uber?
+            ¿Por qué Amazon se hizo la e-commerce más grande, si sólo era una
+            tienda de libros?
           </p>
-          <img
-            className="mt-5 h-48 float-right"
-            src={openMap}
-            style={{
-              shapeOutside: "circle()",
-            }}
-          />
-          <h3 className="mt-5 text-base text-left">
-            Saber cómo responder a estas preguntas es esencial para sobrevivir
-            en Internet. Aunque se inventó en 1991, aún es territorio
-            desconocido para muchos.
-            <br />
-            <span className="text-nord-9">Es mejor ir con guía.</span>
-          </h3>
-          <NewsLetterForm className="mt-5">
+          {/* Los fondos de capital riesgo. */}
+          <p className="mt-3">
+            ¿De dónde saca Uber el dinero para pagar los miles de millones en
+            pérdidas que tiene cada mes?
+          </p>
+          <div className="mt-5 sm:mt-16 w-11/12 mx-auto flex">
+            <h3 className="my-auto text-base sm:text-lg text-left">
+              Saber cómo responder a estas preguntas es esencial para sobrevivir
+              en Internet. Aunque se inventó en 1991, aún es territorio
+              desconocido para muchos.
+              <br className="sm:hidden" />
+              <span className="text-nord-13">
+                {" "}
+                Es mejor tener un plan, y saber cómo ejecutarlo.
+              </span>
+            </h3>
+            <img className="h-48 float-right" src={openMap} />
+          </div>
+          <NewsLetterForm className="mt-5 sm:mt-7 w-11/12 mx-auto ">
             Subscríbete a la newsletter para saber más
           </NewsLetterForm>
         </section>
-        <section className="mt-10 w-11/12 mx-auto">
-          <h2 className="text-lg text-center font-family-clearface-bold">
+        <section className="mt-10 sm:mt-16 w-11/12 mx-auto">
+          <h2 className="text-lg sm:text-xl text-center font-family-clearface-bold">
             Empresas con las que he colaborado
           </h2>
           <div
-            className="grid grid-cols-2 grid-rows-3"
+            className="grid grid-cols-2 grid-rows-3 sm:grid-cols-3 sm:grid-rows-2 sm:w-11/12 sm:mx-auto"
             style={{
               alignItems: "center",
             }}
@@ -136,8 +148,8 @@ export default class extends React.Component {
             <img className="h-24" src={bradesco} />
           </div>
         </section>
-        <section className="mt-10">
-          <div className="grid gap-3 grid-cols-1 grid-rows-3">
+        <section className="mt-10 sm:mt-16">
+          <div className="grid gap-3 sm:gap-6 grid-cols-1 grid-rows-3">
             <Testimonial author="Jaime Álvarez, Finance Consultant">
               Álvaro es una persona dinámica, muy responsable con su propio
               trabajo y de trato amable y cercano.
@@ -154,11 +166,11 @@ Head of Multinational Clients APAC at ING"
             </Testimonial>
           </div>
         </section>
-        <section className="mt-10">
-          <h2 className="text-lg text-center font-family-clearface-bold">
+        <section className="mt-10 sm:mt-16">
+          <h2 className="text-lg sm:text-xl text-center font-family-clearface-bold">
             ¿Te interesa?
           </h2>
-          <h3 className="mt-5 text-center">
+          <h3 className="mt-5 sm:mt-7 text-center">
             Envíame{" "}
             <a
               href="mailto:alvaro.duranb@gmail.com"

@@ -3,13 +3,13 @@ import React from "react"
 const NewsLetterForm = ({ className, children }) => {
   return (
     <div className={className}>
-      <h2 className="text-xs">
+      <h2 className="text-xs sm:text-sm">
         {children ? children : "Descubre el potencial digital de tu negocio"}
       </h2>
       <form
         action="https://buttondown.email/api/emails/embed-subscribe/alvaroduran"
         method="post"
-        className="mt-1 md:mt-2 lg:mt-3 w-11/12 mx-auto embeddable-buttondown-form flex justify-center"
+        className="mt-1 embeddable-buttondown-form flex justify-center"
       >
         <input
           type="email"

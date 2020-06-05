@@ -14,13 +14,14 @@ export default class extends React.Component {
         <header
           className="bg-nord-10 grid"
           style={{
-            gridTemplateColumns: "max-content 1fr min-content",
+            gridTemplateColumns:
+              "max-content 1fr max-content max-content 1fr min-content",
           }}
         >
-          <Link to="/" className="col-start-1">
-            <img className="h-12 py-1 px-3 m-1" src={logo} alt="logo" />
+          <Link to="/" className="col-start-3 sm:col-start-1">
+            <img className="h-12 sm:h-16 py-1 px-3 m-1" src={logo} alt="logo" />
           </Link>
-          <nav className="flex col-start-3">
+          <nav className="col-start-4 flex sm:col-start-7">
             <HeaderLink
               className=""
               text="Ensayos"

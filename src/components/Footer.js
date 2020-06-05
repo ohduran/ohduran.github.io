@@ -15,16 +15,16 @@ export default class extends React.Component {
     return (
       <footer className="mt-10 p-1 bg-nord-10">
         <div className="p-10 flex justify-around">
-          <section className="w-7/12 mx-auto">
-            <p className="text-lg">
+          <section className="w-7/12 mx-auto text-lg sm:text-xl">
+            <p>
               La <span className="text-nord-13">digitalización</span>
               <br />
               de tu empresa, <span className="text-nord-0">ahora</span>
             </p>
-            <NewsLetterForm className="w-11/12 mx-auto mt-2" />
+            <NewsLetterForm className="text-center mt-2" />
           </section>
           <section>
-            <img className="h-32" src={innovationBulb} />
+            <img className="h-32 sm:h-40" src={innovationBulb} />
           </section>
         </div>
         <div
