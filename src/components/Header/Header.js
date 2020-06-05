@@ -19,7 +19,11 @@ export default class extends React.Component {
           }}
         >
           <Link to="/" className="col-start-3 sm:col-start-1">
-            <img className="h-12 sm:h-16 py-1 px-3 m-1" src={logo} alt="logo" />
+            <img
+              className="h-12 sm:h-16 lg:h-20 py-1 px-3 m-1"
+              src={logo}
+              alt="logo"
+            />
           </Link>
           <nav className="col-start-4 flex sm:col-start-7">
             <HeaderLink

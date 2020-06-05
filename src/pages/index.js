@@ -20,37 +20,37 @@ export default class extends React.Component {
   render() {
     return (
       <DefaultLayout>
-        <section className="mt-5 sm:mt-7 text-center">
-          <h2 className="text-lg sm:text-xl md:text-2xl font-family-clearface-bold">
+        <section className="mt-5 sm:mt-7 md:mt-10 lg:mt-16 text-center">
+          <h2 className="text-lg sm:text-xl md:text-3xl lg:text-5xl font-family-clearface-bold">
             ¿Te sientes así?
           </h2>
-          <div className="text-xs sm:text-sm w-11/12 mx-auto">
-            <p className="mt-3">
+          <div className="text-xs sm:text-sm md:text-base lg:text-lg w-11/12 mx-auto">
+            <p className="mt-3 lg:mt-5">
               “Monté una tienda e-commerce con un proveedor
               <br className="hidden sm:block" />
               <span className="sm:hidden"> </span>y me dejo un 10% de mi
               facturación en las comisiones."
             </p>
-            <p className="mt-3">
+            <p className="mt-3 lg:mt-5">
               "Todos me dicen que mis precios son muy altos,
               <br className="hidden sm:block" />
               <span className="sm:hidden"> </span>y creo que es porque mi web no
               parece profesional."
             </p>
-            <p className="mt-3">
+            <p className="mt-3 lg:mt-5">
               "No quiero acabar vendiendo mis productos en Amazon,
               <br className="hidden sm:block" />
               <span className="sm:hidden"> </span>pero es donde está todo el
               mundo."
             </p>
-            <p className="mt-3">
+            <p className="mt-3 lg:mt-5">
               “Hay mucha gente que entra en mi tienda online y no compra,
               <br className="hidden sm:block" />
               <span className="sm:hidden"> </span>y no sé cómo solucionarlo."
             </p>
           </div>
-          <div className="mt-5 sm:mt-7 w-11/12 mx-auto">
-            <h2 className="text-sm sm:text-base">
+          <div className="mt-5 sm:mt-7 md:mt-10 lg:mt-12 w-11/12 mx-auto">
+            <h2 className="text-sm sm:text-base md:text-xl lg:text-2xl">
               Los negocios tradicionales necesitan una estrategia para salir
               adelante.
               <br />
@@ -60,28 +60,33 @@ export default class extends React.Component {
             </h2>
           </div>
         </section>
-        <section className="mt-16 sm:mt-24">
-          <figure className="w-11/12 sm:w-1/2 mx-auto">
+        <section className="mt-16 sm:mt-24 lg:mt-32">
+          <figure className="w-11/12 sm:w-7/12 lg:w-5/12 mx-auto">
             <img
-              className="h-32 sm:h-40 float-left"
+              className="h-32 sm:h-40 md:h-48 lg:h-64 float-left"
               src={profilePic}
               style={{
                 shapeOutside: "circle()",
               }}
             />
             <figcaption>
-              <h1 className="text-sm sm:text-base">
-                Me llamo Álvaro Durán, y soy
-                <br className="hidden sm:block" />
-                <span className="sm:hidden"> </span>el consultor estratégico de
-                las e-commerce.
-              </h1>
-              <h2 className="mt-3 text-xs sm:text-sm">
-                Me he especializado en entender
+              <h1 className="text-sm sm:text-base md:text-lg lg:text-xl">
+                Me llamo{" "}
+                <span className="font-family-clearface-bold">Álvaro Durán</span>
+                , y soy
                 <br className="hidden sm:block" />
                 <span className="sm:hidden"> </span>
-                <span className="text-nord-9">
-                  por qué las decisiones acertadas,
+                <span className="text-nord-13">
+                  el consultor estratégico de las e-commerce
+                </span>
+                .
+              </h1>
+              <h2 className="mt-3 lg:mt-8 text-xs sm:text-sm md:text-base lg:text-xl">
+                Me centro en entender por qué
+                <br className="hidden sm:block" />
+                <span className="sm:hidden"> </span>
+                <span className="">
+                  las decisiones acertadas,
                   <br className="hidden sm:block" />
                   <span className="sm:hidden"> </span>en la Web, son
                   contraintuitivas
@@ -91,7 +96,7 @@ export default class extends React.Component {
             </figcaption>
           </figure>
         </section>
-        <section className="w-11/12 text-xs sm:text-sm mx-auto mt-16 sm:mt-24 text-center">
+        <section className="w-11/12 text-xs sm:text-sm md:text-base lg:text-lg mx-auto mt-16 sm:mt-24 lg:mt-32 text-center">
           {/* Regalar el complemento */}
           <p className="mt-3">
             <Link
@@ -115,29 +120,32 @@ export default class extends React.Component {
             ¿De dónde saca Uber el dinero para pagar los miles de millones en
             pérdidas que tiene cada mes?
           </p>
-          <div className="mt-5 sm:mt-16 w-11/12 mx-auto flex">
-            <h3 className="my-auto text-base sm:text-lg text-left">
+          <div className="mt-5 sm:mt-16 md:mt-20 w-11/12 md:w-9/12 mx-auto flex">
+            <h3 className="my-auto text-base sm:text-lg md:text-xl lg:text-2xl text-left">
               Saber cómo responder a estas preguntas es esencial para sobrevivir
-              en Internet. Aunque se inventó en 1991, aún es territorio
-              desconocido para muchos.
-              <br className="sm:hidden" />
-              <span className="text-nord-13">
+              en Internet. Aunque se inventó en los 90, todavía es territorio
+              por explorar.
+              <br />
+              <span className="md:mt-1 text-nord-13">
                 {" "}
                 Es mejor tener un plan, y saber cómo ejecutarlo.
               </span>
             </h3>
-            <img className="h-48 float-right" src={openMap} />
+            <img
+              className="my-auto h-32 md:h-48 lg:h-64 float-right"
+              src={openMap}
+            />
           </div>
-          <NewsLetterForm className="mt-5 sm:mt-7 w-11/12 mx-auto ">
+          <NewsLetterForm className="mt-5 sm:mt-7 md:mt-10 lg:mt-16">
             Subscríbete a la newsletter para saber más
           </NewsLetterForm>
         </section>
-        <section className="mt-10 sm:mt-16 w-11/12 mx-auto">
-          <h2 className="text-lg sm:text-xl text-center font-family-clearface-bold">
+        <section className="mt-10 sm:mt-16 md:mt-20 w-11/12 mx-auto">
+          <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-center font-family-clearface-bold">
             Empresas con las que he colaborado
           </h2>
           <div
-            className="grid grid-cols-2 grid-rows-3 sm:grid-cols-3 sm:grid-rows-2 sm:w-11/12 sm:mx-auto"
+            className="lg:mt-3 grid grid-cols-2 grid-rows-3 sm:grid-cols-3 sm:grid-rows-2 sm:w-11/12 md:w-9/12 sm:mx-auto"
             style={{
               alignItems: "center",
             }}
@@ -150,8 +158,8 @@ export default class extends React.Component {
             <img className="h-24" src={bradesco} />
           </div>
         </section>
-        <section className="mt-10 sm:mt-16">
-          <div className="grid gap-3 sm:gap-6 grid-cols-1 grid-rows-3">
+        <section className="mt-10 sm:mt-16 md:mt-20">
+          <div className="grid gap-3 sm:gap-6 grid-cols-1 grid-rows-3 md:grid-cols-3 md:grid-rows-1 md:gap-1 lg:w-11/12 lg:mx-auto">
             <Testimonial author="Jaime Álvarez, Finance Consultant">
               Álvaro es una persona dinámica, muy responsable con su propio
               trabajo y de trato amable y cercano.
@@ -168,17 +176,16 @@ Head of Multinational Clients APAC at ING"
             </Testimonial>
           </div>
         </section>
-        <section className="mt-10 sm:mt-16">
-          <h2 className="text-lg sm:text-xl text-center font-family-clearface-bold">
+        <section className="mt-10 sm:mt-16 md:mt-20">
+          <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-center font-family-clearface-bold">
             ¿Te interesa?
           </h2>
-          <h3 className="mt-5 sm:mt-7 text-center">
-            Envíame{" "}
+          <h3 className="mt-5 sm:mt-7 md:text-lg lg:text-xl text-center">
             <a
               href="mailto:alvaro.duranb@gmail.com"
               className="no-underline text-nord-13 hover:underline hover:text-nord-9 cursor-pointer"
             >
-              un email
+              Envíame un email
             </a>{" "}
             para ver disponibilidad.
           </h3>
