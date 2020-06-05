@@ -12,6 +12,7 @@ const Essays = () => {
             frontmatter {
               description
               title
+              heroImage
             }
             fields {
               slug
@@ -26,22 +27,40 @@ const Essays = () => {
       <PageTitle title="Ensayos" />
       <ul className="mt-2 w-11/12 mx-auto">
         {data.allMarkdownRemark.edges.map((edge) => {
-          const { title, description } = edge.node.frontmatter
+          const { title, description, heroImage } = edge.node.frontmatter
           const { slug } = edge.node.fields
           return (
-            <li>
-              <Link
-                className="no-underline hover:underline"
-                to={`/essays/${slug}`}
-              >
-                <h2 className="text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl">
-                  {title}
-                </h2>
-              </Link>
-              <h3 className="text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl text-nord-3">
-                {description}
-              </h3>
-            </li>
+            <>
+              <li className="mt-5 xs:mt-8 sm:mt-12 md:mt-16 lg:mt-20">
+                <Link className="no-underline" to={`/essays/${slug}`}>
+                  <div className="bg-nord-1 w-11/12 xs:w-10/12 sm:w-9/12 md:w-8/12 lg:w-7/12 mx-auto antialiased shadow-xl rounded-lg overflow-hidden">
+                    <img
+                      className="h-32 xs:h-40 sm:h-48 md:h-56 lg:h-64 w-full object-cover"
+                      src={heroImage}
+                      alt="Hero"
+                    />
+                    <div className="p-6">
+                      {/* 
+                      <div className="flex items-baseline">
+                        <span className="bg-teal-200 text-teal-700 text-xs uppercase font-semibold tracking-wide px-2 rounded-full inline-block">
+                          New
+                        </span>
+                        <div className="ml-2 text-gray-600 text-xs uppercase font-semibold tracking-wide">
+                          Venice · Italy
+                        </div>
+                      </div>
+                      */}
+                      <h2 className="text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl hover:text-nord-13">
+                        {title}
+                      </h2>
+                      <h3 className="text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl text-nord-9">
+                        {description}
+                      </h3>
+                    </div>
+                  </div>
+                </Link>
+              </li>
+            </>
           )
         })}
       </ul>

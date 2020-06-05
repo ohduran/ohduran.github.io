@@ -10,7 +10,7 @@ export default class extends React.Component {
       <>
         <SEO />
         <Header />
-        <main>{this.props.children}</main>
+        <main className="min-h-screen">{this.props.children}</main>
 
         <Footer />
       </>
