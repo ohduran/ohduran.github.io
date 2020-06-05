@@ -2,7 +2,10 @@ import React from "react"
 import { graphql } from "gatsby"
 
 import DefaultLayout from "../layouts/Default"
+import PageTitle from "../components/PageTitle"
 import PageSubTitle from "../components/PageSubTitle"
+
+import "./essay.css"
 
 export const query = graphql`
   query($slug: String!) {
@@ -20,9 +23,7 @@ const EssayTemplatePage = ({ data }) => {
   const { frontmatter, html } = data.markdownRemark
   return (
     <DefaultLayout className="bg-nord-6">
-      <h1 className="mt-1 md:mt-3 mb-1 text-xl xs:text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-center font-family-baloo">
-        {frontmatter.title}
-      </h1>
+      <PageTitle title={frontmatter.title} />
       <PageSubTitle
         subtitle={frontmatter.description}
         className="text-center"

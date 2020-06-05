@@ -1,16 +1,12 @@
 import React from "react"
+import { Link } from "gatsby"
 import "../global.css"
-import { graphql } from "gatsby"
-import Img from "gatsby-image"
 
 import DefaultLayout from "../layouts/Default"
 import Testimonial from "../components/Testimonial"
+import NewsLetterForm from "../components/NewsletterForm"
 
-import teamMeeting from "../static/manypixels/teamMeeting.svg"
-import scientist from "../static/manypixels/scientist.svg"
-import designer from "../static/manypixels/designer.svg"
-import rocketLaunch from "../static/manypixels/rocketLaunch.svg"
-
+import profilePic from "../static/images/profile-pic.jpg"
 import capco from "../static/logos/capco.svg"
 import everis from "../static/logos/everis.png"
 import hsbc from "../static/logos/hsbc.svg"
@@ -18,253 +14,183 @@ import renta4 from "../static/logos/renta4.svg"
 import octopusLabs from "../static/logos/octopusLabs.svg"
 import bradesco from "../static/logos/bradesco.svg"
 
+import openMap from "../static/manypixels/openMap.svg"
+
 export default class extends React.Component {
   render() {
     return (
       <DefaultLayout>
-        {/* Planteamiento del Problema */}
-        <section className="w-11/12 mx-auto">
-          <h2 className="mb-1 md:mt-10 text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-family-baloo">
+        <section className="mt-5 sm:mt-7 md:mt-10 lg:mt-16 text-center">
+          <h2 className="text-lg sm:text-xl md:text-3xl lg:text-5xl font-family-clearface-bold">
             ¿Te sientes así?
           </h2>
-
-          <div className="text-xs xs:text-sm lg:text-base italic grid grid-cols-2 grid-rows-2 md:grid-rows-1 align-items-end md:w-10/12 md:mx-auto gap-2">
-            <h3 className="col-start-1 row-span-2 md:row-span-1">
-              "En mi empresa se podrían automatizar muchas tareas, pero no sé
-              cómo hacerlo ni por dónde empezar."
-            </h3>
-            <h3 className="mt-3 col-start-2 row-span-2 md:row-span-1 text-right">
-              "No tenemos mentalidad digital; nos salva que nuestros
-              competidores tampoco, de momento."
-            </h3>
-          </div>
-        </section>
-
-        <section className="mt-5 w-11/12 mx-auto text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl leading-relaxed grid grid-cols-2 grid-rows-3 gap-4 align-items-center">
-          <h2 className="row-start-1 col-span-2">
-            Da igual lo que digan:
-            <br />
-            <span className="bg-nord-12 font-semibold text-white p-1 rounded-lg">
-              La gente realmente no quiere cambiar
-            </span>
-          </h2>
-          <h2 className="row-start-2 col-span-2 text-right">
-            Pensar que
-            <br />
-            se ha hecho siempre así
-            <br />
-            <span className="bg-nord-13 font-semibold text-white p-1 rounded-lg">
-              se interpone en su camino
-            </span>
-          </h2>
-          <h2 className="row-start-3 col-span-2">
-            Trabajar más horas no es suficiente;
-            <br />
-            ahora hay que{" "}
-            <span className="bg-nord-14 font-semibold text-white p-1 rounded-lg">
-              trabajar mejor
-            </span>
-          </h2>
-        </section>
-
-        <section className="w-7/12 mx-auto mt-5 md:mt-10 text-center text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl leading-relaxed">
-          <h2 className="">
-            La revolución digital está haciendo que los negocios que no se
-            adapten
-            <br />
-            mueran lentamente.
-          </h2>
-          <h2 className="mt-2">
-            Digitalizarse no es una moda, sino la única manera de mantenerse a
-            flote.
-          </h2>
-        </section>
-
-        <div id="fondo-playa" className="mt-5 bg-nord-7">
-          <svg
-            className={`fill-current text-nord-6`}
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 1440 320"
-          >
-            <path d="M0,288L48,293.3C96,299,192,309,288,309.3C384,309,480,299,576,256C672,213,768,139,864,90.7C960,43,1056,21,1152,58.7C1248,96,1344,192,1392,240L1440,288L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
-          </svg>
-
-          {/* Quien soy */}
-          <section className="mt-5 w-11/12 object-cover mx-auto grid grid-cols-2 grid-rows-2 gap-6 align-items-center rounded-lg text-nord-6 text-center font-family-baloo">
-            <Img
-              className="row-span-2 h-full object-cover rounded-lg shadow-xl"
-              sizes={this.props.data.allImageSharp.edges[0].node.sizes}
-              alt="profile"
-            />
-            <h2 className="m-2 col-start-2 xs:text-lg sm:text-xl md:text-2xl lg:text-3xl">
-              Soy Álvaro Durán,
-              <br />y ayudo a las pymes a{" "}
-              <span className="text-nord-1">digitalizarse</span>
-            </h2>
-            <h3 className="col-start-2 row-start-2 text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl ">
-              Todo empieza con una pregunta:
-              <br />
-              si pudiéses quitarte de encima una tarea,
-              <br />
-              ¿cuál sería?
-            </h3>
-          </section>
-        </div>
-        <svg
-          className={`fill-current text-nord-7`}
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 1440 320"
-        >
-          <path d="M0,256L48,224C96,192,192,128,288,96C384,64,480,64,576,106.7C672,149,768,235,864,250.7C960,267,1056,213,1152,192C1248,171,1344,181,1392,186.7L1440,192L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
-        </svg>
-
-        <section className="mt-5">
-          <h2 className="mb-1 text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-family-baloo">
-            Las 4 Reglas de la Digitalización
-          </h2>
-          <div className="my-5 w-10/12 mx-auto grid grid-rows-4 sm:grid-rows-2 grid-cols-4 gap-4 align-items-center justify-items-center">
-            <div className="col-start-1 row-start-1 col-span-4 sm:col-span-2 flex align-center">
-              <img
-                src={teamMeeting}
-                className="h-16 sm:h-24 md:h-32 lg:h-48"
-                alt="Reglas de Digitalizacion - social"
-              />
-              <h3 className="ml-2 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center my-auto">
-                Toda digitalización es un proceso{" "}
-                <span className="font-family-baloo">social</span>
-              </h3>
-            </div>
-            <div className="col-start-1 row-start-2 col-span-4 sm:col-start-3 sm:row-start-1 sm:col-span-2 flex align-center">
-              <h3 className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center my-auto">
-                La clave es{" "}
-                <span className="font-family-baloo">experimentar</span> y
-                explorar los límites
-              </h3>
-              <img
-                src={scientist}
-                className="ml-2 h-16 sm:h-24 md:h-32 lg:h-48"
-                alt="Reglas de Digitalizacion - experimentar"
-              />
-            </div>
-            <div className="col-start-1 row-start-3 col-span-4 sm:col-start-1 sm:row-start-2 sm:col-span-2 flex align-center">
-              <img
-                src={designer}
-                className="h-16 sm:h-24 md:h-32 lg:h-48"
-                alt="Reglas de Digitalizacion - concretar"
-              />
-              <h3 className="ml-2 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center my-auto">
-                Hablar de ideas{" "}
-                <span className="font-family-baloo">concretas</span> facilita la
-                comunicación
-              </h3>
-            </div>
-            <div className="col-start-1 row-start-4 col-span-4 sm:col-start-3 sm:row-start-2 sm:col-span-2 flex align-center">
-              <h3 className="text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl text-center my-auto">
-                Mejor decir{" "}
-                <span className="font-family-baloo">'está terminado'</span> que
-                'está perfecto'
-              </h3>
-              <img
-                src={rocketLaunch}
-                className="ml-2 h-16 sm:h-24 md:h-32 lg:h-48"
-                alt="Reglas de Digitalizacion - velocidad"
-              />
-            </div>
-          </div>
-        </section>
-
-        {/* Compañías con las que he colaborado */}
-        <svg
-          className={`mt-5 fill-current text-nord-10`}
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 1440 320"
-        >
-          <path d="M0,224L48,213.3C96,203,192,181,288,144C384,107,480,53,576,58.7C672,64,768,128,864,160C960,192,1056,192,1152,170.7C1248,149,1344,107,1392,85.3L1440,64L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path>
-        </svg>
-        <section className="bg-nord-10 -mt-1 pt-3">
-          <h2 className="mb-1 text-nord-6 text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-family-baloo">
-            Compañías con las que he colaborado
-          </h2>
-          <div className="w-11/12 md:w-9/12 lg:w-7/12 mx-auto mt-2 grid grid-cols-2 md:grid-cols-3 grid-rows-3 md:grid-rows-2 md:gap-3 align-items-center justify-items-center">
-            <img src={capco} alt="Capco" />
-            <img className="h-16" src={everis} alt="Capco" />
-            <img className="h-10" src={hsbc} alt="Capco" />
-            <img className="h-6" src={renta4} alt="Capco" />
-            <img className="h-10" src={octopusLabs} alt="Capco" />
-            <img className="h-24" src={bradesco} alt="Capco" />
-          </div>
-        </section>
-        <svg
-          className={`fill-current text-nord-10`}
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 1440 320"
-        >
-          <path d="M0,160L48,181.3C96,203,192,245,288,245.3C384,245,480,203,576,181.3C672,160,768,160,864,181.3C960,203,1056,245,1152,256C1248,267,1344,245,1392,234.7L1440,224L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
-        </svg>
-
-        {/* Testimonials */}
-        <section
-          className="mt-5 w-11/12 sm:w-9/12 md:w-7/12 lg:w-11/12 mx-auto grid grid-cols-3 gap-8 align-items-center"
-          style={{
-            gridTemplateRows: "min-content min-content min-content",
-          }}
-        >
-          <Testimonial
-            className="row-start-1 col-span-3 xl:col-span-1"
-            value="Álvaro es una persona dinámica, muy responsable con su propio trabajo y de trato amable y cercano."
-            author="Jaime Álvarez, Finance Consultant"
-          />
-
-          <Testimonial
-            className="row-start-2 xl:row-start-1 xl:col-start-2 col-span-3 xl:col-span-1"
-            value="Álvaro ha sido muy entusiasta con su trabajo. Su estilo de presentación es llamativo, riguroso y muy claro."
-            author="Víctor Abad Fau de Casa Juana, Head of Multinational Clients APAC at ING"
-          />
-
-          <Testimonial
-            className="row-start-3 xl:row-start-1 xl:col-start-3 col-span-3 xl:col-span-1"
-            value="Álvaro destaca por su tremendo entusiasmo, sus ganas de aprender y su excelente capacidad de comunicación. Sin duda será un factor positivo en cualquier equipo."
-            author="Miguel Ángel Iglesias, Non-Executive Director at CACF-Bankia, Senior Advisor at IFAD"
-          />
-        </section>
-
-        {/* Trabajemos juntos */}
-        <section className="mt-10">
-          <h2 className="mb-1 sm:mb-2 text-lg xs:text-xl sm:text-2xl md:text-3xl lg:text-4xl text-center font-family-baloo">
-            Trabajemos juntos
-          </h2>
-          <div className="w-11/12 sm:w-9/12 md:w-7/12 lg:w-5/12 mx-auto">
-            <p className="mt-3 text-xs sm:text-sm md:text-base text-center">
-              ¿Te ha picado la curiosidad?{" "}
-              <a
-                className="font-family-baloo p-1 no-underline hover:text-nord-7"
-                href="mailto:alvaro.duranb@gmail.com"
-                itemprop="email"
-              >
-                Envíame un email
-              </a>{" "}
-              para ver disponibilidad.
+          <div className="text-xs sm:text-sm md:text-base lg:text-lg w-11/12 mx-auto">
+            <p className="mt-3 lg:mt-5">
+              “Monté una tienda e-commerce con un proveedor
+              <br className="hidden sm:block" />
+              <span className="sm:hidden"> </span>y me dejo un 10% de mi
+              facturación en las comisiones."
+            </p>
+            <p className="mt-3 lg:mt-5">
+              "Todos me dicen que mis precios son muy altos,
+              <br className="hidden sm:block" />
+              <span className="sm:hidden"> </span>y creo que es porque mi web no
+              parece profesional."
+            </p>
+            <p className="mt-3 lg:mt-5">
+              "No quiero acabar vendiendo mis productos en Amazon,
+              <br className="hidden sm:block" />
+              <span className="sm:hidden"> </span>pero es donde está todo el
+              mundo."
+            </p>
+            <p className="mt-3 lg:mt-5">
+              “Hay mucha gente que entra en mi tienda online y no compra,
+              <br className="hidden sm:block" />
+              <span className="sm:hidden"> </span>y no sé cómo solucionarlo."
             </p>
           </div>
+          <div className="mt-5 sm:mt-7 md:mt-10 lg:mt-12 w-11/12 mx-auto">
+            <h2 className="text-sm sm:text-base md:text-xl lg:text-2xl">
+              Los negocios tradicionales necesitan una estrategia para salir
+              adelante.
+              <br />
+              <span className="text-nord-13">
+                Los negocios digitales, también.
+              </span>
+            </h2>
+          </div>
+        </section>
+        <section className="mt-16 sm:mt-24 lg:mt-32">
+          <figure className="w-11/12 xs:w-9/12 sm:w-7/12 lg:w-6/12 mx-auto">
+            <img
+              className="h-32 sm:h-40 md:h-48 lg:h-64 float-left"
+              src={profilePic}
+              style={{
+                shapeOutside: "circle()",
+              }}
+            />
+            <figcaption>
+              <h1 className="text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl">
+                Me llamo{" "}
+                <span className="font-family-clearface-bold">Álvaro Durán</span>
+                , y soy
+                <br className="hidden sm:block" />
+                <span className="sm:hidden"> </span>
+                <span className="text-nord-13">
+                  el consultor estratégico de las e-commerce
+                </span>
+                .
+              </h1>
+              <h2 className="mt-3 lg:mt-8 text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl">
+                Me centro en entender por qué
+                <br className="hidden sm:block" />
+                <span className="sm:hidden"> </span>
+                <span className="">
+                  las decisiones acertadas,
+                  <br className="hidden sm:block" />
+                  <span className="sm:hidden"> </span>en la Web, son
+                  contraintuitivas
+                </span>
+                .
+              </h2>
+            </figcaption>
+          </figure>
+        </section>
+        <section className="w-11/12 text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl mx-auto mt-16 sm:mt-24 lg:mt-32 text-center">
+          {/* Regalar el complemento */}
+          <p className="mt-3">
+            <Link
+              className="hover:text-nord-13"
+              to="/essays/regalar-el-complemento"
+            >
+              ¿Por qué Google distribuye Android gratis? ¿Es por sus datos?
+            </Link>
+          </p>
+          {/* Una empresa en Internet o pretende conquistar el mundo o acabará devorada */}
+          <p className="mt-3">
+            ¿Por qué Tuenti nunca consiguió despegar del todo, y Facebook sí?
+          </p>
+          {/* Hay dos tipos de empresa: Amazon y Ben & Jerry's */}
+          <p className="mt-3">
+            ¿Por qué Amazon se hizo la e-commerce más grande, si sólo era una
+            tienda de libros?
+          </p>
+          {/* Los fondos de capital riesgo. */}
+          <p className="mt-3">
+            ¿De dónde saca Uber el dinero para pagar los miles de millones en
+            pérdidas que tiene cada mes?
+          </p>
+          <div className="mt-10 sm:mt-16 md:mt-20 w-11/12 md:w-9/12 mx-auto flex">
+            <h3 className="my-auto text-base sm:text-lg md:text-xl lg:text-2xl text-left">
+              Saber cómo responder a estas preguntas es esencial para sobrevivir
+              en Internet. Aunque se inventó en los 90, todavía es territorio
+              por explorar.
+              <br />
+              <span className="md:mt-1 text-nord-13">
+                {" "}
+                Es mejor tener un plan, y saber cómo ejecutarlo.
+              </span>
+            </h3>
+            <img
+              className="my-auto h-32 md:h-48 lg:h-64 float-right"
+              src={openMap}
+            />
+          </div>
+          <NewsLetterForm className="mt-5 sm:mt-7 md:mt-10 lg:mt-16">
+            Subscríbete a la newsletter para saber más
+          </NewsLetterForm>
+        </section>
+        <section className="mt-10 sm:mt-16 md:mt-20 w-11/12 mx-auto">
+          <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-center font-family-clearface-bold">
+            Empresas con las que he colaborado
+          </h2>
+          <div
+            className="lg:mt-3 grid grid-cols-2 grid-rows-3 sm:grid-cols-3 sm:grid-rows-2 sm:w-11/12 md:w-9/12 sm:mx-auto"
+            style={{
+              alignItems: "center",
+            }}
+          >
+            <img className="h-8" src={capco} />
+            <img className="h-10" src={everis} />
+            <img className="h-8" src={hsbc} />
+            <img className="h-6" src={renta4} />
+            <img className="h-8" src={octopusLabs} />
+            <img className="h-24" src={bradesco} />
+          </div>
+        </section>
+        <section className="mt-10 sm:mt-16 md:mt-20">
+          <div className="grid gap-3 sm:gap-6 grid-cols-1 grid-rows-3 md:grid-cols-3 md:grid-rows-1 md:gap-1 lg:w-11/12 lg:mx-auto">
+            <Testimonial author="Jaime Álvarez, Finance Consultant">
+              Álvaro es una persona dinámica, muy responsable con su propio
+              trabajo y de trato amable y cercano.
+            </Testimonial>
+            <Testimonial
+              author="Victor Abad Fau de Casa Juana,
+Head of Multinational Clients APAC at ING"
+            >
+              Álvaro ha sido muy entusiasta con su trabajo. Su estilo de
+              presentación es llamativo, riguroso y claro.
+            </Testimonial>
+            <Testimonial author="Miguel Ángel Iglesias, Non-Executive Director at CACF-Bankia, Senior Advisor at IFAD">
+              Sin duda Álvaro será un factor positivo en cualquier equipo.
+            </Testimonial>
+          </div>
+        </section>
+        <section className="mt-10 sm:mt-16 md:mt-20">
+          <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-center font-family-clearface-bold">
+            ¿Te interesa?
+          </h2>
+          <h3 className="mt-5 sm:mt-7 md:text-lg lg:text-xl text-center">
+            <a
+              href="mailto:alvaro.duranb@gmail.com"
+              className="no-underline text-nord-13 hover:underline hover:text-nord-9 cursor-pointer"
+            >
+              Envíame un email
+            </a>{" "}
+            para ver disponibilidad.
+          </h3>
         </section>
       </DefaultLayout>
     )
   }
 }
-
-export const pageQuery = graphql`
-  query profileImageQuery {
-    allImageSharp(
-      filter: { sizes: { originalName: { eq: "profile-pic.jpg" } } }
-    ) {
-      edges {
-        node {
-          id
-          sizes(maxWidth: 1240) {
-            ...GatsbyImageSharpSizes
-          }
-        }
-      }
-    }
-  }
-`

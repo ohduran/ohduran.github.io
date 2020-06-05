@@ -2,6 +2,7 @@
 title: Regalar el Complemento
 description: La razón por la que Google te deja usar Android y Chrome gratis
 tags: [Microsoft, IBM, Yahoo, Google, Marc Andreseen, Netscape, Bill Gates]
+heroImage: https://searchengineland.com/figz/wp-content/seloads/2018/07/google-building-logo-shutterstock_559400386.jpg
 ---
 
 En un mundo sin Internet, **el problema más difícil para un negocio es la distribución**. Para comprar algo, tenías que ir a la tienda a comprarlo. Es un mundo donde el problema más difícil es la distribución, y donde los intermediarios son el elemento esencial de la cadena.
