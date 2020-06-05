@@ -11,7 +11,7 @@ const IconGitHub = ({ className }) => {
       x="0px"
       y="0px"
       viewBox="0 0 20 20"
-      enable-background="new 0 0 20 20"
+      enableBackground="new 0 0 20 20"
     >
       <path
         d="M10.015,9.949c0,0-0.01,0-0.015,0H9.985c-1.191,0-2.24-0.303-2.861,0.268c-0.371,0.342-0.527,0.754-0.527,1.197

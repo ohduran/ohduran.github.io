@@ -11,7 +11,7 @@ const IconLinkedIn = ({ className }) => {
       x="0px"
       y="0px"
       viewBox="0 0 20 20"
-      enable-background="new 0 0 20 20"
+      enableBackground="new 0 0 20 20"
     >
       <path
         d="M10,0.4c-5.302,0-9.6,4.298-9.6,9.6s4.298,9.6,9.6,9.6s9.6-4.298,9.6-9.6S15.302,0.4,10,0.4z M7.65,13.979H5.706V7.723H7.65

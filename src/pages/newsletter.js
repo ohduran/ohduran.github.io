@@ -1,4 +1,7 @@
 import React from "react"
+import Moment from "react-moment"
+import "moment/locale/es"
+
 import DefaultLayout from "../layouts/Default"
 import NewsLetterForm from "../components/NewsletterForm"
 import PageTitle from "../components/PageTitle"
@@ -25,11 +28,12 @@ class NewsLetter extends React.Component {
 
   render() {
     const { data } = this.state
+
     return (
       <DefaultLayout>
         <PageTitle title="Newsletter" />
         <NewsLetterForm />
-        <ul className="mt-10 w-11/12 md:w-5/12 mx-auto">
+        <ul className="mt-10 w-8/12 md:w-6/12 lg:w-5/12 mx-auto">
           {data.results
             ? data.results
                 // Descending order
@@ -39,17 +43,16 @@ class NewsLetter extends React.Component {
                 )
                 .map((item) => (
                   <li className="mt-2" key={item.id}>
-                    <h5
-                      className="text-gray-500 font-semibold"
-                      style={{ fontSize: "0.5rem" }}
-                    >
-                      {`${item.publish_date.split("T")[0]}`}
+                    <h5 className="text-gray-500 font-semibold text-xs md:text-sm lg:text-base">
+                      <Moment locale="es" format="dddd, D [de] MMMM [de] YYYY">
+                        {item.publish_date}
+                      </Moment>
                     </h5>
                     <a
                       className="no-underline"
                       href={`https://buttondown.email/alvaroduran/archive/${item.slug}/`}
                     >
-                      <h4 className="hover:underline text-sm md:text-base">
+                      <h4 className="hover:underline text-base md:text-lg lg:text-xl">
                         {item.secondary_id}. {item.subject}
                       </h4>
                     </a>

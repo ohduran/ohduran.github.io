@@ -11,7 +11,7 @@ const IconMail = ({ className }) => {
       x="0px"
       y="0px"
       viewBox="0 0 20 20"
-      enable-background="new 0 0 20 20"
+      enableBackground="new 0 0 20 20"
     >
       <path
         d="M10,0.3999634c-5.3019409,0-9.5999756,4.2980957-9.5999756,9.6000366S4.6980591,19.5999756,10,19.5999756
