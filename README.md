@@ -10,9 +10,8 @@ You can visit this site on https://alvaroduran.com
 Although the design and implementation is mine, this site wouldn't have been possible without the following tools.
 
 1. [ManyPixels](https://www.manypixels.co/) provided the illustrations for free for personal and commercial projects, without the need to include attribution.
-2. [Z Creative Labs](https://www.zcreativelabs.com/) provided the characteristic waves that define the site. You can explore the tool they've built for this on [getwaves.io](https://getwaves.io)
-3. [Formspree](https://formspree.io/) provides the backend for the contact section.
-4. The Logos on the Companies I've partnered with are the property of their respective owners.
+
+The Logos on the Companies I've partnered with are the property of their respective owners.
 
 ## Copyright
 
