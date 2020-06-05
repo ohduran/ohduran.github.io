@@ -11,14 +11,14 @@ const NewsLetterForm = ({ className, children }) => {
       >
         <input
           type="email"
-          className="rounded-full shadow-lg text-xs md:text-sm lg:text-lg px-5"
+          className="rounded-full shadow-lg text-xs md:text-sm lg:text-lg px-3"
           name="email"
           id="bd-email"
           placeholder="Escribe tu email"
         />
         <input
           type="submit"
-          className="-ml-10 md:-ml-12 rounded-full shadow-lg bg-nord-13 text-nord-0 p-2 md:p-3 text-center text-xs md:text-sm lg:text-lg"
+          className="-ml-10 md:-ml-12 rounded-full shadow-lg bg-nord-13 text-nord-0 p-1 md:p-2 px-2 md:px-3 text-center text-xs md:text-sm lg:text-lg"
           value="Registrarse"
         />
         <input type="hidden" value="1" name="embed"></input>

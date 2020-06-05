@@ -61,7 +61,7 @@ export default class extends React.Component {
           </div>
         </section>
         <section className="mt-16 sm:mt-24 lg:mt-32">
-          <figure className="w-11/12 sm:w-7/12 lg:w-5/12 mx-auto">
+          <figure className="w-11/12 xs:w-9/12 sm:w-7/12 lg:w-5/12 mx-auto">
             <img
               className="h-32 sm:h-40 md:h-48 lg:h-64 float-left"
               src={profilePic}
@@ -70,7 +70,7 @@ export default class extends React.Component {
               }}
             />
             <figcaption>
-              <h1 className="text-sm sm:text-base md:text-lg lg:text-xl">
+              <h1 className="text-sm xs:text-base sm:text-lg md:text-xl lg:text-2xl">
                 Me llamo{" "}
                 <span className="font-family-clearface-bold">Álvaro Durán</span>
                 , y soy
@@ -81,7 +81,7 @@ export default class extends React.Component {
                 </span>
                 .
               </h1>
-              <h2 className="mt-3 lg:mt-8 text-xs sm:text-sm md:text-base lg:text-xl">
+              <h2 className="mt-3 lg:mt-8 text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl">
                 Me centro en entender por qué
                 <br className="hidden sm:block" />
                 <span className="sm:hidden"> </span>
@@ -96,7 +96,7 @@ export default class extends React.Component {
             </figcaption>
           </figure>
         </section>
-        <section className="w-11/12 text-xs sm:text-sm md:text-base lg:text-lg mx-auto mt-16 sm:mt-24 lg:mt-32 text-center">
+        <section className="w-11/12 text-xs xs:text-sm sm:text-base md:text-lg lg:text-xl mx-auto mt-16 sm:mt-24 lg:mt-32 text-center">
           {/* Regalar el complemento */}
           <p className="mt-3">
             <Link
@@ -120,7 +120,7 @@ export default class extends React.Component {
             ¿De dónde saca Uber el dinero para pagar los miles de millones en
             pérdidas que tiene cada mes?
           </p>
-          <div className="mt-5 sm:mt-16 md:mt-20 w-11/12 md:w-9/12 mx-auto flex">
+          <div className="mt-10 sm:mt-16 md:mt-20 w-11/12 md:w-9/12 mx-auto flex">
             <h3 className="my-auto text-base sm:text-lg md:text-xl lg:text-2xl text-left">
               Saber cómo responder a estas preguntas es esencial para sobrevivir
               en Internet. Aunque se inventó en los 90, todavía es territorio
