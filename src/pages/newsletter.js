@@ -49,10 +49,10 @@ class NewsLetter extends React.Component {
                       </Moment>
                     </h5>
                     <a
-                      className="no-underline"
+                      className="no-underline hover:text-nord-13"
                       href={`https://buttondown.email/alvaroduran/archive/${item.slug}/`}
                     >
-                      <h4 className="hover:underline text-base md:text-lg lg:text-xl">
+                      <h4 className="text-base md:text-lg lg:text-xl">
                         {item.secondary_id}. {item.subject}
                       </h4>
                     </a>

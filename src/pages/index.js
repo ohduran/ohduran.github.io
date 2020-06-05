@@ -183,7 +183,7 @@ Head of Multinational Clients APAC at ING"
           <h3 className="mt-5 sm:mt-7 md:text-lg lg:text-xl text-center">
             <a
               href="mailto:alvaro.duranb@gmail.com"
-              className="no-underline text-nord-13 hover:underline hover:text-nord-9 cursor-pointer"
+              className="no-underline text-nord-13 cursor-pointer hover:text-nord-9"
             >
               Envíame un email
             </a>{" "}

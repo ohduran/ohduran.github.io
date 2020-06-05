@@ -39,21 +39,30 @@ export default class extends React.Component {
             gridTemplateRows: "min-content",
           }}
         >
-          <a className="col-start-2" href="https://github.com/ohduran">
+          <a
+            className="col-start-2 hover:scale-110"
+            href="https://github.com/ohduran"
+          >
             <IconGitHub className="h-8 shadow-lg" />
           </a>
-          <a className="col-start-3" href="https://instagram.com/digitalvaro">
+          <a
+            className="col-start-3 hover:scale-110"
+            href="https://instagram.com/digitalvaro"
+          >
             <IconInstagram className="h-8 shadow-lg" />
           </a>
 
           <a
-            className="col-start-4"
+            className="col-start-4 hover:scale-110"
             href="https://linkedin.com/in/alvaroduranbarata"
           >
             <IconLinkedIn className="h-8 shadow-lg" />
           </a>
 
-          <a className="col-start-5" href="mailto:alvaro.duranb@gmail.com">
+          <a
+            className="col-start-5 hover:scale-110"
+            href="mailto:alvaro.duranb@gmail.com"
+          >
             <IconMail className="h-8 shadow-lg" />
           </a>
         </aside>

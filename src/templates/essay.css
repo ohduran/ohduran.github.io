@@ -18,3 +18,11 @@ p {
   margin-bottom: 0.5rem;
   line-height: 1.625;
 }
+
+/* Hay que mencionar primero el p donde esta incluido */
+p a {
+  color: #8fbcbb;
+}
+p a:hover {
+  color: #ebcb8b;
+}
