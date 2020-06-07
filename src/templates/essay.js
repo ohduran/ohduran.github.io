@@ -30,10 +30,11 @@ const EssayTemplatePage = ({ data }) => {
         alt={`Hero ${frontmatter.title}`}
       />
       <PageTitle title={frontmatter.title} />
-      <PageSubTitle
+      {/* <PageSubTitle
         subtitle={frontmatter.description}
         className="text-center"
-      />
+      />*/}
+
       <article
         className="leading-relaxed w-11/12 xs:w-10/12 sm:w-9/12 md:w-8/12 lg:w-6/12 sm:text-lg md:text-xl mx-auto mt-10 text-justify"
         dangerouslySetInnerHTML={{ __html: html }}
