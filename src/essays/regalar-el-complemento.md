@@ -13,7 +13,7 @@ Ahora que todos tenemos acceso a Internet, **el problema más difícil para un n
 
 ---
 
-Cuando Internet estaba en pañales, para encontrar lo que necesitabas tenías que ir a Yahoo. Si encontrar una página web en Internet es como encontrar una aguja en un pajar, entonces en 1994 el pajar cabía en la palma de tu mano. Así era Yahoo por aquel entonces:
+Cuando Internet estaba en pañales, para encontrar lo que necesitabas tenías que ir a [Yahoo](https://en.wikipedia.org/wiki/Yahoo!). Si encontrar una página web en Internet es como encontrar una aguja en un pajar, entonces en 1994 el pajar cabía en la palma de tu mano. Así era Yahoo por aquel entonces:
 
 ![Yahoo en 1994](https://www.webdesignmuseum.org/uploaded/timeline/yahoo/yahoo-1994.png "Yahoo en 1994")
 
@@ -23,13 +23,13 @@ Yahoo te indica con orgullo, abajo a la izquierda, que tiene categorizadas casi 
 
 Con tantas categorías, no hay quien se oriente: Yahoo ha dejado de ser una forma viable de buscar algo en una Web que tiene ya casi 2 millones y medio de páginas y que crece sin parar.
 
-Es en septiembre de 1998 cuando aparece Google. A diferencia del método de bibliotecario que usa Yahoo, Google está diseñado para utilizar los links que hay entre una página y otra cómo indicador de su relevancia. Es el método que usan los académicos para evaluar la importancia de sus artículos científicos: si un artículo es mencionado por muchos otros, eso es señal de que es importante.
+Es en septiembre de 1998 cuando aparece [Google](https://en.wikipedia.org/wiki/Google). A diferencia del método de bibliotecario que usa Yahoo, Google está diseñado para utilizar los links que hay entre una página y otra cómo indicador de su relevancia. Es el método que usan los académicos para evaluar la importancia de sus artículos científicos: si un artículo es mencionado por muchos otros, eso es señal de que es importante.
 
 Lo interesante del diseño de Google no es sólo que ya era mejor que el de Yahoo en 1998, sino que **conforme crecía Internet, su algoritmo era mejor y más eficaz**. Además, cuanta más gente usaba Google, más datos tenía el buscador para ajustar y mejorar su motor de búsqueda, con lo que atraía más usuarios. En poco tiempo, Google dejó atrás a Yahoo, y se convirtió en la ventana a Internet.
 
 ---
 
-Lo cierto es que Yahoo y Google, en 1998, eran pequeños peces en el mar tecnológico. El tiburón era [Microsoft](https://es.wikipedia.org/wiki/Microsoft). ¿Dónde estaba todo este tiempo? ¿Cómo es que Bill Gates no hizo nada por evitar el ascenso de Google, si en 1995 había difundido [un memorándum](https://www.wired.com/2010/05/0526bill-gates-internet-memo/) en el que daba prioridad absoluta a entender y conquistar Internet?
+Lo cierto es que Yahoo y Google, en 1998, eran pequeños peces en el mar tecnológico. El tiburón era [Microsoft](https://es.wikipedia.org/wiki/Microsoft). ¿Dónde estaba todo este tiempo? ¿Cómo es que [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) no hizo nada por evitar el ascenso de Google, si en 1995 había difundido [un memorándum](https://www.wired.com/2010/05/0526bill-gates-internet-memo/) en el que daba prioridad absoluta a entender y conquistar Internet?
 
 Microsoft, claro está, sí estaba pendiente. Sin embargo, cometió el error de creer que la innovación que suponía Internet era una continuación del mismo negocio en el que habían estado compitiendo y ganando: el de los sistemas operativos. Y para seguir ganando, utilizaron la misma estrategia que tantos resultados les había dado hasta entonces: regalar el complemento.
 
@@ -41,9 +41,9 @@ Desde entonces, Microsoft se había estado dedicando a intermediar entre los ven
 
 Internet era una continuación de todo aquello. Daba igual que el usuario comprara [IBM Web Explorer](https://en.wikipedia.org/wiki/IBM_Web_Explorer), [Navipress](https://en.wikipedia.org/wiki/Navipress) o [SlipKnot](<https://en.wikipedia.org/wiki/SlipKnot_(web_browser)>): el usuario siempre acababa escogiendo un ordenador con Windows.
 
-Es entonces cuando aparece Netscape, un explorador Web moderno y atractivo, con plan gratuito para uso personal con el que trataban de facilitar la venta de licencias para empresas. Su éxito fue absoluto: en sólo un año, habían conquistado el 80% del mercado, y habían salido a bolsa en 1995 tras reconocer beneficios. El fundador de Netscape, [Marc Andreseen](https://en.wikipedia.org/wiki/Marc_Andreessen), pronosticaba que Netscape acabaría siendo "un nuevo sistema operativo, uno que viviría en Internet".
+Es entonces cuando aparece [Netscape](https://en.wikipedia.org/wiki/Netscape), un explorador Web moderno y atractivo, con plan gratuito para uso personal con el que trataban de facilitar la venta de licencias para empresas. Su éxito fue absoluto: en sólo un año, habían conquistado el 80% del mercado, y habían salido a bolsa en 1995 tras reconocer beneficios. El fundador de Netscape, [Marc Andreseen](https://en.wikipedia.org/wiki/Marc_Andreessen), pronosticaba que Netscape acabaría siendo "un nuevo sistema operativo, uno que viviría en Internet".
 
-Esas fueron las palabras mágicas: un nuevo sistema operativo. Fue entonces cuando en Microsoft entendieron que un explorador como Netscape, con una cuota de mercado tan alta, suponía una amenaza. Nada impedía que accedieses a Internet a través de un Mac, si Netscape garantizaba que la experiencia de usuario iba a ser la misma. Las aplicaciones en Internet serían las mismas en cualquier ordenador, fuese o no Windows, con lo que su posición privilegiada estaba seriamente amenazada. Su única salida, parecía ser, era diseñar su propio explorador Web: Internet Explorer. En la última actualización de Windows, lo instalaron por defecto, y pusieron en marcha toda la maquinaria disponible para forzar a los desarrolladores Web a elegir entre Netscape y los millones de usuarios de Windows. La victoria fue absoluta.
+Esas fueron las palabras mágicas: _un nuevo sistema operativo_. Fue entonces cuando en Microsoft entendieron que un explorador como Netscape, con una cuota de mercado tan alta, suponía una amenaza. Nada impedía que accedieses a Internet a través de un Mac, si Netscape garantizaba que la experiencia de usuario iba a ser la misma. Las aplicaciones en Internet serían las mismas en cualquier ordenador, fuese o no Windows, con lo que su posición privilegiada estaba seriamente amenazada. Su única salida, parecía ser, era diseñar su propio explorador Web: Internet Explorer. En la última actualización de Windows, lo instalaron por defecto, y pusieron en marcha toda la maquinaria disponible para forzar a los desarrolladores Web a elegir entre Netscape y los millones de usuarios de Windows. La victoria fue absoluta.
 
 ---
 
