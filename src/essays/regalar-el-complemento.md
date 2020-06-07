@@ -5,11 +5,11 @@ tags: [Microsoft, IBM, Yahoo, Google, Marc Andreseen, Netscape, Bill Gates]
 heroImage: https://searchengineland.com/figz/wp-content/seloads/2018/07/google-building-logo-shutterstock_559400386.jpg
 ---
 
-Antes de la llegada de Internet a nuestras vidas, **el problema más difícil para un negocio era la distribución**. Para comprar algo, tenías que ir a la tienda a comprarlo. Los intermediarios eran el elemento esencial de la cadena.
+Antes de la llegada de Internet a nuestras vidas, **el problema más difícil para un negocio era la distribución**. Para comprar fresas, tenías que ir a la tienda a por ellas. Los intermediarios eran el elemento esencial de la cadena, porque sin ellos, el agricultor no podría vender sus fresas, y tú no podrías comprarlas.
 
-Pero ahora que [casi un 60% de la población mundial tiene acceso a Internet](https://internetworldstats.com/stats.htm), el problema de la distribución ha quedado resuelto. Cualquier vendedor puede anunciarse en Internet, vender su producto, y enviarlo al consumidor final. Es por eso que vemos cómo en casi todas las áreas, los intermediarios se han extinguido, o están camino de hacerlo.
+Pero ahora que [casi un 60%](https://internetworldstats.com/stats.htm) de la población mundial tiene acceso a Internet, el problema de la distribución ha quedado resuelto. Vas a [frutaonline.com](http://www.frutaonline.com/p/105/fresas-caja), y le compras las fresas al agricultor directamente. Es por eso que vemos cómo en casi todas las áreas, los intermediarios se han extinguido, o están camino de hacerlo.
 
-Ahora que todos tenemos acceso a Internet, **el problema más difícil para un negocio ha pasado a ser la búsqueda**. En la Web, las estanterías son infinitas: el problema para el cliente está en encontrar lo que necesita.
+Ahora que todos tenemos acceso a Internet, **el problema más difícil para un negocio ha pasado a ser la búsqueda**. No te sorprende que se puedan comprar fresas online. Lo que no sabías era dónde.
 
 ---
 
@@ -31,7 +31,7 @@ Lo interesante del diseño de Google no es sólo que ya era mejor que el de Yaho
 
 Lo cierto es que Yahoo y Google, en 1998, eran pequeños peces en el mar tecnológico. El tiburón era [Microsoft](https://es.wikipedia.org/wiki/Microsoft). ¿Dónde estaba todo este tiempo? ¿Cómo es que Bill Gates no hizo nada por evitar el ascenso de Google, si en 1995 había difundido [un memorándum](https://www.wired.com/2010/05/0526bill-gates-internet-memo/) en el que daba prioridad absoluta a entender y conquistar Internet?
 
-Lo cierto es que Microsoft sí estaba pendiente, pero cometió el error estratégico de que la innovación que suponía Internet sólo iba a acabar siendo una continuación del mismo negocio en el que habían estado compitiendo y ganando todo este tiempo: el de los sistemas operativos. Por ello, empezaron utilizando la misma estrategia que habían utilizado hasta entonces: regalar el complemento.
+Microsoft, claro está, sí estaba pendiente. Sin embargo, cometió el error de creer que la innovación que suponía Internet era una continuación del mismo negocio en el que habían estado compitiendo y ganando: el de los sistemas operativos. Y para seguir ganando, utilizaron la misma estrategia que tantos resultados les había dado hasta entonces: regalar el complemento.
 
 Cuando [IBM](https://es.wikipedia.org/wiki/IBM) diseñó la arquitectura de los primeros ordenadores personales, en vez de utilizar sus propias piezas, se basó en piezas estándar de modelos ya existentes y documentó en detalle como esas partes se conectaban entre sí en su [Manual Técnico](https://www.manualslib.com/manual/840700/Ibm-5150.html). De ese modo, era muy sencillo, como vendedor externo, montar piezas externas para el nuevo PC. Estratégicamente, IBM publicó el manual con la idea de que apareciesen centenares de vendedores de piezas para el PC. Era la primera vez que una empresa tecnológica **regalaba su complemento**: al masificar el mercado de piezas, la demanda de ordenadores personales aumentaba, de la misma manera que si bajan los precios de las habitaciones de hotel de Ibiza, la demanda de vuelos a la isla crece.
 
