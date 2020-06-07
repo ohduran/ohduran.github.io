@@ -5,11 +5,11 @@ tags: [Microsoft, IBM, Yahoo, Google, Marc Andreseen, Netscape, Bill Gates]
 heroImage: https://searchengineland.com/figz/wp-content/seloads/2018/07/google-building-logo-shutterstock_559400386.jpg
 ---
 
-En un mundo sin Internet, **el problema más difícil para un negocio es la distribución**. Para comprar algo, tenías que ir a la tienda a comprarlo. En un mundo así, los intermediarios son el elemento esencial de la cadena.
+Antes de la llegada de Internet a nuestras vidas, **el problema más difícil para un negocio era la distribución**. Para comprar algo, tenías que ir a la tienda a comprarlo. Los intermediarios eran el elemento esencial de la cadena.
 
 Pero ahora que [casi un 60% de la población mundial tiene acceso a Internet](https://internetworldstats.com/stats.htm), el problema de la distribución ha quedado resuelto. Cualquier vendedor puede anunciarse en Internet, vender su producto, y enviarlo al consumidor final. Es por eso que vemos cómo en casi todas las áreas, los intermediarios se han extinguido, o están camino de hacerlo.
 
-En un mundo con Internet, **el problema más difícil para un negocio ha pasado a ser la búsqueda**. En la Web, las estanterías son infinitas: el problema para el cliente está en encontrar lo que necesita.
+Ahora que todos tenemos acceso a Internet, **el problema más difícil para un negocio ha pasado a ser la búsqueda**. En la Web, las estanterías son infinitas: el problema para el cliente está en encontrar lo que necesita.
 
 ---
 
@@ -29,7 +29,7 @@ Lo interesante del diseño de Google no es sólo que ya era mejor que el de Yaho
 
 ---
 
-Yahoo y Google no eran ni mucho menos las empresas tecnológicas más importantes en ese momento, porque en ese momento la única empresa importante era [Microsoft](https://es.wikipedia.org/wiki/Microsoft). ¿Dónde estaba todo este tiempo? ¿Cómo es que Bill Gates no hizo nada por evitar el ascenso de Google, si en 1995 había difundido [un memorándum](https://www.wired.com/2010/05/0526bill-gates-internet-memo/) en el que daba prioridad absoluta a entender y conquistar Internet?
+Lo cierto es que Yahoo y Google, en 1998, eran pequeños peces en el mar tecnológico. El tiburón era [Microsoft](https://es.wikipedia.org/wiki/Microsoft). ¿Dónde estaba todo este tiempo? ¿Cómo es que Bill Gates no hizo nada por evitar el ascenso de Google, si en 1995 había difundido [un memorándum](https://www.wired.com/2010/05/0526bill-gates-internet-memo/) en el que daba prioridad absoluta a entender y conquistar Internet?
 
 Lo cierto es que Microsoft sí estaba pendiente, pero cometió el error estratégico de que la innovación que suponía Internet sólo iba a acabar siendo una continuación del mismo negocio en el que habían estado compitiendo y ganando todo este tiempo: el de los sistemas operativos. Por ello, empezaron utilizando la misma estrategia que habían utilizado hasta entonces: regalar el complemento.
 
@@ -41,13 +41,13 @@ Desde entonces, Microsoft se había estado dedicando a intermediar entre los ven
 
 Internet era una continuación de todo aquello. Daba igual que el usuario comprara [IBM Web Explorer](https://en.wikipedia.org/wiki/IBM_Web_Explorer), [Navipress](https://en.wikipedia.org/wiki/Navipress) o [SlipKnot](<https://en.wikipedia.org/wiki/SlipKnot_(web_browser)>): el usuario siempre acababa escogiendo un ordenador con Windows.
 
-Es entonces cuando aparece Netscape, un explorador Web moderno y atractivo, con plan gratuito para uso personal con el que trataban de facilitar la venta de licencias para empresas. Su éxito fue absoluto: en sólo un año, habían conquistado el 80% del mercado, y habían salido a bolsa en 1995 tras reconocer beneficios. Subidos a la ola de Internet, el fundador de Netscape, [Marc Andreseen](https://en.wikipedia.org/wiki/Marc_Andreessen), pronosticaba que Netscape acabaría siendo "un nuevo sistema operativo, uno que viviría en Internet".
+Es entonces cuando aparece Netscape, un explorador Web moderno y atractivo, con plan gratuito para uso personal con el que trataban de facilitar la venta de licencias para empresas. Su éxito fue absoluto: en sólo un año, habían conquistado el 80% del mercado, y habían salido a bolsa en 1995 tras reconocer beneficios. El fundador de Netscape, [Marc Andreseen](https://en.wikipedia.org/wiki/Marc_Andreessen), pronosticaba que Netscape acabaría siendo "un nuevo sistema operativo, uno que viviría en Internet".
 
 Esas fueron las palabras mágicas: un nuevo sistema operativo. Fue entonces cuando en Microsoft entendieron que un explorador como Netscape, con una cuota de mercado tan alta, suponía una amenaza. Nada impedía que accedieses a Internet a través de un Mac, si Netscape garantizaba que la experiencia de usuario iba a ser la misma. Las aplicaciones en Internet serían las mismas en cualquier ordenador, fuese o no Windows, con lo que su posición privilegiada estaba seriamente amenazada. Su única salida, parecía ser, era diseñar su propio explorador Web: Internet Explorer. En la última actualización de Windows, lo instalaron por defecto, y pusieron en marcha toda la maquinaria disponible para forzar a los desarrolladores Web a elegir entre Netscape y los millones de usuarios de Windows. La victoria fue absoluta.
 
 ---
 
-¿Dónde estaba Microsoft entonces? Al concentrar sus esfuerzos en Netscape, Microsoft no vio venir a Google. Confundieron un explorador Web con un nuevo sistema operativo, porque esa era la apariencia que tenía: un sistema cerrado, con protocolos propios. Sin embargo, un sistema operativo en la Web tenía que ser, no algo relacionado con el ordenador en sí, sino algo que permitiese al usuario encontrar lo que estaba buscando. Marc Andreseen estaba equivocado: el sistema operativo de la Web no iba a ser Netscape, iba a ser Google. Una aplicación Web que aprovecha los protocolos de Internet para crear una interfaz entre el usuario y la Web. No necesita un intermediario como Windows para funcionar: la Web es la propia plataforma. Google sólo necesita ser mejor que los demás para seguir siendo Google. Su ingrediente secreto son sus usuarios.
+¿Dónde estaba Microsoft entonces? Al concentrar sus esfuerzos en Netscape, Microsoft no vio venir a Google. Confundieron un explorador Web con un nuevo sistema operativo, porque esa era la apariencia que tenía: un sistema cerrado, con protocolos propios. Sin embargo, un sistema operativo en la Web no tenía nada que ver con el dispositivo con el que accedías, sino un sistema que permitiese al usuario resolver su mayor problema: encontrar lo que buscaba. Marc Andreseen estaba equivocado: el sistema operativo de la Web no iba a ser Netscape, iba a ser Google. Una aplicación Web que aprovecha los protocolos de Internet para crear una interfaz entre el usuario y la Web. No necesita un intermediario como Windows para funcionar: la Web es la propia plataforma. Una aplicación Web cuyo ingrediente secreto era que a mayor cantidad de usuarios, mejores resultados daba, con lo que su posición privilegiada no era intermediar, sino haber llegado primero. Por más que Microsoft instalase [Bing](https://www.bing.com/) como el buscador por defecto de Windows, los usuarios se cambiaban a Google casi sin pensarlo.
 
 Si IBM masificó el mercado de piezas de ordenador para revalorizar sus ordenadores, y Microsoft masificó los ordenadores para revalorizar su sistema operativo, Google está masificando la creación de páginas web para revalorizar su buscador. Con ese fin, se dedica a regalar los complementos de la creación de páginas web.
 
