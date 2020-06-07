@@ -35,9 +35,9 @@ const Essays = () => {
                 <Link className="no-underline" to={`/essays/${slug}`}>
                   <div className="bg-nord-1 w-11/12 xs:w-10/12 sm:w-9/12 md:w-8/12 lg:w-7/12 mx-auto antialiased shadow-xl rounded-lg overflow-hidden">
                     <img
-                      className="h-32 xs:h-40 sm:h-48 md:h-56 lg:h-64 w-full object-cover"
+                      className="-mt-1 h-32 xs:h-40 sm:h-48 md:h-56 lg:h-64 w-full object-cover"
                       src={heroImage}
-                      alt="Hero"
+                      alt={`Hero ${title}`}
                     />
                     <div className="p-6">
                       {/* 
