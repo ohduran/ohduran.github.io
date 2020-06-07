@@ -7,10 +7,9 @@
 module.exports = {
   /* Your site config here */
   siteMetadata: {
-    title: "Álvaro Durán",
-    titleTemplate: "%s · Consultor Digital",
-    description:
-      "La digitalización de tu empresa, ahora. Mi nombre es Álvaro Durán y ayudo a empresas como la tuya a digitalizarse. Una persona no debería hacer el trabajo de una máquina.",
+    title: "Inicio",
+    titleTemplate: "Álvaro Durán · %s",
+    description: "La digitalización de tu empresa, ahora.",
     siteUrl: "https://www.alvaroduran.com",
     image: "/images/icon.png", // Path to your image you placed in the 'static' folder
   },

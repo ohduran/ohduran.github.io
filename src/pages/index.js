@@ -19,7 +19,7 @@ import openMap from "../static/manypixels/openMap.svg"
 export default class extends React.Component {
   render() {
     return (
-      <DefaultLayout>
+      <DefaultLayout description="La digitalización de tu negocio, ahora. Me llamo Álvaro Durán y soy el consultor estratégico de las e-commerce de habla hispana.">
         <section className="mt-5 sm:mt-7 md:mt-10 lg:mt-16 text-center">
           <h2 className="text-lg sm:text-xl md:text-3xl lg:text-5xl font-family-clearface-bold">
             ¿Te sientes así?
@@ -116,10 +116,12 @@ export default class extends React.Component {
             tienda de libros?
           </p>
           {/* Los fondos de capital riesgo. */}
-          <p className="mt-3">
-            ¿De dónde saca Uber el dinero para pagar los miles de millones en
-            pérdidas que tiene cada mes?
-          </p>
+          {/*<p className="mt-3">
+            ¿De dónde saca Uber el dinero para pagar
+            <br />
+            los miles de millones en pérdidas que tiene cada mes?
+          </p> */}
+
           <div className="mt-10 sm:mt-16 md:mt-20 w-11/12 md:w-9/12 mx-auto flex">
             <h3 className="my-auto text-base sm:text-lg md:text-xl lg:text-2xl text-left">
               Saber cómo responder a estas preguntas es esencial para sobrevivir

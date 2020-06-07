@@ -23,7 +23,7 @@ const Essays = () => {
     }
   `)
   return (
-    <DefaultLayout>
+    <DefaultLayout title="Ensayos">
       <PageTitle title="Ensayos" />
       <ul className="mt-2 w-11/12 mx-auto">
         {data.allMarkdownRemark.edges.map((edge) => {

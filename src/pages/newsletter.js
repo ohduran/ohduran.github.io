@@ -30,7 +30,7 @@ class NewsLetter extends React.Component {
     const { data } = this.state
 
     return (
-      <DefaultLayout>
+      <DefaultLayout title="Newsletter">
         <PageTitle title="Newsletter" />
         <NewsLetterForm />
         <ul className="mt-10 w-8/12 md:w-6/12 lg:w-5/12 mx-auto">

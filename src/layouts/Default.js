@@ -4,16 +4,16 @@ import SEO from "../components/SEO"
 import Header from "../components/Header/Header"
 import Footer from "../components/Footer"
 
-export default class extends React.Component {
-  render() {
-    return (
-      <>
-        <SEO />
-        <Header />
-        <main className="min-h-screen">{this.props.children}</main>
+const Default = ({ children, title, description }) => {
+  return (
+    <>
+      <SEO title={title} description={description} />
+      <Header />
+      <main className="min-h-screen">{children}</main>
 
-        <Footer />
-      </>
-    )
-  }
+      <Footer />
+    </>
+  )
 }
+
+export default Default

@@ -1,6 +1,6 @@
 ---
 title: Regalar el Complemento
-description: La razón por la que Google te deja usar Android y Chrome gratis
+description: La batalla por la Web se decide en lo que das gratis
 tags: [Microsoft, IBM, Yahoo, Google, Marc Andreseen, Netscape, Bill Gates]
 heroImage: https://searchengineland.com/figz/wp-content/seloads/2018/07/google-building-logo-shutterstock_559400386.jpg
 ---

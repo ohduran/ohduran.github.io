@@ -23,9 +23,13 @@ export const query = graphql`
 const EssayTemplatePage = ({ data }) => {
   const { frontmatter, html } = data.markdownRemark
   return (
-    <DefaultLayout className="bg-nord-6">
+    <DefaultLayout
+      title={frontmatter.title}
+      description={frontmatter.description}
+      className="bg-nord-6"
+    >
       <img
-        className="h-40 xs:h-48 sm:h-56 md:h-64 w-11/12 object-cover rounded-lg"
+        className="h-40 xs:h-48 sm:h-56 md:h-64 lg:h-72 w-11/12 md:w-9/12 lg:w-7/12 object-cover rounded-lg"
         src={frontmatter.heroImage}
         alt={`Hero ${frontmatter.title}`}
       />
