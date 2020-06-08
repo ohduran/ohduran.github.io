@@ -11,21 +11,21 @@ export default class extends React.Component {
   render() {
     return (
       <>
-        <header
-          className="bg-nord-10 grid"
-          style={{
-            gridTemplateColumns:
-              "max-content 1fr max-content max-content 1fr max-content",
-          }}
-        >
-          <Link to="/" className="col-start-3 sm:col-start-1">
+        <header className="bg-nord-10 grid">
+          <Link
+            to="/"
+            className="col-start-3 sm:col-start-1"
+            style={{
+              JustifySelf: "start",
+            }}
+          >
             <img
               className="h-16 w-20 sm:h-20 sm:w-24 py-1 px-3 my-6 mr-5"
               src={logo}
               alt="logo"
             />
           </Link>
-          <nav className="col-start-4 flex sm:col-start-7">
+          <nav className="col-start-6 flex justify-end sm:col-start-6">
             <HeaderLink
               className=""
               text="Ensayos"

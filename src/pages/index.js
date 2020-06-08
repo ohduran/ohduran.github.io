@@ -122,8 +122,8 @@ export default class extends React.Component {
             los miles de millones en pérdidas que tiene cada mes?
           </p> */}
 
-          <div className="mt-10 sm:mt-16 md:mt-20 w-11/12 md:w-9/12 mx-auto flex">
-            <h3 className="my-auto text-base sm:text-lg md:text-xl lg:text-2xl text-left">
+          <div className="mt-10 sm:mt-16 md:mt-20 w-11/12 md:w-9/12 mx-auto grid">
+            <h3 className="my-auto text-base sm:text-lg md:text-xl lg:text-2xl text-left col-start-1">
               Saber cómo responder a estas preguntas es esencial para sobrevivir
               en Internet. Aunque se inventó en los 90, todavía es territorio
               por explorar.
@@ -134,7 +134,7 @@ export default class extends React.Component {
               </span>
             </h3>
             <img
-              className="my-auto h-32 md:h-48 lg:h-64 float-right"
+              className="my-auto h-32 md:h-48 lg:h-64 col-start-2"
               src={openMap}
             />
           </div>
