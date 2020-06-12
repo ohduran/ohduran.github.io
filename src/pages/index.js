@@ -106,9 +106,14 @@ export default class extends React.Component {
               ¿Por qué Google distribuye Android gratis? ¿Es por sus datos?
             </Link>
           </p>
-          {/* Una empresa en Internet o pretende conquistar el mundo o acabará devorada */}
+          {/* Cómo funciona la publicidad en Internet */}
           <p className="mt-3">
-            ¿Por qué Tuenti nunca consiguió despegar del todo, y Facebook sí?
+            <Link
+              className="hover:text-nord-13"
+              to="/essays/el-monstruo-de-las-galletas"
+            >
+              ¿Por qué Tuenti nunca consiguió despegar del todo, y Facebook sí?
+            </Link>
           </p>
           {/* Hay dos tipos de empresa: Amazon y Ben & Jerry's */}
           <p className="mt-3">
