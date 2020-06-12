@@ -14,7 +14,7 @@ export default class extends React.Component {
         <header className="bg-nord-10 grid">
           <Link
             to="/"
-            className="col-start-3 sm:col-start-1"
+            className="col-start-1"
             style={{
               JustifySelf: "start",
             }}
