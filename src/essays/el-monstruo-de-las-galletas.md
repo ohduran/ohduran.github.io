@@ -27,13 +27,13 @@ Como recordarás, hubo mucho revuelo cuando Donald Trump, a quien [los expertos 
 
 El escándalo, esencialmente, era que Cambridge Analytica había recabado información acerca de 200,000 usuarios de Facebook. Y todo mediante uno de esos tests de personalidad tan tontos que se hacen virales a veces en la plataforma. Con esa información, los de Cambridge Analytica habían desarrollado un programa de inteligencia artificial que era capaz de, según ellos, predecir cuáles eran los temas más importantes para los votantes, y qué estrategia política era la óptima para llegar a la Casa Blanca.
 
-[Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg), que sabe que si ya es difícil ganar dinero con esos datos, utilizarlos para ganar elecciones es imposible, se ve obligado a asistir frente a la comisión del Senado. En ella, el presidente de la comisión de Alta Tecnología decide preguntarle que cómo se financia todo esto. Que si no es vendiéndole datos de los usuarios a Cambridge Analytica, ¿cómo paga Facebook a sus empleados?
+[Mark Zuckerberg](https://en.wikipedia.org/wiki/Mark_Zuckerberg), que sabe que si ya es difícil ganar dinero con esos datos, utilizarlos para ganar elecciones es imposible, se ve obligado a asistir frente a la comisión del Senado. En ella, el presidente de la comisión de Alta Tecnología, el senador Hatch, decide preguntarle que cómo se financia todo esto. Que si no es vendiéndole datos de los usuarios a Cambridge Analytica, ¿cómo paga Facebook a sus empleados?
 
-Esta es la cara que a Zuckerberg se le quedó cuando se da cuenta, en ese instante, de por qué nunca le pusieron problemas para que Facebook comprase Instagram, su único competidor:
+Esta es la cara que a Zuckerberg se le quedó cuando se da cuenta de por qué nunca le pusieron problemas para que Facebook comprase Instagram; cuando comprendes que el gobierno no sabe cómo funciona la Web:
 
 ![La sonrisa de Zuckerberg](https://media3.s-nbcnews.com/j/msnbc/components/video/201804/afp_13w6zx.nbcnews-ux-1080-600.jpg)
 
-Cuando comprendes que el gobierno no sabe cómo funciona la Web.
+"Senador, ponemos anuncios."
 
 ---
 
@@ -49,9 +49,9 @@ Y en 2012, justo después de lanzar una nueva aplicación abierta a usuarios de 
 
 ---
 
-Toda forma de comunicación empieza imitando las prácticas del pasado. En el caso de la publicidad online, ésta empezó teniendo un comportamiento parecido a la publicidad en los periódicos de papel: marcos rectangulares de colores vivos y letras impactantes, diseñados por publicistas, y colocados alrededor del artículo.
+Toda nueva forma de comunicación empieza imitando las prácticas del pasado. En el caso de la publicidad online, ésta empezó teniendo un comportamiento parecido a la publicidad en los periódicos de papel: marcos rectangulares de colores vivos y letras impactantes, diseñados por publicistas, y colocados alrededor del artículo.
 
-Tanto se parece a los periódicos de papel que también hablamos de 'agencias de medios' para referirnos a entidades que siguen el mismo modelo de negocio, esta vez online, de atraer la atención de la gente a la publicidad con contenido, ya sea un artículo merecedor de un Pulitzer o un juego en el que arrastras gominolas con el dedo y las haces explotar. Durante los primeros años, estas agencias de medios online tenían el control, con un ejército de vendedores a la antigua usanza cuya misión era vender los espacios que había destinados para publicidad dentro de su sitio web. Su habilidad para encontrar al lector ideal era nula: la única ventaja de anunciarse en Internet frente a poner una valla publicitaria en la autopista era que en Internet no hacía falta pagar por el papel y el pegamento.
+Tanto se parece a los periódicos de papel que también hablamos de _agencias de medios_ para referirnos a entidades que siguen el mismo modelo de negocio, esta vez online, de atraer la atención de la gente a la publicidad con contenido, ya sea un artículo merecedor de un Pulitzer o un juego en el que arrastras gominolas y las haces explotar. Durante los primeros años, estas agencias de medios online tenían el control, con un ejército de vendedores a la antigua usanza cuya misión era vender los espacios que había destinados para publicidad dentro de su sitio web. Eran incapaces de encontrar al lector ideal: la única ventaja de anunciarse en Internet frente a poner una valla publicitaria en la autopista era que en Internet no hacía falta pagar por el papel y el pegamento.
 
 Como entenderás, no es una proposición muy interesante. Internet, en sus inicios, fue impulsada por su popularidad, y no tanto por ser un modelo de negocio viable. Bastó un artículo en la portada de [Barron's](<https://en.wikipedia.org/wiki/Barron%27s_(newspaper)>) titulado "Cuidado: las compañías de Internet se están quedando sin efectivo" para precipitar el pinchazo.
 
