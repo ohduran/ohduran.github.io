@@ -27,3 +27,17 @@ p a {
 p a:hover {
   color: #ebcb8b;
 }
+
+strong {
+  font-family: "ClearfaceLT-Bold", Helvetica, sans-serif;
+}
+
+blockquote {
+  border-left: 4px solid #ebcb8b;
+  padding-left: 1.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  margin-top: 1.75rem;
+  margin-bottom: 2.75rem;
+  color: #5e81ac;
+}
