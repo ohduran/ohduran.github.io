@@ -88,6 +88,6 @@ No puedo leer la historia de las redes sociales sin evitar pensar que fueron una
 
 Es por eso que las críticas a Facebook por haber cruzado toda línea ética en cuanto a la privacidad no tienen sentido. Su modelo de negocio consiste fundamentalmente en saberlo todo sobre tus gustos y tus aficiones, ya sea dándote la opción de incluirlos en tu perfil o con sofisticados algoritmos de inteligencia artificial. Sus incentivos están claros: conforme Facebook sea más invasivo con tu privacidad, más valiosa será, _como cualquier otra agencia de medios_. Las quejas del senador Hatch no tienen fundamento: a Facebook no le interesa venderle tus datos a Cambridge Analytica. Son la piedra angular de su negocio.
 
-Tuenti no sabía nada sobre ti, y acabó como [Pets.com](https://en.wikipedia.org/wiki/Pets.com). Facebook, para seguir adelante, ha hecho un pacto contigo: tú tendrás acceso a todo lo que tus amigos quieran compartir, y, a cambio, tendrán acceso a todo lo que tú quieras compartir con ellos.
+Tuenti no sabía nada sobre ti, y acabó como [Pets.com](https://en.wikipedia.org/wiki/Pets.com). Facebook, para seguir adelante, ha hecho un pacto contigo: tú tendrás acceso a todo lo que tus amigos quieran compartir, y, a cambio, Facebook tendrá acceso a todo lo que tú quieras compartir con ellos.
 
 ¿Aceptas las condiciones?
