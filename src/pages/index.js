@@ -147,6 +147,7 @@ export default class extends React.Component {
             Subscríbete a la newsletter para saber más
           </NewsLetterForm>
         </section>
+        {/*         
         <section className="mt-10 sm:mt-16 md:mt-20 w-11/12 mx-auto">
           <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-center font-family-clearface-bold">
             Empresas con las que he colaborado
@@ -164,7 +165,7 @@ export default class extends React.Component {
             <img className="h-8" src={octopusLabs} />
             <img className="h-24" src={bradesco} />
           </div>
-        </section>
+        </section> */}
         <section className="mt-10 sm:mt-16 md:mt-20">
           <div className="grid gap-3 sm:gap-6 grid-cols-1 grid-rows-3 md:grid-cols-3 md:grid-rows-1 md:gap-1 lg:w-11/12 lg:mx-auto">
             <Testimonial author="Jaime Álvarez, Finance Consultant">
