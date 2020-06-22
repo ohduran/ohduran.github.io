@@ -117,8 +117,13 @@ export default class extends React.Component {
           </p>
           {/* Hay dos tipos de empresa: Amazon y Ben & Jerry's */}
           <p className="mt-3">
-            ¿Por qué Amazon se hizo la e-commerce más grande, si sólo era una
-            tienda de libros?
+            <Link
+              className="hover:text-nord-13"
+              to="/essays/la-maquina-de-maquinas"
+            >
+              ¿Por qué Amazon se hizo la e-commerce más grande, si sólo era una
+              tienda de libros?
+            </Link>
           </p>
           {/* Los fondos de capital riesgo. */}
           {/*<p className="mt-3">
