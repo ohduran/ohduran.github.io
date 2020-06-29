@@ -1,6 +1,6 @@
 ---
-title: La Maquina de máquinas
-description: Lo innovador de mirar al pasado
+title: La Máquina de máquinas
+description: Triunfar vendiendo online es una maratón al sprint.
 tags: [Jeff Bezos, Amazon, Tesla, Apple, Google]
 heroImage: https://thumbs.dreamstime.com/b/amazon-logo-office-building-munich-germany-munich-germany-december-amazon-logo-company-office-building-located-munich-144623760.jpg
 ---
