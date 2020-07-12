@@ -2,7 +2,7 @@
 title: La Máquina de máquinas
 description: Triunfar vendiendo online es una maratón al sprint.
 tags: [Jeff Bezos, Amazon, Tesla, Apple, Google]
-heroImage: https://thumbs.dreamstime.com/b/amazon-logo-office-building-munich-germany-munich-germany-december-amazon-logo-company-office-building-located-munich-144623760.jpg
+heroImage: https://cdn.vox-cdn.com/thumbor/_wojTwiMjFkCLC4r8gmusfk2Yys=/0x0:3497x2331/1200x800/filters:focal(1470x887:2028x1445)/cdn.vox-cdn.com/uploads/chorus_image/image/58802335/shutterstock_1015276222.1519428136.jpg
 ---
 
 > “Aquí, como ves, hace falta correr todo cuanto una pueda para permanecer en el mismo sitio.”
