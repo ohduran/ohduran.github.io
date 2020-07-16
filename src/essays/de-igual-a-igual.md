@@ -1,7 +1,8 @@
 ---
 title: De Igual a Igual
 description: El valor está en el acceso, no en el contenido
-tags: [CD-ROM, Monopsonio, Peer to Peer, eMule]
+tags:
+  [CD-ROM, Monopsonio, Peer to Peer, Napster, eMule, Daniel Ek, Spotify, iTunes]
 heroImage: https://www.officelovin.com/wp-content/uploads/2017/01/spotify-london-office-main.jpg
 ---
 
@@ -49,14 +50,26 @@ Antes, la clave era la **escasez**: había estanterías donde cabían 40 artícu
 
 Internet no es tanto un salto tecnológico como un cambio de mentalidad: la clave es ahora la **abundancia**. Puede que haya un vendedor que ofrezca los grandes éxitos, pero el cliente final ahora tiene acceso a _toda la lista_. Cada cliente, ahora, escoge su propia estantería: ya no pregunta "¿qué tienes?", sino "¿lo tienes?".
 
-En el momento en que se generaliza el uso de plataformas de descarga como [eMule](https://es.wikipedia.org/wiki/EMule), la gente se acostumbra a la idea de que tiene a su disposición cualquier canción de manera gratuita. La idea del iPod y su [mil canciones en tu bolsillo](https://www.socialfuturo.com/tal-dia-como-hoy/1000-canciones-en-tu-bolsillo) es una extensión de esta nueva demanda, una que la radio que sólo ofrece 40 éxitos no puede satisfacer.
+En el momento en que se generaliza el uso de plataformas de descarga como [Napster](https://es.wikipedia.org/wiki/Napster) o [eMule](https://es.wikipedia.org/wiki/EMule), la gente se acostumbra a la idea de que tiene a su disposición cualquier canción de manera gratuita. La idea del iPod y su [mil canciones en tu bolsillo](https://www.socialfuturo.com/tal-dia-como-hoy/1000-canciones-en-tu-bolsillo) es una extensión de esta nueva demanda, una que la radio que sólo ofrece 40 éxitos no puede satisfacer.
 
-Es esencial entender que revertir esto no es una simple cuestión de cercenar las webs de descargas, sino de adaptación. De refundar la industria musical en base a un mercado en el que todos pelean de igual a igual.
+Es esencial entender que este cambio de mentalidad es irreversible; la supervivencia de la industria, entonces, depende de cómo se adapte a esta nueva situación.
 
-Pero hay un problema que la aparición de las webs de descarga dejan sin resolver. ¿Qué sentido tiene vender música, si la tecnología ha hecho que la música no tenga ningún valor?
+¿Pero cómo va a ser ahora viable ser músico, si la tecnología ha hecho que la música no tenga ningún valor?
 
 ---
 
-Diez dólares. En 1981, podías conseguir un disco de [Rush](https://es.wikipedia.org/wiki/Rush) por diez dólares. En 1990, un casete te costaría alrededor de diez dólares. En 2004, un CD te podía costar 19,99 dólares, así que entre tú y un amigo podíais compraros [American Idiot](https://es.wikipedia.org/wiki/American_Idiot), de Green Day, si cada uno ponía diez dólares. En 2012, un álbum en iTunes cuesta diez dólares.
+> Napster fue... si lo piensas, la gente ahora escucha mucha más música que antes, y una mayor diversidad de artistas. [...] Si volvemos atrás, a los 70, a los 80, solíamos identificarnos con un gusto musical. Después de Napster, ya no lo hacemos. A la gente ya no le gusta el hip-hop, no le gusta el rock, a la gente ahora le gusta un poco de todo. Napster fue la que solidificó todo eso.
+>
+> — Daniel Ek, fundador de [Spotify](https://es.wikipedia.org/wiki/Spotify)
 
-En la actualidad, las cosas han dado un vuelco. Ahora tengo millones de canciones en mi móvil, en mi ordenador, en mi tableta, por una cuota cercana a los diez dólares al mes.
+Diez dólares. En 1981, podías conseguir el [recopilatorio de éxitos de Queen](<https://es.wikipedia.org/wiki/Greatest_Hits_(%C3%A1lbum_de_Queen)>) por diez dólares. En 1990, un casete te costaría alrededor de diez dólares. En 2004, un CD te podía costar 19,99 dólares, así que entre tú y un amigo podíais compraros [American Idiot](https://es.wikipedia.org/wiki/American_Idiot), de Green Day, si cada uno ponía diez dólares. En 2012, un álbum en iTunes cuesta diez dólares.
+
+En la actualidad, las cosas han dado un vuelco. Ahora tengo millones de canciones en mi móvil, en mi ordenador, en mi tableta, por una cuota mensual cercana a los diez dólares.
+
+La música, en Spotify, no vale absolutamente nada. A diferencia de [iTunes](https://es.wikipedia.org/wiki/ITunes), y de cualquier otro distribuidor de música del mundo hasta ese momento, la gente no compra música en Spotify. Paga por comodidad.
+
+¿Has hecho alguna vez la declaración de la renta tú sólo? Es laborioso, es lento, nunca estás seguro de si lo has hecho bien, no tienes la seguridad de que lo que estás haciendo no tenga consecuencias más adelante. Pero es gratis. Por otro lado, puedes acudir a una gestoría, y ellos se encargan de todo. Es obvio que no pagas por que te hagan la declaración de la renta; pagas por la comodidad de no tener que hacerlo tú.
+
+Spotify funciona de manera similar: pagas por el acceso a música en alta calidad, pero no pagas por música. Pagas por un buscador rápido de la canción en la que estás pensando, pero no pagas por descargarte la canción. Pagas por tener acceso instantáneo a una canción, en vez de tener que descargártela cada vez.
+
+En Spotify, el valor no está en la música, porque la música no vale nada. Nunca había valido nada. Como los CDs entonces, Spotify se diferencia porque es la manera más cómoda de escuchar música. El contenido no tiene valor; lo que cuenta es el acceso.
