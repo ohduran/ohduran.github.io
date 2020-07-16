@@ -10,10 +10,6 @@ En el año 1999, las cifras de ingresos de la industria musical llegaron a lo m�
 
 El diablo, de todos modos, está en los detalles: de esos 14,600 millones, casi 13,000 provienen de la venta de [CD-ROM](https://en.wikipedia.org/wiki/CD-ROM)s. Es decir, que la industria musical basaba su enorme éxito en la distribución de discos de plástico magnetizados, empaquetados en cajitas con una portada artística, y que se diferenciaban unos de otros por la información digital que contenían.
 
-Esto parece una distinción estúpida, pero viene a explicar muy bien lo que ocurrirá a partir de entonces:
-
-[![US Recorded Revenue by Format](./de-igual-a-igual-01.png)](https://www.riaa.com/u-s-sales-database/)
-
 El problema con la música es que, a diferencia de los productos que se venden en un supermercado, la música _se puede copiar_, y por tanto no tiene ningún valor. En el momento en el que alguien se hace con un ejemplar de [...Baby One More Time](<https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)>), puede darse la vuelta y distribuirlo a los demás tantas veces como quiera, algo que no podría hacer si hubiese comprado una bolsa de patatas fritas.
 
 Para evitar la ruina de la industria musical, la Ley de Propiedad Intelectual de 1998 disponía lo siguiente:
