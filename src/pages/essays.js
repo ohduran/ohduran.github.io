@@ -31,7 +31,7 @@ const Essays = () => {
           const { slug } = edge.node.fields
           return (
             <>
-              <li className="mt-5 xs:mt-8 sm:mt-12 md:mt-16 lg:mt-20 transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110">
+              <li className="mt-5 xs:mt-8 sm:mt-12 md:mt-16 lg:mt-20 transition duration-500 ease-in-out transform hover:-translate-y-2">
                 <Link className="no-underline" to={`/essays/${slug}`}>
                   <div className="bg-nord-1 w-11/12 xs:w-10/12 sm:w-9/12 md:w-8/12 lg:w-7/12 mx-auto antialiased shadow-xl rounded-lg overflow-hidden">
                     <img
