@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "gatsby";
 
 const Home = () => {
   return (
@@ -24,9 +25,9 @@ const Home = () => {
         font-family-clearface-bold text-center text-xl uppercase
         "
       >
-        <a>The Writer</a>
-        <a>Essays</a>
-        <a>Projects</a>
+        <Link to="/about">The Writer</Link>
+        <Link to="/essays">Essays</Link>
+        <Link to="/projects">Project</Link>
       </nav>
       <section
         className="
@@ -37,9 +38,21 @@ const Home = () => {
       >
         <h2 className="text-3xl">Now</h2>
         <h6 className="text-xs">
-          (This is <a href="https://nownownow.com/about">a now page</a>, and if
-          you have your own site,{" "}
-          <a href="https://nownownow.com/about">you should make one</a>, too.)
+          (This is{" "}
+          <a
+            className="text-nord-8 hover:underline"
+            href="https://nownownow.com/about"
+          >
+            a now page
+          </a>
+          , and if you have your own site,{" "}
+          <a
+            className="text-nord-8 hover:underline"
+            href="https://nownownow.com/about"
+          >
+            you should make one
+          </a>
+          , too.)
         </h6>
         <br className="my-2" />
         <div className="w-11/12 mx-auto text-lg">

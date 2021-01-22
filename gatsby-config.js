@@ -5,6 +5,26 @@
  */
 
 module.exports = {
-  /* Your site config here */
-  plugins: ["gatsby-plugin-postcss"],
+  plugins: [
+    "gatsby-plugin-postcss",
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/src/essays`,
+      },
+    },
+    {
+      resolve: "gatsby-plugin-page-creator",
+      options: {
+        path: `${__dirname}/src/essays`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`, `.md`],
+      },
+    },
+  ],
 };
