@@ -45,4 +45,8 @@ body {
   @apply dotted-background text-nord-0 font-family-clearface;
 }
 
+/* Check out https://francoismarais.com/design/2020/creating-an-underline-and-elastic-hover-effect-using-css/ 
+for the a transition on hover
+*/
+
 @tailwind utilities;
