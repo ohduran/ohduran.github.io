@@ -2,6 +2,8 @@ import React from "react";
 import { Link, graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 
+import Moment from "react-moment";
+
 const Home = ({ data }) => {
   return (
     <main className="pt-20 pb-5 container mx-auto">
@@ -28,12 +30,12 @@ const Home = ({ data }) => {
       >
         <Link to="/about">The Writer</Link>
         <Link to="/essays">Essays</Link>
-        <Link to="/projects">Project</Link>
+        <Link to="/projects">Projects</Link>
       </nav>
       <section
         className="
         mt-5 mx-auto
-        pb-16
+        pb-1
         border-b border-nord-8
       "
       >
@@ -59,6 +61,12 @@ const Home = ({ data }) => {
         <div className="w-11/12 mx-auto text-lg">
           <MDXRenderer>{data.mdx.body}</MDXRenderer>
         </div>
+        <footer className="text-xs mt-5">
+          Last updated on:{" "}
+          <Moment format="Do MMMM YYYY - HH:mm">
+            {data.mdx.frontmatter.date}
+          </Moment>
+        </footer>
       </section>
     </main>
   );
@@ -70,6 +78,9 @@ export const pageQuery = graphql`
   {
     mdx(frontmatter: { title: { eq: "Now" } }) {
       body
+      frontmatter {
+        date
+      }
     }
   }
 `;
