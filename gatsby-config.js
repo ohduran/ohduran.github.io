@@ -8,6 +8,12 @@ module.exports = {
   plugins: [
     "gatsby-plugin-postcss",
     {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`, `.md`],
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `posts`,
@@ -18,12 +24,6 @@ module.exports = {
       resolve: "gatsby-plugin-page-creator",
       options: {
         path: `${__dirname}/src/essays`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-mdx`,
-      options: {
-        extensions: [`.mdx`, `.md`],
       },
     },
   ],
