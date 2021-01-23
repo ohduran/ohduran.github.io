@@ -1,14 +1,16 @@
 import React from "react";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 
 import Moment from "react-moment";
+
+import { NavBar } from "../components";
 
 const Home = ({ data }) => {
   return (
     <main className="pt-20 pb-5 container mx-auto">
       <section className="text-center container mx-auto">
-        <img className="mx-auto w-64" src="/BeagleOutline.png" alt="Beagle" />
+        <img className="mx-auto w-48" src="/BeagleOutline.png" alt="Beagle" />
         <h1 className="mx-auto mt-10 text-5xl">Álvaro Durán Studio</h1>
         <p className="mt-5">
           The primary source for my writing.
@@ -20,18 +22,7 @@ const Home = ({ data }) => {
           .
         </p>
       </section>
-      <nav
-        className="
-        mt-5 mx-auto grid grid-cols-3 gap-4 py-4
-        border-t border-b border-nord-8
-        divide-x-2 divide-double divide-nord-8
-        font-family-clearface-bold text-center text-xl uppercase
-        "
-      >
-        <Link to="/about">The Writer</Link>
-        <Link to="/essays">Essays</Link>
-        <Link to="/projects">Projects</Link>
-      </nav>
+      <NavBar className="border-t border-b border-nord-8" />
       <section
         className="
         mt-5 mx-auto
