@@ -30,7 +30,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   const result = await graphql(`
     query {
-      allMdx {
+      allMdx(filter: { fileAbsolutePath: { regex: "/essays/" } }) {
         edges {
           node {
             id

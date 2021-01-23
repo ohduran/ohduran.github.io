@@ -21,6 +21,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/src/misc`,
+      },
+    },
+    {
       resolve: "gatsby-plugin-page-creator",
       options: {
         path: `${__dirname}/src/essays`,
