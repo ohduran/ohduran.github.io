@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/pages.css";
 
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { DefaultLayout } from "../layouts";
 
@@ -34,13 +34,16 @@ const About = ({ data }) => {
           </figure>
           <figcaption className="mt-3 text-xs text-center">
             <span className="font-semibold">Focused on ice cream</span>.
-            Santorini, 2018.
+            Santorini, 2017.
           </figcaption>
         </side>
         <article>
           <MDXRenderer>{data.allMdx.edges[0].node.body}</MDXRenderer>
         </article>
       </main>
+      <article>
+        <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
+      </article>
     </DefaultLayout>
   );
 };
