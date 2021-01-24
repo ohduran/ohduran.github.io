@@ -38,11 +38,11 @@ const About = ({ data }) => {
           </figcaption>
         </side>
         <article>
-          <MDXRenderer>{data.allMdx.edges[0].node.body}</MDXRenderer>
+          <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
         </article>
       </main>
       <article>
-        <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
+        <MDXRenderer>{data.allMdx.edges[0].node.body}</MDXRenderer>
       </article>
     </DefaultLayout>
   );
