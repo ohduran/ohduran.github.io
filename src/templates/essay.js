@@ -15,6 +15,6 @@ export const query = graphql`
 `;
 
 export default ({ data }) => {
-  const { frontmatter, body } = data.mdx;
+  const { body } = data.mdx;
   return <MDXRenderer>{body}</MDXRenderer>;
 };

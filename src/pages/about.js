@@ -29,7 +29,7 @@ const About = ({ data }) => {
             <img
               className="w-11/12 mx-auto shadow-lg border-4 border-nord-9"
               src="./WriterPic.jpg"
-              alt="Writer Picture"
+              alt="Writer"
             />
           </figure>
           <figcaption className="mt-3 text-xs text-center">

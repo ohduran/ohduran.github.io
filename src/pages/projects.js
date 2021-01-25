@@ -2,8 +2,6 @@ import React from "react";
 import { DefaultLayout } from "../layouts";
 import { useStaticQuery } from "gatsby";
 
-import Moment from "react-moment";
-
 const Projects = () => {
   const data = useStaticQuery(
     graphql`
