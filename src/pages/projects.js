@@ -37,6 +37,7 @@ const Projects = () => {
       <header className="">
         <h1
           className="
+          mt-5
           font-clearface-bold font-semibold
           text-xl text-center
           uppercase
