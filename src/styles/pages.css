@@ -21,3 +21,7 @@ article > h5 {
 article > h6 {
   @apply font-semibold;
 }
+
+article > p {
+  @apply text-lg mb-3;
+}

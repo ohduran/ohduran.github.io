@@ -24,24 +24,27 @@ const About = ({ data }) => {
           </h1>
           <hr className="mt-3 mx-auto h-0.5 w-7/12 bg-nord-8" />
         </header>
-        <side>
+        <side className="mt-5 flex items-center justify-center">
           <figure>
             <img
               className="h-216 mx-auto shadow-lg border-4 border-nord-9"
               src="./WriterPic.png"
               alt="Writer"
             />
+            <figcaption className="mt-3 text-xs text-center">
+              <span className="font-semibold">The Writer and Jacquie</span>.
+              Sitges, 2019.
+            </figcaption>
           </figure>
-          <figcaption className="mt-3 text-xs text-center">
-            <span className="font-semibold">The Writer and Jacquie</span>.
-            Sitges, 2019.
-          </figcaption>
         </side>
-        <article>
-          <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
-        </article>
+        <div className="flex items-center">
+          <article className="inline">
+            <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
+            <h2 className="mt-10 text-right mr-5">Á.</h2>
+          </article>
+        </div>
       </main>
-      <article>
+      <article className="mt-16 text-justify">
         <MDXRenderer>{data.allMdx.edges[0].node.body}</MDXRenderer>
       </article>
     </DefaultLayout>
