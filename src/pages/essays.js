@@ -7,7 +7,7 @@ import { DefaultLayout } from "../layouts";
 const Essays = ({ data }) => {
   return (
     <DefaultLayout>
-      <main className="mt-5">
+      <main className="mt-12">
         {data.allMdx.nodes.map(({ frontmatter, slug }) => (
           <>
             <div className="mt-5 flex justify-between">

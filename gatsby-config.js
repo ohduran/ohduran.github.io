@@ -27,12 +27,6 @@ module.exports = {
       },
     },
     {
-      resolve: "gatsby-plugin-page-creator",
-      options: {
-        path: `${__dirname}/src/essays`,
-      },
-    },
-    {
       resolve: `gatsby-source-github-api`,
       options: {
         url: "https://api.github.com/graphql",
