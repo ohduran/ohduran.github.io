@@ -27,14 +27,14 @@ const About = ({ data }) => {
         <side>
           <figure>
             <img
-              className="w-11/12 mx-auto shadow-lg border-4 border-nord-9"
-              src="./WriterPic.jpg"
+              className="h-216 mx-auto shadow-lg border-4 border-nord-9"
+              src="./WriterPic.png"
               alt="Writer"
             />
           </figure>
           <figcaption className="mt-3 text-xs text-center">
-            <span className="font-semibold">Focused on ice cream</span>.
-            Santorini, 2017.
+            <span className="font-semibold">The Writer and Jacquie</span>.
+            Sitges, 2019.
           </figcaption>
         </side>
         <article>
@@ -52,13 +52,13 @@ export default About;
 
 export const pageQuery = graphql`
   {
-    allMdx(filter: { frontmatter: { title: { in: ["About", "Bio"] } } }) {
+    allMdx(
+      filter: { frontmatter: { title: { in: ["About", "Bio"] } } }
+      sort: { fields: frontmatter___title, order: DESC }
+    ) {
       edges {
         node {
           body
-          frontmatter {
-            date
-          }
         }
       }
     }

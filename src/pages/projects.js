@@ -32,8 +32,6 @@ const Projects = () => {
   );
 
   const repos = data.allGithubData.nodes[0].data.user.repositories.nodes;
-
-  console.log(repos);
   return (
     <DefaultLayout>
       <header className="">
