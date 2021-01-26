@@ -22,15 +22,17 @@ const Essays = ({ data }) => {
 
       <main className="mt-5">
         {data.allMdx.nodes.map(({ frontmatter, slug }) => (
-          <Link to={slug}>
+          <>
             <div className="mt-5 flex justify-between">
-              <h1 className="text-4xl">{frontmatter.title}</h1>
+              <Link id="special-link" to={slug}>
+                <h1 className="text-4xl">{frontmatter.title}</h1>
+              </Link>
               <Moment className="text-sm" format="Do MMMM YYYY">
                 {frontmatter.date}
               </Moment>
             </div>
             <article className="mt-2 ">{frontmatter.summary}</article>
-          </Link>
+          </>
         ))}
       </main>
     </DefaultLayout>
