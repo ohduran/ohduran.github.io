@@ -1,6 +1,6 @@
 import React from "react";
 import { DefaultLayout } from "../layouts";
-import { useStaticQuery } from "gatsby";
+import { useStaticQuery, graphql } from "gatsby";
 
 const Projects = () => {
   const data = useStaticQuery(
