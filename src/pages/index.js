@@ -1,5 +1,6 @@
 import React from "react";
 import { graphql } from "gatsby";
+import "../styles/pages.css";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 
 import Moment from "react-moment";
@@ -53,14 +54,12 @@ const Home = ({ data }) => {
           , too.)
         </h6>
         <br className="my-2" />
-        <div className="w-11/12 mx-auto text-lg">
+        <article className="w-11/12 mx-auto text-lg">
           <MDXRenderer>{data.mdx.body}</MDXRenderer>
-        </div>
+        </article>
         <footer className="text-xs mt-5">
           Last updated on:{" "}
-          <Moment format="Do MMMM YYYY - HH:mm">
-            {data.mdx.frontmatter.date}
-          </Moment>
+          <Moment format="Do MMMM YYYY">{data.mdx.frontmatter.date}</Moment>
         </footer>
       </section>
     </main>
