@@ -25,3 +25,16 @@ article > h6 {
 article > p {
   @apply text-lg mb-3;
 }
+
+/* Hyperlink */
+article > p > a {
+  background: linear-gradient(#ebcb8b, #ebcb8b);
+  background-size: 100% 0.5rem;
+  background-repeat: no-repeat;
+  background-position: left 0 bottom 0;
+  transition: all 0.1s linear 0s;
+}
+article > p > a:hover {
+  background-size: 100% 100%;
+}
+/* End Hyperlink */

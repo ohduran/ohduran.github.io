@@ -32,8 +32,10 @@ const About = ({ data }) => {
               alt="Writer"
             />
             <figcaption className="mt-3 text-xs text-center">
-              <span className="font-semibold">The Writer and Jacquie</span>.
-              Sitges, 2019.
+              <span className="font-semibold">
+                The Writer and 'La Jacqueline'
+              </span>
+              . Sitges, 2019.
             </figcaption>
           </figure>
         </side>
