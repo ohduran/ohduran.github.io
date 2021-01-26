@@ -7,19 +7,6 @@ import { DefaultLayout } from "../layouts";
 const Essays = ({ data }) => {
   return (
     <DefaultLayout>
-      <header className="row-start-1 col-span-2">
-        <h1
-          className="
-          font-clearface-bold font-semibold
-          text-xl text-center
-          uppercase
-          "
-        >
-          Essays
-        </h1>
-        <hr className="mt-3 mx-auto h-0.5 w-7/12 bg-nord-8" />
-      </header>
-
       <main className="mt-5">
         {data.allMdx.nodes.map(({ frontmatter, slug }) => (
           <>
