@@ -41,6 +41,19 @@
   background-size: 11px 11px;
 }
 
+/* Hyperlinks spinkled around the code */
+#special-link {
+  @apply font-semibold;
+  background: linear-gradient(#ebcb8b, #ebcb8b);
+  background-size: 100% 0.5rem;
+  background-repeat: no-repeat;
+  background-position: left 0 bottom 0;
+  transition: all 0.1s linear 0s;
+}
+#special-link:hover {
+  background-size: 100% 100%;
+}
+
 body {
   @apply dotted-background text-nord-0 font-family-clearface;
 }

@@ -11,9 +11,15 @@ const NavBar = ({ className }) => {
         ${className}
     `}
     >
-      <Link to="/about">The Writer</Link>
-      <Link to="/essays">Essays</Link>
-      <Link to="/projects">Projects</Link>
+      <Link className="hover:text-nord-10" to="/about">
+        The Writer
+      </Link>
+      <Link className="hover:text-nord-10" to="/essays">
+        Essays
+      </Link>
+      <Link className="hover:text-nord-10" to="/projects">
+        Projects
+      </Link>
     </nav>
   );
 };

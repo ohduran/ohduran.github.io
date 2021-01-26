@@ -16,7 +16,11 @@ const Home = ({ data }) => {
           The primary source for my writing.
           <br />
           For inquiries please contact{" "}
-          <a href="mailto:alvaro.duran.barata@gmail.com">
+          <a
+            id="special-link"
+            className="font-semibold"
+            href="mailto:alvaro.duran.barata@gmail.com"
+          >
             alvaro.duran.barata@gmail.com
           </a>
           .
@@ -34,14 +38,14 @@ const Home = ({ data }) => {
         <h6 className="text-xs">
           (This is{" "}
           <a
-            className="text-nord-8 hover:underline"
+            className="text-nord-8 hover:text-nord-10"
             href="https://nownownow.com/about"
           >
             a now page
           </a>
           , and if you have your own site,{" "}
           <a
-            className="text-nord-8 hover:underline"
+            className="text-nord-8 hover:text-nord-10"
             href="https://nownownow.com/about"
           >
             you should make one
