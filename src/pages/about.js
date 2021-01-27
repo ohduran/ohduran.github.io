@@ -46,7 +46,7 @@ const About = ({ data }) => {
           </article>
         </div>
       </main>
-      <article className="mt-16 text-justify">
+      <article className="mt-16 text-justify w-9/12 mx-auto">
         <MDXRenderer>{data.allMdx.edges[0].node.body}</MDXRenderer>
       </article>
     </DefaultLayout>
