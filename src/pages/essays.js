@@ -18,7 +18,7 @@ const Essays = ({ data }) => {
                 {frontmatter.date}
               </Moment>
             </div>
-            <article className="mt-2 ">{frontmatter.summary}</article>
+            <article className="mt-2">{frontmatter.summary}</article>
           </>
         ))}
       </main>

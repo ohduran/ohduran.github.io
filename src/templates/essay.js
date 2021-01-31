@@ -35,7 +35,7 @@ export default ({ data }) => {
         <p className="mt-1 ml-3 italic">{frontmatter.summary}</p>
         <hr className="mt-3 mx-auto h-0.5 w-7/12 bg-nord-8" />
       </header>
-      <article className="mt-5">
+      <article className="mt-20 ml-10 w-8/12 text-justify">
         <MDXRenderer>{body}</MDXRenderer>
       </article>
     </DefaultLayout>

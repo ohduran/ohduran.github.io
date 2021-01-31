@@ -28,7 +28,6 @@ article > p {
 
 /* Hyperlink */
 article > p > a {
-  @apply font-semibold;
   background: linear-gradient(#ebcb8b, #ebcb8b);
   background-size: 100% 0.5rem;
   background-repeat: no-repeat;
@@ -54,7 +53,19 @@ article > blockquote {
 
 /* Side Note */
 .sidenote {
-  @apply relative float-right clear-right w-1/2 my-0 text-base leading-snug;
-  margin-right: -60%;
+  @apply relative float-right clear-right w-4/12 my-0 text-sm leading-snug text-left;
+  margin-right: -50%;
+}
+.sidenote > em {
+  @apply text-nord-3;
+}
+.sidenote > a {
+  @apply underline;
 }
 /* End Side Note */
+
+/* Horizontal Line */
+article > hr {
+  @apply border-nord-0 border-opacity-50 mx-auto my-12 w-1/12;
+}
+/* End Horizontal Line */
