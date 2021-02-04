@@ -8,7 +8,7 @@ const Essays = ({ data }) => {
   return (
     <DefaultLayout>
       <main className="mt-12">
-        {data.allMdx.nodes.map(({ frontmatter, slug }) => (
+        {data.allMdx.nodes.map(({ frontmatter, slug, wordCount }) => (
           <>
             <div className="mt-5 flex justify-between">
               <Link id="special-link" to={slug}>
@@ -18,7 +18,9 @@ const Essays = ({ data }) => {
                 {frontmatter.date}
               </Moment>
             </div>
-            <article className="mt-2">{frontmatter.summary}</article>
+            <article className="mt-2">
+              {frontmatter.summary} ({wordCount.words} words)
+            </article>
           </>
         ))}
       </main>
@@ -42,6 +44,9 @@ export const query = graphql`
           title
           date
           summary
+        }
+        wordCount {
+          words
         }
       }
     }

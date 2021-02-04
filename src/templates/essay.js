@@ -14,12 +14,15 @@ export const query = graphql`
         summary
         date(formatString: "YYYY MMMM Do")
       }
+      wordCount {
+        words
+      }
     }
   }
 `;
 
 export default ({ data }) => {
-  const { frontmatter, body } = data.mdx;
+  const { frontmatter, body, wordCount } = data.mdx;
   return (
     <DefaultLayout>
       <header>
@@ -32,7 +35,9 @@ export default ({ data }) => {
         >
           {frontmatter.title}
         </h1>
-        <p className="mt-1 ml-3 italic">{frontmatter.summary}</p>
+        <p className="mt-1 ml-3 italic">
+          {frontmatter.summary} ({wordCount.words} words)
+        </p>
         <hr className="mt-3 mx-auto h-0.5 w-7/12 bg-nord-8" />
       </header>
       <article className="mt-20 ml-10 w-8/12 text-justify">
