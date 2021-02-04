@@ -5,9 +5,9 @@ const NavBar = ({ className }) => {
   return (
     <nav
       className={`
-        mt-5 mx-auto grid grid-cols-2 gap-4 py-4
+        mt-2 md:mt-5 mx-auto grid grid-cols-2 gap-4 py-2 md:py-4
         divide-x-2 divide-double divide-nord-8
-        text-center text-xl uppercase
+        text-center text-sm md:text-xl uppercase
         ${className}
     `}
     >

@@ -1,29 +1,29 @@
 article > h1 {
-  @apply text-4xl my-5;
+  @apply text-2xl md:text-4xl my-5;
 }
 
 article > h2 {
-  @apply text-3xl my-3;
+  @apply text-xl md:text-3xl my-3;
 }
 
 article > h3 {
-  @apply text-2xl my-2;
+  @apply text-lg md:text-2xl my-2;
 }
 
 article > h4 {
-  @apply text-xl my-1;
+  @apply text-base md:text-xl my-1;
 }
 
 article > h5 {
-  @apply text-lg;
+  @apply text-base md:text-lg font-semibold;
 }
 
 article > h6 {
-  @apply font-semibold;
+  @apply text-base md:text-lg underline;
 }
 
 article > p {
-  @apply text-lg mb-3 leading-relaxed;
+  @apply text-base md:text-lg mb-3 leading-relaxed;
 }
 
 /* Hyperlink */
@@ -47,14 +47,13 @@ article > p > em {
 
 /* Quote */
 article > blockquote {
-  @apply bg-nord-6 mx-auto my-8 py-8 px-8 w-7/12 text-lg leading-loose italic text-nord-3 rounded-xl shadow-lg border-l-8 border-nord-12;
+  @apply bg-nord-6 mx-auto my-8 py-8 px-8 w-11/12 md:w-7/12 text-base md:text-lg leading-relaxed md:leading-loose italic text-nord-3 rounded-xl shadow-lg border-l-8 border-nord-12;
 }
 /* End Quote */
 
 /* Side Note */
 .sidenote {
-  @apply relative float-right clear-right w-4/12 my-0 text-sm leading-snug text-left;
-  margin-right: -50%;
+  @apply my-5 text-xs leading-snug text-right w-11/12 mx-auto;
 }
 .sidenote > em {
   @apply text-nord-3;
@@ -62,6 +61,14 @@ article > blockquote {
 .sidenote > a {
   @apply underline;
 }
+
+@screen sm {
+  .sidenote {
+    @apply relative float-right clear-right w-4/12 text-left my-0;
+    margin-right: -50%;
+  }
+}
+
 /* End Side Note */
 
 /* Horizontal Line */

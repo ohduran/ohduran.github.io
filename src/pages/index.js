@@ -9,19 +9,21 @@ import { NavBar } from "../components";
 
 const Home = ({ data }) => {
   return (
-    <main className="pt-20 pb-5 container mx-auto">
+    <main className="pt-5 md:pt-20 pb-5 container mx-auto">
       <section className="text-center container mx-auto">
-        <img className="mx-auto w-48" src="/BeagleOutline.png" alt="Beagle" />
-        <h1 className="mx-auto mt-10 text-5xl">Álvaro Durán Studio</h1>
-        <p className="mt-5">
+        <img
+          className="mx-auto w-36 md:w-48"
+          src="/BeagleOutline.png"
+          alt="Beagle"
+        />
+        <h1 className="mx-auto mt-3 md:mt-10 text-2xl md:text-5xl">
+          Álvaro Durán Studio
+        </h1>
+        <p className="mt-3 md:mt-5 text-xs md:text-base">
           The primary source for my writing.
           <br />
           For inquiries please contact{" "}
-          <a
-            id="special-link"
-            className="font-semibold"
-            href="mailto:alvaro.duran.barata@gmail.com"
-          >
+          <a id="special-link" href="mailto:alvaro.duran.barata@gmail.com">
             alvaro.duran.barata@gmail.com
           </a>
           .
@@ -35,8 +37,8 @@ const Home = ({ data }) => {
         border-b border-nord-8
       "
       >
-        <h2 className="text-3xl">Now</h2>
-        <h6 className="text-xs">
+        <h2 className="text-lg md:text-3xl">Now</h2>
+        <h6 className="text-xs md:text-sm mt-0 md:mt-1">
           (This is{" "}
           <a
             className="text-nord-8 hover:text-nord-10"
@@ -53,8 +55,8 @@ const Home = ({ data }) => {
           </a>
           , too.)
         </h6>
-        <br className="my-2" />
-        <article className="w-11/12 mx-auto text-lg">
+        <br className="my-0 md:my-2" />
+        <article className="w-11/12 mx-auto">
           <MDXRenderer>{data.mdx.body}</MDXRenderer>
         </article>
         <footer className="text-xs mt-5">
