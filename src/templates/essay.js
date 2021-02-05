@@ -1,50 +1,49 @@
-import React from "react"
-import { graphql } from "gatsby"
+import { graphql } from "gatsby";
+import { MDXRenderer } from "gatsby-plugin-mdx";
+import React from "react";
 
-import DefaultLayout from "../layouts/Default"
-import PageTitle from "../components/PageTitle"
-import PageSubTitle from "../components/PageSubTitle"
-
-import "./essay.css"
+import { DefaultLayout } from "../layouts";
+import "../styles/pages.css";
 
 export const query = graphql`
-  query($slug: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+  query PostsByID($id: String!) {
+    mdx(id: { eq: $id }) {
+      body
       frontmatter {
         title
-        description
-        heroImage
+        summary
+        date(formatString: "YYYY MMMM Do")
       }
-      html
+      wordCount {
+        words
+      }
     }
   }
-`
+`;
 
-const EssayTemplatePage = ({ data }) => {
-  const { frontmatter, html } = data.markdownRemark
+export default ({ data }) => {
+  const { frontmatter, body, wordCount } = data.mdx;
   return (
-    <DefaultLayout
-      title={frontmatter.title}
-      description={frontmatter.description}
-      className="bg-nord-6"
-    >
-      <img
-        className="h-40 xs:h-48 sm:h-56 md:h-64 lg:h-72 w-11/12 md:w-9/12 lg:w-7/12 object-cover rounded-lg"
-        src={frontmatter.heroImage}
-        alt={`Hero ${frontmatter.title}`}
-      />
-      <PageTitle title={frontmatter.title} />
-      {/* <PageSubTitle
-        subtitle={frontmatter.description}
-        className="text-center"
-      />*/}
-
-      <article
-        className="w-11/12 xs:w-10/12 sm:w-9/12 md:w-8/12 lg:w-6/12 sm:text-lg md:text-xl mx-auto mt-10 text-justify"
-        dangerouslySetInnerHTML={{ __html: html }}
-      />
+    <DefaultLayout>
+      <header>
+        <h1
+          className="
+          font-clearface-bold font-semibold
+          text-3xl md:text-5xl
+          ml-3 mt-5
+          "
+        >
+          {frontmatter.title}
+        </h1>
+        <p className="mt-1 ml-3 italic text-sm md:text-base">
+          {frontmatter.summary}
+          <br className="block md:hidden" /> ({wordCount.words} words)
+        </p>
+        <hr className="mt-3 mx-auto h-0.5 w-7/12 bg-nord-8" />
+      </header>
+      <article className="mt-5 md:mt-20 md:ml-10 md:w-8/12 text-justify">
+        <MDXRenderer>{body}</MDXRenderer>
+      </article>
     </DefaultLayout>
-  )
-}
-
-export default EssayTemplatePage
+  );
+};

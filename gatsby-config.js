@@ -1,83 +1,46 @@
-/**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.org/docs/gatsby-config/
- */
+const dotenv = require("dotenv");
+dotenv.config();
+
+const { githubApiQuery } = require("./github-api");
 
 module.exports = {
-  /* Your site config here */
   siteMetadata: {
-    title: "Inicio",
-    titleTemplate: "Álvaro Durán · %s",
-    description: "La digitalización de tu empresa, ahora.",
-    siteUrl: "https://www.alvaroduran.com",
-    image: "/images/icon.png", // Path to your image you placed in the 'static' folder
+    title: `Alvaro Duran`,
+    description: `The primary source for my writing.`,
+    siteUrl: `https://alvaroduran.com`,
   },
   plugins: [
-    `gatsby-plugin-postcss`,
-    `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-advanced-sitemap`,
+    "gatsby-plugin-postcss",
     {
-      resolve: `gatsby-source-filesystem`,
+      resolve: `gatsby-plugin-mdx`,
       options: {
-        name: "src",
-        path: `${__dirname}/src/`,
-      },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 800,
-            },
-          },
-        ],
+        extensions: [`.mdx`, `.md`],
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `posts`,
         path: `${__dirname}/src/essays`,
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-131540516-3",
-      },
-    },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: "Álvaro Durán",
-        short_name: "Álvaro Durán",
-        start_url: "/",
-        background_color: "#3b4252",
-        theme_color: "#5e81ac",
-        // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
-        // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
-        display: "standalone",
-        icon: "static/images/icon.png", // This path is relative to the root of the site.
-        // An optional attribute which provides support for CORS check.
-        // If you do not provide a crossOrigin option, it will skip CORS for manifest.
-        // Any invalid keyword or empty string defaults to `anonymous`
-        crossOrigin: `use-credentials`,
-      },
-    },
-    `gatsby-plugin-offline`,
-    `gatsby-plugin-sitemap`,
-    "gatsby-plugin-robots-txt",
-    {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `pages`,
-        path: `${__dirname}/src/static/images`,
+        name: `posts`,
+        path: `${__dirname}/src/misc`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-source-github-api`,
+      options: {
+        url: "https://api.github.com/graphql",
+        token: process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
+        graphQLQuery: githubApiQuery,
+        variables: {
+          github_login: process.env.GITHUB_LOGIN,
+        },
+      },
+    },
   ],
-}
+};

@@ -1,0 +1,65 @@
+@font-face {
+  font-family: "ClearfaceLT-Regular";
+  src: url("../fonts/clearface.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/clearface.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/clearface.otf") format("opentype"),
+    /* Open Type Font */ url("../fonts/clearface.svg") format("svg"),
+    /* Legacy iOS */ url("../fonts/clearface.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/clearface.woff") format("woff"),
+    /* Modern Browsers */ url("../fonts/clearface.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ClearfaceLT-Bold";
+  src: url("../fonts/clearfacebold.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/clearfacebold.eot?#iefix") format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/clearfacebold.otf") format("opentype"),
+    /* Open Type Font */ url("../fonts/clearfacebold.svg") format("svg"),
+    /* Legacy iOS */ url("../fonts/clearfacebold.ttf") format("truetype"),
+    /* Safari, Android, iOS */ url("../fonts/clearfacebold.woff") format("woff"),
+    /* Modern Browsers */ url("../fonts/clearfacebold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+
+.font-family-clearface {
+  font-family: "ClearfaceLT-Regular", Helvetica, sans-serif;
+}
+
+.font-family-clearface-bold {
+  font-family: "ClearfaceLT-Bold", Helvetica, sans-serif;
+}
+
+.dotted-background {
+  background: linear-gradient(90deg, #eceff4 10px, transparent 1%) center,
+    linear-gradient(#eceff4 10px, transparent 1%) center, #88c0d0;
+  background-size: 11px 11px;
+}
+
+/* Hyperlinks spinkled around the code */
+#special-link {
+  @apply font-semibold;
+  background: linear-gradient(#ebcb8b, #ebcb8b);
+  background-size: 100% 0.5rem;
+  background-repeat: no-repeat;
+  background-position: left 0 bottom 0;
+  transition: all 0.1s linear 0s;
+}
+#special-link:hover {
+  background-size: 100% 100%;
+}
+
+body {
+  @apply dotted-background text-nord-0 font-family-clearface;
+}
+
+/* Check out https://francoismarais.com/design/2020/creating-an-underline-and-elastic-hover-effect-using-css/ 
+for the a transition on hover
+*/
+
+@tailwind utilities;
