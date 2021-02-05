@@ -1,6 +1,6 @@
 import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
-import React from "react";
+import React, { useEffect } from "react";
 
 import { DefaultLayout } from "../layouts";
 import "../styles/pages.css";
@@ -23,6 +23,25 @@ export const query = graphql`
 
 export default ({ data }) => {
   const { frontmatter, body, wordCount } = data.mdx;
+  const commentBox = React.createRef();
+
+  useEffect(() => {
+    const commentScript = document.createElement("script");
+    const theme = "github-light";
+    commentScript.async = true;
+    commentScript.src = "https://utteranc.es/client.js";
+    commentScript.setAttribute("repo", "ohduran/comments"); // CHANGE THIS if you're just going to clone this repo and use the code. Do not test your code using my repo.
+    commentScript.setAttribute("issue-term", "pathname");
+    commentScript.setAttribute("id", "utterances");
+    commentScript.setAttribute("theme", theme);
+    commentScript.setAttribute("crossorigin", "anonymous");
+    if (commentBox && commentBox.current) {
+      commentBox.current.appendChild(commentScript);
+    } else {
+      console.log(`Error adding utterances comments on: ${commentBox}`);
+    }
+  }, []); // eslint-disable-line
+
   return (
     <DefaultLayout
       title={frontmatter.title}
@@ -48,6 +67,11 @@ export default ({ data }) => {
       <article className="mt-5 md:mt-20 md:ml-10 md:w-8/12 text-justify">
         <MDXRenderer>{body}</MDXRenderer>
       </article>
+      <div className="mt-5 md:mt-20 md:ml-10 md:w-8/12 text-justify">
+        <div id="comments">
+          <div ref={commentBox} className="comments" />
+        </div>
+      </div>
     </DefaultLayout>
   );
 };
