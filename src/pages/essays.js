@@ -6,7 +6,7 @@ import { DefaultLayout } from "../layouts";
 
 const Essays = ({ data }) => {
   return (
-    <DefaultLayout>
+    <DefaultLayout title="Essays">
       <main className="mt-6 md:mt-12">
         <ul>
           {data.allMdx.nodes.map(({ frontmatter, slug, wordCount }) => (

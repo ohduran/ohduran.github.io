@@ -7,7 +7,7 @@ import { DefaultLayout } from "../layouts";
 
 const About = ({ data }) => {
   return (
-    <DefaultLayout>
+    <DefaultLayout title="The Writer">
       <main
         className="mt-5 mx-auto md:grid md:gap-1 md:gap-2 md:grid-cols-2"
         style={{ gridTemplateRows: "auto 1fr" }}

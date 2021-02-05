@@ -5,9 +5,11 @@ const { githubApiQuery } = require("./github-api");
 
 module.exports = {
   siteMetadata: {
-    title: `Alvaro Duran`,
+    title: `Studio`,
+    titleTemplate: `%s · Alvaro Duran`,
     description: `The primary source for my writing.`,
     siteUrl: `https://alvaroduran.com`,
+    image: "/favicon.ico",
   },
   plugins: [
     "gatsby-plugin-postcss",
@@ -99,5 +101,6 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-react-helmet`,
   ],
 };

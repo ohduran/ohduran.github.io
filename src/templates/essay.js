@@ -24,7 +24,11 @@ export const query = graphql`
 export default ({ data }) => {
   const { frontmatter, body, wordCount } = data.mdx;
   return (
-    <DefaultLayout>
+    <DefaultLayout
+      title={frontmatter.title}
+      description={frontmatter.summary}
+      article={true}
+    >
       <header>
         <h1
           className="

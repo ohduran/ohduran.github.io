@@ -5,11 +5,12 @@ import { MDXRenderer } from "gatsby-plugin-mdx";
 
 import Moment from "react-moment";
 
-import { NavBar } from "../components";
+import { NavBar, SEO } from "../components";
 
 const Home = ({ data }) => {
   return (
     <main className="pt-5 md:pt-20 pb-5 container mx-auto">
+      <SEO />
       <section className="text-center container mx-auto">
         <img
           className="mx-auto w-36 md:w-48"
