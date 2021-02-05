@@ -94,7 +94,7 @@ module.exports = {
               }
             `,
             output: "/rss.xml",
-            title: "Alvaro Duran's RSS Feed",
+            title: "Alvaro Duran",
           },
         ],
       },
