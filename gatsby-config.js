@@ -42,5 +42,62 @@ module.exports = {
         },
       },
     },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMdx } }) => {
+              return allMdx.nodes.map((node) => {
+                return Object.assign({}, node.frontmatter, {
+                  description: node.frontmatter.summary,
+                  date: node.frontmatter.date,
+                  url: site.siteMetadata.siteUrl + node.slug,
+                  guid: site.siteMetadata.siteUrl + node.slug,
+                  custom_elements: [{ "content:encoded": node.html }],
+                });
+              });
+            },
+            query: `
+              {
+                allMdx(
+                  sort: { fields: [frontmatter___date], order: DESC }
+                  filter: { frontmatter: { published: { eq: true } } }
+                ) {
+                  nodes {
+                    id
+                    excerpt(pruneLength: 250)
+                    slug
+                    html
+                    frontmatter {
+                      title
+                      date
+                      summary
+                    }
+                    wordCount {
+                      words
+                    }
+                  }
+                }
+              }
+            `,
+            output: "/rss.xml",
+            title: "Alvaro Duran's RSS Feed",
+          },
+        ],
+      },
+    },
   ],
 };
