@@ -1,8 +1,6 @@
 const dotenv = require("dotenv");
 dotenv.config();
 
-const { githubApiQuery } = require("./github-api");
-
 module.exports = {
   siteMetadata: {
     title: `Studio`,
@@ -50,17 +48,6 @@ module.exports = {
             },
           },
         ],
-      },
-    },
-    {
-      resolve: `gatsby-source-github-api`,
-      options: {
-        url: "https://api.github.com/graphql",
-        token: process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
-        graphQLQuery: githubApiQuery,
-        variables: {
-          github_login: process.env.GITHUB_LOGIN,
-        },
       },
     },
     {

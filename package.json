@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "gatsby-alvaro-duran",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
-  "version": "0.1.0",
+  "description": "My gatsby blog",
+  "version": "7.0.0",
   "license": "0BSD",
   "scripts": {
     "build": "gatsby build",
@@ -29,7 +29,6 @@
     "gatsby-plugin-sharp": "^2.14.1",
     "gatsby-remark-images": "^3.11.0",
     "gatsby-source-filesystem": "^2.10.0",
-    "gatsby-source-github-api": "^0.2.1",
     "moment": "^2.29.1",
     "postcss": "^8.2.4",
     "react": "^16.12.0",
