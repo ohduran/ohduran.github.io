@@ -1,8 +1,6 @@
 const dotenv = require("dotenv");
 dotenv.config();
 
-const { githubApiQuery } = require("./github-api");
-
 module.exports = {
   siteMetadata: {
     title: `Studio`,
@@ -13,12 +11,6 @@ module.exports = {
   },
   plugins: [
     "gatsby-plugin-postcss",
-    {
-      resolve: `gatsby-plugin-mdx`,
-      options: {
-        extensions: [`.mdx`, `.md`],
-      },
-    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -34,14 +26,28 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-source-github-api`,
+      resolve: `gatsby-source-filesystem`,
       options: {
-        url: "https://api.github.com/graphql",
-        token: process.env.GITHUB_PERSONAL_ACCESS_TOKEN,
-        graphQLQuery: githubApiQuery,
-        variables: {
-          github_login: process.env.GITHUB_LOGIN,
-        },
+        path: `${__dirname}/src/images`,
+      },
+    },
+    `gatsby-plugin-sharp`,
+    `gatsby-remark-images`,
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: [`.mdx`, `.md`],
+        gatsbyRemarkPlugins: [
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 600,
+              showCaptions: true,
+              wrapperStyle:
+                "width: 91.666667%; margin-left: auto; margin-right: auto; margin-top: 1.25rem; margin-bottom: 1.25rem;",
+            },
+          },
+        ],
       },
     },
     {

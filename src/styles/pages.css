@@ -26,6 +26,10 @@ article > p {
   @apply text-base md:text-lg mb-3 leading-relaxed;
 }
 
+article > p > figure > figcaption {
+  @apply text-center text-xs md:text-sm mt-1 mb-2 leading-none w-11/12 mx-auto;
+}
+
 /* Hyperlink */
 article > p > a {
   background: linear-gradient(#ebcb8b, #ebcb8b);
@@ -47,7 +51,7 @@ article > p > em {
 
 /* Quote */
 article > blockquote {
-  @apply bg-nord-6 mx-auto my-8 py-8 px-8 w-11/12 md:w-7/12 text-base md:text-lg leading-relaxed md:leading-loose italic text-nord-3 rounded-xl shadow-lg border-l-8 border-nord-12;
+  @apply bg-nord-6 mx-auto my-8 py-8 px-8 w-11/12 md:w-9/12 text-base md:text-lg leading-relaxed md:leading-loose italic text-nord-3 rounded-xl shadow-lg border-l-8 border-nord-12;
 }
 /* End Quote */
 
@@ -64,7 +68,7 @@ article > blockquote {
 
 @screen lg {
   .sidenote {
-    @apply relative float-right clear-right w-4/12 text-left text-sm my-0;
+    @apply relative float-right clear-right w-5/12 text-left text-sm my-0;
     margin-right: -50%;
   }
 }
