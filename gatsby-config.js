@@ -25,12 +25,6 @@ module.exports = {
         path: `${__dirname}/src/misc`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/src/images`,
-      },
-    },
     `gatsby-plugin-sharp`,
     `gatsby-remark-images`,
     {
