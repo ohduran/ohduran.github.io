@@ -26,6 +26,10 @@ article > p {
   @apply text-base md:text-lg mb-3 leading-relaxed;
 }
 
+article > p > figure > figcaption {
+  @apply text-center text-xs md:text-sm mt-1 mb-2 leading-none w-11/12 mx-auto;
+}
+
 /* Hyperlink */
 article > p > a {
   background: linear-gradient(#ebcb8b, #ebcb8b);
