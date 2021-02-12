@@ -6,7 +6,7 @@ module.exports = {
     title: `Studio`,
     titleTemplate: `%s · Alvaro Duran`,
     description: `The primary source for my writing.`,
-    siteUrl: `https://alvaroduran.com/`,
+    siteUrl: `https://alvaroduran.com`,
     image: "/favicon.ico",
   },
   plugins: [
@@ -66,8 +66,8 @@ module.exports = {
                 return Object.assign({}, node.frontmatter, {
                   description: node.frontmatter.summary,
                   date: node.frontmatter.date,
-                  url: site.siteMetadata.siteUrl + node.slug,
-                  guid: site.siteMetadata.siteUrl + node.slug,
+                  url: site.siteMetadata.siteUrl + "/" + node.slug,
+                  guid: site.siteMetadata.siteUrl + "/" + node.slug,
                   custom_elements: [{ "content:encoded": node.html }],
                 });
               });
