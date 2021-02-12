@@ -6,7 +6,7 @@ module.exports = {
     title: `Studio`,
     titleTemplate: `%s · Alvaro Duran`,
     description: `The primary source for my writing.`,
-    siteUrl: `https://alvaroduran.com`,
+    siteUrl: `https://alvaroduran.com/`,
     image: "/favicon.ico",
   },
   plugins: [
