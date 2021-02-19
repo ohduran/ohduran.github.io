@@ -37,7 +37,7 @@
 
 .dotted-background {
   background: linear-gradient(90deg, #eceff4 10px, transparent 1%) center,
-    linear-gradient(#eceff4 10px, transparent 1%) center, #88c0d0;
+    linear-gradient(#eceff4 10px, transparent 1%) center, #81a1c1;
   background-size: 11px 11px;
 }
 
