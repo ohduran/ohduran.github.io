@@ -5,37 +5,146 @@ published: true
 summary: The widespread methodology for software development has backfired, swallowed by the bad management it tried to eradicate.
 ---
 
+One of the most difficult things in software is naming things. It's a process that relies fundamentally on extending our language in creative ways. _Astronaut_, for example,
+comes from the Greek "astron" (_ἄστρον_), "star", and "nautes" (_ναύτης_), "sailor". Before humans could travel beyond the Earth,
+there was no compulsion to invent a word for it, and the one we came up with to talk about the Gagarins and the Armstrongs is a pretentious
+way to say that more humans have been on a ship than on the Moon.
+
+Our most pressing problems belong to this category, what sociologists call **cultural lag**: being forced to slog
+through obsolete institutional habits to achieve our goals. They arise from trying to organise a supersonic, computer-driven,
+and nuclear world with horse-and-buggy ways of life. The result of the tremendous acceleration of technological progress.
+
+These strains are usually met in the only sensible way possible: **people are constantly striving to bring institutions
+into closer relationship with reality**.
+
 > Let me therefore warn you that it is not my intention to inform, or to establish some truth. What I want to do
 > is change your attitude. I want you to sense chaos where at first you noticed an orderly arrangement of well behaved
 > things and processes.
 >
-> — Paul Feyerabend
+> — **Paul Feyerabend**, "Against Method"
 
-The [Agile Manifesto](https://agilemanifesto.org/) is an immune response on the part of programmers to bad management.
+Reacting to these forceful changes, some people furiously demand cures that, truth be told, are worse than the illness.
+But despite that, they are making efforts to achieve what we are going to call _fitness_: a relation of mutual acceptability
+between our institutions and reality, which is anything that puts requirements on it.
 
-The very people that nowadays would have signed a similar manifesto are not present in any Agile conference. On the contrary,
-it's [the snake oil managers](https://www.agile-academy.com/en/agile100/) the ones that give the keynote speeches.
+Unfortunately, the task isn't simple. In practice, we are groping for some sort of harmony between an unfinished creation
+and a nebulous context: understanding the world we live in and designing appropriate institutions for it are two faces of the same coin.
+And weirdly enough, and this is something that everyone who designs for a living has experienced, _we see good fit only
+from a negative point of view_. Criticising is easy; what's difficult is saying "it's finished".
 
-In many organizations, the Scrum Master, the one purportedly tasked with ensuring that the delivery achieves high standards,
-is not technical. The one person responsible for conceptual integrity doesn't even know how to code.
+---
 
-Agile seems to have become the fad that it purposedly try to avoid becoming. The one with Power Point presentations, guys wearing ties,
-and unsplash pictures of people shaking hands.
+Like many professions, software engineering was started by a bunch of experts who, independently of each other, started
+leveraging the newly invented computer to do their work faster and better. But with the professionalisation of writing code,
+our industrial society concentrated intensely on finding ways to develop software more efficiently. With the first software
+engineers came the first software development methodologies.
 
-The principles of agile have been weaponized for the convenience of control freak, non-technical individuals for whom the
-task of supervising people with a complete different expertise is unsurmontable. IT projects still FAIL at an alarming rate.
+In 1970, Winston Royce published his influential article [Managing the development of large software systems: concepts and techniques](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf),
+in which he presented several project management models, including what we know now as waterfall, iterative, and agile.
 
-Prioritization, Pragmatism, DYNAMISM.
+Yes, Agile was invented in 1970. We simply didn't have a word for it.
 
-Agile must be the most overused and misused buzzword in IT management. By a landslide.
+In this article, Royce defines two essential steps in every software development project: analysis, and coding. The tricky
+part is that doing only that is fine for brick-and-mortar projects. _An implementation plan to manufacture larger
+software systems, and keyed only to these steps, however, is doomed to failure._ Immediately after, he presented _a more
+grandiose approach_, read "Waterfall", where analysis and coding are preceded by two levels of requirement analysis, separated
+by a program design step, and followed by a testing step.
 
-WAIT. It's not me, it's Andy Hunt: https://toolshed.com/2015/05/the-failure-of-agile.html
+Royce, nevertheless, notices something crucial: that with each step, the design is more detailed.
 
-Science isn't a coherent body of knowledge; it's like a body of law. Fully contradictory,
-and the only way to advance is through persuasion. Like in front of a jury.
+> There is an _iteration_ with the preceding and succeeding steps [...]. The virtue of all of this is that as the design proceeds
+> _the change process is scoped down to manageable limits_.
+>
+> — **Winston Royce**
 
-READ Disciplined Minds.
+He explicitly says that he believed in this concept! The only thing that was risky for Royce was the lag between implementation
+and testing, and if the testing phase was unsuccessful, _a major redesign is required_, effectively bringing the project
+back to square one.
 
-https://en.wikipedia.org/wiki/Goodhart%27s_law THIS IS THE KEY
+To summarise: any Agile adherent will tell you that Waterfall is bad, and that if you aren't doing Agile, it follows that
+you are doing Waterfall. But from the very beginning of software development history, projects that postponed testing to the later
+stages of the process have been considered risky, because it's in this phase where, for the first time, software is ran
+rather than analysed, and many things in the project are not analysable. The paper that introduced the Waterfall model did
+so as a deliberate straw man.
 
-https://www.goodreads.com/quotes/47832-to-achieve-great-things-two-things-are-needed-a-plan
+---
+
+How do we come to terms with the fact that the story that things were slow and now they're fast is fictional?
+That preeminent figures in software development had been advocating incremental and iterative development, even in
+the very 1970 Waterfall paper?
+
+I want you to consider this: that Waterfall was a convenient misrepresentation of the ideas laid down by expert software engineers
+_for the convenience of managers_. People who thought of software like an assembly line, and expected being promised something
+_specific_, in an specific _timeframe_.
+
+Have you ever, _in an Agile project_, been asked to produce or follow a detailed roadmap with milestones (deviously called _phases_)?
+
+This alternative theory may explain what has happened to Agile as software engineers know, as opposed to what a Professional
+Scrum Master<sup>TM</sup> will tell you.
+
+Consider this: A couple of years ago, I was interviewed for a job in which Agile wasn't just a way of doing things: it was
+an obsession. Tasks were moved deliberately on a huge whiteboard on the CEO's office, people's workday was structured with precision.
+They had to work in pairs in 20 minute stints, forcing them to short-circuit their instincts to do anything but work. The office was
+designed in a way that would have made Jeremy Bentham proud, a sort of [Panopticon](https://en.wikipedia.org/wiki/Panopticon)
+where all the ~~inmates~~ software engineers were under careful vigilance by the CEO. It had all the Orwellian attributes that people despise about school.
+And that's when I came to terms with the idea that the reason why Agile has spread so wide and so fast is, too, for the
+convenience of managers, adapted to a software industry that is younger, less disciplined, and craves for direction and pats on the shoulder.
+Agile is high-school.
+
+---
+
+I have much sympathy with [Whorf](https://en.wikipedia.org/wiki/Benjamin_Lee_Whorf)'s view that language is not merely an
+instrument for _describing_ events, but also a _shaper_. That 'grammar' contains an ontology, a view of the world and the
+speaker's society and her role in it, which influences her perception, her reason, her memory of events and her testimony
+of them. I came to understand that Agile methodologies, such as Scrum or Kanban, are sufficiently accepted and have grown
+into sufficiently complex entities to be considered along the same lines as languages.
+
+In the influential <book>The Structure of Scientific Revolutions</book>, Thomas Kuhn claimed that history of science reveals
+proponents of competing paradigms failing to make complete contact with each other's views. Think, for example, of [Michelson and Morley's experiment](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment)
+revealing cracks in the theory behind the existence of [ether](https://en.wikipedia.org/wiki/Luminiferous_aether), and
+swept under the rug as a result. This competing paradigms use different concepts and methods to address different problems,
+and communication across the divide is limited, if not impossible. Scientific progress doesn't happen because of a healthy
+debate where the best ideas win, but rather because of evolutionary forces: its not the ideas that win, but the people who
+have them and accept them beyond question who survive, rewriting the history of how their ideas came to eventually become dominant.
+
+Indeed, even though "Waterfall" was simply a straw man methodology to be mocked and ridiculed, the development of Agile
+methodologies followed a similar pattern to that described by Thomas Kuhn: there is a foundational set of precepts (individuals
+and interactions over process and tools, [and so on](https://agilemanifesto.org/)), which turn into a firmly set tradition,
+accepted beyond question and which strongly resists change. This set of ideas emerged under the intolerant umbrella of an
+us-against-them mentality that aids widespread adoption<sup>1</sup><p class="sidenote"><sup>1</sup> The original spread of Christianity in the Roman empire is likely to be the consequence of their intolerance. When you believe in several gods, one more isn't that big of a deal. When there is just one, believing in anything else is heresy. See [Religious Toleration in Classical Antiquity](https://web.archive.org/web/20200929192307/http://droppdf.com/files/v6nVj/garnseytoleration.pdf), by Peter Garnsey.</p>,
+and in the end, Agile was prone to dominate the software industry, regardless of its effectiveness.
+
+Agile methodologies say more about their proponents and their worldview more than it uncovers 'better ways of developing software'.
+Words are like inside jokes with a now half-forgotten lover: they set emotions in motion. When someone uses the word 'agile',
+they are not simply getting the technical definition, but also the whole infrastructure around it. An infrastructure that
+is only useful if it addresses the idiosyncrasies that are bound to be repeated in software projects even as the tools used change.
+"Agile tools" is an oximoron, and the consequence of this is that software engineers live in the same kind of world that
+is construed as the best worse-case divergence from expectations, like agreeing to eat McDonald's or speak the brand of
+inelegant English used in corporations across the world in order to not leave anyone out.
+
+What I want is for you to realise that Agile has been preyed, repackaged and weaponised by the very ghosts that it was
+meant to encounter. It has evolved to fulfill the worldview of managers, who cherrypick the parts of Agile that align to their
+lowest managerial instincts, while leaving out the rest as TBD. That "working software over documentation" effectively means
+_vague requirements_, "customer collaboration" means _shifting, unilaterally decided priorities_, and "responding to change"
+means _engineers have no say in the tasks that they work on_. And, as a result, software development projects are prone
+to nonstop supervision, employee alienation, technical debt and scope creep.
+
+---
+
+The idea of a method that contains firm, unchanging, and absolutely binding principles for conducting the business of
+software development meets considerable difficulty when confronted with the harsh reality of human nature. There is not
+a single idea in the Agile manifesto, however vague, that is not violated at some time or other in an Agile project. It's
+evident that such violations are not accidental, the result of ignorance, or collateral effects of inattention. That is not
+necessarily bad news: this violations are sometimes necessary for the completion of the project.
+
+For example, it is both reasonable and _absolutely necessary_ for a project to have the most critical parts of the organisation
+of the codebase being designed upfront, which contradict well-established Agile frameworks. Implicit in Royce's argument about
+the differences between brick-and-mortar and enterprise projects is that _scale matters_ when outlining how software is built,
+and the obvious fact that scale changes with time (hopefully, upwards and to the right) means that software development processes
+must change along with it.
+
+It is clear then that the idea of a fixed methodology rests on too naive a view of software engineering and its social aspects.
+To those who look at the rich material provided by history, and who are not intent on impoverishing it in order to please
+their lower instincts, their craving for intellectual security in the form of clarity, precision, 'best practices', and 'truth',
+it will become clear that there is only one principle that can be defended under _all_ circumstances and in all stages
+of software development. It is the principle of _anything goes_.
