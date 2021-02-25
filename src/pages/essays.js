@@ -15,7 +15,10 @@ const Essays = ({ data }) => {
                 <Link id="special-link" to={slug}>
                   <h1 className="text-3xl md:text-4xl">{frontmatter.title}</h1>
                 </Link>
-                <Moment className="text-xs md:text-sm" format="MMMM YYYY">
+                <Moment
+                  className="text-xs md:text-sm"
+                  format="ddd, Do MMM YYYY"
+                >
                   {frontmatter.date}
                 </Moment>
               </div>
