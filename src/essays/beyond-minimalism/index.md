@@ -20,7 +20,7 @@ remove everything, only keeping what we really need. The climactic moment for mi
 We have gone downhill since then. Everything is _the same_. Websites have become so similar that someone trained a neural network
 to churn websites for [startups that do not exist](https://thisstartupdoesnotexist.com/).
 
-Why? Because minimalism is another word for playing it safe. It's shooting for mediocrity instead of attempting to become competent. Everyone buys the same products, wear the same clothes, thinks the same way. There's no need for alternatives. The logical consequence of minimalism is precisely the _digital hub_: Jobs' cohesive plan to take all of your devices and make them one harmonious product. All your Apple products of course.
+Why? Because minimalism is another word for playing it safe. It's shooting for mediocrity instead of attempting to become competent. Everyone buys the same products, wear the same clothes, thinks the same way. There's no need for alternatives. The logical consequence of minimalism is precisely the _digital hub_: Jobs' cohesive plan to take all of your devices and make them one harmonious product.
 
 It's all over now. Minimalism doesn't work because having Just One<sup>TM</sup> of anything is not enough. It stagnates, then decays, and finally perishes, leaving us just with the ashes.
 
