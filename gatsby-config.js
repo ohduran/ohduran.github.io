@@ -68,7 +68,7 @@ module.exports = {
                   date: node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + "/essays/" + node.slug,
                   guid: site.siteMetadata.siteUrl + "/essays/" + node.slug,
-                  custom_elements: [{ "content:encoded": node.html }],
+                  custom_elements: [{ "content:encoded": node.body }],
                 });
               });
             },
@@ -82,7 +82,7 @@ module.exports = {
                     id
                     excerpt(pruneLength: 250)
                     slug
-                    html
+                    body
                     frontmatter {
                       title
                       date
@@ -120,6 +120,5 @@ module.exports = {
         crossOrigin: `use-credentials`,
       },
     },
-    "gatsby-plugin-offline",
   ],
 };
