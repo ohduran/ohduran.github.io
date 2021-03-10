@@ -45,6 +45,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-tufte`],
+      },
+    },
+    {
       resolve: `gatsby-plugin-feed`,
       options: {
         query: `

@@ -3,7 +3,8 @@ import { MDXRenderer } from "gatsby-plugin-mdx";
 import React, { useEffect } from "react";
 
 import { DefaultLayout } from "../layouts";
-import "../styles/pages.css";
+// import "../styles/pages.css";
+import "../styles/tufte.css";
 
 export const query = graphql`
   query PostsByID($id: String!) {
