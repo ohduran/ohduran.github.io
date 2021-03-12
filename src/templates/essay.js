@@ -21,7 +21,7 @@ export const query = graphql`
   }
 `;
 
-export default ({ data }) => {
+const Essay = ({ data }) => {
   const { frontmatter, body, wordCount } = data.mdx;
   const commentBox = React.createRef();
 
@@ -75,3 +75,5 @@ export default ({ data }) => {
     </DefaultLayout>
   );
 };
+
+export default Essay;
