@@ -63,6 +63,8 @@ const Essay = ({ data }) => {
 
       return null;
     });
+
+    // End Side Notes
     footNotesSection.parentElement.removeChild(footNotesSection);
   }, []); // eslint-disable-line
 
