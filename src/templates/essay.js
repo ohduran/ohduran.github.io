@@ -40,6 +40,30 @@ const Essay = ({ data }) => {
     } else {
       console.log(`Error adding utterances comments on: ${commentBox}`);
     }
+
+    // Side Notes
+    const footNotesSection = document.getElementsByClassName("footnotes")[0];
+
+    const footNotesOrderedList = [...footNotesSection.children[1].childNodes];
+    const superscriptsOrderedList = [...document.getElementsByTagName("SUP")];
+
+    superscriptsOrderedList.map((superscript, index) => {
+      let footnote = footNotesOrderedList[index];
+      let actualFootNoteIndex = parseInt(index + 1);
+
+      superscript.outerHTML +=
+        "<div id='fn-" +
+        actualFootNoteIndex +
+        "' class='sidenote' />" +
+        "<sup>" +
+        actualFootNoteIndex +
+        "</sup>" +
+        footnote.innerHTML +
+        "</div>";
+
+      return null;
+    });
+    footNotesSection.parentElement.removeChild(footNotesSection);
   }, []); // eslint-disable-line
 
   return (
