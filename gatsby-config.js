@@ -44,6 +44,7 @@ module.exports = {
         ],
       },
     },
+    `gatsby-plugin-transition-link`,
     {
       resolve: `gatsby-plugin-feed`,
       options: {
