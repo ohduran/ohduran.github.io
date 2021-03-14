@@ -27,7 +27,7 @@ const Essay = ({ data }) => {
 
   useEffect(() => {
     const commentScript = document.createElement("script");
-    const theme = "github-light";
+    const theme = "github-dark-orange";
     commentScript.async = true;
     commentScript.src = "https://utteranc.es/client.js";
     commentScript.setAttribute("repo", "ohduran/comments"); // CHANGE THIS if you're just going to clone this repo and use the code. Do not test your code using my repo.
@@ -75,14 +75,14 @@ const Essay = ({ data }) => {
     >
       <header>
         <h1
-          className="font-bold
+          className="font-bold font-family-poppins
           text-3xl md:text-5xl
           ml-3
           "
         >
           {frontmatter.title}
         </h1>
-        <p className="mt-1 ml-3 italic text-sm md:text-base">
+        <p className="mt-2 ml-3 italic text-sm md:text-base">
           {frontmatter.summary}
           <br className="block md:hidden" /> ({wordCount.words} words)
         </p>

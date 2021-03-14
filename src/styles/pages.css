@@ -82,6 +82,6 @@ article > blockquote > p > em {
 
 /* Horizontal Line */
 article > hr {
-  @apply border-nord-0 border-opacity-50 mx-auto my-12 w-1/12;
+  @apply border-nord-7 border-opacity-50 mx-auto my-12 w-1/12;
 }
 /* End Horizontal Line */
