@@ -106,7 +106,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: "Alvaro Duran Studio",
-        short_name: "AD",
+        short_name: "ADS",
         start_url: "/",
         background_color: "#6b37bf",
         theme_color: "#6b37bf",

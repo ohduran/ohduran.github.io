@@ -75,10 +75,9 @@ const Essay = ({ data }) => {
     >
       <header>
         <h1
-          className="
-          font-clearface-bold font-semibold
+          className="font-bold
           text-3xl md:text-5xl
-          ml-3 mt-5
+          ml-3
           "
         >
           {frontmatter.title}

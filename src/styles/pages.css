@@ -33,19 +33,21 @@ article > p > figure > figcaption {
 /* Hyperlink */
 article > p > a {
   background: linear-gradient(#ebcb8b, #ebcb8b);
-  background-size: 100% 0.5rem;
+  background-size: 100% 0rem;
   background-repeat: no-repeat;
   background-position: left 0 bottom 0;
   transition: all 0.1s linear 0s;
+  border-bottom: solid 1px #ebcb8b;
 }
 article > p > a:hover {
   background-size: 100% 100%;
+  color: #4c566a;
 }
 /* End Hyperlink */
 
 /* Italics */
 article > p > em {
-  @apply text-nord-3;
+  @apply text-nord-7;
 }
 /* End Italics */
 
@@ -63,7 +65,7 @@ article > blockquote > p > em {
   @apply my-5 text-xs leading-snug text-right w-11/12 mx-auto;
 }
 .sidenote > em {
-  @apply text-nord-3;
+  @apply text-nord-7;
 }
 .sidenote > a {
   @apply underline;
@@ -83,8 +85,3 @@ article > hr {
   @apply border-nord-0 border-opacity-50 mx-auto my-12 w-1/12;
 }
 /* End Horizontal Line */
-
-/* Books must be tagged with <book></book> */
-book {
-  @apply italic;
-}

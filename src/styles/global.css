@@ -152,13 +152,15 @@
 #special-link {
   @apply font-semibold;
   background: linear-gradient(#ebcb8b, #ebcb8b);
-  background-size: 100% 0.5rem;
+  background-size: 100% 0rem;
   background-repeat: no-repeat;
   background-position: left 0 bottom 0;
   transition: all 0.1s linear 0s;
+  border-bottom: solid 1px #ebcb8b;
 }
 #special-link:hover {
   background-size: 100% 100%;
+  color: #4c566a;
 }
 
 body {
@@ -174,3 +176,8 @@ for the a transition on hover
 */
 
 @tailwind utilities;
+
+/* Books must be tagged with <book></book> */
+book {
+  @apply italic text-nord-7;
+}

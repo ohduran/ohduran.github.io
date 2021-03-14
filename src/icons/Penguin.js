@@ -6,13 +6,12 @@ const Penguin = ({ className }) => {
       className={className}
       xmlns="http://www.w3.org/2000/svg"
       version="1.1"
-      width="512"
-      height="512"
+      width="256"
+      height="256"
       x="0"
       y="0"
       viewBox="0 0 512 512"
-      style={{ enableBackground: "new 0 0 512 512" }}
-      class=""
+      style={{ enableBackground: "new 0 0 256 256" }}
     >
       <g>
         <defs xmlns="http://www.w3.org/2000/svg">

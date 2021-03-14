@@ -9,21 +9,9 @@ const About = ({ data }) => {
   return (
     <DefaultLayout title="The Writer">
       <main
-        className="mt-5 mx-auto md:grid md:gap-1 md:gap-2 md:grid-cols-2"
+        className="mt-5 md:w-9/12 mx-auto md:grid md:gap-1 md:gap-2 md:grid-cols-2"
         style={{ gridTemplateRows: "auto 1fr" }}
       >
-        <header className="row-start-1 col-span-2">
-          <h1
-            className="
-          font-clearface-bold font-semibold
-          text-lg md:text-xl text-center
-          uppercase
-          "
-          >
-            The Writer
-          </h1>
-          <hr className="mt-1 md:mt-3 mx-auto h-0.5 w-7/12 bg-nord-8" />
-        </header>
         <side className="hidden md:block md:mt-5 flex md:items-center md:justify-center">
           <figure>
             <img
@@ -55,7 +43,9 @@ const About = ({ data }) => {
               </figcaption>
             </figure>
             <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
-            <h2 className="mt-10 text-right mr-5">Á.</h2>
+            <h2 className="mt-10 mr-5 font-family-poppins font-semibold text-right ">
+              Á.
+            </h2>
           </article>
         </div>
       </main>
