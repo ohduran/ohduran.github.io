@@ -6,20 +6,15 @@ import { MDXRenderer } from "gatsby-plugin-mdx";
 import Moment from "react-moment";
 
 import { NavBar, SEO } from "../components";
+import { Penguin } from "../icons";
 
 const Home = ({ data }) => {
   return (
-    <main className="pt-5 md:pt-20 pb-5 container mx-auto">
+    <main className="pt-5 md:pt-10 pb-5 container mx-auto">
       <SEO />
       <section className="text-center container mx-auto">
-        <img
-          className="mx-auto w-36 md:w-48"
-          src="/BeagleOutline.png"
-          alt="Beagle"
-        />
-        <h1 className="mx-auto mt-3 md:mt-10 text-2xl md:text-5xl">
-          Álvaro Durán Studio
-        </h1>
+        <Penguin className="mx-auto w-36 md:w-52" />
+        <h1 className="mx-auto text-2xl md:text-5xl">Álvaro Durán Studio</h1>
         <p className="mt-3 md:mt-5 text-xs md:text-base">
           The primary source for my writing.
           <br />
