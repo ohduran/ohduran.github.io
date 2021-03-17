@@ -31,7 +31,7 @@ const About = ({ data }) => {
           <article className="md:inline md:w-11/12 mx-auto">
             <figure className="block md:hidden mb-5 md:mb-0">
               <img
-                className="h-72 mx-auto shadow-lg border-1 border-nord-9"
+                className="h-72 mx-auto shadow-md border-1 border-nord-9"
                 src="./WriterPic.png"
                 alt="Writer"
               />
