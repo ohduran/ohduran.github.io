@@ -5,7 +5,6 @@ const System_3820827458 = ({ className, canvasColor, artColor }) => {
     <svg
       className={className}
       xmlns="http://www.w3.org/2000/svg"
-      class="artwork"
       viewBox="0 0 700 700"
       width="100"
       height="100"

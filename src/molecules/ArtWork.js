@@ -20,13 +20,17 @@ const ArtWork = ({
     MutableGallery[gallery[(gallery.length * Math.random()) << 0]];
   return (
     <Link to={to} className={`flex justify-between ${className}`}>
-      <figure className="flex w-10/12">
-        <Painting className="" canvasColor={canvasColor} artColor={artColor} />
-        <figcaption className="ml-5 w-10/12">
-          <main id="special-link" className="text-3xl">
+      <figure className="flex items-center w-full md:w-10/12">
+        <Painting
+          className="rounded-2xl p-1"
+          canvasColor={canvasColor}
+          artColor={artColor}
+        />
+        <figcaption className="ml-1 md:ml-5 w-10/12">
+          <main id="special-link" className="text-lg md:text-3xl">
             {title}
           </main>
-          <side className="overflow-clip opacity-90">
+          <side className="overflow-clip opacity-90 text-xs md:text-base">
             {subtitle}
             <br className="block md:hidden" /> ({wordCount} words)
           </side>
