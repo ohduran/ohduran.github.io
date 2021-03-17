@@ -1,3 +1,4 @@
-import ArtWork from "./ArtWork";
+import Frame from "./Frame";
+import Painting from "./Painting";
 
-export { ArtWork };
+export { Frame, Painting };

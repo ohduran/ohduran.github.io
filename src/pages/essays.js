@@ -2,7 +2,7 @@ import * as React from "react";
 import { graphql } from "gatsby";
 
 import { DefaultLayout } from "../layouts";
-import { ArtWork } from "../molecules";
+import { ArtWork } from "../organisms";
 
 const Essays = ({ data }) => {
   return (
@@ -12,9 +12,6 @@ const Essays = ({ data }) => {
           {data.allMdx.nodes.map(({ frontmatter, slug, wordCount }) => (
             <li className="mt-5">
               <ArtWork
-                className=""
-                canvasColor="#eceff4"
-                artColor="#2e3440"
                 to={slug}
                 title={frontmatter.title}
                 subtitle={frontmatter.summary}
