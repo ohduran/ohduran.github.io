@@ -5,7 +5,7 @@ const System_5484209049 = ({ className, canvasColor, artColor }) => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       className={className}
-      viewBox="0 0 559.1890556755216 700"
+      viewBox="0 0 700 700"
       width="100"
       height="100"
     >
@@ -19,13 +19,7 @@ const System_5484209049 = ({ className, canvasColor, artColor }) => {
           <circle fill={artColor} cx="1" cy="1" r="0.5"></circle>
         </pattern>
       </defs>
-      <rect
-        x="0"
-        y="0"
-        width="559.1890556755216"
-        height="700"
-        fill={canvasColor}
-      />
+      <rect x="0" y="0" width="700" height="700" fill={canvasColor} />
       <g
         transform="translate(87.71967154979907 109.8086049103398) scale(0.6862611288276006)"
         stroke-linecap="round"

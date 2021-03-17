@@ -11,7 +11,7 @@ const ArtWork = ({ to, title, subtitle, wordCount, date }) => {
       date={date}
     >
       <Painting
-        className="rounded-3xl p-1"
+        className="rounded-3xl p-1 shadow-md"
         canvasColor="#eceff4"
         artColor="#2e3440"
       />
