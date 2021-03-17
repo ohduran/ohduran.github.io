@@ -1,8 +1,8 @@
 import * as React from "react";
-import { graphql, Link } from "gatsby";
-import Moment from "react-moment";
+import { graphql } from "gatsby";
 
 import { DefaultLayout } from "../layouts";
+import { ArtWork } from "../molecules";
 
 const Essays = ({ data }) => {
   return (
@@ -10,22 +10,17 @@ const Essays = ({ data }) => {
       <main className="mt-6 md:mt-12">
         <ul>
           {data.allMdx.nodes.map(({ frontmatter, slug, wordCount }) => (
-            <li>
-              <div className="mt-5 flex justify-between items-end md:items-start">
-                <Link id="special-link" to={slug}>
-                  <h1 className="text-3xl md:text-4xl">{frontmatter.title}</h1>
-                </Link>
-                <Moment
-                  className="text-xs md:text-sm"
-                  format="ddd, Do MMM YYYY"
-                >
-                  {frontmatter.date}
-                </Moment>
-              </div>
-              <article className="mt-3 text-sm md:text-base">
-                {frontmatter.summary}
-                <br className="block md:hidden" /> ({wordCount.words} words)
-              </article>
+            <li className="mt-5">
+              <ArtWork
+                className=""
+                canvasColor="#eceff4"
+                artColor="#2e3440"
+                to={slug}
+                title={frontmatter.title}
+                subtitle={frontmatter.summary}
+                wordCount={wordCount.words}
+                date={frontmatter.date}
+              />
             </li>
           ))}
         </ul>
