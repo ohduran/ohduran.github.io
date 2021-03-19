@@ -37,6 +37,9 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             fields {
               slug
             }
+            frontmatter {
+              template
+            }
           }
         }
       }
@@ -51,13 +54,16 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const posts = result.data.allMdx.edges;
 
   // you'll call `createPage` for each result
-  posts.forEach(({ node }, index) => {
+  posts.forEach(({ node }) => {
+    let template = node.frontmatter.template
+      ? node.frontmatter.template
+      : "defaultEssay";
     createPage({
       // This is the slug you created before
       // (or `node.frontmatter.slug`)
       path: node.fields.slug,
       // This component will wrap our MDX content
-      component: path.resolve(`./src/templates/essay.js`),
+      component: path.resolve(`./src/templates/${template}.js`),
       // You can use the values in this context in
       // our page layout component
       context: { id: node.id },
