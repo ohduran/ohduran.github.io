@@ -2,14 +2,14 @@ import React from "react";
 
 import { Link } from "gatsby";
 import { Penguin } from "../icons";
-import { NavBar, SEO } from "../components";
+import { Footer, NavBar, SEO } from "../components";
 
 const DefaultLayout = ({ children, title, description, article }) => {
   return (
-    <div className="pt-10 md:pt-20 pb-5 mb-5 container mx-auto border-b border-nord-8">
+    <main className="pt-10 md:pt-20 pb-1 container mx-auto">
       <SEO title={title} description={description} article={article} />
       <header className="mb-10 md:mb-20 text-center container mx-auto">
-        <Link to="/">
+        <Link className="outline-none" to="/">
           <Penguin className="mx-auto w-36 md:w-48" />
           <h1 className="mx-auto text-2xl md:text-5xl">Álvaro Durán Studio</h1>
         </Link>
@@ -23,7 +23,8 @@ const DefaultLayout = ({ children, title, description, article }) => {
         <NavBar className="mt-3 md:mt-5 " />
       </header>
       {children}
-    </div>
+      <Footer />
+    </main>
   );
 };
 
