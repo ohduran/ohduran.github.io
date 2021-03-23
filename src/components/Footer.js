@@ -1,16 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
 
-const activeStyle = {
-  borderBottomWidth: "1px",
-  paddingBottom: "1px",
-  borderColor: "#ebcb8b",
-};
-
-const FooterLink = ({ to }) => {
-  return <Link to={to}>{to}</Link>;
-};
-
 const FooterLinks = [
   {
     to: "/now",
@@ -33,25 +23,25 @@ const Footer = ({ className }) => {
       <main
         className={`w-9/12 mx-auto pt-20 mt-5 border-t border-nord-8 grid grid-cols-9 grid-rows-3 justify-items-center items-center ${className}`}
       >
-        <span className="text-9xl font-family-tertiary col-start-2 col-span-2 text-nord-7">
+        <span className="text-9xl font-family-secondary col-start-2 col-span-2 text-nord-7">
           H
         </span>
-        <span className="text-9xl font-family-tertiary col-start-4 text-nord-8">
+        <span className="text-9xl font-family-secondary col-start-4 text-nord-8">
           E
         </span>
-        <span className="text-9xl font-family-quaternary transform rotate-6 col-start-6 text-nord-13">
+        <span className="text-9xl font-family-tertiary transform rotate-6 col-start-6 text-nord-13">
           L
         </span>
-        <span className="text-9xl text-right font-family-tertiary col-start-8 row-start-2 text-nord-9">
+        <span className="text-9xl text-right font-family-secondary col-start-8 row-start-2 text-nord-9">
           L
         </span>
-        <span className="text-9xl font-family-tertiary col-start-7 row-start-3 text-nord-10">
+        <span className="text-9xl font-family-secondary col-start-7 row-start-3 text-nord-10">
           O
         </span>
         <div className="p-2 col-start-1 col-span-4 row-start-2 row-span-2">
           <p className="text-3xl">
             Let's work{" "}
-            <span className="font-family-tertiary hover:text-nord-3">
+            <span className="font-family-secondary hover:text-nord-3">
               <a
                 href="mailto:alvaro.duran.barata@gmail.com"
                 className="md:mr-5"
@@ -67,7 +57,7 @@ const Footer = ({ className }) => {
         {FooterLinks.map((item) => (
           <div>
             <Link
-              className="no-underline font-family-quaternary"
+              className="no-underline font-family-tertiary"
               style={{
                 boxShadow: "inset 0 -3px 0 #ebcb8b",
               }}
@@ -75,7 +65,7 @@ const Footer = ({ className }) => {
             >
               {item.to}
             </Link>
-            <p className="mt-1 text-sm opacity-75 font-family-tertiary">
+            <p className="mt-1 text-sm opacity-75 font-family-secondary">
               {item.description}
             </p>
           </div>

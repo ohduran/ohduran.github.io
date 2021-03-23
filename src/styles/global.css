@@ -120,47 +120,6 @@
 
 /* END Zilla Slab */
 
-/* Ubuntu */
-
-@font-face {
-  font-family: "Ubuntu";
-  src: url("../fonts/Ubuntu/Ubuntu-Bold.ttf") format("truetype");
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: "Ubuntu";
-  src: url("../fonts/Ubuntu/Ubuntu-BoldItalic.ttf") format("truetype");
-  font-weight: bold;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Ubuntu";
-  src: url("../fonts/Ubuntu/Ubuntu-Italic.ttf") format("truetype");
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Ubuntu";
-  src: url("../fonts/Ubuntu/Ubuntu-Light.ttf") format("truetype");
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: "Ubuntu";
-  src: url("../fonts/Ubuntu/Ubuntu-LightItalic.ttf") format("truetype");
-  font-weight: 300;
-  font-style: italic;
-}
-
-@font-face {
-  font-family: "Ubuntu";
-  src: url("../fonts/Ubuntu/Ubuntu-Regular.ttf") format("truetype");
-}
-
-/* END Ubuntu */
-
 /* Poppins */
 
 @font-face {
@@ -240,10 +199,6 @@
 }
 
 .font-family-tertiary {
-  font-family: "Ubuntu", sans-serif;
-}
-
-.font-family-quaternary {
   font-family: "ZillaSlab", sans-serif;
 }
 

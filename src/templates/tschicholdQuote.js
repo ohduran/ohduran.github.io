@@ -14,15 +14,12 @@ export const query = graphql`
         summary
         date(formatString: "YYYY MMMM Do")
       }
-      wordCount {
-        words
-      }
     }
   }
 `;
 
 const TschischoldQuote = ({ data }) => {
-  const { frontmatter, body, wordCount } = data.mdx;
+  const { frontmatter, body } = data.mdx;
   const commentBox = React.createRef();
 
   useEffect(() => {
