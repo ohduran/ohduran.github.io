@@ -20,14 +20,18 @@ const FooterLinks = [
     to: "/attributions",
     description: "Give back to Caesar what is Caesar's.",
   },
+  {
+    to: "/archive",
+    description: "The Entire Thing, in a single page.",
+  },
   { to: "/rss.xml", description: "My open RSS reader." },
 ];
 
 const Footer = ({ className }) => {
   return (
-    <footer className="w-9/12 mx-auto">
+    <footer className="w-11/12 mx-auto">
       <main
-        className={`pt-20 mt-5 border-t border-nord-8 grid grid-cols-9 grid-rows-3 justify-items-center items-center ${className}`}
+        className={`w-9/12 mx-auto pt-20 mt-5 border-t border-nord-8 grid grid-cols-9 grid-rows-3 justify-items-center items-center ${className}`}
       >
         <span className="text-9xl font-family-poppins col-start-2 col-span-2 text-nord-7">
           H
@@ -47,18 +51,16 @@ const Footer = ({ className }) => {
         <div className="p-2 col-start-1 col-span-4 row-start-2 row-span-2">
           <p className="text-3xl">
             Let's work{" "}
-            <span
-              className="inline font-family-poppins md:mr-5
-              transition duration-900 ease-in-out hover:text-nord-13"
-            >
-              together
+            <span className="font-family-poppins hover:text-nord-3">
+              <a
+                href="mailto:alvaro.duran.barata@gmail.com"
+                className="md:mr-5"
+              >
+                together
+              </a>
             </span>
           </p>
-          <p className="text-2xl text-center hover:text-nord-3">
-            <a href="mailto:alvaro.duran.barata@gmail.com" className="md:mr-5">
-              alvaro.duran.barata@gmail.com
-            </a>
-          </p>
+          <p className="text-2xl text-center hover:text-nord-3"></p>
         </div>
       </main>
       <side className="flex justify-around mt-10 mb-5 w-11/12 mx-auto font-family-poppins">
