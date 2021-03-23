@@ -64,8 +64,15 @@ const DefaultEssay = ({ data }) => {
 
         return null;
       });
-      footNotesSection.parentElement.removeChild(footNotesSection);
+
+      const removeChildren = (parent) => {
+        while (parent.lastChild) {
+          parent.removeChild(parent.lastChild);
+        }
+      };
+      removeChildren(footNotesSection);
     }
+
     // End Side Notes
   }, []); // eslint-disable-line
 
