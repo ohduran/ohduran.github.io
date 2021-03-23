@@ -84,7 +84,7 @@ const DefaultEssay = ({ data }) => {
     >
       <header>
         <h1
-          className="font-bold font-family-poppins
+          className="font-bold font-family-secondary
           text-3xl md:text-5xl
           ml-3
           "

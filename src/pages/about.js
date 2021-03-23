@@ -43,7 +43,7 @@ const About = ({ data }) => {
               </figcaption>
             </figure>
             <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
-            <h2 className="mt-10 mr-5 font-family-poppins font-semibold text-right ">
+            <h2 className="mt-10 mr-5 font-family-secondary font-semibold text-right ">
               Á.
             </h2>
           </article>

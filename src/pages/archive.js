@@ -22,7 +22,7 @@ const Archive = ({ data }) => {
             <li className="my-5">
               <header>
                 <Link to={slug}>
-                  <h1 className="font-bold font-family-poppins text-xl md:text-3xl ml-3">
+                  <h1 className="font-bold font-family-secondary text-xl md:text-3xl ml-3">
                     {frontmatter.title}
                   </h1>
                 </Link>

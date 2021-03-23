@@ -16,7 +16,7 @@ const Now = ({ data }) => {
         md:w-9/12
       "
         >
-          <h2 className="text-lg md:text-3xl font-semibold font-family-poppins">
+          <h2 className="text-lg md:text-3xl font-semibold font-family-secondary">
             Now
           </h2>
           <h6 className="text-xs md:text-sm mt-0 md:mt-1">

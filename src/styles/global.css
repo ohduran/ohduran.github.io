@@ -65,6 +65,61 @@
 
 /* END Open Sans */
 
+/* Zilla Slab */
+
+@font-face {
+  font-family: "ZillaSlab";
+  src: url("../fonts/Zilla_Slab/ZillaSlab-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "ZillaSlab";
+  src: url("../fonts/Zilla_Slab/ZillaSlab-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "ZillaSlab";
+  src: url("../fonts/Zilla_Slab/ZillaSlab-Italic.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "ZillaSlab";
+  src: url("../fonts/Zilla_Slab/ZillaSlab-Light.ttf") format("truetype");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "ZillaSlab";
+  src: url("../fonts/Zilla_Slab/ZillaSlab-LightItalic.ttf") format("truetype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "ZillaSlab";
+  src: url("../fonts/Zilla_Slab/ZillaSlab-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ZillaSlab";
+  src: url("../fonts/Zilla_Slab/ZillaSlab-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: "ZillaSlab";
+  src: url("../fonts/Zilla_Slab/ZillaSlab-SemiBoldItalic.ttf")
+    format("truetype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* END Open Sans */
+
 /* Poppins */
 
 @font-face {
@@ -135,12 +190,16 @@
 @tailwind base;
 @tailwind components;
 
-.font-family-open-sans {
+.font-family-primary {
   font-family: "OpenSans", sans-serif;
 }
 
-.font-family-poppins {
+.font-family-secondary {
   font-family: "Poppins", sans-serif;
+}
+
+.font-family-tertiary {
+  font-family: "ZillaSlab", sans-serif;
 }
 
 .endless-constellation {
@@ -164,11 +223,11 @@
 }
 
 body {
-  @apply endless-constellation text-nord-6 font-family-open-sans;
+  @apply endless-constellation text-nord-6 font-family-primary;
 }
 
 h1 {
-  @apply font-family-poppins font-extrabold;
+  @apply font-family-secondary font-extrabold;
 }
 
 /* Check out https://francoismarais.com/design/2020/creating-an-underline-and-elastic-hover-effect-using-css/ 

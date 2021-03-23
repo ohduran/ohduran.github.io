@@ -3,7 +3,7 @@ import { MDXRenderer } from "gatsby-plugin-mdx";
 import React, { useEffect } from "react";
 import { DefaultLayout } from "../layouts";
 
-import "../styles/pages.css";
+import "../styles/tschischold.css";
 
 export const query = graphql`
   query tschicholdQuotePostByID($id: String!) {
