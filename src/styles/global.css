@@ -190,6 +190,18 @@
 @tailwind base;
 @tailwind components;
 
+.hyphens-none {
+  hyphens: none;
+}
+
+.hyphens-manual {
+  hyphens: manual;
+}
+
+.hyphens-auto {
+  hyphens: auto;
+}
+
 .font-family-primary {
   font-family: "OpenSans", sans-serif;
 }

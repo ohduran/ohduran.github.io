@@ -73,7 +73,7 @@ const TschischoldQuote = ({ data }) => {
       article={true}
     >
       <MDXRenderer>{body}</MDXRenderer>
-      <div className="mt-5 md:mt-20 md:ml-10 md:w-8/12 text-justify">
+      <div className="mt-5 md:mt-20 md:ml-10 md:w-5/12">
         <div id="comments">
           <div ref={commentBox} className="comments" />
         </div>

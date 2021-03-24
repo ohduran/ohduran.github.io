@@ -97,10 +97,10 @@ const DefaultEssay = ({ data }) => {
         </p>
         <hr className="mt-3 mx-auto h-0.5 w-7/12 bg-nord-8" />
       </header>
-      <article className="mt-5 md:mt-20 md:ml-10 md:w-5/12 text-justify">
+      <article className="mt-5 md:mt-20 md:ml-10 md:w-5/12 text-justify hyphens-auto">
         <MDXRenderer>{body}</MDXRenderer>
       </article>
-      <div className="mt-5 md:mt-20 md:ml-10 md:w-8/12 text-justify">
+      <div className="mt-5 md:mt-20 md:ml-10 md:w-5/12">
         <div id="comments">
           <div ref={commentBox} className="comments" />
         </div>

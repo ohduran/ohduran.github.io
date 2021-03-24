@@ -28,7 +28,7 @@ const Archive = ({ data }) => {
                 </Link>
                 <hr className="mt-1 h-0.5 w-11/12 bg-nord-8" />
               </header>
-              <article className="mt-5 md:mb-16 md:mt-20 md:ml-10 md:w-5/12 text-justify">
+              <article className="mt-5 md:mb-16 md:mt-20 md:ml-10 md:w-5/12 text-justify hyphens-auto">
                 <MDXRenderer>{body}</MDXRenderer>
               </article>
             </li>

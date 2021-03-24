@@ -49,7 +49,7 @@ const About = ({ data }) => {
           </article>
         </div>
       </main>
-      <article className="mt-16 text-justify md:w-9/12 mx-auto">
+      <article className="mt-16 text-justify hyphens-auto md:w-6/12 mx-auto">
         <MDXRenderer>{data.allMdx.edges[0].node.body}</MDXRenderer>
       </article>
     </DefaultLayout>
