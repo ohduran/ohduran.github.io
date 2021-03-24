@@ -71,24 +71,23 @@ const TschischoldQuote = ({ data }) => {
       title={frontmatter.title}
       description={frontmatter.summary}
       article={true}
-      className="bg-nord-4 pt-48"
+      className="bg-nord-4 pt-48 shadow-2xl rounded-lg border-8 border-nord-1"
     >
       <div
-        className="grid-wrapper max-w-xl grid m-auto grid-cols-7 md:grid-cols-8 grid-rows-6 gap-1 transform md:-rotate-45 text-nord-0 font-family-tertiary"
+        className="grid-wrapper max-w-xl grid m-auto text-nord-0 font-family-tertiary gap-1 grid-cols-6 lg:grid-cols-8  md:transform md:-rotate-45 md:w-auto lg:w-screen"
         style={{
-          maxHeight: "40rem",
-          width: "50vw",
+          maxHeight: "45rem",
         }}
       >
         <MDXRenderer>{body}</MDXRenderer>
-        <b class="red-bar-1 block min-w-min w-full h-full bg-nord-11 col-start-1 row-start-3 row-span-4"></b>
-        <b class="red-bar-2 block w-full h-2 bg-nord-11 col-start-1 md:col-start-3 col-span-8 md:col-span-6 row-start-7 md:row-start-6 self-end z-0"></b>
         <b
-          class="red-circle block w-52 red-circle rounded-full bg-nord-11 col-start-4 col-span-3 row-start-1 row-span-3 self-center z-0"
+          class="red-bar-1 block w-full h-full bg-nord-11 col-start-1 row-start-3 row-span-4"
           style={{
-            height: "13rem",
+            minWidth: "3em",
           }}
         ></b>
+        <b class="red-bar-2 block w-full h-2 bg-nord-11 self-end z-0 col-start-1 lg:col-start-3 col-span-8 lg:col-span-6 row-start-7 lg:row-start-6"></b>
+        <b class="red-circle block rounded-full bg-nord-11 col-start-4 col-span-3 row-start-1 row-span-3 self-center z-0 w-40 h-40 lg:w-52 lg:h-52"></b>
       </div>
       <div className="mt-5 md:mt-48 md:ml-10 md:w-5/12">
         <div id="comments">
