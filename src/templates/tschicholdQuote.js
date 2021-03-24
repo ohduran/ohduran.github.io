@@ -85,9 +85,9 @@ const TschischoldQuote = ({ data }) => {
           style={{
             minWidth: "3em",
           }}
-        ></b>
-        <b class="red-bar-2 block w-full h-2 bg-nord-11 self-end z-0 col-start-1 lg:col-start-3 col-span-8 lg:col-span-6 row-start-7 lg:row-start-6"></b>
-        <b class="red-circle block rounded-full bg-nord-11 col-start-4 col-span-3 row-start-1 row-span-3 self-center z-0 w-40 h-40 lg:w-52 lg:h-52"></b>
+        />
+        <b class="red-bar-2 block w-full h-2 bg-nord-11 self-end z-0 col-start-1 lg:col-start-3 col-span-8 lg:col-span-6 row-start-7 lg:row-start-6" />
+        <b class="red-circle block rounded-full bg-nord-11 col-start-4 col-span-3 row-start-1 row-span-3 self-center z-0 w-40 h-40 lg:w-52 lg:h-52" />
       </div>
       <div className="mt-5 md:mt-48 md:ml-10 md:w-5/12">
         <div id="comments">
