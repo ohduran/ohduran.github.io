@@ -4,7 +4,13 @@ import { Link } from "gatsby";
 import { Penguin } from "../icons";
 import { Footer, NavBar, SEO } from "../components";
 
-const DefaultLayout = ({ children, title, description, article }) => {
+const DefaultLayout = ({
+  children,
+  className,
+  title,
+  description,
+  article,
+}) => {
   return (
     <main className="pt-10 md:pt-20 pb-1 container mx-auto">
       <SEO title={title} description={description} article={article} />
@@ -22,7 +28,7 @@ const DefaultLayout = ({ children, title, description, article }) => {
         </h2>
         <NavBar className="mt-3 md:mt-5 " />
       </header>
-      {children}
+      <div className={className}>{children}</div>
       <Footer />
     </main>
   );
