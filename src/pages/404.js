@@ -1,29 +1,47 @@
-import React from "react";
-import "../styles/pages.css";
+import React, { useEffect } from "react";
+import faker from "faker";
+import { Link } from "gatsby";
 
-import { DefaultLayout } from "../layouts";
+import { SEO } from "../components";
+
+const errorMessageArray = [
+  "CLOCK_WATCHDOG_TIMEOUT",
+  "HAIL_INITIALIZATION_FAILED",
+];
 
 const NotFound = ({ data }) => {
+  let errorMessage = `${faker.hacker
+    .adjective()
+    .toUpperCase()
+    .replace("-", "_")}_${faker.hacker
+    .adjective()
+    .toUpperCase()
+    .replace("-", "_")}_${faker.hacker.abbreviation()}`;
+
   return (
-    <DefaultLayout title="Not Found">
-      <h1 className="mt-5 md:mt-10 text-xl md:text-3xl text-center">
-        The page that you requested was not found!
-      </h1>
-      <h2 className="mt-1 text-sm md:text-base text-center">
-        Here's a picture from{" "}
-        <a id="special-link" href="https://absurd.design">
-          Absurd Design
-        </a>
-        .
-      </h2>
-      <figure className="mt-5">
-        <img
-          className="w-11/12 md:w-8/12 lg:w-5/12 mx-auto"
-          src="/NotFound.png"
-          alt="Not Found"
-        />
-      </figure>
-    </DefaultLayout>
+    <div className="bg-nord-0 w-screen h-screen m-auto flex justify-center items-center">
+      <SEO title="404" description="Not Found" article={false} />
+      <main className="ml-5 md:ml-0 md:w-5/12 grid gap-2 md:gap-4 grid-cols-3 grid-rows-6">
+        <div className="text-7xl md:text-9xl col-start-1 col-span-2 row-start-1 row-span-2 self-center">
+          ( ._.)
+        </div>
+        <h1 className="col-start-1 col-span-3 row-start-3 font-family-secondary text-base md:text-3xl font-normal">
+          Your curiosity ran into a problem that this site couldn't handle.
+        </h1>
+        <div className="col-start-1 col-span-3 row-start-4 text-sm md:text-base">
+          <p>Good luck searching for it online.</p>
+          <p>
+            Error code: <span>{errorMessage}</span>
+          </p>
+        </div>
+        <p className="row-start-6 col-span-2 text-xs md:text-sm font-family-tertiary self-end">
+          Go back to{" "}
+          <Link to="/" className="hover:text-nord-11">
+            alvaroduran.com
+          </Link>
+        </p>
+      </main>
+    </div>
   );
 };
 
