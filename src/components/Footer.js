@@ -12,7 +12,7 @@ const FooterLinks = [
   },
   {
     to: "/resources",
-    description: "Advice for those new",
+    description: "Advice for the beginners",
   },
   {
     to: "/faq",
