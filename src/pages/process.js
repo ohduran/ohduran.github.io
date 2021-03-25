@@ -16,7 +16,7 @@ const Process = ({ data }) => {
         md:w-9/12
       "
         >
-          <h2 className="text-lg md:text-3xl font-semibold font-family-secondary">
+          <h2 className="text-lg md:text-5xl font-semibold font-family-tertiary text-center">
             How I work
           </h2>
           <article className="w-11/12 md:w-8/12 mt-5 md:mt-10 mx-auto">
