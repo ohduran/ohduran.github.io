@@ -3,7 +3,7 @@ article > h1 {
 }
 
 article > h2 {
-  @apply text-xl md:text-3xl my-3;
+  @apply text-xl md:text-3xl my-8 text-nord-7 font-bold;
 }
 
 article > h3 {
@@ -23,7 +23,8 @@ article > h6 {
 }
 
 article > p {
-  @apply text-base md:text-lg mb-3 leading-relaxed;
+  @apply text-base md:text-lg mb-3 leading-relaxed text-justify;
+  hyphens: auto;
 }
 
 article > p > figure > figcaption {
