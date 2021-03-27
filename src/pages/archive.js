@@ -21,7 +21,7 @@ const Archive = ({ data }) => {
           {data.allMdx.nodes.map(({ frontmatter, slug, body }) => (
             <li className="my-5">
               <header>
-                <Link to={slug}>
+                <Link to={`../essays/${slug}`}>
                   <h1 className="font-bold font-family-secondary text-xl md:text-3xl ml-3">
                     {frontmatter.title}
                   </h1>
