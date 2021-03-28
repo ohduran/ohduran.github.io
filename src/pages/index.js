@@ -14,7 +14,7 @@ const Home = ({ data }) => {
     >
       <figure className="col-start-2 row-start-1 row-span-2 z-0 flex">
         <img
-          className="opacity-20 w-1/2 float-right"
+          className="opacity-20 h-auto w-auto lg:w-1/2 float-right"
           src="./Cascais.png"
           alt="Writer"
           style={{
@@ -22,12 +22,15 @@ const Home = ({ data }) => {
           }}
         />
       </figure>
-      <main className="col-start-3 col-span-1 row-start-1 row-span-2 z-10 self-center justify-self-center w-6/12 mx-auto text-lg">
-        <p className="text-2xl font-semibold">
+      <main className="col-start-3 col-span-1 row-start-1 row-span-2 z-10 self-center justify-self-center w-7/12 lg:w-6/12 mx-auto text-sm md:text-lg">
+        <p className="text-lg md:text-2xl font-semibold">
           Hi, I'm{" "}
-          <span className="font-family-tertiary text-3xl">Álvaro Durán</span>.
+          <span className="font-family-tertiary text-xl md:text-3xl">
+            Álvaro Durán
+          </span>
+          .
         </p>
-        <p className="mt-5">
+        <p className="mt-4 md:mt-5">
           I'm a software engineer at EdgeTier, and I'm especially interested in
           the{" "}
           <span className="font-semibold text-nord-13 font-family-secondary">
@@ -35,7 +38,7 @@ const Home = ({ data }) => {
           </span>{" "}
           of the infrastructure of the world.
         </p>
-        <p className="mt-5">
+        <p className="mt-1 md:mt-5">
           I{" "}
           <a href="https://www.youtube.com/watch?v=S3ebYJxXBRU">
             speak at conferences
@@ -45,9 +48,9 @@ const Home = ({ data }) => {
       </main>
       <div
         id="box"
-        className="border-8 border-solid border-nord-8 z-0 m-12 col-start-1 col-span-2 row-start-1 row-span-2"
+        className="border-2 sm:border-4 md:border-6 lg:border-8 border-solid border-nord-8 z-0 m-1 md:m-12 col-start-1 col-span-2 row-start-1 row-span-2"
       />
-      <side className="col-start-1 col-span-2 row-start-1 row-span-2 z-10 w-11/12 mx-auto text-5xl font-family-secondary font-bold grid gap-2 grid-cols-7 grid-rows-6 justify-center items-center">
+      <side className="col-start-1 col-span-2 row-start-1 row-span-2 z-10 w-11/12 mx-auto text-2xl sm:text-3xl md:text-5xl font-family-secondary font-bold grid gap-2 grid-cols-7 grid-rows-6 justify-center items-center">
         <span className="col-start-2 row-start-1">Á</span>
         <span className="col-start-3 row-start-1">L</span>
         <span className="col-start-5 row-start-1">V</span>
