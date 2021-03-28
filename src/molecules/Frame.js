@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+import { InternalLink } from "../atoms";
 import Moment from "react-moment";
 
 const Frame = ({
@@ -12,7 +12,10 @@ const Frame = ({
   children,
 }) => {
   return (
-    <Link to={to} className={`flex justify-between items-center ${className}`}>
+    <InternalLink
+      to={to}
+      className={`flex justify-between items-center ${className}`}
+    >
       <figure className="flex items-center w-full md:w-10/12">
         {children}
         <figcaption className="ml-1 md:ml-5 w-10/12">
@@ -31,7 +34,7 @@ const Frame = ({
         <Moment format="ddd, Do MMM YYYY">{date}</Moment>
         <p className="text-right">{wordCount} words</p>
       </side>
-    </Link>
+    </InternalLink>
   );
 };
 

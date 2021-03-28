@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import { InternalLink } from "../molecules";
+import { InternalLink } from "../atoms";
 import { RSS, Mail, LocationMarker } from "../icons";
 
 const NavBar = ({ className }) => {

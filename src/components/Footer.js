@@ -1,5 +1,5 @@
 import React from "react";
-import { InternalLink } from "../molecules";
+import { InternalLink } from "../atoms";
 
 const FooterLinks = [
   {
