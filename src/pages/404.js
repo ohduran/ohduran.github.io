@@ -1,13 +1,8 @@
-import React, { useEffect } from "react";
+import React from "react";
 import faker from "faker";
 import { Link } from "gatsby";
 
 import { SEO } from "../components";
-
-const errorMessageArray = [
-  "CLOCK_WATCHDOG_TIMEOUT",
-  "HAIL_INITIALIZATION_FAILED",
-];
 
 const NotFound = ({ data }) => {
   let errorMessage = `${faker.hacker

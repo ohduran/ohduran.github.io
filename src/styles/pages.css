@@ -48,7 +48,7 @@ article > p > a:hover {
 
 /* Italics */
 article > p > em {
-  @apply text-nord-7;
+  @apply text-nord-5;
 }
 /* End Italics */
 

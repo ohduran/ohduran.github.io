@@ -57,7 +57,7 @@ const Footer = ({ className }) => {
       <side className="text-nord-4 text-center md:text-left text-sm md:text-base grid grid-cols-5 gap-2 mt-10 mb-5 md:w-11/12 mx-auto">
         {FooterLinks.map((item) => (
           <div className="">
-            {item.to[0] == "/" ? (
+            {item.to[0] === "/" ? (
               <InternalLink
                 className="no-underline font-family-tertiary text-base md:text-lg hover:text-nord-13"
                 style={{
@@ -71,6 +71,7 @@ const Footer = ({ className }) => {
               <a
                 href={item.to}
                 target="_blank"
+                rel="noreferrer"
                 className="no-underline font-family-tertiary"
                 style={{
                   boxShadow: "inset 0 -3px 0 #ebcb8b",
