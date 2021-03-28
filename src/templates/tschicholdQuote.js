@@ -3,8 +3,6 @@ import { MDXRenderer } from "gatsby-plugin-mdx";
 import React, { useEffect } from "react";
 import { DefaultLayout } from "../layouts";
 
-import "../styles/tschischold.css";
-
 export const query = graphql`
   query tschicholdQuotePostByID($id: String!) {
     mdx(id: { eq: $id }) {
@@ -19,6 +17,7 @@ export const query = graphql`
 `;
 
 const TschischoldQuote = ({ data }) => {
+  require("../styles/tschischold.css");
   const { frontmatter, body } = data.mdx;
   const commentBox = React.createRef();
 

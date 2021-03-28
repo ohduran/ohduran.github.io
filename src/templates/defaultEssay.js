@@ -4,7 +4,6 @@ import React, { useEffect } from "react";
 import { handleFootNotes } from "../functions";
 
 import { DefaultLayout } from "../layouts";
-import "../styles/pages.css";
 
 export const query = graphql`
   query PostsByID($id: String!) {
@@ -45,6 +44,7 @@ const DefaultEssay = ({ data }) => {
     handleFootNotes();
   }, []); // eslint-disable-line
 
+  require("../styles/pages.css");
   return (
     <DefaultLayout
       title={frontmatter.title}
