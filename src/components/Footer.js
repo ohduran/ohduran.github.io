@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+import { InternalLink } from "../molecules";
 
 const FooterLinks = [
   {
@@ -58,15 +58,15 @@ const Footer = ({ className }) => {
         {FooterLinks.map((item) => (
           <div className="">
             {item.to[0] == "/" ? (
-              <Link
-                className="no-underline font-family-tertiary"
+              <InternalLink
+                className="no-underline font-family-tertiary text-base md:text-lg hover:text-nord-13"
                 style={{
                   boxShadow: "inset 0 -3px 0 #ebcb8b",
                 }}
                 to={item.to}
               >
                 {item.to}
-              </Link>
+              </InternalLink>
             ) : (
               <a
                 href={item.to}
