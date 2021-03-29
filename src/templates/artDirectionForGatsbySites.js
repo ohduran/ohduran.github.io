@@ -32,7 +32,7 @@ const DefaultEssay = ({ data }) => {
       title={title}
       description={summary}
       article={true}
-      backgroundColor="#8a4baf"
+      backgroundColor="#663399"
     >
       <DefaultEssayHeader
         title={title}
