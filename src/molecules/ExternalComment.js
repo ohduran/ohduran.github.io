@@ -17,8 +17,8 @@ const ExternalComment = ({ href, avatarUrl, username, date, children }) => (
             commented on <span>{date}</span>
           </h3>
         </div>
-        <div className="w-full border-2 border-nord-1">
-          <p className="mx-4 my-4">{children}</p>
+        <div className="w-full border-2 border-nord-1 bg-nord-4 shadow-lg">
+          <p className="mx-4 my-4 text-nord-3">{children}</p>
         </div>
       </div>
     </div>

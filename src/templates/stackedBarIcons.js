@@ -1,49 +1,28 @@
 import { graphql } from "gatsby";
-import React, { useEffect } from "react";
+import React from "react";
 import { DefaultLayout } from "../layouts";
+import { CommentBox } from "../organisms";
 
 import "../styles/tschischold.css";
 
 export const query = graphql`
   query stackedBarIconsByID($id: String!) {
     mdx(id: { eq: $id }) {
-      body
       frontmatter {
         title
         summary
-        date(formatString: "YYYY MMMM Do")
       }
     }
   }
 `;
 
 const TschischoldQuote = ({ data }) => {
-  const { frontmatter } = data.mdx;
-  const commentBox = React.createRef();
-
-  useEffect(() => {
-    const commentScript = document.createElement("script");
-    const theme = "boxy-light";
-    commentScript.async = true;
-    commentScript.src = "https://utteranc.es/client.js";
-    commentScript.setAttribute("repo", "ohduran/comments"); // CHANGE THIS if you're just going to clone this repo and use the code. Do not test your code using my repo.
-    commentScript.setAttribute("issue-term", "pathname");
-    commentScript.setAttribute("id", "utterances");
-    commentScript.setAttribute("theme", theme);
-    commentScript.setAttribute("crossorigin", "anonymous");
-    if (commentBox && commentBox.current) {
-      commentBox.current.appendChild(commentScript);
-    } else {
-      console.log(`Error adding utterances comments on: ${commentBox}`);
-    }
-  }, []); // eslint-disable-line
+  const {
+    frontmatter: { title, summary },
+  } = data.mdx;
 
   return (
-    <DefaultLayout
-      title={frontmatter.title}
-      description={frontmatter.summary}
-      article={true}
-    >
+    <DefaultLayout title={title} description={summary} article={true}>
       <main className="bg-gray-900 px-2 py-20 sm:py-32 md:py-48 shadow-2xl rounded-lg border-8 border-nord-1">
         <div
           className="grid h-48 sm:h-52 md:h-64 lg:h-96 w-full mx-auto"
@@ -90,11 +69,7 @@ const TschischoldQuote = ({ data }) => {
           </span>
         </div>
       </main>
-      <side className="mt-5 md:ml-10 md:w-5/12">
-        <div id="comments">
-          <div ref={commentBox} className="comments" />
-        </div>
-      </side>
+      <CommentBox theme="github-dark-orange" />
     </DefaultLayout>
   );
 };

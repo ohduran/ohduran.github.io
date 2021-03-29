@@ -1,3 +1,6 @@
+import Article from "./Article";
 import ArtWork from "./Artwork";
+import CommentBox from "./CommentBox";
+import DefaultEssayHeader from "./DefaultEssayHeader";
 
-export { ArtWork };
+export { Article, ArtWork, CommentBox, DefaultEssayHeader };
