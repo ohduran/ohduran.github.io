@@ -8,39 +8,39 @@
   --size-900: 4.2rem;
 } */
 
-article a:not([class]) {
+article > a:not([class]) {
   color: inherit;
 }
 
-article h1,
-article h2,
-article h3,
-article h4 {
+article > h1,
+article > h2,
+article > h3,
+article > h4 {
   @apply leading-snug;
 }
 
-article h1,
-article h2 {
+article > h1,
+article > h2 {
   @apply font-black;
 }
 
-article h1 {
+article > h1 {
   @apply text-4xl md:text-7xl;
 }
 
-article h2 {
+article > h2 {
   @apply text-3xl md:text-4xl;
 }
 
-article h3 {
+article > h3 {
   @apply text-3xl;
 }
 
-article p {
+article > p {
   @apply md:text-lg;
 }
 
-article blockquote {
+article > blockquote {
   @apply w-screen;
   margin-left: calc(50% - 50vw);
   background-color: #d8dee9;
@@ -49,69 +49,65 @@ article blockquote {
   background-size: cover;
 }
 
-article blockquote p {
+article > blockquote p {
   @apply w-11/12 mx-auto my-5 py-5 md:my-7 md:py-7 text-xl md:text-3xl text-left italic text-nord-0;
   max-width: 40ch;
 }
 
-article blockquote p:last-child {
+article > blockquote p:last-child {
   @apply mt-0 pt-0;
 }
 
-article img {
+article > img {
   max-width: min(55rem, 100%);
 }
 
-article figcaption {
+article > figcaption {
   @apply text-xs italic mt-4;
-}
-
-::selection {
-  @apply text-nord-6 bg-nord-0;
 }
 
 article > * + * {
   margin-top: 1em; /* https://every-layout.dev/layouts/stack/ */
 }
 
-article p,
-article li {
+article > p,
+article > li {
   max-width: 60ch;
 }
 
-article h1 {
+article > h1 {
   max-width: 15ch;
 }
 
-article h2,
-article h3 {
+article > h2,
+article > h3 {
   max-width: 25ch;
 }
 
-article {
+article > {
   --flow-space: 2.5rem;
   @apply mx-auto py-6;
   width: 90vw;
   width: clamp(16rem, 90vw, 70rem);
 }
 
-article time {
+article > time {
   --flow-space: 1rem;
   @apply block;
 }
 
-article :is(h2, h3) + * {
+article > :is(h2, h3) + * {
   --flow-space: 4.2rem;
 }
 
-article figure,
-article figure + * {
+article > figure,
+article > figure + * {
   --flow-space: 4.2rem;
 }
 /* Non-readability stuff */
 
 /* Hyperlink */
-article p a {
+article > p a {
   background: linear-gradient(#ebcb8b, #ebcb8b);
   background-size: 100% 0rem;
   background-repeat: no-repeat;
