@@ -1,38 +1,117 @@
-article > h1 {
-  @apply text-2xl md:text-4xl my-5;
+/* :root {
+  --size-300: 0.75rem;
+  --size-400: 1rem;
+  --size-500: 1.33rem;
+  --size-600: 1.77rem;
+  --size-700: 2.36rem;
+  --size-800: 3.15rem;
+  --size-900: 4.2rem;
+} */
+
+article a:not([class]) {
+  color: inherit;
 }
 
-article > h2 {
-  @apply text-xl md:text-3xl my-8 text-nord-7 font-bold;
+article h1,
+article h2,
+article h3,
+article h4 {
+  @apply leading-snug;
 }
 
-article > h3 {
-  @apply text-lg md:text-2xl my-2;
+article h1,
+article h2 {
+  @apply font-black;
 }
 
-article > h4 {
-  @apply text-base md:text-xl my-1;
+article h1 {
+  @apply text-4xl md:text-7xl;
 }
 
-article > h5 {
-  @apply text-base md:text-lg font-semibold;
+article h2 {
+  @apply text-3xl md:text-4xl;
 }
 
-article > h6 {
-  @apply text-base md:text-lg underline;
+article h3 {
+  @apply text-3xl;
 }
 
-article > p {
-  @apply text-base md:text-lg mb-3 leading-relaxed text-justify;
-  hyphens: auto;
+article p {
+  @apply md:text-lg;
 }
 
-article > p > figure > figcaption {
-  @apply text-center text-xs md:text-sm mt-1 mb-2 leading-none w-11/12 mx-auto;
+article blockquote {
+  @apply w-screen;
+  margin-left: calc(50% - 50vw);
+  background-color: #d8dee9;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%236799b8' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23445f92' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%237eb5ce' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%235682a9' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%2371add2' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%235492b8' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%2376a6c7' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23559ec7' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%236689b1' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%2374aab7' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%236d93bc' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%237bb4c4' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
 }
+
+article blockquote p {
+  @apply w-11/12 mx-auto my-5 py-5 md:my-7 md:py-7 text-xl md:text-3xl text-left italic text-nord-0;
+  max-width: 40ch;
+}
+
+article blockquote p:last-child {
+  @apply mt-0 pt-0;
+}
+
+article img {
+  max-width: min(55rem, 100%);
+}
+
+article figcaption {
+  @apply text-xs italic mt-4;
+}
+
+::selection {
+  @apply text-nord-6 bg-nord-0;
+}
+
+article > * + * {
+  margin-top: 1em; /* https://every-layout.dev/layouts/stack/ */
+}
+
+article p,
+article li {
+  max-width: 60ch;
+}
+
+article h1 {
+  max-width: 15ch;
+}
+
+article h2,
+article h3 {
+  max-width: 25ch;
+}
+
+article {
+  --flow-space: 2.5rem;
+  @apply mx-auto py-6;
+  width: 90vw;
+  width: clamp(16rem, 90vw, 70rem);
+}
+
+article time {
+  --flow-space: 1rem;
+  @apply block;
+}
+
+article :is(h2, h3) + * {
+  --flow-space: 4.2rem;
+}
+
+article figure,
+article figure + * {
+  --flow-space: 4.2rem;
+}
+/* Non-readability stuff */
 
 /* Hyperlink */
-article > p > a {
+article p a {
   background: linear-gradient(#ebcb8b, #ebcb8b);
   background-size: 100% 0rem;
   background-repeat: no-repeat;
@@ -46,20 +125,12 @@ article > p > a:hover {
 }
 /* End Hyperlink */
 
-/* Italics */
-article > p > em {
-  @apply text-nord-5;
+/* Horizontal Line */
+article > hr {
+  @apply border-nord-7 border-opacity-100 mx-auto my-12 w-screen;
+  margin-left: calc(50% - 50vw);
 }
-/* End Italics */
-
-/* Quote */
-article > blockquote {
-  @apply bg-nord-6 mx-auto my-8 py-8 px-8 w-11/12 text-base md:text-lg leading-relaxed md:leading-loose italic text-nord-3 rounded-xl shadow-sm border-l-8 border-nord-12;
-}
-article > blockquote > p > em {
-  @apply not-italic;
-}
-/* End Quote */
+/* End Horizontal Line */
 
 /* Side Note */
 .sidenote {
@@ -80,9 +151,3 @@ article > blockquote > p > em {
 }
 
 /* End Side Note */
-
-/* Horizontal Line */
-article > hr {
-  @apply border-nord-7 border-opacity-50 mx-auto my-12 w-1/12;
-}
-/* End Horizontal Line */

@@ -37,9 +37,7 @@ const Article = ({ className, body }) => {
     }
   }, []);
   return (
-    <article
-      className={` text-justify hyphens-auto ${className ? className : ""}`}
-    >
+    <article className={`text-justify ${className ? className : ""}`}>
       <MDXRenderer>{body}</MDXRenderer>
     </article>
   );

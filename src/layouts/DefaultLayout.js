@@ -2,7 +2,7 @@ import React from "react";
 
 import { InternalLink } from "../atoms";
 import { Penguin } from "../icons";
-import { Footer, NavBar, SEO } from "../components";
+import { Footer, NavBar, SEO } from "../organisms";
 
 const DefaultLayout = ({
   children,

@@ -33,7 +33,7 @@ const DefaultEssay = ({ data }) => {
         summary={summary}
         wordCount={wordCount.words}
       />
-      <Article className="mt-5 md:mt-20 md:ml-10 md:w-5/12" body={body} />
+      <Article className="mt-5 md:mt-20" body={body} />
       <CommentBox theme="github-dark-orange" />
     </DefaultLayout>
   );

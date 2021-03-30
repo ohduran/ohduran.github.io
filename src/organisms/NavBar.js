@@ -6,8 +6,8 @@ import { RSS, Mail, LocationMarker } from "../icons";
 const NavBar = ({ className }) => {
   return (
     <nav
-      className={`mt-3 mx-auto md:w-7/12 lg:w-5/12 flex justify-around uppercase font-semibold font-family-popping text-xl
-    ${className}`}
+      className={`mx-auto md:w-7/12 lg:w-5/12 flex justify-around uppercase font-semibold font-family-popping text-xl
+    ${className ? className : ""}`}
     >
       <InternalLink
         className="text-base md:text-lg hover:text-nord-13"

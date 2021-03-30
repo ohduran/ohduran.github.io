@@ -23,7 +23,7 @@ const FooterLinks = [
 
 const Footer = ({ className }) => {
   return (
-    <footer className="sm:w-11/12 mx-auto">
+    <footer className={`sm:w-11/12 mx-auto ${className ? className : ""}`}>
       <main
         className={`md:w-10/12 mx-auto pt-10 md:pt-20 mt-5 border-t border-nord-8 grid grid-cols-9 grid-rows-3 justify-items-center items-center text-5xl md:text-9xl ${className}`}
       >
@@ -54,7 +54,7 @@ const Footer = ({ className }) => {
           </p>
         </div>
       </main>
-      <side className="text-nord-4 text-center md:text-left text-sm md:text-base grid grid-cols-5 gap-2 mt-10 mb-5 md:w-11/12 mx-auto">
+      <side className="text-nord-4 text-center md:text-left text-sm md:text-base grid grid-cols-5 gap-2 mt-10 pb-5 md:w-11/12 mx-auto">
         {FooterLinks.map((item) => (
           <div className="">
             {item.to[0] === "/" ? (

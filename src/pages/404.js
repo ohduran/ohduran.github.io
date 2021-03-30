@@ -2,9 +2,9 @@ import React from "react";
 import faker from "faker";
 import { Link } from "gatsby";
 
-import { SEO } from "../components";
+import { SEO } from "../organisms";
 
-const NotFound = ({ data }) => {
+const NotFound = () => {
   let errorMessage = `${faker.hacker
     .adjective()
     .toUpperCase()

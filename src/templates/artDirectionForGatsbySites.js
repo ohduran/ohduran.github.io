@@ -1,6 +1,6 @@
 import { graphql } from "gatsby";
 import React from "react";
-import { ArtDirectionHeader } from "../components";
+import { ArtDirectionHeader } from "../contrib";
 
 import { DefaultLayout } from "../layouts";
 import { Article, CommentBox, DefaultEssayHeader } from "../organisms";
@@ -20,7 +20,7 @@ export const query = graphql`
   }
 `;
 
-const DefaultEssay = ({ data }) => {
+const ArtDirectionForGatsbySitesEssay = ({ data }) => {
   const {
     frontmatter: { title, summary },
     body,
@@ -47,4 +47,4 @@ const DefaultEssay = ({ data }) => {
   );
 };
 
-export default DefaultEssay;
+export default ArtDirectionForGatsbySitesEssay;
