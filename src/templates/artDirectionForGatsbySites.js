@@ -12,6 +12,7 @@ export const query = graphql`
       frontmatter {
         title
         summary
+        background
       }
       wordCount {
         words
@@ -22,7 +23,7 @@ export const query = graphql`
 
 const ArtDirectionForGatsbySitesEssay = ({ data }) => {
   const {
-    frontmatter: { title, summary },
+    frontmatter: { title, summary, background },
     body,
     wordCount,
   } = data.mdx;
@@ -32,7 +33,7 @@ const ArtDirectionForGatsbySitesEssay = ({ data }) => {
       title={title}
       description={summary}
       article={true}
-      backgroundColor="#663399"
+      background={background}
     >
       <DefaultEssayHeader
         title={title}
@@ -41,7 +42,7 @@ const ArtDirectionForGatsbySitesEssay = ({ data }) => {
       >
         <ArtDirectionHeader>{title}</ArtDirectionHeader>
       </DefaultEssayHeader>
-      <Article className="mt-5 md:mt-20 md:ml-10" body={body} />
+      <Article className="mt-5 md:mt-20" body={body} />
       <CommentBox theme="github-dark-orange" />
     </DefaultLayout>
   );

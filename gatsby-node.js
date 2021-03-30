@@ -39,6 +39,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
             }
             frontmatter {
               template
+              background
             }
           }
         }

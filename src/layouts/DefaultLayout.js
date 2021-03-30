@@ -10,14 +10,14 @@ const DefaultLayout = ({
   title,
   description,
   article,
-  backgroundColor,
+  background,
   textColor,
 }) => {
   return (
     <main
       className=""
       style={{
-        backgroundColor: `${backgroundColor ? backgroundColor : ""}`,
+        background: `${background ? background : ""}`,
         color: `${textColor ? textColor : ""}`,
       }}
     >
@@ -30,14 +30,12 @@ const DefaultLayout = ({
           </InternalLink>
           <h2 className="mt-3 md:mt-5 text-base md:text-2xl">
             Blurring the lines between{" "}
-            <span className={backgroundColor || textColor ? "" : "text-nord-7"}>
+            <span className={background || textColor ? "" : "text-nord-7"}>
               business strategy
             </span>
             <br />
             and{" "}
-            <span
-              className={backgroundColor || textColor ? "" : "text-nord-10"}
-            >
+            <span className={background || textColor ? "" : "text-nord-10"}>
               software engineering
             </span>
             .

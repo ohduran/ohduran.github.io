@@ -50,7 +50,7 @@ article > blockquote {
 }
 
 article > blockquote p {
-  @apply w-11/12 mx-auto my-5 py-5 md:my-7 md:py-7 text-xl md:text-3xl text-left italic text-nord-0;
+  @apply mx-auto my-5 py-5 md:my-7 md:py-7 text-xl md:text-3xl text-left italic text-nord-0;
   max-width: 40ch;
 }
 
@@ -106,6 +106,12 @@ article > figure + * {
 }
 /* Non-readability stuff */
 
+/* Treat h6 as inline notes */
+article > h6 {
+  @apply md:text-lg italic opacity-70 ml-5 md:ml-10;
+  max-width: 55ch;
+}
+
 /* Hyperlink */
 article > p a {
   background: linear-gradient(#ebcb8b, #ebcb8b);
@@ -123,8 +129,8 @@ article > p > a:hover {
 
 /* Horizontal Line */
 article > hr {
-  @apply border-nord-7 border-opacity-100 mx-auto my-12 w-screen;
-  margin-left: calc(50% - 50vw);
+  @apply mx-auto md:ml-0 opacity-20 my-10 md:my-16;
+  max-width: 60ch;
 }
 /* End Horizontal Line */
 
