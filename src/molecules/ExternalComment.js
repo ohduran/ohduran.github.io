@@ -3,7 +3,7 @@ import React from "react";
 const ExternalComment = ({ href, avatarUrl, username, date, children }) => (
   <a href={href}>
     <div
-      className="my-5 mx-auto md:ml-20 md:mr-0 focus:outline-none transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 text-sm"
+      className="my-5 md:my-12 mx-auto md:ml-20 md:mr-0 focus:outline-none transition duration-500 ease-in-out transform hover:-translate-y-1 hover:scale-110 text-sm"
       style={{
         maxWidth: "60ch",
       }}

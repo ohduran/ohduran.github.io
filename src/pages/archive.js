@@ -2,6 +2,7 @@ import * as React from "react";
 import { graphql, Link } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { DefaultLayout } from "../layouts";
+import { InternalLink } from "../atoms";
 
 const Archive = ({ data }) => {
   let totalWordCount = 0;
@@ -21,11 +22,11 @@ const Archive = ({ data }) => {
           {data.allMdx.nodes.map(({ frontmatter, slug, body }) => (
             <li className="my-5">
               <header>
-                <Link to={`../essays/${slug}`}>
+                <InternalLink to={`../essays/${slug}`}>
                   <h1 className="font-bold font-family-secondary text-xl md:text-3xl ml-3">
                     {frontmatter.title}
                   </h1>
-                </Link>
+                </InternalLink>
                 <hr className="mt-1 h-0.5 w-11/12 bg-nord-8" />
               </header>
               <article className="mt-5 md:mb-16 md:mt-20 md:ml-10 md:w-5/12 text-justify hyphens-auto">
