@@ -22,45 +22,27 @@ const System_3427227453 = ({ className, canvasColor, artColor }) => {
       <rect x="0" y="0" width="700" height="700" fill={canvasColor} />
       <g
         transform="translate(52.5 52.5) scale(0.85)"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1"
         stroke={artColor}
       >
-        <circle cx="366" cy="58" r="29" fill="none" stroke-width="1"></circle>
+        <circle cx="366" cy="58" r="29" fill="none" strokeWidth="1"></circle>
         <circle cx="366" cy="58" r="21" fill="none"></circle>
 
-        <circle
-          cx="188"
-          cy="109"
-          r="54.5"
-          fill="none"
-          stroke-width="2"
-        ></circle>
+        <circle cx="188" cy="109" r="54.5" fill="none" strokeWidth="2"></circle>
         <circle cx="188" cy="109" r="2" fill="none"></circle>
 
-        <circle
-          cx="505"
-          cy="270"
-          r="97.5"
-          fill="none"
-          stroke-width="1"
-        ></circle>
+        <circle cx="505" cy="270" r="97.5" fill="none" strokeWidth="1"></circle>
         <circle cx="505" cy="270" r="58" fill="none"></circle>
 
-        <circle
-          cx="133"
-          cy="599"
-          r="50.5"
-          fill="none"
-          stroke-width="1"
-        ></circle>
+        <circle cx="133" cy="599" r="50.5" fill="none" strokeWidth="1"></circle>
         <circle cx="133" cy="599" r="3" fill="none"></circle>
 
-        <circle cx="358" cy="320" r="160" fill="none" stroke-width="2"></circle>
+        <circle cx="358" cy="320" r="160" fill="none" strokeWidth="2"></circle>
         <circle cx="358" cy="320" r="159" fill="none"></circle>
 
-        <circle cx="272" cy="51" r="25.5" fill="none" stroke-width="1"></circle>
+        <circle cx="272" cy="51" r="25.5" fill="none" strokeWidth="1"></circle>
         <circle cx="272" cy="51" r="2" fill={canvasColor}></circle>
         <polyline
           fill="url(#circles)"

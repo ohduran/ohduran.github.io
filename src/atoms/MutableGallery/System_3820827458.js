@@ -22,39 +22,27 @@ const System_3820827458 = ({ className, canvasColor, artColor }) => {
       <rect x="0" y="0" width="700" height="700" fill={canvasColor} />
       <g
         transform="translate(52.5 52.5) scale(0.85)"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1"
         stroke={artColor}
       >
-        <circle
-          cx="526"
-          cy="113"
-          r="56.5"
-          fill="none"
-          stroke-width="1"
-        ></circle>
+        <circle cx="526" cy="113" r="56.5" fill="none" strokeWidth="1"></circle>
         <circle cx="526" cy="113" r="24" fill="none"></circle>
 
-        <circle cx="400" cy="87" r="43.5" fill="none" stroke-width="1"></circle>
+        <circle cx="400" cy="87" r="43.5" fill="none" strokeWidth="1"></circle>
         <circle cx="400" cy="87" r="22" fill="none"></circle>
 
-        <circle cx="612" cy="468" r="44" fill="none" stroke-width="2"></circle>
+        <circle cx="612" cy="468" r="44" fill="none" strokeWidth="2"></circle>
         <circle cx="612" cy="468" r="22" fill={artColor}></circle>
 
-        <circle
-          cx="295"
-          cy="177"
-          r="88.5"
-          fill="none"
-          stroke-width="2"
-        ></circle>
+        <circle cx="295" cy="177" r="88.5" fill="none" strokeWidth="2"></circle>
         <circle cx="295" cy="177" r="61" fill="none"></circle>
 
-        <circle cx="43" cy="485" r="21.5" fill="none" stroke-width="1"></circle>
+        <circle cx="43" cy="485" r="21.5" fill="none" strokeWidth="1"></circle>
         <circle cx="43" cy="485" r="7" fill={artColor}></circle>
 
-        <circle cx="172" cy="564" r="68" fill="none" stroke-width="2"></circle>
+        <circle cx="172" cy="564" r="68" fill="none" strokeWidth="2"></circle>
         <circle cx="172" cy="564" r="10" fill="none"></circle>
 
         <circle
@@ -62,7 +50,7 @@ const System_3820827458 = ({ className, canvasColor, artColor }) => {
           cy="253"
           r="126.5"
           fill="none"
-          stroke-width="1"
+          strokeWidth="1"
         ></circle>
         <circle cx="254" cy="253" r="71" fill="none"></circle>
         <polyline

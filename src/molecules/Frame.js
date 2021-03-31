@@ -25,15 +25,15 @@ const Frame = ({
           >
             {title}
           </main>
-          <side className="overflow-clip opacity-90 text-xs md:text-base">
+          <aside className="overflow-clip opacity-90 text-xs md:text-base">
             {subtitle}
-          </side>
+          </aside>
         </figcaption>
       </figure>
-      <side className="text-xs md:text-sm opacity-80">
+      <aside className="text-xs md:text-sm opacity-80">
         <Moment format="ddd, Do MMM YYYY">{date}</Moment>
         <p className="text-right">{wordCount} words</p>
-      </side>
+      </aside>
     </InternalLink>
   );
 };

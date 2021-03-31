@@ -9,10 +9,10 @@ const About = ({ data }) => {
   return (
     <DefaultLayout title="The Writer">
       <main
-        className="mt-5 md:w-9/12 mx-auto md:grid md:gap-1 md:gap-2 md:grid-cols-2"
+        className="mt-5 md:w-9/12 mx-auto md:grid md:gap-2 md:grid-cols-2"
         style={{ gridTemplateRows: "auto 1fr" }}
       >
-        <side className="hidden md:block md:mt-5 flex md:items-center md:justify-center">
+        <aside className="md:block md:mt-5 flex md:items-center md:justify-center">
           <figure>
             <img
               className="md:h-216 mx-auto shadow-lg border-1 md:border-2 border-nord-13 rounded-lg"
@@ -26,7 +26,7 @@ const About = ({ data }) => {
               . Sitges, 2019.
             </figcaption>
           </figure>
-        </side>
+        </aside>
         <div className="mt-5 flex items-center text-justify">
           <article
             className={`md:inline md:w-11/12 mx-auto ${defaultEssayStyles.essay}`}
@@ -48,7 +48,9 @@ const About = ({ data }) => {
           </article>
         </div>
       </main>
-      <article className="mt-16 text-justify hyphens-auto md:w-6/12 mx-auto">
+      <article
+        className={` ${defaultEssayStyles.essay} mt-16 text-justify hyphens-auto md:w-6/12 mx-auto `}
+      >
         <MDXRenderer>{data.allMdx.edges[0].node.body}</MDXRenderer>
       </article>
     </DefaultLayout>

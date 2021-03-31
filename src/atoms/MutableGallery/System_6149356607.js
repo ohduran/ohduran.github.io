@@ -22,9 +22,9 @@ const System_6149356607 = ({ className, canvasColor, artColor }) => {
       <rect x="0" y="0" width="700" height="700" fill={canvasColor} />
       <g
         transform="translate(97.85808474321627 122.5) scale(0.65)"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1"
         stroke="#2d3340"
       >
         <circle
@@ -32,20 +32,14 @@ const System_6149356607 = ({ className, canvasColor, artColor }) => {
           cy="514"
           r="41.09452783776078"
           fill="none"
-          stroke-width="1"
+          strokeWidth="1"
         ></circle>
         <circle cx="477" cy="514" r="11" fill={artColor}></circle>
 
-        <circle cx="45" cy="244" r="22.5" fill="none" stroke-width="2"></circle>
+        <circle cx="45" cy="244" r="22.5" fill="none" strokeWidth="2"></circle>
         <circle cx="45" cy="244" r="7" fill="none"></circle>
 
-        <circle
-          cx="372"
-          cy="179"
-          r="89.5"
-          fill="none"
-          stroke-width="1"
-        ></circle>
+        <circle cx="372" cy="179" r="89.5" fill="none" strokeWidth="1"></circle>
         <circle cx="372" cy="179" r="84" fill="none"></circle>
 
         <circle
@@ -53,17 +47,11 @@ const System_6149356607 = ({ className, canvasColor, artColor }) => {
           cy="418"
           r="27.59452783776078"
           fill="none"
-          stroke-width="1"
+          strokeWidth="1"
         ></circle>
         <circle cx="504" cy="418" r="19" fill={artColor}></circle>
 
-        <circle
-          cx="429"
-          cy="119"
-          r="59.5"
-          fill="none"
-          stroke-width="1"
-        ></circle>
+        <circle cx="429" cy="119" r="59.5" fill="none" strokeWidth="1"></circle>
         <circle cx="429" cy="119" r="31" fill={artColor}></circle>
 
         <circle
@@ -71,7 +59,7 @@ const System_6149356607 = ({ className, canvasColor, artColor }) => {
           cy="180"
           r="81.09452783776078"
           fill="none"
-          stroke-width="2"
+          strokeWidth="2"
         ></circle>
         <circle cx="397" cy="180" r="73" fill="none"></circle>
 
@@ -80,17 +68,11 @@ const System_6149356607 = ({ className, canvasColor, artColor }) => {
           cy="309"
           r="25.09452783776078"
           fill="none"
-          stroke-width="2"
+          strokeWidth="2"
         ></circle>
         <circle cx="509" cy="309" r="6" fill="none"></circle>
 
-        <circle
-          cx="229"
-          cy="109"
-          r="54.5"
-          fill="none"
-          stroke-width="2"
-        ></circle>
+        <circle cx="229" cy="109" r="54.5" fill="none" strokeWidth="2"></circle>
         <circle cx="229" cy="109" r="15" fill={artColor}></circle>
         <polyline
           fill="url(#circles)"

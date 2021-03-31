@@ -54,9 +54,9 @@ const Footer = ({ className }) => {
           </p>
         </div>
       </main>
-      <side className="text-nord-4 text-center md:text-left text-sm md:text-base grid grid-cols-5 gap-2 mt-10 pb-5 md:w-11/12 mx-auto">
+      <aside className="text-nord-4 text-center md:text-left text-sm md:text-base grid grid-cols-5 gap-2 mt-10 pb-5 md:w-11/12 mx-auto">
         {FooterLinks.map((item) => (
-          <div className="">
+          <div className="" key={item.to}>
             {item.to[0] === "/" ? (
               <InternalLink
                 className="no-underline font-family-tertiary text-base md:text-lg hover:text-nord-13"
@@ -86,7 +86,7 @@ const Footer = ({ className }) => {
             </p>
           </div>
         ))}
-      </side>
+      </aside>
     </footer>
   );
 };

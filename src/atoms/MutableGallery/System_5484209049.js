@@ -22,12 +22,12 @@ const System_5484209049 = ({ className, canvasColor, artColor }) => {
       <rect x="0" y="0" width="700" height="700" fill={canvasColor} />
       <g
         transform="translate(87.71967154979907 109.8086049103398) scale(0.6862611288276006)"
-        stroke-linecap="round"
-        stroke-linejoin="round"
-        stroke-width="1"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth="1"
         stroke={artColor}
       >
-        <circle cx="237" cy="566" r="67" fill="none" stroke-width="2"></circle>
+        <circle cx="237" cy="566" r="67" fill="none" strokeWidth="2"></circle>
         <circle cx="237" cy="566" r="48" fill={artColor}></circle>
 
         <circle
@@ -35,29 +35,23 @@ const System_5484209049 = ({ className, canvasColor, artColor }) => {
           cy="145"
           r="33.59452783776078"
           fill="none"
-          stroke-width="1"
+          strokeWidth="1"
         ></circle>
         <circle cx="492" cy="145" r="17" fill="none"></circle>
 
-        <circle cx="386" cy="69" r="34.5" fill="none" stroke-width="1"></circle>
+        <circle cx="386" cy="69" r="34.5" fill="none" strokeWidth="1"></circle>
         <circle cx="386" cy="69" r="27" fill="none"></circle>
 
-        <circle
-          cx="266"
-          cy="137"
-          r="68.5"
-          fill="none"
-          stroke-width="1"
-        ></circle>
+        <circle cx="266" cy="137" r="68.5" fill="none" strokeWidth="1"></circle>
         <circle cx="266" cy="137" r="23" fill={artColor}></circle>
 
-        <circle cx="328" cy="654" r="23" fill="none" stroke-width="2"></circle>
+        <circle cx="328" cy="654" r="23" fill="none" strokeWidth="2"></circle>
         <circle cx="328" cy="654" r="0" fill={artColor}></circle>
 
-        <circle cx="230" cy="164" r="82" fill="none" stroke-width="2"></circle>
+        <circle cx="230" cy="164" r="82" fill="none" strokeWidth="2"></circle>
         <circle cx="230" cy="164" r="19" fill={artColor}></circle>
 
-        <circle cx="41" cy="64" r="20.5" fill="none" stroke-width="1"></circle>
+        <circle cx="41" cy="64" r="20.5" fill="none" strokeWidth="1"></circle>
         <circle cx="41" cy="64" r="17" fill={artColor}></circle>
         <polyline
           fill="url(#circles)"
