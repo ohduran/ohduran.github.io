@@ -1,5 +1,5 @@
 import * as React from "react";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { DefaultLayout } from "../layouts";
 import { InternalLink } from "../atoms";

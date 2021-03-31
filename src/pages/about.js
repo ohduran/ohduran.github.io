@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/pages.css";
+import * as defaultEssayStyles from "../styles/defaultEssay.module.css";
 
 import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
@@ -28,7 +28,9 @@ const About = ({ data }) => {
           </figure>
         </side>
         <div className="mt-5 flex items-center text-justify">
-          <article className="md:inline md:w-11/12 mx-auto">
+          <article
+            className={`md:inline md:w-11/12 mx-auto ${defaultEssayStyles.essay}`}
+          >
             <figure className="block md:hidden mb-5 md:mb-0">
               <img
                 className="h-72 mx-auto shadow-lg border-1 border-nord-13"

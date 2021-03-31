@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql } from "gatsby";
-import "../styles/pages.css";
+import * as defaultEssayStyles from "../styles/defaultEssay.module.css";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 
 import Moment from "react-moment";
@@ -37,7 +37,7 @@ const Now = ({ data }) => {
             , too.)
           </h6>
           <br className="my-0 md:my-2" />
-          <article className="w-11/12 mx-auto">
+          <article className={`w-11/12 mx-auto ${defaultEssayStyles.essay}`}>
             <MDXRenderer>{data.mdx.body}</MDXRenderer>
           </article>
           <footer className="text-xs mt-5">

@@ -1,9 +1,8 @@
 import React from "react";
-import "../styles/pages.css";
 import { DefaultLayout } from "../layouts";
 import { InternalLink } from "../atoms";
 
-const Home = ({ data }) => {
+const Home = () => {
   return (
     <DefaultLayout
       title="Home"

@@ -8,39 +8,39 @@
   --size-900: 4.2rem;
 } */
 
-article > a:not([class]) {
+.essay > a:not([class]) {
   color: inherit;
 }
 
-article > h1,
-article > h2,
-article > h3,
-article > h4 {
+.essay > h1,
+.essay > h2,
+.essay > h3,
+.essay > h4 {
   @apply leading-snug;
 }
 
-article > h1,
-article > h2 {
+.essay > h1,
+.essay > h2 {
   @apply font-black;
 }
 
-article > h1 {
+.essay > h1 {
   @apply text-4xl md:text-7xl;
 }
 
-article > h2 {
+.essay > h2 {
   @apply text-3xl md:text-4xl;
 }
 
-article > h3 {
+.essay > h3 {
   @apply text-3xl;
 }
 
-article > p {
+.essay > p {
   @apply md:text-lg;
 }
 
-article > blockquote {
+.essay > blockquote {
   @apply w-screen;
   margin-left: calc(50% - 50vw);
   background-color: #d8dee9;
@@ -49,71 +49,71 @@ article > blockquote {
   background-size: cover;
 }
 
-article > blockquote p {
+.essay > blockquote p {
   @apply mx-auto my-5 py-5 md:my-7 md:py-7 text-xl md:text-3xl text-left italic text-nord-0;
   max-width: 40ch;
 }
 
-article > blockquote p:last-child {
+.essay > blockquote p:last-child {
   @apply mt-0 pt-0;
 }
 
-article > img {
+.essay > img {
   max-width: min(55rem, 100%);
 }
 
-article > figcaption {
+.essay > figcaption {
   @apply text-xs italic mt-4;
 }
 
-article > * + * {
+.essay > * + * {
   margin-top: 1em; /* https://every-layout.dev/layouts/stack/ */
 }
 
-article > p,
-article > li {
+.essay > p,
+.essay > li {
   max-width: 60ch;
 }
 
-article > h1 {
+.essay > h1 {
   max-width: 15ch;
 }
 
-article > h2,
-article > h3 {
+.essay > h2,
+.essay > h3 {
   max-width: 25ch;
 }
 
-article > {
+.essay > {
   --flow-space: 2.5rem;
   @apply mx-auto py-6;
   width: 90vw;
   width: clamp(16rem, 90vw, 70rem);
 }
 
-article > time {
+.essay > time {
   --flow-space: 1rem;
   @apply block;
 }
 
-article > :is(h2, h3) + * {
+.essay > :is(h2, h3) + * {
   --flow-space: 4.2rem;
 }
 
-article > figure,
-article > figure + * {
+.essay > figure,
+.essay > figure + * {
   --flow-space: 4.2rem;
 }
 /* Non-readability stuff */
 
 /* Treat h6 as inline notes */
-article > h6 {
+.essay > h6 {
   @apply md:text-lg italic opacity-70 ml-5 md:ml-10;
   max-width: 55ch;
 }
 
 /* Hyperlink */
-article > p a {
+.essay > p a {
   background: linear-gradient(#ebcb8b, #ebcb8b);
   background-size: 100% 0rem;
   background-repeat: no-repeat;
@@ -121,14 +121,14 @@ article > p a {
   transition: all 0.1s linear 0s;
   border-bottom: solid 1px #ebcb8b;
 }
-article > p > a:hover {
+.essay > p > a:hover {
   background-size: 100% 100%;
   color: #4c566a;
 }
 /* End Hyperlink */
 
 /* Horizontal Line */
-article > hr {
+.essay > hr {
   @apply mx-auto md:ml-0 opacity-20 my-10 md:my-16;
   max-width: 60ch;
 }

@@ -1,8 +1,8 @@
 import React, { useEffect } from "react";
 import { MDXRenderer } from "gatsby-plugin-mdx";
+import * as defaultEssayStyles from "../styles/defaultEssay.module.css";
 
 const Article = ({ className, body }) => {
-  require("../styles/pages.css");
   useEffect(() => {
     const footNotesSection = document.getElementsByClassName("footnotes")[0];
     if (footNotesSection) {
@@ -37,7 +37,11 @@ const Article = ({ className, body }) => {
     }
   }, []);
   return (
-    <article className={`text-justify ${className ? className : ""}`}>
+    <article
+      className={`text-justify ${defaultEssayStyles.essay} ${
+        className ? className : ""
+      }`}
+    >
       <MDXRenderer>{body}</MDXRenderer>
     </article>
   );
