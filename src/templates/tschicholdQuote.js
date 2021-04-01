@@ -4,6 +4,8 @@ import React from "react";
 import { DefaultLayout } from "../layouts";
 import { CommentBox } from "../organisms";
 
+import * as tschischoldStyles from "../styles/tschischold.module.css";
+
 export const query = graphql`
   query tschicholdQuotePostByID($id: String!) {
     mdx(id: { eq: $id }) {
@@ -17,7 +19,6 @@ export const query = graphql`
 `;
 
 const TschischoldQuote = ({ data }) => {
-  require("../styles/tschischold.css");
   const {
     frontmatter: { title, summary },
     body,
@@ -27,7 +28,7 @@ const TschischoldQuote = ({ data }) => {
     <DefaultLayout title={title} description={summary} article={true}>
       <main className="bg-nord-4 px-5 py-10 sm:py-32 md:py-48 shadow-2xl rounded-lg border-8 border-nord-1">
         <div
-          className="tschischold-grid-container max-w-xl grid m-auto text-nord-0 font-family-tertiary gap-1 grid-cols-6 lg:grid-cols-8  md:transform md:-rotate-45 md:w-auto lg:w-screen"
+          className={`max-w-xl grid m-auto text-nord-0 font-family-tertiary gap-1 grid-cols-6 lg:grid-cols-8  md:transform md:-rotate-45 md:w-auto lg:w-screen ${tschischoldStyles.container}`}
           style={{
             maxHeight: "45rem",
           }}

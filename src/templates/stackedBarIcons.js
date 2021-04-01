@@ -3,8 +3,6 @@ import React from "react";
 import { DefaultLayout } from "../layouts";
 import { CommentBox } from "../organisms";
 
-import "../styles/tschischold.css";
-
 export const query = graphql`
   query stackedBarIconsByID($id: String!) {
     mdx(id: { eq: $id }) {

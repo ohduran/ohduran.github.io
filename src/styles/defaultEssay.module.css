@@ -54,6 +54,10 @@
   max-width: 40ch;
 }
 
+.essay > blockquote em {
+  @apply not-italic;
+}
+
 .essay > blockquote p:last-child {
   @apply mt-0 pt-0;
 }
