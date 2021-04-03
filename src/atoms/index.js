@@ -1,3 +1,4 @@
 import * as MutableGallery from "./MutableGallery";
 import InternalLink from "./InternalLink";
-export { MutableGallery, InternalLink };
+import SideQuote from "./SideQuote";
+export { MutableGallery, InternalLink, SideQuote };

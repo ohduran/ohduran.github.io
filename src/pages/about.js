@@ -4,6 +4,7 @@ import * as defaultEssayStyles from "../styles/defaultEssay.module.css";
 import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { DefaultLayout } from "../layouts";
+import { SideQuote } from "../atoms";
 
 const About = ({ data }) => {
   return (
@@ -12,8 +13,8 @@ const About = ({ data }) => {
         className="mt-5 md:w-9/12 mx-auto md:grid md:gap-2 md:grid-cols-2"
         style={{ gridTemplateRows: "auto 1fr" }}
       >
-        <aside className="md:block md:mt-5 flex md:items-center md:justify-center">
-          <figure>
+        <aside className="md:mt-5 flex md:items-center md:justify-center">
+          <figure className="hidden md:block">
             <img
               className="md:h-216 mx-auto shadow-lg border-1 md:border-2 border-nord-13 rounded-lg"
               src="./WriterPic.png"
@@ -28,6 +29,7 @@ const About = ({ data }) => {
           </figure>
         </aside>
         <div className="mt-5 flex items-center text-justify">
+          <SideQuote className="self-start hidden md:block" />
           <article
             className={`md:inline md:w-11/12 mx-auto ${defaultEssayStyles.essay}`}
           >
@@ -46,6 +48,7 @@ const About = ({ data }) => {
             </figure>
             <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
           </article>
+          <SideQuote isEnd={true} className="self-end hidden md:block" />
         </div>
       </main>
       <article

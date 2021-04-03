@@ -1,31 +1,16 @@
 ---
 title: "Art Direction for Gatsby sites"
 date: 2021-03-28T09:33:00
-published: true
+published: false
 summary: "Unnecessary complications in our tools interfere with our thinking process."
 template: artDirectionForGatsbySites
 background: "#663399"
 ---
 
-import { ExternalComment } from "../../molecules";
-
-###### This is going to get very technical very soon. You've been warned.
-
-It all started with this issue on Github:
-
-<ExternalComment
-  href="https://github.com/gatsbyjs/gatsby/issues/3446"
-  username="exrishu"
-  date="Jan 9, 2018"
-  avatarUrl="https://avatars.githubusercontent.com/u/19299841?s=88&u=06cfa126f22aff4cf1e055069636d6752155ce68&v=4"
->
-  Is there is any way we can we can import different CSS file for different
-  pages?
-</ExternalComment>
-
-For the last couple of months I have been chewing away at [Getting Out of Our Ruts](https://www.youtube.com/watch?v=jreccgYLfx8).
-I'm especially mindful of how everything online is [the same](http://www.novolume.co.uk/blog/all-websites-look-the-same/), and this video just confirms that there's people out there
-who have been saying just that for quite a while now.
+For the last couple of months I have been mulling over Jen Simmon's [Getting Out
+of Our Ruts](https://www.youtube.com/watch?v=jreccgYLfx8). I've [noted before](./beyond-minimalism)
+of how everything online is [the same](http://www.novolume.co.uk/blog/all-websites-look-the-same/),
+and her talk just confirms that there's been people out there saying just that for quite a while now.
 
 > It doesn't matter whether you are a prestigious international news organization, or a local newspaper, or a tabloid newspaper,
 > or you're selling clothes, or running a church, or talking about sports, or broadcasting a podcast, or distributing films,
@@ -33,24 +18,44 @@ who have been saying just that for quite a while now.
 >
 > — **Jen Simmons**
 
-You may think that the massive opportunity for **uniqueness** would force a more diverse layout scene. And yet, even with
-a massive theme market, creators _mimic the best sellers_ to make money, adding to the fluff, because you're not going to
+You may think that a huge opportunity for **uniqueness** would force a more diverse layout scene. And yet, even with
+a massive theme market, creators _mimic the best sellers_ to make money, adding to the fluff, because they're not going to
 earn a living by going out on a limb and creating something truly original. Generic wins out every time.
 
-On the other side of the aisle, clients have of course noticed, and are even asking for this rudimentary designs. They see
-lots of sites with that style, and it’s causing them to ask for it. You have to be very brave as a business owner to take
+On the other side of the aisle, clients have of course noticed, and are even asking for these rudimentary designs. They see
+lots of sites with that styles, and it’s causing them to ask for them too. You have to be very brave as a business owner to take
 the risk of looking different. The mouth says "unique" but the wallets shout "just like everyone else".
 
-Someone has even wrapped up this trend into [a framework](http://designmodo.com/startup/), so now you can conform even quicker than ever!
+In an effort to do something different with my site, I've been tinkering away at ways to be less predictable with it, and
+I ended up realising something very interesting: **creating pages with different styles is hard**.
 
-But, see, the problem with the way Gatsby projects (such as this website) are setup is that styling is usually shared across the whole site. Titles
-have this font size, this or that colour, or are underlined/italised, and so on.
+The main problem with the way Gatsby projects (such as this website) are setup is that styling is usually shared across the whole site. Titles
+have this font size, this or that colour, or are underlined/italised, and so on. If you are just testing the waters with Gatsby,
+the tutorial simply [nudges you into having one general CSS file for your whole project](https://www.gatsbyjs.com/docs/tutorial/part-two/).
 
-This is usually very helpful— I don't want to painstakingly define how everything should look like again and again, and I'd rather
-have consistency— but not always. Sometimes, I want a specific part to be specifically styled.
+That in itself isn't bad. I have to remind myself constantly that _what I'm trying to do is a path followed by very few people_.
+Having a global styling file is usually very helpful— most people don't want to painstakingly define how everything should look like
+again and again, and rather have consistency.
 
-If this is going to _truly_ become my artistic [playground](https://colly.com/articles/this-used-to-be-our-playground), then I thought it might be helpful to share some of my crazy ideas
-and slowly but surely sharp my skills as well as set the tone, feel, and artistic style for my projects. But at the same time, I don't want
-these experiments clashing with what I've previously posted[^1].
+By making many decisions for you —beware of the "opinionated frameworks"—, the amount of work needed to overrule those decisions
+increases with every level of abstraction. Since enough people are asking for it, web development frameworks are making it
+extra difficult to do one-off things, dialing up the convenience at the expense of flexibility and variety.
+
+Hence, I decided that if this site is _truly_ going to become my artistic [playground](https://colly.com/articles/this-used-to-be-our-playground),
+then I thought it might be helpful to share some of my crazy ideas, sharp my skills and set the tone, feel, and artistic style for my projects.
+But at the same time, I don't want these experiments clashing with what I've previously posted[^1].
+
+Perhaps I'm alone in this. But in any case, I figure that it could be helpful to document what I found out about tweaking
+Gatsby for my unconventional desire to do away with consistency.
+
+## Templating
+
+## Isolated Styling with CSS Modules
+
+The simplest way to isolate CSS and avoid conflicting styles across your site is [using CSS modules](https://www.gatsbyjs.com/docs/how-to/styling/css-modules/).
+It solves the problem of isolation not by restricting the scope of the styles, but by _making sure that name collision in
+the styling classes never happen_.
 
 [^1]: Nor do I want to check everytime I do something stupid. There are limits on my ability to test, and there is always someone somewhere ready to spot a mistake.
+[^2]: And ballgirls, of course.
+[^3]: "DECOUPLE! DECOUPLE, DAMN YOU!" — Mattias Petter Johansson
