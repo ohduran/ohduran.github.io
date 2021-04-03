@@ -64,7 +64,7 @@
 
 .essay > pre {
   @apply text-xs md:text-base shadow-lg rounded-lg;
-  max-width: 70ch;
+  max-width: 60ch;
 }
 
 .essay > img {

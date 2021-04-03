@@ -11,6 +11,7 @@ export const query = graphql`
       frontmatter {
         title
         summary
+        background
       }
       wordCount {
         words
@@ -21,7 +22,7 @@ export const query = graphql`
 
 const DefaultEssay = ({ data }) => {
   const {
-    frontmatter: { title, summary },
+    frontmatter: { title, summary, background },
     body,
     wordCount,
   } = data.mdx;
@@ -32,6 +33,7 @@ const DefaultEssay = ({ data }) => {
         title={title}
         summary={summary}
         wordCount={wordCount.words}
+        background={background}
       />
       <Article className="mt-5 md:mt-20" body={body} />
       <CommentBox theme="github-dark-orange" />
