@@ -1,7 +1,7 @@
 ---
 title: "Art Direction for Gatsby sites"
 date: 2021-03-28T09:33:00
-published: false
+published: true
 summary: "Unnecessary complications in our tools interfere with our thinking process."
 template: artDirectionForGatsbySites
 background: "#663399"
@@ -50,11 +50,42 @@ Gatsby for my unconventional desire to do away with consistency.
 
 ## Templating
 
+One of the parameters on gatsby-node.js' Gatsby Node [createPages](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#createPages) API
+is `component`, and it's usually filled with a layout component shared across all essays. I wanted to keep that functionality
+by default, but also wanted it to be flexible enough to add more stuff if I wanted to.
+
+So I did the following: I created a frontmatter variable called `template` that would be used by the createPages if it's
+there, like so:
+
+```js
+// you'll call `createPage` for each result
+posts.forEach(({ node }) => {
+  let template = node.frontmatter.template
+    ? node.frontmatter.template
+    : "defaultEssay";
+  let component = `./src/templates/${template}.js`;
+  createPage({
+    // This is the slug you created before
+    // (or `node.frontmatter.slug`)
+    path: node.fields.slug,
+    // This component will wrap our MDX content
+    component: path.resolve(component),
+    // You can use the values in this context in
+    // our page layout component
+    context: { id: node.id },
+  });
+});
+```
+
 ## Isolated Styling with CSS Modules
 
 The simplest way to isolate CSS and avoid conflicting styles across your site is [using CSS modules](https://www.gatsbyjs.com/docs/how-to/styling/css-modules/).
 It solves the problem of isolation not by restricting the scope of the styles, but by _making sure that name collision in
 the styling classes never happen_.
+
+I had mixed feelings about it, since I'm not actually solving the issue, just _papering over the cracks_, but it does the job.
+Now everytime I create a new template, there's often a `.module.css` file associated, and I can tinker as much as I want with
+the end result.
 
 [^1]: Nor do I want to check everytime I do something stupid. There are limits on my ability to test, and there is always someone somewhere ready to spot a mistake.
 [^2]: And ballgirls, of course.

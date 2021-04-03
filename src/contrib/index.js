@@ -1,3 +1,4 @@
 import ArtDirectionHeader from "./ArtDirectionHeader";
+import CodeBlock from "./CodeBlock";
 
-export { ArtDirectionHeader };
+export { ArtDirectionHeader, CodeBlock };

@@ -62,6 +62,11 @@
   @apply mt-0 pt-0;
 }
 
+.essay > pre {
+  @apply text-xs md:text-base shadow-lg rounded-lg;
+  max-width: 70ch;
+}
+
 .essay > img {
   max-width: min(55rem, 100%);
 }

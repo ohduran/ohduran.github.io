@@ -1,5 +1,7 @@
 import React, { useEffect } from "react";
 import { MDXRenderer } from "gatsby-plugin-mdx";
+import { MDXProvider } from "@mdx-js/react";
+import { CodeBlock } from "../contrib";
 import * as defaultEssayStyles from "../styles/defaultEssay.module.css";
 
 const Article = ({ className, body }) => {
@@ -42,7 +44,13 @@ const Article = ({ className, body }) => {
         className ? className : ""
       }`}
     >
-      <MDXRenderer>{body}</MDXRenderer>
+      <MDXProvider
+        components={{
+          pre: CodeBlock,
+        }}
+      >
+        <MDXRenderer>{body}</MDXRenderer>
+      </MDXProvider>
     </article>
   );
 };
