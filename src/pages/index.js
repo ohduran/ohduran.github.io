@@ -13,7 +13,7 @@ const Home = () => {
     >
       <figure className="col-start-2 row-start-1 row-span-2 z-0 flex">
         <img
-          className="opacity-20 h-auto w-auto lg:w-1/2 float-right"
+          className="h-auto w-auto opacity-80 lg:w-1/2 float-right"
           src="./Cascais.jpg"
           alt="Writer"
           style={{
@@ -56,7 +56,7 @@ const Home = () => {
         <span className="col-start-2 row-start-1">Á</span>
         <span className="col-start-3 row-start-1">L</span>
         <span className="col-start-5 row-start-1">V</span>
-        <span className="col-start-3 row-start-2">A</span>
+        <span className="col-start-3 row-start-3">A</span>
         <span className="col-start-4 row-start-2">R</span>
         <span className="col-start-5 row-start-3">O</span>
         <span className="col-start-6 row-start-3">D</span>
