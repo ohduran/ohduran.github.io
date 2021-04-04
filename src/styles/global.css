@@ -245,7 +245,7 @@ h1 {
 
 /* Side Note */
 .sidenote {
-  @apply my-5 text-xs leading-snug text-right w-11/12 mx-auto;
+  @apply my-5 text-xs leading-snug text-right w-11/12 mx-auto list-none border rounded-xl p-2;
 }
 .sidenote > em {
   @apply text-nord-7;
@@ -256,9 +256,13 @@ h1 {
 
 @screen lg {
   .sidenote {
-    @apply relative float-right clear-right w-5/12 text-left text-sm my-0;
+    @apply relative float-right clear-right w-5/12 text-left text-sm my-0 border-none p-0;
     margin-right: -50%;
   }
+}
+
+code {
+  @apply font-family-secondary;
 }
 
 /* End Side Note */

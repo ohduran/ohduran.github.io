@@ -24,7 +24,7 @@ const Article = ({ className, body }) => {
             actualFootNoteIndex +
             " " +
             "</sup>" +
-            footnote.innerText.slice(0, -1) + // remove the ↩ that appears on every footnote
+            footnote.outerHTML + // remove the ↩ that appears on every footnote
             "</div>";
         }
         return null;
@@ -36,11 +36,15 @@ const Article = ({ className, body }) => {
         }
       };
       removeChildren(footNotesSection);
+      const backRefOrderedList = [
+        ...document.getElementsByClassName("footnote-backref"),
+      ];
+      backRefOrderedList.map((item) => item.remove());
     }
   }, []);
   return (
     <article
-      className={`text-justify ${defaultEssayStyles.essay} ${
+      className={`mx-2 text-justify ${defaultEssayStyles.essay} ${
         className ? className : ""
       }`}
     >

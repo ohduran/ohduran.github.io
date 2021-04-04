@@ -41,16 +41,15 @@
 }
 
 .essay > blockquote {
-  @apply w-screen;
-  margin-left: calc(50% - 50vw);
-  background-color: #d8dee9;
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%236799b8' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%23445f92' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%237eb5ce' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%235682a9' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%2371add2' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%235492b8' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%2376a6c7' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%23559ec7' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%236689b1' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%2374aab7' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%236d93bc' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%237bb4c4' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
+  @apply w-11/12 mx-auto sm:mx-0 md:w-6/12 px-5;
+  background-color: #eceff4;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1600 900'%3E%3Cpolygon fill='%23e5e9f0' points='957 450 539 900 1396 900'/%3E%3Cpolygon fill='%2388c0d0' points='957 450 872.9 900 1396 900'/%3E%3Cpolygon fill='%23e6eaf1' points='-60 900 398 662 816 900'/%3E%3Cpolygon fill='%238abfcc' points='337 900 398 662 816 900'/%3E%3Cpolygon fill='%23e8ebf2' points='1203 546 1552 900 876 900'/%3E%3Cpolygon fill='%238bbec8' points='1203 546 1552 900 1162 900'/%3E%3Cpolygon fill='%23e9edf2' points='641 695 886 900 367 900'/%3E%3Cpolygon fill='%238cbec3' points='587 900 641 695 886 900'/%3E%3Cpolygon fill='%23ebeef3' points='1710 900 1401 632 1096 900'/%3E%3Cpolygon fill='%238ebdbf' points='1710 900 1401 632 1365 900'/%3E%3Cpolygon fill='%23eceff4' points='1210 900 971 687 725 900'/%3E%3Cpolygon fill='%238fbcbb' points='943 900 1210 900 971 687'/%3E%3C/svg%3E");
   background-attachment: fixed;
   background-size: cover;
 }
 
 .essay > blockquote p {
-  @apply mx-auto my-5 py-5 md:my-7 md:py-7 text-xl md:text-3xl text-left italic text-nord-0;
+  @apply mx-auto my-5 py-5 md:my-7 md:py-7 text-xl md:text-2xl text-left italic text-nord-0;
   max-width: 40ch;
 }
 

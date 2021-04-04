@@ -30,8 +30,11 @@ const Home = () => {
           .
         </p>
         <p className="mt-4 md:mt-5">
-          I'm a software engineer at EdgeTier, and I'm especially interested in
-          the{" "}
+          I'm a software engineer at{" "}
+          <a className="text-nord-7" href="https://edgetier.com">
+            EdgeTier
+          </a>
+          , and I'm especially interested in the{" "}
           <span className="font-semibold text-nord-13 font-family-secondary">
             uncontrollability
           </span>{" "}

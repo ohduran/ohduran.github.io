@@ -35,13 +35,7 @@ const ArtDirectionForGatsbySitesEssay = ({ data }) => {
       article={true}
       background={background}
     >
-      <DefaultEssayHeader
-        title={title}
-        summary={summary}
-        wordCount={wordCount.words}
-      >
-        <ArtDirectionHeader>{title}</ArtDirectionHeader>
-      </DefaultEssayHeader>
+      <ArtDirectionHeader>{title}</ArtDirectionHeader>
       <Article className="mt-5 md:mt-20" body={body} />
       <CommentBox theme="github-dark-orange" />
     </DefaultLayout>

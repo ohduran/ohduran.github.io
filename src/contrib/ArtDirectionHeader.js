@@ -8,7 +8,7 @@ const ArtDirectionHeader = ({ children }) => {
         url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');
       </style>
       <h1
-        className="text-4xl sm:text-6xl lg:text-9xl text-center"
+        className="text-6xl sm:text-7xl md:text-8xl lg:text-9xl text-right md:text-center mr-2"
         style={{
           fontFamily: "Train One",
         }}

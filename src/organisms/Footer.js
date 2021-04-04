@@ -43,7 +43,7 @@ const Footer = ({ className }) => {
         <div className="p-2 col-start-1 col-span-5 md:col-span-4 row-start-2 row-span-2">
           <p className="text-lg md:text-3xl text-nord-4">
             Let's work{" "}
-            <span className="font-family-secondary font-semibold hover:text-nord-3">
+            <span className="font-family-secondary font-semibold hover:text-nord-6">
               <a
                 href="mailto:alvaro.duran.barata@gmail.com"
                 className="md:mr-5"
@@ -54,7 +54,7 @@ const Footer = ({ className }) => {
           </p>
         </div>
       </main>
-      <aside className="text-nord-4 text-center md:text-left text-sm md:text-base grid grid-cols-5 gap-2 mt-10 pb-5 md:w-11/12 mx-auto">
+      <aside className="text-nord-6 text-center md:text-left text-sm md:text-base grid grid-cols-5 gap-2 mt-10 pb-5 md:w-11/12 mx-auto">
         {FooterLinks.map((item) => (
           <div className="" key={item.to}>
             {item.to[0] === "/" ? (
