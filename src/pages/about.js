@@ -17,7 +17,7 @@ const About = ({ data }) => {
           <figure className="hidden md:block">
             <img
               className="md:h-216 mx-auto shadow-lg border-1 md:border-2 border-nord-13 rounded-lg"
-              src="./WriterPic.png"
+              src="./WriterPic.jpg"
               alt="Writer"
             />
             <figcaption className="mt-3 text-xs md:text-sm text-center">
@@ -36,7 +36,7 @@ const About = ({ data }) => {
             <figure className="block md:hidden mb-5 md:mb-0">
               <img
                 className="h-72 mx-auto shadow-lg border-1 border-nord-13"
-                src="./WriterPic.png"
+                src="./WriterPic.jpg"
                 alt="Writer"
               />
               <figcaption className="mt-3 text-xs text-center">

@@ -14,7 +14,7 @@ const Home = () => {
       <figure className="col-start-2 row-start-1 row-span-2 z-0 flex">
         <img
           className="opacity-20 h-auto w-auto lg:w-1/2 float-right"
-          src="./Cascais.png"
+          src="./Cascais.jpg"
           alt="Writer"
           style={{
             mixBlendMode: "overlay",

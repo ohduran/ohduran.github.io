@@ -4,6 +4,7 @@
   font-family: "OpenSans";
   src: url("../fonts/Open_Sans/OpenSans-Bold.ttf") format("truetype");
   font-weight: bold;
+  font-display: swap;
 }
 
 @font-face {
@@ -11,12 +12,14 @@
   src: url("../fonts/Open_Sans/OpenSans-BoldItalic.ttf") format("truetype");
   font-weight: bold;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "OpenSans";
   src: url("../fonts/Open_Sans/OpenSans-ExtraBold.ttf") format("truetype");
   font-weight: 800;
+  font-display: swap;
 }
 
 @font-face {
@@ -24,18 +27,21 @@
   src: url("../fonts/Open_Sans/OpenSans-ExtraBoldItalic.ttf") format("truetype");
   font-weight: 800;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "OpenSans";
   src: url("../fonts/Open_Sans/OpenSans-Italic.ttf") format("truetype");
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "OpenSans";
   src: url("../fonts/Open_Sans/OpenSans-Light.ttf") format("truetype");
   font-weight: 300;
+  font-display: swap;
 }
 
 @font-face {
@@ -43,17 +49,20 @@
   src: url("../fonts/Open_Sans/OpenSans-LightItalic.ttf") format("truetype");
   font-weight: 300;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "OpenSans";
   src: url("../fonts/Open_Sans/OpenSans-Regular.ttf") format("truetype");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "OpenSans";
   src: url("../fonts/Open_Sans/OpenSans-SemiBold.ttf") format("truetype");
   font-weight: 600;
+  font-display: swap;
 }
 
 @font-face {
@@ -61,6 +70,7 @@
   src: url("../fonts/Open_Sans/OpenSans-SemiBoldItalic.ttf") format("truetype");
   font-weight: 600;
   font-style: italic;
+  font-display: swap;
 }
 
 /* END Open Sans */
@@ -71,6 +81,7 @@
   font-family: "ZillaSlab";
   src: url("../fonts/Zilla_Slab/ZillaSlab-Bold.ttf") format("truetype");
   font-weight: bold;
+  font-display: swap;
 }
 
 @font-face {
@@ -78,18 +89,21 @@
   src: url("../fonts/Zilla_Slab/ZillaSlab-BoldItalic.ttf") format("truetype");
   font-weight: bold;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "ZillaSlab";
   src: url("../fonts/Zilla_Slab/ZillaSlab-Italic.ttf") format("truetype");
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "ZillaSlab";
   src: url("../fonts/Zilla_Slab/ZillaSlab-Light.ttf") format("truetype");
   font-weight: 300;
+  font-display: swap;
 }
 
 @font-face {
@@ -97,16 +111,19 @@
   src: url("../fonts/Zilla_Slab/ZillaSlab-LightItalic.ttf") format("truetype");
   font-weight: 300;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "ZillaSlab";
   src: url("../fonts/Zilla_Slab/ZillaSlab-Regular.ttf") format("truetype");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "ZillaSlab";
   src: url("../fonts/Zilla_Slab/ZillaSlab-SemiBold.ttf") format("truetype");
+  font-display: swap;
   font-weight: 600;
 }
 
@@ -116,6 +133,7 @@
     format("truetype");
   font-weight: 600;
   font-style: italic;
+  font-display: swap;
 }
 
 /* END Zilla Slab */
@@ -126,6 +144,7 @@
   font-family: "Poppins";
   src: url("../fonts/Poppins/Poppins-Bold.ttf") format("truetype");
   font-weight: bold;
+  font-display: swap;
 }
 
 @font-face {
@@ -133,12 +152,14 @@
   src: url("../fonts/Poppins/Poppins-BoldItalic.ttf") format("truetype");
   font-weight: bold;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Poppins";
   src: url("../fonts/Poppins/Poppins-ExtraBold.ttf") format("truetype");
   font-weight: 800;
+  font-display: swap;
 }
 
 @font-face {
@@ -146,18 +167,21 @@
   src: url("../fonts/Poppins/Poppins-ExtraBoldItalic.ttf") format("truetype");
   font-weight: 800;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Poppins";
   src: url("../fonts/Poppins/Poppins-Italic.ttf") format("truetype");
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Poppins";
   src: url("../fonts/Poppins/Poppins-Light.ttf") format("truetype");
   font-weight: 300;
+  font-display: swap;
 }
 
 @font-face {
@@ -165,17 +189,20 @@
   src: url("../fonts/Poppins/Poppins-LightItalic.ttf") format("truetype");
   font-weight: 300;
   font-style: italic;
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Poppins";
   src: url("../fonts/Poppins/Poppins-Regular.ttf") format("truetype");
+  font-display: swap;
 }
 
 @font-face {
   font-family: "Poppins";
   src: url("../fonts/Poppins/Poppins-SemiBold.ttf") format("truetype");
   font-weight: 600;
+  font-display: swap;
 }
 
 @font-face {
@@ -183,6 +210,7 @@
   src: url("../fonts/Poppins/Poppins-SemiBoldItalic.ttf") format("truetype");
   font-weight: 600;
   font-style: italic;
+  font-display: swap;
 }
 
 /* END Poppins */
@@ -211,7 +239,7 @@
 }
 
 .font-family-tertiary {
-  font-family: "ZillaSlab", sans-serif;
+  font-family: "ZillaSlab", serif;
 }
 
 .endless-constellation {
