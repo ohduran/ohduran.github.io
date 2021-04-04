@@ -1,0 +1,93 @@
+---
+title: "Art Direction for Gatsby sites"
+date: 2021-04-04T12:44:00
+published: true
+summary: "Unnecessary complications in our tools interfere with our thinking process."
+template: artDirectionForGatsbySites
+background: "#663399"
+---
+
+I have been mulling over Jen Simmon's [Getting Out of Our Ruts](https://www.youtube.com/watch?v=jreccgYLfx8) for a while.
+I've [noted before](./beyond-minimalism) that it appears to me that everything online is [the same](http://www.novolume.co.uk/blog/all-websites-look-the-same/),
+and her talk just confirms that there's been people out there saying just that for quite a while now. Even with
+a massive theme market, creators _mimic the best sellers_, because they're not going to earn a living by going out on a
+limb and creating something truly original. Generic wins out every time.
+
+Clients have of course noticed, and are even asking for these rudimentary designs. They see lots of sites with those styles,
+and it’s causing them to ask for them too. You have to be very brave as a business owner to risk looking different.
+The mouth says "unique" but the wallets shout "_just like everyone else_".
+
+In an effort to do something different with my site, I've been tinkering away at ways to be less predictable with it, and
+I ended up realising something very interesting: **creating pages with different styles is hard**.
+
+That in itself isn't bad. I have to remind myself constantly that _what I'm trying to do is a path followed by very few people_.
+But by making many decisions for you, frameworks make the work needed to overrule those decisions
+more difficult with every level of abstraction. One-off things become hard to do, because Web development
+frameworks dial up convenience at the expense of flexibility and variety.
+
+If this site is _truly_ going to become my artistic [playground](https://colly.com/articles/this-used-to-be-our-playground),
+then I thought it might be helpful to share some of my crazy ideas, to sharp my skills and set the tone, feel, and artistic style for my projects.
+But at the same time, I don't want these experiments clashing with what I've previously posted.
+
+Perhaps I'm alone in this. But in any case, it could be helpful to document what I found out about tweaking
+Gatsby for my unconventional desire to do away with consistency.
+
+## Templating
+
+One of the parameters on Gatsby Node [createPages](https://www.gatsbyjs.com/docs/reference/config-files/gatsby-node/#createPages) API
+is `component`, and it's usually filled with a layout component shared across all essays. I wanted to keep that functionality
+by default, but also wanted it to be flexible enough to add more stuff if I wanted to.
+
+So I did the following: I created a frontmatter variable called `template`.
+
+```markdown
+---
+title: "Art Direction for Gatsby sites"
+template: artDirectionForGatsbySites
+---
+```
+
+This variable will be used be used by the createPages if it's there, like so:
+
+```js
+// you'll call `createPage` for each result
+posts.forEach(({ node }) => {
+  let template = node.frontmatter.template
+    ? node.frontmatter.template
+    : "defaultEssay";
+  let component = `./src/templates/${template}.js`;
+  createPage({
+    // This is the slug you created before
+    // (or `node.frontmatter.slug`)
+    path: node.fields.slug,
+    // This component will wrap our MDX content
+    component: path.resolve(component),
+    // You can use the values in this context in
+    // our page layout component
+    context: { id: node.id },
+  });
+});
+```
+
+By using this new frontmatter variable, all the old posts kept being generated using the default template (in my case,
+it's stored in `defaultEssay.js`). And this new post is generated using the new `artDirectionForGatsbySites.js`[^1].
+
+## Isolated Styling
+
+The simplest way to isolate CSS and avoid conflicting styles across your site is [using CSS modules](https://www.gatsbyjs.com/docs/how-to/styling/css-modules/).
+It solves the problem of isolation not by restricting the scope of the styles, but by _making sure that name collision in
+the styling classes never happen_.
+
+I had mixed feelings about it, since I'm not actually solving the issue, just _papering over the cracks_, but it does the job.
+Now everytime I create a new template, there's often a `.module.css` file associated, and I can tinker as much as I want with
+the end result.
+
+## Wrapping up
+
+That's all the tricks I have. Hope they are helpful. If you follow this route, by all means, do let me know, and I'll do
+my best to help you. And welcome to the [IndieWeb](https://indieweb.org)!
+
+[^1]:
+    I did a similar thing with the background color, just in case I just wanted to modify that instead of creating a
+    whole new template just for that. It's similar enough to what I just did with templates and won't discuss it here, but if
+    you get stuck, have a look at the source code [here](https://github.com/ohduran/ohduran.github.io/blob/version-8/src/templates/defaultEssay.js).

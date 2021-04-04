@@ -1,34 +1,23 @@
 import React from "react";
-import "../styles/pages.css";
+import * as defaultEssayStyles from "../styles/defaultEssay.module.css";
 
 import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { DefaultLayout } from "../layouts";
+import { SideQuote } from "../atoms";
 
 const About = ({ data }) => {
   return (
     <DefaultLayout title="The Writer">
       <main
-        className="mt-5 mx-auto md:grid md:gap-1 md:gap-2 md:grid-cols-2"
+        className="mt-5 md:w-9/12 mx-auto md:grid md:gap-2 md:grid-cols-2"
         style={{ gridTemplateRows: "auto 1fr" }}
       >
-        <header className="row-start-1 col-span-2">
-          <h1
-            className="
-          font-clearface-bold font-semibold
-          text-lg md:text-xl text-center
-          uppercase
-          "
-          >
-            The Writer
-          </h1>
-          <hr className="mt-1 md:mt-3 mx-auto h-0.5 w-7/12 bg-nord-8" />
-        </header>
-        <side className="hidden md:block md:mt-5 flex md:items-center md:justify-center">
-          <figure>
+        <aside className="md:mt-5 flex md:items-center md:justify-center">
+          <figure className="hidden md:block">
             <img
-              className="md:h-216 mx-auto shadow-lg border-1 md:border-4 border-nord-9"
-              src="./WriterPic.png"
+              className="md:h-216 mx-auto shadow-lg border-1 md:border-2 border-nord-13 rounded-lg"
+              src="./WriterPic.jpg"
               alt="Writer"
             />
             <figcaption className="mt-3 text-xs md:text-sm text-center">
@@ -38,13 +27,16 @@ const About = ({ data }) => {
               . Sitges, 2019.
             </figcaption>
           </figure>
-        </side>
+        </aside>
         <div className="mt-5 flex items-center text-justify">
-          <article className="md:inline md:w-11/12 mx-auto">
+          <SideQuote className="self-start hidden md:block" />
+          <article
+            className={`md:inline md:w-11/12 mx-auto ${defaultEssayStyles.essay}`}
+          >
             <figure className="block md:hidden mb-5 md:mb-0">
               <img
-                className="h-72 mx-auto shadow-lg border-1 border-nord-9"
-                src="./WriterPic.png"
+                className="h-72 mx-auto shadow-lg border-1 border-nord-13"
+                src="./WriterPic.jpg"
                 alt="Writer"
               />
               <figcaption className="mt-3 text-xs text-center">
@@ -55,11 +47,13 @@ const About = ({ data }) => {
               </figcaption>
             </figure>
             <MDXRenderer>{data.allMdx.edges[1].node.body}</MDXRenderer>
-            <h2 className="mt-10 text-right mr-5">Á.</h2>
           </article>
+          <SideQuote isEnd={true} className="self-end hidden md:block" />
         </div>
       </main>
-      <article className="mt-16 text-justify md:w-9/12 mx-auto">
+      <article
+        className={` ${defaultEssayStyles.essay} mt-16 text-justify hyphens-auto md:w-6/12 mx-auto `}
+      >
         <MDXRenderer>{data.allMdx.edges[0].node.body}</MDXRenderer>
       </article>
     </DefaultLayout>

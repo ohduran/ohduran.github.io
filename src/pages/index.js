@@ -1,83 +1,72 @@
 import React from "react";
-import { graphql } from "gatsby";
-import "../styles/pages.css";
-import { MDXRenderer } from "gatsby-plugin-mdx";
+import { DefaultLayout } from "../layouts";
+import { InternalLink } from "../atoms";
 
-import Moment from "react-moment";
-
-import { NavBar, SEO } from "../components";
-
-const Home = ({ data }) => {
+const Home = () => {
   return (
-    <main className="pt-5 md:pt-20 pb-5 container mx-auto">
-      <SEO />
-      <section className="text-center container mx-auto">
+    <DefaultLayout
+      title="Home"
+      className="grid grid-rows-2 container mx-auto"
+      style={{
+        gridTemplateColumns: "1fr 1fr min-content",
+      }}
+    >
+      <figure className="col-start-2 row-start-1 row-span-2 z-0 flex">
         <img
-          className="mx-auto w-36 md:w-48"
-          src="/BeagleOutline.png"
-          alt="Beagle"
+          className="opacity-20 h-auto w-auto lg:w-1/2 float-right"
+          src="./Cascais.jpg"
+          alt="Writer"
+          style={{
+            mixBlendMode: "overlay",
+          }}
         />
-        <h1 className="mx-auto mt-3 md:mt-10 text-2xl md:text-5xl">
-          Álvaro Durán Studio
-        </h1>
-        <p className="mt-3 md:mt-5 text-xs md:text-base">
-          The primary source for my writing.
-          <br />
-          For inquiries please contact{" "}
-          <a id="special-link" href="mailto:alvaro.duran.barata@gmail.com">
-            alvaro.duran.barata@gmail.com
-          </a>
+      </figure>
+      <main className="col-start-3 col-span-1 row-start-1 row-span-2 z-10 self-center justify-self-center w-7/12 lg:w-6/12 mx-auto text-sm md:text-lg">
+        <p className="text-lg md:text-2xl font-semibold">
+          Hi, I'm{" "}
+          <span className="font-family-tertiary text-xl md:text-3xl">
+            Álvaro Durán
+          </span>
           .
         </p>
-      </section>
-      <NavBar className="border-t border-b border-nord-8" />
-      <section
-        className="
-        mt-5 mx-auto
-        pb-1
-        border-b border-nord-8
-      "
-      >
-        <h2 className="text-lg md:text-3xl">Now</h2>
-        <h6 className="text-xs md:text-sm mt-0 md:mt-1">
-          (This is{" "}
-          <a
-            className="text-nord-8 hover:text-nord-10"
-            href="https://nownownow.com/about"
-          >
-            a now page
+        <p className="mt-4 md:mt-5">
+          I'm a software engineer at{" "}
+          <a className="text-nord-7" href="https://edgetier.com">
+            EdgeTier
           </a>
-          , and if you have your own site,{" "}
-          <a
-            className="text-nord-8 hover:text-nord-10"
-            href="https://nownownow.com/about"
-          >
-            you should make one
-          </a>
-          , too.)
-        </h6>
-        <br className="my-0 md:my-2" />
-        <article className="w-11/12 mx-auto">
-          <MDXRenderer>{data.mdx.body}</MDXRenderer>
-        </article>
-        <footer className="text-xs mt-5">
-          Last updated on:{" "}
-          <Moment format="Do MMMM YYYY">{data.mdx.frontmatter.date}</Moment>
-        </footer>
-      </section>
-    </main>
+          , and I'm especially interested in the{" "}
+          <span className="font-semibold text-nord-13 font-family-secondary">
+            uncontrollability
+          </span>{" "}
+          of the infrastructure of the world.
+        </p>
+        <p className="mt-1 md:mt-5">
+          I{" "}
+          <a href="https://www.youtube.com/watch?v=S3ebYJxXBRU">
+            speak at conferences
+          </a>{" "}
+          and <InternalLink to="/essays">write essays</InternalLink>.
+        </p>
+      </main>
+      <div
+        id="box"
+        className="border-2 sm:border-4 md:border-6 lg:border-8 border-solid border-nord-8 z-0 m-1 md:m-12 col-start-1 col-span-2 row-start-1 row-span-2"
+      />
+      <aside className="col-start-1 col-span-2 row-start-1 row-span-2 z-10 w-11/12 mx-auto text-2xl sm:text-3xl md:text-5xl font-family-secondary font-bold grid gap-2 grid-cols-7 grid-rows-6 justify-center items-center">
+        <span className="col-start-2 row-start-1">Á</span>
+        <span className="col-start-3 row-start-1">L</span>
+        <span className="col-start-5 row-start-1">V</span>
+        <span className="col-start-3 row-start-2">A</span>
+        <span className="col-start-4 row-start-2">R</span>
+        <span className="col-start-5 row-start-3">O</span>
+        <span className="col-start-6 row-start-3">D</span>
+        <span className="col-start-1 row-start-4">U</span>
+        <span className="col-start-4 row-start-5">R</span>
+        <span className="col-start-5 row-start-6">Á</span>
+        <span className="col-start-6 row-start-6">N</span>
+      </aside>
+    </DefaultLayout>
   );
 };
 
 export default Home;
-
-export const pageQuery = graphql`
-  {
-    mdx(frontmatter: { title: { eq: "Now" } }) {
-      body
-      frontmatter {
-        date
-      }
-    }
-  }
-`;
