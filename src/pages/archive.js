@@ -3,6 +3,9 @@ import { graphql } from "gatsby";
 import { MDXRenderer } from "gatsby-plugin-mdx";
 import { DefaultLayout } from "../layouts";
 import { InternalLink } from "../atoms";
+import { MDXProvider } from "@mdx-js/react";
+import { CodeBlock } from "../contrib";
+import * as defaultEssayStyles from "../styles/defaultEssay.module.css";
 
 const Archive = ({ data }) => {
   let totalWordCount = 0;
@@ -29,8 +32,16 @@ const Archive = ({ data }) => {
                 </InternalLink>
                 <hr className="mt-1 h-0.5 w-11/12 bg-nord-8" />
               </header>
-              <article className="mt-5 md:mb-16 md:mt-20 md:ml-10 md:w-5/12 text-justify hyphens-auto">
-                <MDXRenderer>{body}</MDXRenderer>
+              <article
+                className={`mx-2 text-justify ${defaultEssayStyles.essay} mt-5 md:mb-16 md:mt-20 md:ml-10 md:w-5/12 text-justify hyphens-auto`}
+              >
+                <MDXProvider
+                  components={{
+                    pre: CodeBlock,
+                  }}
+                >
+                  <MDXRenderer>{body}</MDXRenderer>
+                </MDXProvider>
               </article>
             </li>
           ))}
