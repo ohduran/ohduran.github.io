@@ -10,34 +10,8 @@ const Now = ({ data }) => {
   return (
     <DefaultLayout title="Now">
       <main className="container mx-auto">
-        <section
-          className="
-        mt-10 mx-auto
-        md:w-9/12
-      "
-        >
-          <h2 className="text-lg md:text-3xl font-semibold font-family-secondary">
-            Now
-          </h2>
-          <h6 className="text-xs md:text-sm mt-0 md:mt-1">
-            (This is{" "}
-            <a
-              className="text-nord-8 hover:text-nord-10"
-              href="https://nownownow.com/about"
-            >
-              a now page
-            </a>
-            , and if you have your own site,{" "}
-            <a
-              className="text-nord-8 hover:text-nord-10"
-              href="https://nownownow.com/about"
-            >
-              you should make one
-            </a>
-            , too.)
-          </h6>
-          <br className="my-0 md:my-2" />
-          <article className={`w-11/12 mx-auto ${defaultEssayStyles.essay}`}>
+        <section className="mt-10">
+          <article className={`${defaultEssayStyles.essay}`}>
             <MDXRenderer>{data.mdx.body}</MDXRenderer>
           </article>
           <footer className="text-xs mt-5">
