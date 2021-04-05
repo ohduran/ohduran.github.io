@@ -4,22 +4,22 @@ import theme from "prism-react-renderer/themes/synthwave84";
 
 // See https://codetrain.io/adding-prism-syntax-highlighting-to-gatsby-mdx for more
 
-const themes = [
-  "dracula",
-  "duotoneDark",
-  "duotoneLight",
-  "github",
-  "nightOwl",
-  "nightOwlLight",
-  "oceanicNext",
-  "okaidia",
-  "palenight",
-  "shadesOfPurple",
-  "synthwave84",
-  "ultramin",
-  "vsDark",
-  "vsLight",
-];
+// const themes = [
+//   "dracula",
+//   "duotoneDark",
+//   "duotoneLight",
+//   "github",
+//   "nightOwl",
+//   "nightOwlLight",
+//   "oceanicNext",
+//   "okaidia",
+//   "palenight",
+//   "shadesOfPurple",
+//   "synthwave84",
+//   "ultramin",
+//   "vsDark",
+//   "vsLight",
+// ];
 
 const CodeBlock = (props) => {
   const className = props.children.props.className || "";

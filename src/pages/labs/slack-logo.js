@@ -3,7 +3,12 @@ import LabLayout from "../../layouts/LabLayout";
 
 const SlackLogo = () => {
   return (
-    <LabLayout background="#F472B6">
+    <LabLayout
+      background="#611f69"
+      title="Slack Logo Experiment"
+      description="Sparking further outrage by copying a logo. I just used a CSS Grid layout with some predefined Tailwind Colors and I rolled with it."
+      article={true}
+    >
       <main className="min-h-screen flex items-center justify-center">
         <div className="bg-white h-64 w-64 rounded-full shadow-2xl p-10">
           <div className="grid gap-2  grid-cols-4 grid-rows-4 w-full h-full">
