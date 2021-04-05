@@ -1,7 +1,7 @@
 import React from "react";
 import LabLayout from "../../layouts/LabLayout";
 
-const SlackLogo = () => {
+const UnorderedName = () => {
   return (
     <LabLayout
       background="#611f69"
@@ -34,4 +34,4 @@ const SlackLogo = () => {
   );
 };
 
-export default SlackLogo;
+export default UnorderedName;
