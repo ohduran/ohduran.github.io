@@ -49,4 +49,19 @@ const LabsItems = [
     to: "tschischold",
     description: "An experiment on responsive Bauhaus layout.",
   },
+  {
+    title: "CSS Explorations: Initial-Letter",
+    to: "tschischold",
+    description: "Exploring how can I use ::first-letter and initial-letter.",
+  },
+  {
+    title: "CSS Explorations: Viewports",
+    to: "viewports",
+    description: "Exploring how can I use viewports and 'The Fold'.",
+  },
+  {
+    title: "CSS Explorations: Object-fit",
+    to: "object-fit",
+    description: "Fixing image size without ruining it",
+  },
 ];

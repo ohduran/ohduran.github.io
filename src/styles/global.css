@@ -289,11 +289,19 @@ h1 {
   }
 }
 
+/* End Side Note */
+
+@supports (initial-letter: 4) or (-webkit-initial-letter: 4) {
+  .big-initial-first-letter::first-letter {
+    @apply mr-2 text-yellow-400 font-semibold bg-gray-900;
+    initial-letter: 4;
+    -webkit-initial-letter: 4;
+  }
+}
+
 code {
   @apply font-family-secondary;
 }
-
-/* End Side Note */
 
 @tailwind utilities;
 
