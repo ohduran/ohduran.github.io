@@ -60,6 +60,11 @@ const LabsItems = [
     description: "Exploring how can I use viewports and 'The Fold'.",
   },
   {
+    title: "CSS Explorations: Multi-column",
+    to: "multi-columns",
+    description: "Exploring how can I use multiple columns.",
+  },
+  {
     title: "CSS Explorations: Object-fit",
     to: "object-fit",
     description: "Fixing image size without ruining it",
