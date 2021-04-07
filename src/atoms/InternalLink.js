@@ -1,5 +1,8 @@
 import React from "react";
 import AniLink from "gatsby-plugin-transition-link/AniLink";
+import useSound from "use-sound";
+
+import defaultClickSounds from "../../sounds/click.wav";
 
 const defaultActiveStyle = {
   borderBottomWidth: "1px",
@@ -7,11 +10,23 @@ const defaultActiveStyle = {
   borderColor: "#ebcb8b",
 };
 
-const InternalLink = ({ className, children, to, activeStyle, direction }) => {
+const InternalLink = ({
+  className,
+  children,
+  to,
+  activeStyle,
+  direction,
+  clickSound,
+}) => {
   const availableDirections = ["left", "right", "up", "down"];
+  const [play] = useSound(clickSound ? clickSound : defaultClickSounds, {
+    volume: 0.2,
+  });
+
   return (
     <AniLink
       cover
+      onClick={play}
       duration={2}
       direction={
         direction
