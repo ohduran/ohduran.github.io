@@ -1,5 +1,4 @@
 import React from "react";
-import faker from "faker";
 import { Link } from "gatsby";
 
 import { SEO } from "../organisms";

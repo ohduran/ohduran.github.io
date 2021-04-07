@@ -11,7 +11,7 @@ const Home = () => {
         gridTemplateColumns: "1fr 1fr min-content",
       }}
     >
-      <figure className="col-start-2 row-start-1 row-span-2 z-0 flex">
+      <figure className="col-start-1 sm:col-start-2 row-start-1 row-span-2 self-center  z-0 flex">
         <img
           className="h-auto w-auto opacity-80 lg:w-1/2 float-right"
           src="./Cascais.jpg"
@@ -21,10 +21,10 @@ const Home = () => {
           }}
         />
       </figure>
-      <main className="col-start-3 col-span-1 row-start-1 row-span-2 z-10 self-center justify-self-center w-7/12 lg:w-6/12 mx-auto text-sm md:text-lg">
-        <p className="text-lg md:text-2xl font-semibold">
+      <main className="col-start-3 col-span-1 row-start-1 row-span-2 z-10 self-center justify-self-center w-7/12 lg:w-6/12 mx-auto text-sm sm:text-base md:text-lg">
+        <p className="text-lg sm:text-xl md:text-2xl font-semibold">
           Hi, I'm{" "}
-          <span className="font-family-tertiary text-xl md:text-3xl">
+          <span className="font-family-tertiary text-xl sm:text-2xl md:text-3xl">
             Álvaro Durán
           </span>
           .
