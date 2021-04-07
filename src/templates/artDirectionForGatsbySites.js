@@ -3,7 +3,7 @@ import React from "react";
 import { ArtDirectionHeader } from "../contrib";
 
 import { DefaultLayout } from "../layouts";
-import { Article, CommentBox, DefaultEssayHeader } from "../organisms";
+import { Article, CommentBox } from "../organisms";
 
 export const query = graphql`
   query artDirectionForGatsbySites($id: String!) {
@@ -25,7 +25,6 @@ const ArtDirectionForGatsbySitesEssay = ({ data }) => {
   const {
     frontmatter: { title, summary, background },
     body,
-    wordCount,
   } = data.mdx;
 
   return (

@@ -1,20 +1,17 @@
 import React from "react";
-import faker from "faker";
 import { Link } from "gatsby";
 
 import { SEO } from "../organisms";
 
+const errorMessages = [
+  "1080P_MULTI_BYTE_ONLINE_RSS",
+  "1080P_REDUNDANT_MOBILE_XSS",
+  "SOLID_STATE_PRIMARY_REDUNDANT_COM",
+  "BLUETOOTH_DIGITAL_XML",
+];
+
 const NotFound = () => {
-  let errorMessage = `${faker.hacker
-    .adjective()
-    .toUpperCase()
-    .replace("-", "_")}_${faker.hacker
-    .adjective()
-    .toUpperCase()
-    .replace("-", "_")}_${faker.hacker
-    .adjective()
-    .toUpperCase()
-    .replace("-", "_")}_${faker.hacker.abbreviation()}`;
+  let errorMessage = errorMessages[(errorMessages.length * Math.random()) << 0];
 
   return (
     <div className="bg-nord-10 text-nord-4 w-screen h-screen m-auto flex justify-center items-center">

@@ -36,6 +36,10 @@
   @apply text-3xl;
 }
 
+.essay > p > figure > figcaption {
+  @apply text-xs md:text-sm text-center mt-1 opacity-60;
+}
+
 .essay > p {
   @apply md:text-lg;
 }

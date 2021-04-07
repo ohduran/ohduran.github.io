@@ -15,7 +15,7 @@ const DefaultLayout = ({
 }) => {
   return (
     <main
-      className=""
+      className="endless-constellation text-nord-6 font-family-primary;"
       style={{
         background: `${background ? background : ""}`,
         color: `${textColor ? textColor : ""}`,

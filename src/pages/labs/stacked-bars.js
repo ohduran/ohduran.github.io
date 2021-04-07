@@ -1,27 +1,16 @@
-import { graphql } from "gatsby";
 import React from "react";
-import { DefaultLayout } from "../layouts";
-import { CommentBox } from "../organisms";
+import LabLayout from "../../layouts/LabLayout";
 
-export const query = graphql`
-  query stackedBarIconsByID($id: String!) {
-    mdx(id: { eq: $id }) {
-      frontmatter {
-        title
-        summary
-      }
-    }
-  }
-`;
-
-const TschischoldQuote = ({ data }) => {
-  const {
-    frontmatter: { title, summary },
-  } = data.mdx;
-
+const StackedBars = () => {
   return (
-    <DefaultLayout title={title} description={summary} article={true}>
-      <main className="bg-gray-900 px-2 py-20 sm:py-32 md:py-48 shadow-2xl rounded-lg border-8 border-nord-1">
+    <LabLayout
+      background="rgb(17, 24, 39)"
+      title="Stacked Bars"
+      description="Mozilla discontinued the 'Developer Outreach' logo, but I liked it very much and decided to reimplement it.
+      It used to be the cover for the Labs section of my site."
+      article={true}
+    >
+      <main className="min-h-screen flex items-center justify-center">
         <div
           className="grid h-48 sm:h-52 md:h-64 lg:h-96 w-full mx-auto"
           style={{
@@ -46,10 +35,10 @@ const TschischoldQuote = ({ data }) => {
             id="opacity-teal-dark"
             className="bg-teal-700 col-start-9 row-start-5 z-0"
           />
-          <b className="bg-orange-400 col-start-15 col-span-4 row-start-5 z-0" />
+          <b className="bg-yellow-500 col-start-15 col-span-4 row-start-5 z-0" />
           <b
             id="opacity-orange"
-            className="bg-orange-600 col-start-19 row-start-5 z-0"
+            className="bg-yellow-700 col-start-19 row-start-5 z-0"
           />
           <b className="bg-pink-500 col-start-5 col-span-13 row-start-6 z-0" />
           <b
@@ -67,9 +56,8 @@ const TschischoldQuote = ({ data }) => {
           </span>
         </div>
       </main>
-      <CommentBox theme="github-dark-orange" />
-    </DefaultLayout>
+    </LabLayout>
   );
 };
 
-export default TschischoldQuote;
+export default StackedBars;
