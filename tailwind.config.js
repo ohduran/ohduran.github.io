@@ -53,7 +53,7 @@ module.exports = {
       },
       height: {
         72: "18rem",
-        144: "36 rem",
+        144: "36rem",
         216: "54rem",
       },
       gridColumnStart: {
@@ -79,6 +79,12 @@ module.exports = {
       },
       gridRowStart: {
         8: "8",
+      },
+      rotate: {
+        "-30": "-30deg",
+      },
+      fontSize: {
+        "10xl": "12rem",
       },
     },
   },

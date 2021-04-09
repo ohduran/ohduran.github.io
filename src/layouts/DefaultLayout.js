@@ -26,7 +26,7 @@ const DefaultLayout = ({
         <header className="pt-5 md:pt-20 mb-10 md:mb-20 text-center container mx-auto">
           <InternalLink className="outline-none" to="/">
             <Penguin className="mx-auto h-auto w-20 md:w-48" />
-            <h1 className="mt-5 md:mt-10 mx-auto text-3xl md:text-5xl">
+            <h1 className="mt-5 md:mt-10 mx-auto text-3xl md:text-5xl font-extrabold font-family-secondary">
               ÁD Studio
             </h1>
           </InternalLink>

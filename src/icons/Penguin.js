@@ -1,6 +1,11 @@
 import React from "react";
 
-const Penguin = ({ className }) => {
+const Penguin = ({
+  className,
+  primaryColor,
+  secondaryColor,
+  tertiaryColor,
+}) => {
   return (
     <svg
       className={className}
@@ -23,9 +28,21 @@ const Penguin = ({ className }) => {
             y2="16"
             gradientUnits="userSpaceOnUse"
           >
-            <stop stopOpacity="1" stopColor="#eceff4" offset="0" />
-            <stop stopOpacity="1" stopColor="#88c0d0" offset="0.5" />
-            <stop stopOpacity="1" stopColor="#ebcb8b" offset="1" />
+            <stop
+              stopOpacity="1"
+              stopColor={tertiaryColor ? tertiaryColor : "#eceff4"}
+              offset="0"
+            />
+            <stop
+              stopOpacity="1"
+              stopColor={secondaryColor ? secondaryColor : "#88c0d0"}
+              offset="0.5"
+            />
+            <stop
+              stopOpacity="1"
+              stopColor={primaryColor ? primaryColor : "#ebcb8b"}
+              offset="1"
+            />
           </linearGradient>
         </defs>
         <path

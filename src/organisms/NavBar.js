@@ -30,13 +30,13 @@ const NavBar = ({ className }) => {
             borderColor: "#ebcb8b",
           }}
         >
-          <LocationMarker className="h-6 md:h-8 text-nord-6 outline-none transition duration-500 ease-in-out transform hover:text-nord-13" />
+          <LocationMarker className="h-6 md:h-8 outline-none transition duration-500 ease-in-out transform hover:text-nord-13" />
         </InternalLink>
         <a href="mailto:alvaro.duran.barata@gmail.com" className="md:mr-5">
-          <Mail className="h-6 md:h-8 text-nord-6 outline-none transition duration-500 ease-in-out transform hover:text-nord-13" />
+          <Mail className="h-6 md:h-8 outline-none transition duration-500 ease-in-out transform hover:text-nord-13" />
         </a>
         <Link to="/rss.xml">
-          <RSS className="h-6 md:h-8 text-nord-6 outline-none transition duration-500 ease-in-out transform hover:text-nord-13" />
+          <RSS className="h-6 md:h-8 outline-none transition duration-500 ease-in-out transform hover:text-nord-13" />
         </Link>
       </div>
     </nav>
