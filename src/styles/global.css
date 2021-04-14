@@ -215,6 +215,12 @@
 
 /* END Poppins */
 
+@font-face {
+  font-family: "Hastron";
+  src: url("../fonts/Hastron/Hastron\ FREE.ttf") format("truetype");
+  font-display: swap;
+}
+
 @tailwind base;
 @tailwind components;
 
@@ -265,10 +271,6 @@
 
 body {
   @apply font-family-primary;
-}
-
-h1 {
-  @apply font-family-secondary font-extrabold;
 }
 
 /* Side Note */

@@ -57,7 +57,7 @@ const Footer = ({ className }) => {
             </p>
           </div>
         </main>
-        <aside className="text-nord-6 text-center md:text-left text-sm md:text-base grid grid-cols-5 gap-2 mt-10 pb-5 md:w-11/12 mx-auto">
+        <aside className="text-nord-6 text-center md:text-left text-sm md:text-base grid sm:grid-cols-5 gap-2 mt-10 pb-5 md:w-11/12 mx-auto">
           {FooterLinks.map((item) => (
             <div className="" key={item.to}>
               {item.to[0] === "/" ? (

@@ -16,7 +16,9 @@ const Archive = ({ data }) => {
     <DefaultLayout title="Archive">
       <main className="mt-6 md:mt-12">
         <div className="text-center  font-normal">
-          <h1 className="text-5xl">Archive</h1>
+          <h1 className="text-5xl font-extrabold font-family-secondary">
+            Archive
+          </h1>
           <h2 className="mt-3 text-lg">
             <span>{totalWordCount}</span> words and counting
           </h2>
