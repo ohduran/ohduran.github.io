@@ -32,7 +32,9 @@ export const query = graphql`
   query ESSAYS_QUERY {
     allMdx(
       sort: { fields: [frontmatter___date], order: DESC }
-      filter: { frontmatter: { published: { eq: true } } }
+      filter: {
+        frontmatter: { published: { eq: true }, seriesName: { eq: null } }
+      }
     ) {
       nodes {
         id
