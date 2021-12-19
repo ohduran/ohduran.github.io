@@ -16,7 +16,7 @@ const Frame = ({
       to={to}
       className={`flex justify-between items-center ${className}`}
     >
-      <figure className="flex items-center w-full md:w-10/12">
+      <figure className="flex items-center w-full">
         {children}
         <figcaption className="ml-1 md:ml-5 w-10/12">
           <main
@@ -31,8 +31,8 @@ const Frame = ({
         </figcaption>
       </figure>
       <aside className="text-xs md:text-sm opacity-80">
-        <Moment format="ddd, Do MMM YYYY">{date}</Moment>
-        <p className="text-right">{wordCount} words</p>
+        {/* <Moment format="ddd, Do MMM YYYY">{date}</Moment>
+        <p className="text-right">{wordCount} words</p> */}
       </aside>
     </InternalLink>
   );
