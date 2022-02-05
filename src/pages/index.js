@@ -30,7 +30,7 @@ const Home = () => {
           .
         </p>
         <p className="mt-4 md:mt-5">
-          I'm the Technical Lead at{" "}
+          I'm the Technology Lead at{" "}
           <a className="text-nord-15" href="https://octans.finance">
             Octans
           </a>
