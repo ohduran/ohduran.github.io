@@ -3,10 +3,17 @@ name: Build Gatsby Site
 jobs:
   build:
     name: Build Gatsby Site
-    runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@master
-    - name: Build Gatsby Site
-      uses: jzweifel/gatsby-cli-github-action@master
-      with:
-        gatsby-arg: build
+      - uses: actions/checkout@v1
+
+      - name: Set Node.js
+        uses: actions/setup-node@master
+        with:
+          node-version: 14.x
+
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Test Gatsby build
+        run: gatsby build
