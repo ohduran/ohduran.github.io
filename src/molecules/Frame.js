@@ -1,6 +1,5 @@
 import React from "react";
 import { InternalLink } from "../atoms";
-import Moment from "react-moment";
 
 const Frame = ({
   className,
