@@ -221,6 +221,16 @@
   font-display: swap;
 }
 
+/* Hieroglyphs */
+
+@font-face {
+  font-family: "NotoSansEgyptianHieroglyphs";
+  src: url("../fonts/NotoSansEgyptianHieroglyphs/NotoSansEgyptianHieroglyphs-Regular.ttf") format("truetype");
+  font-display: swap;
+}
+
+/* END Hieroglyphs */
+
 @tailwind base;
 @tailwind components;
 
@@ -246,6 +256,10 @@
 
 .font-family-tertiary {
   font-family: "ZillaSlab", serif;
+}
+
+.font-family-hieroglyphs {
+  font-family: "NotoSansEgyptianHieroglyphs", serif;
 }
 
 .endless-constellation {
