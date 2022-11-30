@@ -30,9 +30,9 @@ const Home = () => {
           .
         </p>
         <p className="mt-4 md:mt-5">
-          I'm the Technology Lead at{" "}
-          <a className="text-nord-15" href="https://octans.finance">
-            Octans
+          I'm a Senior Software Engineer at{" "}
+          <a style={{ color: "#0f85fb"}} href="https://www.vestoapp.com/">
+            Vesto
           </a>
           , and I'm especially interested in the{" "}
           <span className="font-semibold text-nord-13 font-family-secondary">
