@@ -31,7 +31,7 @@ const Home = () => {
         </p>
         <p className="mt-4 md:mt-5">
           I'm a Senior Software Engineer at{" "}
-          <a style={{ color: "#00a881" }} href="https://www.kiwi.com/">
+          <a className="font-bold" style={{ color: "#00A58E" }} href="https://www.kiwi.com/">
             Kiwi.com
           </a>
           , and I'm especially interested in the{" "}
