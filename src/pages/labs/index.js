@@ -31,7 +31,7 @@ export default Labs;
 const LabsItems = [
   {
     title: "Unordered Name",
-    to: "tschischold",
+    to: "unordered-name",
     description: "Can we read names when letters aren't together?",
   },
   {
@@ -51,7 +51,7 @@ const LabsItems = [
   },
   {
     title: "CSS Explorations: Initial-Letter",
-    to: "tschischold",
+    to: "initial-letter",
     description: "Exploring how can I use ::first-letter and initial-letter.",
   },
   {
