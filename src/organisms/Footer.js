@@ -3,10 +3,6 @@ import { InternalLink } from "../atoms";
 
 const FooterLinks = [
   {
-    to: "/now",
-    description: "What I'm up to",
-  },
-  {
     to: "/labs",
     description: "Prototypes and experiments",
   },

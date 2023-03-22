@@ -23,15 +23,6 @@ const NavBar = ({ className }) => {
       </InternalLink>
 
       <div className="flex justify-around md:justify-end items-start">
-        <InternalLink
-          to="/now"
-          className="md:mr-5 text-base md:text-lg hover:text-nord-13"
-          activeStyle={{
-            borderColor: "#ebcb8b",
-          }}
-        >
-          <LocationMarker className="h-6 md:h-8 outline-none transition duration-500 ease-in-out transform hover:text-nord-13" />
-        </InternalLink>
         <a href="mailto:alvaro.duran.barata@gmail.com" className="md:mr-5">
           <Mail className="h-6 md:h-8 outline-none transition duration-500 ease-in-out transform hover:text-nord-13" />
         </a>

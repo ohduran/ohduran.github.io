@@ -7,11 +7,11 @@ This free font only has a license "PERSONAL USE" only , if you want to use it fo
 
 —
 
-now we have the best offer - Massive Collection Fonts Bundle is here with an incredible selection of 250+ fonts 
+now we have the best offer - Massive Collection Fonts Bundle is here with an incredible selection of 250+ fonts
 
 —
 
-This font and All of our best fonts with "FULL GLYPHS/FEATURE" dan including this font . This bundle includes premium fonts and is valued at a staggering $2568. But you can get it now for only $9 
+This font and All of our best fonts with "FULL GLYPHS/FEATURE" dan including this font . This bundle includes premium fonts and is valued at a staggering $2568. But you can get it now for only $9
 
 —
 
@@ -24,7 +24,7 @@ This font is included in the bundle
 
 —
 
-if you want to ask something or ask for a extended license about this font, 
+if you want to ask something or ask for a extended license about this font,
 you can contact us via email : Vunira.project@gmail.com
 
 
